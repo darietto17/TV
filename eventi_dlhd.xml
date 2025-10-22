@@ -1,28 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieCJuventusIIvsCampobasso">
-    <display-name>Italy - Serie C : Juventus II vs Campobasso</display-name>
-  </channel>
-  <programme start="20251022000000 +0200" stop="20251022143000 +0200" channel="ItalySerieCJuventusIIvsCampobasso">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">Italy - Serie C : Juventus II vs Campobasso.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251022143000 +0200" stop="20251022163000 +0200" channel="ItalySerieCJuventusIIvsCampobasso">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Juventus II vs Campobasso</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20251022000000 +0200" stop="20251022143000 +0200" channel="ItalySerieCJuventusIIvsCampobasso">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">Italy - Serie C : Juventus II vs Campobasso.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251022143000 +0200" stop="20251022163000 +0200" channel="ItalySerieCJuventusIIvsCampobasso">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Juventus II vs Campobasso</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="EuropeUEFAChampionsLeagueAthleticClubvsQaraba">
     <display-name>Europe - UEFA Champions League : Athletic Club vs Qarabağ</display-name>
   </channel>
@@ -143,19 +120,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Europe - UEFA Champions League : Monaco vs Tottenham Hotspur</desc>
     <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="BaselATPViennaATPampGuangzhouWTAEarlyRounds">
-    <display-name>Basel-ATP, Vienna-ATP &amp; Guangzhou-WTA Early Rounds</display-name>
-  </channel>
-  <programme start="20251022000000 +0200" stop="20251022150000 +0200" channel="BaselATPViennaATPampGuangzhouWTAEarlyRounds">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">Basel-ATP, Vienna-ATP &amp; Guangzhou-WTA Early Rounds.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251022150000 +0200" stop="20251022170000 +0200" channel="BaselATPViennaATPampGuangzhouWTAEarlyRounds">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Basel-ATP, Vienna-ATP &amp; Guangzhou-WTA Early Rounds</desc>
-    <category lang="it">Tennis</category>
   </programme>
   <channel id="NorthernIrelandOpenRound2">
     <display-name>Northern Ireland Open | Round 2</display-name>
