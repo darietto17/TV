@@ -167,19 +167,6 @@
     <desc lang="it">Europe - UEFA Europa League : Nottingham Forest vs Porto</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="BaselATPViennaATPTokyoWTAampGuangzhouWTAEarlyRounds">
-    <display-name>Basel-ATP, Vienna-ATP, Tokyo-WTA &amp; Guangzhou-WTA Early Rounds</display-name>
-  </channel>
-  <programme start="20251023000000 +0200" stop="20251023113000 +0200" channel="BaselATPViennaATPTokyoWTAampGuangzhouWTAEarlyRounds">
-    <title lang="it">Inizia alle 11:30.</title>
-    <desc lang="it">Basel-ATP, Vienna-ATP, Tokyo-WTA &amp; Guangzhou-WTA Early Rounds.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251023113000 +0200" stop="20251023133000 +0200" channel="BaselATPViennaATPTokyoWTAampGuangzhouWTAEarlyRounds">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Basel-ATP, Vienna-ATP, Tokyo-WTA &amp; Guangzhou-WTA Early Rounds</desc>
-    <category lang="it">Tennis</category>
-  </programme>
   <channel id="NorthernIrelandOpenRound3">
     <display-name>Northern Ireland Open | Round 3</display-name>
   </channel>
@@ -202,19 +189,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Northern Ireland Open | Round 3</desc>
     <category lang="it">Snooker</category>
-  </programme>
-  <channel id="TourdeFranceRoutePresentation2026">
-    <display-name>Tour de France | Route Presentation 2026</display-name>
-  </channel>
-  <programme start="20251023000000 +0200" stop="20251023110000 +0200" channel="TourdeFranceRoutePresentation2026">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">Tour de France | Route Presentation 2026.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251023110000 +0200" stop="20251023130000 +0200" channel="TourdeFranceRoutePresentation2026">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour de France | Route Presentation 2026</desc>
-    <category lang="it">Cycling</category>
   </programme>
   <channel id="2025WorldCupWestmontStage2Part2">
     <display-name>2025 World Cup - Westmont: Stage 2 (Part 2)</display-name>
