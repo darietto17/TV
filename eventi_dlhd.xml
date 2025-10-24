@@ -1,3 +1,324 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="WomensFriendlyItalyvsJapan">
+    <display-name>Women's Friendly : Italy vs Japan</display-name>
+  </channel>
+  <programme start="20251024000000 +0200" stop="20251024181500 +0200" channel="WomensFriendlyItalyvsJapan">
+    <title lang="it">Inizia alle 18:15.</title>
+    <desc lang="it">Women's Friendly : Italy vs Japan.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251024181500 +0200" stop="20251024201500 +0200" channel="WomensFriendlyItalyvsJapan">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Women's Friendly : Italy vs Japan</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="ItalySerieBModenavsEmpoli">
+    <display-name>Italy - Serie B : Modena vs Empoli</display-name>
+  </channel>
+  <programme start="20251024000000 +0200" stop="20251024203000 +0200" channel="ItalySerieBModenavsEmpoli">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">Italy - Serie B : Modena vs Empoli.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251024203000 +0200" stop="20251024223000 +0200" channel="ItalySerieBModenavsEmpoli">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie B : Modena vs Empoli</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="ItalySerieCNovaravsVirtusVerona">
+    <display-name>Italy - Serie C : Novara vs Virtus Verona</display-name>
+  </channel>
+  <programme start="20251024000000 +0200" stop="20251024203000 +0200" channel="ItalySerieCNovaravsVirtusVerona">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">Italy - Serie C : Novara vs Virtus Verona.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251024203000 +0200" stop="20251024223000 +0200" channel="ItalySerieCNovaravsVirtusVerona">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Novara vs Virtus Verona</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="ItalySerieCFoggiavsTeamAltamura">
+    <display-name>Italy - Serie C : Foggia vs Team Altamura</display-name>
+  </channel>
+  <programme start="20251024000000 +0200" stop="20251024203000 +0200" channel="ItalySerieCFoggiavsTeamAltamura">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">Italy - Serie C : Foggia vs Team Altamura.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251024203000 +0200" stop="20251024223000 +0200" channel="ItalySerieCFoggiavsTeamAltamura">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Foggia vs Team Altamura</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <programme start="20251024000000 +0200" stop="20251024203000 +0200" channel="ItalySerieCFoggiavsTeamAltamura">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">Italy - Serie C : Foggia vs Team Altamura.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251024203000 +0200" stop="20251024223000 +0200" channel="ItalySerieCFoggiavsTeamAltamura">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Foggia vs Team Altamura</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="ItalySerieAMilanvsPisa">
+    <display-name>Italy - Serie A : Milan vs Pisa</display-name>
+  </channel>
+  <programme start="20251024000000 +0200" stop="20251024204500 +0200" channel="ItalySerieAMilanvsPisa">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">Italy - Serie A : Milan vs Pisa.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251024204500 +0200" stop="20251024224500 +0200" channel="ItalySerieAMilanvsPisa">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie A : Milan vs Pisa</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <programme start="20251024000000 +0200" stop="20251024204500 +0200" channel="ItalySerieAMilanvsPisa">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">Italy - Serie A : Milan vs Pisa.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251024204500 +0200" stop="20251024224500 +0200" channel="ItalySerieAMilanvsPisa">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie A : Milan vs Pisa</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <programme start="20251024000000 +0200" stop="20251024204500 +0200" channel="ItalySerieAMilanvsPisa">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">Italy - Serie A : Milan vs Pisa.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251024204500 +0200" stop="20251024224500 +0200" channel="ItalySerieAMilanvsPisa">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie A : Milan vs Pisa</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="EnglandPremierLeagueLeedsUnitedvsWestHamUnited">
+    <display-name>England - Premier League : Leeds United vs West Ham United</display-name>
+  </channel>
+  <programme start="20251024000000 +0200" stop="20251024210000 +0200" channel="EnglandPremierLeagueLeedsUnitedvsWestHamUnited">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">England - Premier League : Leeds United vs West Ham United.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251024210000 +0200" stop="20251024230000 +0200" channel="EnglandPremierLeagueLeedsUnitedvsWestHamUnited">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">England - Premier League : Leeds United vs West Ham United</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="BaselATPViennaATPTokyoWTAampGuangzhouWTAQuarterfinals">
+    <display-name>Basel-ATP, Vienna-ATP, Tokyo-WTA &amp; Guangzhou-WTA Quarterfinals</display-name>
+  </channel>
+  <programme start="20251024000000 +0200" stop="20251024113000 +0200" channel="BaselATPViennaATPTokyoWTAampGuangzhouWTAQuarterfinals">
+    <title lang="it">Inizia alle 11:30.</title>
+    <desc lang="it">Basel-ATP, Vienna-ATP, Tokyo-WTA &amp; Guangzhou-WTA Quarterfinals.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251024113000 +0200" stop="20251024133000 +0200" channel="BaselATPViennaATPTokyoWTAampGuangzhouWTAQuarterfinals">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Basel-ATP, Vienna-ATP, Tokyo-WTA &amp; Guangzhou-WTA Quarterfinals</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="Moto3MalaysianGrandPrixFreePractice2">
+    <display-name>Moto3 : Malaysian Grand Prix Free Practice 2</display-name>
+  </channel>
+  <programme start="20251024000000 +0200" stop="20251024030000 +0200" channel="Moto3MalaysianGrandPrixFreePractice2">
+    <title lang="it">Inizia alle 03:00.</title>
+    <desc lang="it">Moto3 : Malaysian Grand Prix Free Practice 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251024030000 +0200" stop="20251024050000 +0200" channel="Moto3MalaysianGrandPrixFreePractice2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Moto3 : Malaysian Grand Prix Free Practice 2</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Moto2MalaysianGrandPrixFreePractice2">
+    <display-name>Moto2 : Malaysian Grand Prix Free Practice 2</display-name>
+  </channel>
+  <programme start="20251024000000 +0200" stop="20251024032000 +0200" channel="Moto2MalaysianGrandPrixFreePractice2">
+    <title lang="it">Inizia alle 03:20.</title>
+    <desc lang="it">Moto2 : Malaysian Grand Prix Free Practice 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251024032000 +0200" stop="20251024052000 +0200" channel="Moto2MalaysianGrandPrixFreePractice2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Moto2 : Malaysian Grand Prix Free Practice 2</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="MotoGPMalaysianGrandPrixFreePractice2">
+    <display-name>MotoGP : Malaysian Grand Prix Free Practice 2</display-name>
+  </channel>
+  <programme start="20251024000000 +0200" stop="20251024040000 +0200" channel="MotoGPMalaysianGrandPrixFreePractice2">
+    <title lang="it">Inizia alle 04:00.</title>
+    <desc lang="it">MotoGP : Malaysian Grand Prix Free Practice 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251024040000 +0200" stop="20251024060000 +0200" channel="MotoGPMalaysianGrandPrixFreePractice2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MotoGP : Malaysian Grand Prix Free Practice 2</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Moto3MalaysianGrandPrixPractice1">
+    <display-name>Moto3 : Malaysian Grand Prix Practice 1</display-name>
+  </channel>
+  <programme start="20251024000000 +0200" stop="20251024071000 +0200" channel="Moto3MalaysianGrandPrixPractice1">
+    <title lang="it">Inizia alle 07:10.</title>
+    <desc lang="it">Moto3 : Malaysian Grand Prix Practice 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251024071000 +0200" stop="20251024091000 +0200" channel="Moto3MalaysianGrandPrixPractice1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Moto3 : Malaysian Grand Prix Practice 1</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="MotoGPMalaysianGrandPrixPractice1">
+    <display-name>MotoGP : Malaysian Grand Prix Practice 1</display-name>
+  </channel>
+  <programme start="20251024000000 +0200" stop="20251024071500 +0200" channel="MotoGPMalaysianGrandPrixPractice1">
+    <title lang="it">Inizia alle 07:15.</title>
+    <desc lang="it">MotoGP : Malaysian Grand Prix Practice 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251024071500 +0200" stop="20251024091500 +0200" channel="MotoGPMalaysianGrandPrixPractice1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MotoGP : Malaysian Grand Prix Practice 1</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Moto2MalaysianGrandPrixPractice1">
+    <display-name>Moto2 : Malaysian Grand Prix Practice 1</display-name>
+  </channel>
+  <programme start="20251024000000 +0200" stop="20251024080000 +0200" channel="Moto2MalaysianGrandPrixPractice1">
+    <title lang="it">Inizia alle 08:00.</title>
+    <desc lang="it">Moto2 : Malaysian Grand Prix Practice 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251024080000 +0200" stop="20251024100000 +0200" channel="Moto2MalaysianGrandPrixPractice1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Moto2 : Malaysian Grand Prix Practice 1</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Formula1MexicoCityGrandPrixPractice1">
+    <display-name>Formula 1 : Mexico City Grand Prix - Practice 1</display-name>
+  </channel>
+  <programme start="20251024000000 +0200" stop="20251024203000 +0200" channel="Formula1MexicoCityGrandPrixPractice1">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">Formula 1 : Mexico City Grand Prix - Practice 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251024203000 +0200" stop="20251024223000 +0200" channel="Formula1MexicoCityGrandPrixPractice1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 1 : Mexico City Grand Prix - Practice 1</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Formula1MexicoCityGrandPrixPractice2">
+    <display-name>Formula 1 : Mexico City Grand Prix - Practice 2</display-name>
+  </channel>
+  <programme start="20251025000000 +0200" stop="20251025020000 +0200" channel="Formula1MexicoCityGrandPrixPractice2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 1 : Mexico City Grand Prix - Practice 2</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="NorthernIrelandOpenQuarterFinal">
+    <display-name>Northern Ireland Open | Quarter-Final</display-name>
+  </channel>
+  <programme start="20251024000000 +0200" stop="20251024140000 +0200" channel="NorthernIrelandOpenQuarterFinal">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">Northern Ireland Open | Quarter-Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251024140000 +0200" stop="20251024160000 +0200" channel="NorthernIrelandOpenQuarterFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Northern Ireland Open | Quarter-Final</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <programme start="20251024160000 +0200" stop="20251024200000 +0200" channel="NorthernIrelandOpenQuarterFinal">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">Northern Ireland Open | Quarter-Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251024200000 +0200" stop="20251024220000 +0200" channel="NorthernIrelandOpenQuarterFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Northern Ireland Open | Quarter-Final</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <channel id="SerieA2BasketTorinovsUraniaPortaMilano">
+    <display-name>Serie A2 : Basket Torino vs Urania Porta Milano</display-name>
+  </channel>
+  <programme start="20251024000000 +0200" stop="20251024194500 +0200" channel="SerieA2BasketTorinovsUraniaPortaMilano">
+    <title lang="it">Inizia alle 19:45.</title>
+    <desc lang="it">Serie A2 : Basket Torino vs Urania Porta Milano.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251024194500 +0200" stop="20251024214500 +0200" channel="SerieA2BasketTorinovsUraniaPortaMilano">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Serie A2 : Basket Torino vs Urania Porta Milano</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <channel id="2025WorldCupWestmontStage2Part2">
+    <display-name>2025 World Cup - Westmont: Stage 2 (Part 2)</display-name>
+  </channel>
+  <programme start="20251024000000 +0200" stop="20251024161500 +0200" channel="2025WorldCupWestmontStage2Part2">
+    <title lang="it">Inizia alle 16:15.</title>
+    <desc lang="it">2025 World Cup - Westmont: Stage 2 (Part 2).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251024161500 +0200" stop="20251024181500 +0200" channel="2025WorldCupWestmontStage2Part2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 World Cup - Westmont: Stage 2 (Part 2)</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="SerieAGenovavsFortitudoPomezia">
+    <display-name>Serie A : Genova vs Fortitudo Pomezia</display-name>
+  </channel>
+  <programme start="20251024000000 +0200" stop="20251024203000 +0200" channel="SerieAGenovavsFortitudoPomezia">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">Serie A : Genova vs Fortitudo Pomezia.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251024203000 +0200" stop="20251024223000 +0200" channel="SerieAGenovavsFortitudoPomezia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Serie A : Genova vs Fortitudo Pomezia</desc>
+    <category lang="it">Futsal</category>
+  </programme>
+  <channel id="FigureSkatingISUGrandPrixCupChongqing2025">
+    <display-name>Figure Skating | ISU Grand Prix Cup - Chongqing 2025</display-name>
+  </channel>
+  <programme start="20251024000000 +0200" stop="20251024084500 +0200" channel="FigureSkatingISUGrandPrixCupChongqing2025">
+    <title lang="it">Inizia alle 08:45.</title>
+    <desc lang="it">Figure Skating | ISU Grand Prix Cup - Chongqing 2025.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251024084500 +0200" stop="20251024104500 +0200" channel="FigureSkatingISUGrandPrixCupChongqing2025">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Figure Skating | ISU Grand Prix Cup - Chongqing 2025</desc>
+    <category lang="it">Ice Skating</category>
+  </programme>
+  <channel id="GrandPrixChinaMixedPairsShortProgram">
+    <display-name>Grand Prix | China Mixed Pairs | Short Program</display-name>
+  </channel>
+  <programme start="20251024000000 +0200" stop="20251024144500 +0200" channel="GrandPrixChinaMixedPairsShortProgram">
+    <title lang="it">Inizia alle 14:45.</title>
+    <desc lang="it">Grand Prix | China Mixed Pairs | Short Program.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251024144500 +0200" stop="20251024164500 +0200" channel="GrandPrixChinaMixedPairsShortProgram">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Grand Prix | China Mixed Pairs | Short Program</desc>
+    <category lang="it">Ice Skating</category>
+  </programme>
+  <channel id="MensSerieA1VisNovaRomavsOrtigia">
+    <display-name>Men's Serie A1 : Vis Nova Roma vs Ortigia</display-name>
+  </channel>
+  <programme start="20251024000000 +0200" stop="20251024183000 +0200" channel="MensSerieA1VisNovaRomavsOrtigia">
+    <title lang="it">Inizia alle 18:30.</title>
+    <desc lang="it">Men's Serie A1 : Vis Nova Roma vs Ortigia.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251024183000 +0200" stop="20251024203000 +0200" channel="MensSerieA1VisNovaRomavsOrtigia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Men's Serie A1 : Vis Nova Roma vs Ortigia</desc>
+    <category lang="it">Water polo</category>
+  </programme>
 </tv>
