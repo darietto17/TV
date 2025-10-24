@@ -172,8 +172,6 @@ https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS
 https://vavoo.to/vavoo-iptv/play/23919988fc371eea2329
-#EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1
-https://vavoo.to/vavoo-iptv/play/633342961994dc5083ad5
 #EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1 (D)
 https://dlhd.dad/watch.php?id=854
 
@@ -251,8 +249,6 @@ https://vavoo.to/vavoo-iptv/play/3471319012d308ec0dc636
 https://vavoo.to/vavoo-iptv/play/1087345241c8751e395263
 #EXTINF:-1 tvg-id="pescaecaccia.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/caccia-pesca-it.png?raw=true" group-title="Altro",PESCA E CACCIA
 https://vavoo.to/vavoo-iptv/play/312451299385241b4e7078
-#EXTINF:-1 tvg-id="premiumcrime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Film - Serie TV",PREMIUM CRIME
-https://vavoo.to/vavoo-iptv/play/444768053e397c96fc6df
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Prima_TV_Logo_2022.svg/800px-Prima_TV_Logo_2022.svg.png" group-title="Altro",PRIMA TV (1)
 https://vavoo.to/vavoo-iptv/play/530658045774685c88ed8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Prima_TV_Logo_2022.svg/800px-Prima_TV_Logo_2022.svg.png" group-title="Altro",PRIMA TV (2)
@@ -322,6 +318,8 @@ https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
+https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/1925964148b9cb23cc2bce
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE (MPD)
@@ -463,8 +461,6 @@ https://dlhd.dad/watch.php?id=862
 https://dlhd.dad/watch.php?id=867
 #EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film - Serie TV",SKY CINEMA DUE
 https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
-#EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24
-https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24 (D)
 https://dlhd.dad/watch.php?id=866
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY
@@ -734,7 +730,7 @@ https://dlhd.dad/watch.php?id=851
 #EXTINF:-1 tvg-id="italyseriebmodenavsempoli" tvg-name="All Soccer Events | Italy - Serie B : Modena vs Empoli (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Modena_vs_Empoli.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie B : Modena vs Empoli (20:30)
 https://dlhd.dad/watch.php?id=59
 
-#EXTINF:-1 tvg-id="italyseriecnovaravsvirtusverona" tvg-name="All Soccer Events | Italy - Serie C : Novara vs Virtus Verona (20:30)" tvg-logo="https://www.novarafootballclub.it/wp-content/uploads/2021/09/cropped-logo-novara-favicon.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Novara vs Virtus Verona (20:30)
+#EXTINF:-1 tvg-id="italyseriecnovaravsvirtusverona" tvg-name="All Soccer Events | Italy - Serie C : Novara vs Virtus Verona (20:30)" tvg-logo="https://seeklogo.com/images/A/ac-novara-1950-s-logo-FE1E854F6E-seeklogo.com.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Novara vs Virtus Verona (20:30)
 https://dlhd.dad/watch.php?id=151
 
 #EXTINF:-1 tvg-id="italyseriecfoggiavsteamaltamura" tvg-name="All Soccer Events | Italy - Serie C : Foggia vs Team Altamura (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Foggia_vs_Team Altamura.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Foggia vs Team Altamura (20:30)
@@ -755,10 +751,10 @@ https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="englandpremierleagueleedsunitedvswesthamunited" tvg-name="All Soccer Events | England - Premier League : Leeds United vs West Ham United (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Leeds United_vs_West Ham United.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Leeds United vs West Ham United (21:00)
 https://dlhd.dad/watch.php?id=155
 
-#EXTINF:-1 tvg-id="baselatpviennaatptokyowtaampguangzhouwtaquarterfinals" tvg-name="Tennis | Basel-ATP, Vienna-ATP, Tokyo-WTA &amp; Guangzhou-WTA Quarterfinals (11:30)" tvg-logo="https://iconape.com/wp-content/files/tu/321554/png/321554.png" group-title="Eventi Live DLHD",Tennis | Basel-ATP, Vienna-ATP, Tokyo-WTA &amp; Guangzhou-WTA Quarterfinals (11:30)
+#EXTINF:-1 tvg-id="baselatpviennaatptokyowtaampguangzhouwtaquarterfinals" tvg-name="Tennis | Basel-ATP, Vienna-ATP, Tokyo-WTA &amp; Guangzhou-WTA Quarterfinals (11:30)" tvg-logo="https://assets.stickpng.com/thumbs/6266993f2c88722059d58711.png" group-title="Eventi Live DLHD",Tennis | Basel-ATP, Vienna-ATP, Tokyo-WTA &amp; Guangzhou-WTA Quarterfinals (11:30)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="moto3malaysiangrandprixpractice1" tvg-name="Motorsport | Moto3 : Malaysian Grand Prix Practice 1 (07:10)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAGSHlm3CAxV7f-kkxUmigIISN1FuFYPcrN7yJl7hztlDd34Opm2_Ao2QhD8Hp3dAwW_3wudRuHLUqhnowlqO4PCgjdFIPLsO16UzIF0RDzPsXCHHp1icCt_sED0ibcSDatya4BkFwsPoWtEOQGAoViICeHBN0x_uLsMVwvpFKN_Rj1ILo5FtQFgkIhq0/s600/Moto3_logo.png" group-title="Eventi Live DLHD",Motorsport | Moto3 : Malaysian Grand Prix Practice 1 (07:10)
+#EXTINF:-1 tvg-id="moto3malaysiangrandprixpractice1" tvg-name="Motorsport | Moto3 : Malaysian Grand Prix Practice 1 (07:10)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/qxquqx1432309463.png" group-title="Eventi Live DLHD",Motorsport | Moto3 : Malaysian Grand Prix Practice 1 (07:10)
 https://dlhd.dad/watch.php?id=575
 
 #EXTINF:-1 tvg-id="motogpmalaysiangrandprixpractice1" tvg-name="Motorsport | MotoGP : Malaysian Grand Prix Practice 1 (07:15)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live DLHD",Motorsport | MotoGP : Malaysian Grand Prix Practice 1 (07:15)
@@ -770,16 +766,7 @@ https://dlhd.dad/watch.php?id=575
 #EXTINF:-1 tvg-id="formula1mexicocitygrandprixpractice1" tvg-name="Motorsport | Formula 1 : Mexico City Grand Prix - Practice 1 (20:30)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Mexico City Grand Prix - Practice 1 (20:30)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="moto3malaysiangrandprixfreepractice2" tvg-name="Motorsport | Moto3 : Malaysian Grand Prix Free Practice 2 (03:00)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAGSHlm3CAxV7f-kkxUmigIISN1FuFYPcrN7yJl7hztlDd34Opm2_Ao2QhD8Hp3dAwW_3wudRuHLUqhnowlqO4PCgjdFIPLsO16UzIF0RDzPsXCHHp1icCt_sED0ibcSDatya4BkFwsPoWtEOQGAoViICeHBN0x_uLsMVwvpFKN_Rj1ILo5FtQFgkIhq0/s600/Moto3_logo.png" group-title="Eventi Live DLHD",Motorsport | Moto3 : Malaysian Grand Prix Free Practice 2 (03:00)
-https://dlhd.dad/watch.php?id=575
-
-#EXTINF:-1 tvg-id="moto2malaysiangrandprixfreepractice2" tvg-name="Motorsport | Moto2 : Malaysian Grand Prix Free Practice 2 (03:20)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/yqvtrq1432309315.png" group-title="Eventi Live DLHD",Motorsport | Moto2 : Malaysian Grand Prix Free Practice 2 (03:20)
-https://dlhd.dad/watch.php?id=575
-
-#EXTINF:-1 tvg-id="motogpmalaysiangrandprixfreepractice2" tvg-name="Motorsport | MotoGP : Malaysian Grand Prix Free Practice 2 (04:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live DLHD",Motorsport | MotoGP : Malaysian Grand Prix Free Practice 2 (04:00)
-https://dlhd.dad/watch.php?id=575
-
-#EXTINF:-1 tvg-id="northernirelandopenquarterfinal" tvg-name="Snooker | Northern Ireland Open | Quarter-Final (14:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Snooker | Northern Ireland Open | Quarter-Final (14:00)
+#EXTINF:-1 tvg-id="northernirelandopenquarterfinal" tvg-name="Snooker | Northern Ireland Open | Quarter-Final (14:00)" tvg-logo="https://images.squarespace-cdn.com/content/v1/5ebd2f956638154bc806b022/1687883423506-BE1VRULAP1KG6C7KII3G/G%26S+Logos352.png" group-title="Eventi Live DLHD",Snooker | Northern Ireland Open | Quarter-Final (14:00)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="northernirelandopenquarterfinal" tvg-name="Snooker | Northern Ireland Open | Quarter-Final (20:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Snooker | Northern Ireland Open | Quarter-Final (20:00)
