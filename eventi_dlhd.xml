@@ -116,32 +116,6 @@
     <desc lang="it">Formula 1 : Mexico City Grand Prix - Practice 2</desc>
     <category lang="it">Motorsport</category>
   </programme>
-  <channel id="NorthernIrelandOpenQuarterFinal">
-    <display-name>Northern Ireland Open | Quarter-Final</display-name>
-  </channel>
-  <programme start="20251024000000 +0200" stop="20251024200000 +0200" channel="NorthernIrelandOpenQuarterFinal">
-    <title lang="it">Inizia alle 20:00.</title>
-    <desc lang="it">Northern Ireland Open | Quarter-Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251024200000 +0200" stop="20251024220000 +0200" channel="NorthernIrelandOpenQuarterFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Northern Ireland Open | Quarter-Final</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <channel id="SerieA2BasketTorinovsUraniaPortaMilano">
-    <display-name>Serie A2 : Basket Torino vs Urania Porta Milano</display-name>
-  </channel>
-  <programme start="20251024000000 +0200" stop="20251024194500 +0200" channel="SerieA2BasketTorinovsUraniaPortaMilano">
-    <title lang="it">Inizia alle 19:45.</title>
-    <desc lang="it">Serie A2 : Basket Torino vs Urania Porta Milano.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251024194500 +0200" stop="20251024214500 +0200" channel="SerieA2BasketTorinovsUraniaPortaMilano">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Serie A2 : Basket Torino vs Urania Porta Milano</desc>
-    <category lang="it">Basketball</category>
-  </programme>
   <channel id="SerieAGenovavsFortitudoPomezia">
     <display-name>Serie A : Genova vs Fortitudo Pomezia</display-name>
   </channel>
@@ -154,18 +128,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Serie A : Genova vs Fortitudo Pomezia</desc>
     <category lang="it">Futsal</category>
-  </programme>
-  <channel id="MensSerieA1VisNovaRomavsOrtigia">
-    <display-name>Men's Serie A1 : Vis Nova Roma vs Ortigia</display-name>
-  </channel>
-  <programme start="20251024000000 +0200" stop="20251024183000 +0200" channel="MensSerieA1VisNovaRomavsOrtigia">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Men's Serie A1 : Vis Nova Roma vs Ortigia.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251024183000 +0200" stop="20251024203000 +0200" channel="MensSerieA1VisNovaRomavsOrtigia">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Men's Serie A1 : Vis Nova Roma vs Ortigia</desc>
-    <category lang="it">Water polo</category>
   </programme>
 </tv>
