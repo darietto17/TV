@@ -387,19 +387,6 @@
     <desc lang="it">France - Ligue 1 : Lens vs Olympique Marseille</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="BaselATPViennaATPTokyoWTAampGuangzhouWTAQuarterfinals">
-    <display-name>Basel-ATP, Vienna-ATP, Tokyo-WTA &amp; Guangzhou-WTA Quarterfinals</display-name>
-  </channel>
-  <programme start="20251025000000 +0200" stop="20251025113000 +0200" channel="BaselATPViennaATPTokyoWTAampGuangzhouWTAQuarterfinals">
-    <title lang="it">Inizia alle 11:30.</title>
-    <desc lang="it">Basel-ATP, Vienna-ATP, Tokyo-WTA &amp; Guangzhou-WTA Quarterfinals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251025113000 +0200" stop="20251025133000 +0200" channel="BaselATPViennaATPTokyoWTAampGuangzhouWTAQuarterfinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Basel-ATP, Vienna-ATP, Tokyo-WTA &amp; Guangzhou-WTA Quarterfinals</desc>
-    <category lang="it">Tennis</category>
-  </programme>
   <channel id="Formula1MexicoCityGrandPrixPractice3">
     <display-name>Formula 1 : Mexico City Grand Prix - Practice 3</display-name>
   </channel>
@@ -485,19 +472,6 @@
     <desc lang="it">Giant Slalom Women : Brignone, Federica vs. Gut-Behrami, Lara</desc>
     <category lang="it">Alpine Ski</category>
   </programme>
-  <channel id="ISUGrandPrixCupofChinaWomenFreeProgram">
-    <display-name>ISU Grand Prix Cup of China: Women - Free Program</display-name>
-  </channel>
-  <programme start="20251025000000 +0200" stop="20251025103000 +0200" channel="ISUGrandPrixCupofChinaWomenFreeProgram">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">ISU Grand Prix Cup of China: Women - Free Program.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251025103000 +0200" stop="20251025123000 +0200" channel="ISUGrandPrixCupofChinaWomenFreeProgram">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ISU Grand Prix Cup of China: Women - Free Program</desc>
-    <category lang="it">Cross Country</category>
-  </programme>
   <channel id="ISUGrandPrixCupofChinaMensFreestyle">
     <display-name>ISU Grand Prix Cup of China: Men's Freestyle</display-name>
   </channel>
@@ -549,19 +523,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">UCI Track Cycling World Championships Chile | Day 4</desc>
     <category lang="it">Cycling</category>
-  </programme>
-  <channel id="GrandPrixChinaWomenFreeProgram">
-    <display-name>Grand Prix | China Women | Free Program</display-name>
-  </channel>
-  <programme start="20251025000000 +0200" stop="20251025103000 +0200" channel="GrandPrixChinaWomenFreeProgram">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">Grand Prix | China Women | Free Program.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251025103000 +0200" stop="20251025123000 +0200" channel="GrandPrixChinaWomenFreeProgram">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Grand Prix | China Women | Free Program</desc>
-    <category lang="it">Ice Skating</category>
   </programme>
   <channel id="MenFreeProgramGrandPrixChina">
     <display-name>Men | Free Program Grand Prix | China</display-name>
