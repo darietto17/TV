@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="Bundesliga2ArminiaBielefeldvsElversberg">
-    <display-name>Bundesliga 2 : Arminia Bielefeld vs Elversberg</display-name>
-  </channel>
-  <programme start="20251025000000 +0200" stop="20251025130000 +0200" channel="Bundesliga2ArminiaBielefeldvsElversberg">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Bundesliga 2 : Arminia Bielefeld vs Elversberg.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251025130000 +0200" stop="20251025150000 +0200" channel="Bundesliga2ArminiaBielefeldvsElversberg">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Bundesliga 2 : Arminia Bielefeld vs Elversberg</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalySerieCJuventusIIvsPontedera">
     <display-name>Italy - Serie C : Juventus II vs Pontedera</display-name>
   </channel>
@@ -429,17 +416,7 @@
   <channel id="NorthernIrelandOpenSemiFinal">
     <display-name>Northern Ireland Open | Semi-Final</display-name>
   </channel>
-  <programme start="20251025000000 +0200" stop="20251025140000 +0200" channel="NorthernIrelandOpenSemiFinal">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Northern Ireland Open | Semi-Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251025140000 +0200" stop="20251025160000 +0200" channel="NorthernIrelandOpenSemiFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Northern Ireland Open | Semi-Final</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20251025160000 +0200" stop="20251025200000 +0200" channel="NorthernIrelandOpenSemiFinal">
+  <programme start="20251025000000 +0200" stop="20251025200000 +0200" channel="NorthernIrelandOpenSemiFinal">
     <title lang="it">Inizia alle 20:00.</title>
     <desc lang="it">Northern Ireland Open | Semi-Final.</desc>
     <category lang="it">Annuncio</category>
@@ -448,42 +425,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Northern Ireland Open | Semi-Final</desc>
     <category lang="it">Snooker</category>
-  </programme>
-  <channel id="GiantSlalomWomenBrignoneFedericavsGutBehramiLara">
-    <display-name>Giant Slalom Women : Brignone, Federica vs. Gut-Behrami, Lara</display-name>
-  </channel>
-  <programme start="20251025000000 +0200" stop="20251025130000 +0200" channel="GiantSlalomWomenBrignoneFedericavsGutBehramiLara">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Giant Slalom Women : Brignone, Federica vs. Gut-Behrami, Lara.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251025130000 +0200" stop="20251025150000 +0200" channel="GiantSlalomWomenBrignoneFedericavsGutBehramiLara">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Giant Slalom Women : Brignone, Federica vs. Gut-Behrami, Lara</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
-  <programme start="20251025000000 +0200" stop="20251025130000 +0200" channel="GiantSlalomWomenBrignoneFedericavsGutBehramiLara">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Giant Slalom Women : Brignone, Federica vs. Gut-Behrami, Lara.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251025130000 +0200" stop="20251025150000 +0200" channel="GiantSlalomWomenBrignoneFedericavsGutBehramiLara">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Giant Slalom Women : Brignone, Federica vs. Gut-Behrami, Lara</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
-  <channel id="ISUGrandPrixCupofChinaMensFreestyle">
-    <display-name>ISU Grand Prix Cup of China: Men's Freestyle</display-name>
-  </channel>
-  <programme start="20251025000000 +0200" stop="20251025124000 +0200" channel="ISUGrandPrixCupofChinaMensFreestyle">
-    <title lang="it">Inizia alle 12:40.</title>
-    <desc lang="it">ISU Grand Prix Cup of China: Men's Freestyle.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251025124000 +0200" stop="20251025144000 +0200" channel="ISUGrandPrixCupofChinaMensFreestyle">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ISU Grand Prix Cup of China: Men's Freestyle</desc>
-    <category lang="it">Cross Country</category>
   </programme>
   <channel id="GrandPrixCupofChinaPairsFreestyle">
     <display-name>Grand Prix Cup of China: Pairs - Freestyle</display-name>
@@ -498,19 +439,6 @@
     <desc lang="it">Grand Prix Cup of China: Pairs - Freestyle</desc>
     <category lang="it">Cross Country</category>
   </programme>
-  <channel id="ExactCrossHeerderstrandWomen">
-    <display-name>Exact Cross | Heerderstrand Women</display-name>
-  </channel>
-  <programme start="20251025000000 +0200" stop="20251025140000 +0200" channel="ExactCrossHeerderstrandWomen">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Exact Cross | Heerderstrand Women.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251025140000 +0200" stop="20251025160000 +0200" channel="ExactCrossHeerderstrandWomen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Exact Cross | Heerderstrand Women</desc>
-    <category lang="it">Cycling</category>
-  </programme>
   <channel id="UCITrackCyclingWorldChampionshipsChileDay4">
     <display-name>UCI Track Cycling World Championships Chile | Day 4</display-name>
   </channel>
@@ -523,19 +451,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">UCI Track Cycling World Championships Chile | Day 4</desc>
     <category lang="it">Cycling</category>
-  </programme>
-  <channel id="MenFreeProgramGrandPrixChina">
-    <display-name>Men | Free Program Grand Prix | China</display-name>
-  </channel>
-  <programme start="20251025000000 +0200" stop="20251025124000 +0200" channel="MenFreeProgramGrandPrixChina">
-    <title lang="it">Inizia alle 12:40.</title>
-    <desc lang="it">Men | Free Program Grand Prix | China.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251025124000 +0200" stop="20251025144000 +0200" channel="MenFreeProgramGrandPrixChina">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Men | Free Program Grand Prix | China</desc>
-    <category lang="it">Ice Skating</category>
   </programme>
   <channel id="SerieAEliteFiammeOrovsPetrarcaPadova">
     <display-name>Serie A Elite : Fiamme Oro vs Petrarca Padova</display-name>
