@@ -1,96 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="FranceLigue1BrestvsPSG">
-    <display-name>France - Ligue 1 : Brest vs PSG</display-name>
-  </channel>
-  <programme start="20251025000000 +0200" stop="20251025170000 +0200" channel="FranceLigue1BrestvsPSG">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">France - Ligue 1 : Brest vs PSG.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251025170000 +0200" stop="20251025190000 +0200" channel="FranceLigue1BrestvsPSG">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">France - Ligue 1 : Brest vs PSG</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCUnionArzignanoChiampovsLumezzane">
-    <display-name>Italy - Serie C : Union ArzignanoChiampo vs Lumezzane</display-name>
-  </channel>
-  <programme start="20251025000000 +0200" stop="20251025173000 +0200" channel="ItalySerieCUnionArzignanoChiampovsLumezzane">
-    <title lang="it">Inizia alle 17:30.</title>
-    <desc lang="it">Italy - Serie C : Union ArzignanoChiampo vs Lumezzane.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251025173000 +0200" stop="20251025193000 +0200" channel="ItalySerieCUnionArzignanoChiampovsLumezzane">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Union ArzignanoChiampo vs Lumezzane</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCRenatevsLecco">
-    <display-name>Italy - Serie C : Renate vs Lecco</display-name>
-  </channel>
-  <programme start="20251025000000 +0200" stop="20251025173000 +0200" channel="ItalySerieCRenatevsLecco">
-    <title lang="it">Inizia alle 17:30.</title>
-    <desc lang="it">Italy - Serie C : Renate vs Lecco.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251025173000 +0200" stop="20251025193000 +0200" channel="ItalySerieCRenatevsLecco">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Renate vs Lecco</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCCampobassovsRimini">
-    <display-name>Italy - Serie C : Campobasso vs Rimini</display-name>
-  </channel>
-  <programme start="20251025000000 +0200" stop="20251025173000 +0200" channel="ItalySerieCCampobassovsRimini">
-    <title lang="it">Inizia alle 17:30.</title>
-    <desc lang="it">Italy - Serie C : Campobasso vs Rimini.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251025173000 +0200" stop="20251025193000 +0200" channel="ItalySerieCCampobassovsRimini">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Campobasso vs Rimini</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCAthleticCarpivsGubbio">
-    <display-name>Italy - Serie C : Athletic Carpi vs Gubbio</display-name>
-  </channel>
-  <programme start="20251025000000 +0200" stop="20251025173000 +0200" channel="ItalySerieCAthleticCarpivsGubbio">
-    <title lang="it">Inizia alle 17:30.</title>
-    <desc lang="it">Italy - Serie C : Athletic Carpi vs Gubbio.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251025173000 +0200" stop="20251025193000 +0200" channel="ItalySerieCAthleticCarpivsGubbio">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Athletic Carpi vs Gubbio</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCSiracusavsVirtusCasarano">
-    <display-name>Italy - Serie C : Siracusa vs Virtus Casarano</display-name>
-  </channel>
-  <programme start="20251025000000 +0200" stop="20251025173000 +0200" channel="ItalySerieCSiracusavsVirtusCasarano">
-    <title lang="it">Inizia alle 17:30.</title>
-    <desc lang="it">Italy - Serie C : Siracusa vs Virtus Casarano.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251025173000 +0200" stop="20251025193000 +0200" channel="ItalySerieCSiracusavsVirtusCasarano">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Siracusa vs Virtus Casarano</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieANapolivsInternazionale">
-    <display-name>Italy - Serie A : Napoli vs Internazionale</display-name>
-  </channel>
-  <programme start="20251025000000 +0200" stop="20251025180000 +0200" channel="ItalySerieANapolivsInternazionale">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">Italy - Serie A : Napoli vs Internazionale.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251025180000 +0200" stop="20251025200000 +0200" channel="ItalySerieANapolivsInternazionale">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Napoli vs Internazionale</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="GermanyBundesligaBorussiaDortmundvsKln">
     <display-name>Germany - Bundesliga : Borussia Dortmund vs Köln</display-name>
   </channel>
@@ -244,19 +153,6 @@
     <desc lang="it">United Rugby Championship : Treviso vs Stormers</desc>
     <category lang="it">Rugby Union</category>
   </programme>
-  <channel id="ItalySuperLegaMandGScuolaPallavolovsVolleyVerona">
-    <display-name>Italy SuperLega : MandG Scuola Pallavolo vs. Volley Verona</display-name>
-  </channel>
-  <programme start="20251025000000 +0200" stop="20251025180000 +0200" channel="ItalySuperLegaMandGScuolaPallavolovsVolleyVerona">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">Italy SuperLega : MandG Scuola Pallavolo vs. Volley Verona.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251025180000 +0200" stop="20251025200000 +0200" channel="ItalySuperLegaMandGScuolaPallavolovsVolleyVerona">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy SuperLega : MandG Scuola Pallavolo vs. Volley Verona</desc>
-    <category lang="it">Volleyball</category>
-  </programme>
   <channel id="SerieA1WomenAgilVolleyNovaravsVolleyConegliano">
     <display-name>Serie A1 Women : Agil Volley Novara vs. Volley Conegliano</display-name>
   </channel>
@@ -269,18 +165,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Serie A1 Women : Agil Volley Novara vs. Volley Conegliano</desc>
     <category lang="it">Volleyball</category>
-  </programme>
-  <channel id="MensSerieA120252026VisNovaRomaOrtigia">
-    <display-name>Men's Serie A1 2025/2026 - Vis Nova Roma - Ortigia</display-name>
-  </channel>
-  <programme start="20251025000000 +0200" stop="20251025163000 +0200" channel="MensSerieA120252026VisNovaRomaOrtigia">
-    <title lang="it">Inizia alle 16:30.</title>
-    <desc lang="it">Men's Serie A1 2025/2026 - Vis Nova Roma - Ortigia.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251025163000 +0200" stop="20251025183000 +0200" channel="MensSerieA120252026VisNovaRomaOrtigia">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Men's Serie A1 2025/2026 - Vis Nova Roma - Ortigia</desc>
-    <category lang="it">Water polo</category>
   </programme>
 </tv>
