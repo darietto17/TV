@@ -400,19 +400,6 @@
     <desc lang="it">Basel-ATP, Vienna-ATP, Tokyo-WTA &amp; Guangzhou-WTA Quarterfinals</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="MotoGPMalaysianGrandPrixSprintRace">
-    <display-name>MotoGP : Malaysian Grand Prix Sprint Race</display-name>
-  </channel>
-  <programme start="20251025000000 +0200" stop="20251025084500 +0200" channel="MotoGPMalaysianGrandPrixSprintRace">
-    <title lang="it">Inizia alle 08:45.</title>
-    <desc lang="it">MotoGP : Malaysian Grand Prix Sprint Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251025084500 +0200" stop="20251025104500 +0200" channel="MotoGPMalaysianGrandPrixSprintRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : Malaysian Grand Prix Sprint Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Formula1MexicoCityGrandPrixPractice3">
     <display-name>Formula 1 : Mexico City Grand Prix - Practice 3</display-name>
   </channel>
@@ -475,43 +462,10 @@
     <desc lang="it">Northern Ireland Open | Semi-Final</desc>
     <category lang="it">Snooker</category>
   </programme>
-  <channel id="VeniceMarathon2025">
-    <display-name>Venice Marathon 2025</display-name>
-  </channel>
-  <programme start="20251025000000 +0200" stop="20251025093000 +0200" channel="VeniceMarathon2025">
-    <title lang="it">Inizia alle 09:30.</title>
-    <desc lang="it">Venice Marathon 2025.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251025093000 +0200" stop="20251025113000 +0200" channel="VeniceMarathon2025">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Venice Marathon 2025</desc>
-    <category lang="it">Athletics</category>
-  </programme>
   <channel id="GiantSlalomWomenBrignoneFedericavsGutBehramiLara">
     <display-name>Giant Slalom Women : Brignone, Federica vs. Gut-Behrami, Lara</display-name>
   </channel>
-  <programme start="20251025000000 +0200" stop="20251025093000 +0200" channel="GiantSlalomWomenBrignoneFedericavsGutBehramiLara">
-    <title lang="it">Inizia alle 09:30.</title>
-    <desc lang="it">Giant Slalom Women : Brignone, Federica vs. Gut-Behrami, Lara.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251025093000 +0200" stop="20251025113000 +0200" channel="GiantSlalomWomenBrignoneFedericavsGutBehramiLara">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Giant Slalom Women : Brignone, Federica vs. Gut-Behrami, Lara</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
-  <programme start="20251025000000 +0200" stop="20251025093000 +0200" channel="GiantSlalomWomenBrignoneFedericavsGutBehramiLara">
-    <title lang="it">Inizia alle 09:30.</title>
-    <desc lang="it">Giant Slalom Women : Brignone, Federica vs. Gut-Behrami, Lara.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251025093000 +0200" stop="20251025113000 +0200" channel="GiantSlalomWomenBrignoneFedericavsGutBehramiLara">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Giant Slalom Women : Brignone, Federica vs. Gut-Behrami, Lara</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
-  <programme start="20251025113000 +0200" stop="20251025130000 +0200" channel="GiantSlalomWomenBrignoneFedericavsGutBehramiLara">
+  <programme start="20251025000000 +0200" stop="20251025130000 +0200" channel="GiantSlalomWomenBrignoneFedericavsGutBehramiLara">
     <title lang="it">Inizia alle 13:00.</title>
     <desc lang="it">Giant Slalom Women : Brignone, Federica vs. Gut-Behrami, Lara.</desc>
     <category lang="it">Annuncio</category>
@@ -595,19 +549,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">UCI Track Cycling World Championships Chile | Day 4</desc>
     <category lang="it">Cycling</category>
-  </programme>
-  <channel id="FigureSkatingISUGrandPrixCupChongqing2025">
-    <display-name>Figure Skating | ISU Grand Prix Cup - Chongqing 2025</display-name>
-  </channel>
-  <programme start="20251025000000 +0200" stop="20251025083000 +0200" channel="FigureSkatingISUGrandPrixCupChongqing2025">
-    <title lang="it">Inizia alle 08:30.</title>
-    <desc lang="it">Figure Skating | ISU Grand Prix Cup - Chongqing 2025.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251025083000 +0200" stop="20251025103000 +0200" channel="FigureSkatingISUGrandPrixCupChongqing2025">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Figure Skating | ISU Grand Prix Cup - Chongqing 2025</desc>
-    <category lang="it">Ice Skating</category>
   </programme>
   <channel id="GrandPrixChinaWomenFreeProgram">
     <display-name>Grand Prix | China Women | Free Program</display-name>
