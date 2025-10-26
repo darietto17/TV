@@ -378,19 +378,6 @@
     <desc lang="it">France - Ligue 1 : Olympique Lyonnais vs Strasbourg</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="BaselATPampViennaATPSinglesFinals">
-    <display-name>Basel-ATP &amp; Vienna-ATP Singles Finals</display-name>
-  </channel>
-  <programme start="20251026000000 +0200" stop="20251026113000 +0200" channel="BaselATPampViennaATPSinglesFinals">
-    <title lang="it">Inizia alle 11:30.</title>
-    <desc lang="it">Basel-ATP &amp; Vienna-ATP Singles Finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251026113000 +0200" stop="20251026133000 +0200" channel="BaselATPampViennaATPSinglesFinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Basel-ATP &amp; Vienna-ATP Singles Finals</desc>
-    <category lang="it">Tennis</category>
-  </programme>
   <channel id="Formula1MexicoCityGrandPrixGrandPrixSunday">
     <display-name>Formula 1 : Mexico City Grand Prix - Grand Prix Sunday</display-name>
   </channel>
@@ -440,19 +427,6 @@
     <desc lang="it">Northern Ireland Open | Final</desc>
     <category lang="it">Snooker</category>
   </programme>
-  <channel id="SaleMensGiantSlalomWorldCupRun1">
-    <display-name>Sale | Men's Giant Slalom World Cup | Run 1</display-name>
-  </channel>
-  <programme start="20251026000000 +0200" stop="20251026103000 +0200" channel="SaleMensGiantSlalomWorldCupRun1">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">Sale | Men's Giant Slalom World Cup | Run 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251026103000 +0200" stop="20251026123000 +0200" channel="SaleMensGiantSlalomWorldCupRun1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Sale | Men's Giant Slalom World Cup | Run 1</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
   <channel id="SaleMensGiantSlalomWorldCupRun2">
     <display-name>Sale | Men's Giant Slalom World Cup | Run 2</display-name>
   </channel>
@@ -465,19 +439,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Sale | Men's Giant Slalom World Cup | Run 2</desc>
     <category lang="it">Alpine Ski</category>
-  </programme>
-  <channel id="Athletics25thHyundaiLisbonHalfMarathon">
-    <display-name>Athletics: 25th Hyundai Lisbon Half Marathon</display-name>
-  </channel>
-  <programme start="20251026000000 +0200" stop="20251026110000 +0200" channel="Athletics25thHyundaiLisbonHalfMarathon">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">Athletics: 25th Hyundai Lisbon Half Marathon.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251026110000 +0200" stop="20251026130000 +0200" channel="Athletics25thHyundaiLisbonHalfMarathon">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Athletics: 25th Hyundai Lisbon Half Marathon</desc>
-    <category lang="it">Athletics</category>
   </programme>
   <channel id="UCITrackCyclingWorldChampionshipsChileDay5">
     <display-name>UCI Track Cycling World Championships Chile | Day 5</display-name>
