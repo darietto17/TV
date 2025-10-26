@@ -391,32 +391,6 @@
     <desc lang="it">Basel-ATP &amp; Vienna-ATP Singles Finals</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="MotoGPMalaysianGrandPrixWarmUp">
-    <display-name>MotoGP : Malaysian Grand Prix Warm Up</display-name>
-  </channel>
-  <programme start="20251026000000 +0200" stop="20251026043000 +0200" channel="MotoGPMalaysianGrandPrixWarmUp">
-    <title lang="it">Inizia alle 04:30.</title>
-    <desc lang="it">MotoGP : Malaysian Grand Prix Warm Up.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251026043000 +0200" stop="20251026063000 +0200" channel="MotoGPMalaysianGrandPrixWarmUp">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : Malaysian Grand Prix Warm Up</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Moto3MalaysianGrandPrixRace">
-    <display-name>Moto3 : Malaysian Grand Prix Race</display-name>
-  </channel>
-  <programme start="20251026000000 +0200" stop="20251026050000 +0200" channel="Moto3MalaysianGrandPrixRace">
-    <title lang="it">Inizia alle 05:00.</title>
-    <desc lang="it">Moto3 : Malaysian Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251026050000 +0200" stop="20251026070000 +0200" channel="Moto3MalaysianGrandPrixRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Malaysian Grand Prix Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Moto2MalaysianGrandPrixRace">
     <display-name>Moto2 : Malaysian Grand Prix Race</display-name>
   </channel>
