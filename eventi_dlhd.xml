@@ -1,116 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="EnglandPremierLeagueEvertonvsTottenhamHotspur">
-    <display-name>England - Premier League : Everton vs Tottenham Hotspur</display-name>
-  </channel>
-  <programme start="20251026000000 +0200" stop="20251026183000 +0200" channel="EnglandPremierLeagueEvertonvsTottenhamHotspur">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">England - Premier League : Everton vs Tottenham Hotspur.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251026183000 +0200" stop="20251026203000 +0200" channel="EnglandPremierLeagueEvertonvsTottenhamHotspur">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Everton vs Tottenham Hotspur</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCGianaErminiovsAlcione">
-    <display-name>Italy - Serie C : Giana Erminio vs Alcione</display-name>
-  </channel>
-  <programme start="20251026000000 +0200" stop="20251026183000 +0200" channel="ItalySerieCGianaErminiovsAlcione">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Italy - Serie C : Giana Erminio vs Alcione.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251026183000 +0200" stop="20251026203000 +0200" channel="ItalySerieCGianaErminiovsAlcione">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Giana Erminio vs Alcione</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCProPatriavsOspitaletto">
-    <display-name>Italy - Serie C : Pro Patria vs Ospitaletto</display-name>
-  </channel>
-  <programme start="20251026000000 +0200" stop="20251026183000 +0200" channel="ItalySerieCProPatriavsOspitaletto">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Italy - Serie C : Pro Patria vs Ospitaletto.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251026183000 +0200" stop="20251026203000 +0200" channel="ItalySerieCProPatriavsOspitaletto">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Pro Patria vs Ospitaletto</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCPianesevsRavenna">
-    <display-name>Italy - Serie C : Pianese vs Ravenna</display-name>
-  </channel>
-  <programme start="20251026000000 +0200" stop="20251026183000 +0200" channel="ItalySerieCPianesevsRavenna">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Italy - Serie C : Pianese vs Ravenna.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251026183000 +0200" stop="20251026203000 +0200" channel="ItalySerieCPianesevsRavenna">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Pianese vs Ravenna</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCMonopolivsGiugliano">
-    <display-name>Italy - Serie C : Monopoli vs Giugliano</display-name>
-  </channel>
-  <programme start="20251026000000 +0200" stop="20251026183000 +0200" channel="ItalySerieCMonopolivsGiugliano">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Italy - Serie C : Monopoli vs Giugliano.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251026183000 +0200" stop="20251026203000 +0200" channel="ItalySerieCMonopolivsGiugliano">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Monopoli vs Giugliano</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCSorrentovsLatina">
-    <display-name>Italy - Serie C : Sorrento vs Latina</display-name>
-  </channel>
-  <programme start="20251026000000 +0200" stop="20251026183000 +0200" channel="ItalySerieCSorrentovsLatina">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Italy - Serie C : Sorrento vs Latina.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251026183000 +0200" stop="20251026203000 +0200" channel="ItalySerieCSorrentovsLatina">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Sorrento vs Latina</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieAFiorentinavsBologna">
-    <display-name>Italy - Serie A : Fiorentina vs Bologna</display-name>
-  </channel>
-  <programme start="20251026000000 +0200" stop="20251026190000 +0200" channel="ItalySerieAFiorentinavsBologna">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">Italy - Serie A : Fiorentina vs Bologna.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251026190000 +0200" stop="20251026210000 +0200" channel="ItalySerieAFiorentinavsBologna">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Fiorentina vs Bologna</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20251026000000 +0200" stop="20251026190000 +0200" channel="ItalySerieAFiorentinavsBologna">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">Italy - Serie A : Fiorentina vs Bologna.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251026190000 +0200" stop="20251026210000 +0200" channel="ItalySerieAFiorentinavsBologna">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Fiorentina vs Bologna</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20251026000000 +0200" stop="20251026190000 +0200" channel="ItalySerieAFiorentinavsBologna">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">Italy - Serie A : Fiorentina vs Bologna.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251026190000 +0200" stop="20251026210000 +0200" channel="ItalySerieAFiorentinavsBologna">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Fiorentina vs Bologna</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalySerieCSalernitanavsCasertana">
     <display-name>Italy - Serie C : Salernitana vs Casertana</display-name>
   </channel>
@@ -160,19 +49,6 @@
     <desc lang="it">France - Ligue 1 : Olympique Lyonnais vs Strasbourg</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="Formula1MexicoCityGrandPrixGrandPrixSunday">
-    <display-name>Formula 1 : Mexico City Grand Prix - Grand Prix Sunday</display-name>
-  </channel>
-  <programme start="20251026000000 +0200" stop="20251026200000 +0200" channel="Formula1MexicoCityGrandPrixGrandPrixSunday">
-    <title lang="it">Inizia alle 20:00.</title>
-    <desc lang="it">Formula 1 : Mexico City Grand Prix - Grand Prix Sunday.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251026200000 +0200" stop="20251026220000 +0200" channel="Formula1MexicoCityGrandPrixGrandPrixSunday">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 1 : Mexico City Grand Prix - Grand Prix Sunday</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Formula1MexicoCityGrandPrixRace">
     <display-name>Formula 1 : Mexico City Grand Prix - Race</display-name>
   </channel>
@@ -185,19 +61,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Formula 1 : Mexico City Grand Prix - Race</desc>
     <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="NorthernIrelandOpenFinal">
-    <display-name>Northern Ireland Open | Final</display-name>
-  </channel>
-  <programme start="20251026000000 +0200" stop="20251026200000 +0200" channel="NorthernIrelandOpenFinal">
-    <title lang="it">Inizia alle 20:00.</title>
-    <desc lang="it">Northern Ireland Open | Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251026200000 +0200" stop="20251026220000 +0200" channel="NorthernIrelandOpenFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Northern Ireland Open | Final</desc>
-    <category lang="it">Snooker</category>
   </programme>
   <channel id="Top14StadeToulousainvsToulon">
     <display-name>Top 14 : Stade Toulousain vs Toulon</display-name>
