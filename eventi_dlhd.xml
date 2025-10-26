@@ -1,41 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieATorinovsGenoa">
-    <display-name>Italy - Serie A : Torino vs Genoa</display-name>
-  </channel>
-  <programme start="20251026000000 +0200" stop="20251026133000 +0200" channel="ItalySerieATorinovsGenoa">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie A : Torino vs Genoa.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251026133000 +0200" stop="20251026153000 +0200" channel="ItalySerieATorinovsGenoa">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Torino vs Genoa</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCTrapani1905vsAudaceCerignola">
-    <display-name>Italy - Serie C : Trapani 1905 vs Audace Cerignola</display-name>
-  </channel>
-  <programme start="20251026000000 +0200" stop="20251026133000 +0200" channel="ItalySerieCTrapani1905vsAudaceCerignola">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie C : Trapani 1905 vs Audace Cerignola.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251026133000 +0200" stop="20251026153000 +0200" channel="ItalySerieCTrapani1905vsAudaceCerignola">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Trapani 1905 vs Audace Cerignola</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20251026000000 +0200" stop="20251026133000 +0200" channel="ItalySerieCTrapani1905vsAudaceCerignola">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie C : Trapani 1905 vs Audace Cerignola.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251026133000 +0200" stop="20251026153000 +0200" channel="ItalySerieCTrapani1905vsAudaceCerignola">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Trapani 1905 vs Audace Cerignola</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalySerieCTrentovsVicenza">
     <display-name>Italy - Serie C : Trento vs Vicenza</display-name>
   </channel>
@@ -426,19 +390,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Northern Ireland Open | Final</desc>
     <category lang="it">Snooker</category>
-  </programme>
-  <channel id="SaleMensGiantSlalomWorldCupRun2">
-    <display-name>Sale | Men's Giant Slalom World Cup | Run 2</display-name>
-  </channel>
-  <programme start="20251026000000 +0200" stop="20251026130000 +0200" channel="SaleMensGiantSlalomWorldCupRun2">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Sale | Men's Giant Slalom World Cup | Run 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251026130000 +0200" stop="20251026150000 +0200" channel="SaleMensGiantSlalomWorldCupRun2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Sale | Men's Giant Slalom World Cup | Run 2</desc>
-    <category lang="it">Alpine Ski</category>
   </programme>
   <channel id="UCITrackCyclingWorldChampionshipsChileDay5">
     <display-name>UCI Track Cycling World Championships Chile | Day 5</display-name>
