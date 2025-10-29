@@ -82,6 +82,45 @@
     <desc lang="it">France - Ligue 1 : Lorient vs PSG</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
+  <channel id="ItalySerieBVeneziavsSdtirol">
+    <display-name>Italy - Serie B : Venezia vs Südtirol</display-name>
+  </channel>
+  <programme start="20251029000000 +0200" stop="20251029213000 +0200" channel="ItalySerieBVeneziavsSdtirol">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie B : Venezia vs Südtirol.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251029213000 +0200" stop="20251029233000 +0200" channel="ItalySerieBVeneziavsSdtirol">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie B : Venezia vs Südtirol</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="ItalySerieBMantovavsCatanzaro">
+    <display-name>Italy - Serie B : Mantova vs Catanzaro</display-name>
+  </channel>
+  <programme start="20251029000000 +0200" stop="20251029213000 +0200" channel="ItalySerieBMantovavsCatanzaro">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie B : Mantova vs Catanzaro.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251029213000 +0200" stop="20251029233000 +0200" channel="ItalySerieBMantovavsCatanzaro">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie B : Mantova vs Catanzaro</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="ItalySerieBSpeziavsCalcioPadova">
+    <display-name>Italy - Serie B : Spezia vs Calcio Padova</display-name>
+  </channel>
+  <programme start="20251029000000 +0200" stop="20251029213000 +0200" channel="ItalySerieBSpeziavsCalcioPadova">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie B : Spezia vs Calcio Padova.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251029213000 +0200" stop="20251029233000 +0200" channel="ItalySerieBSpeziavsCalcioPadova">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie B : Spezia vs Calcio Padova</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
   <channel id="ItalyCoppaItaliaSerieCGiuglianovsBenevento">
     <display-name>Italy - Coppa Italia Serie C : Giugliano vs Benevento</display-name>
   </channel>
