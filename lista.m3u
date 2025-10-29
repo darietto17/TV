@@ -324,8 +324,6 @@ https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
-https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/1925964148b9cb23cc2bce
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE (MPD)
@@ -467,8 +465,6 @@ https://dlhd.dad/watch.php?id=862
 https://dlhd.dad/watch.php?id=867
 #EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film - Serie TV",SKY CINEMA DUE
 https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
-#EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24
-https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24 (D)
 https://dlhd.dad/watch.php?id=866
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY
@@ -788,7 +784,7 @@ https://dlhd.dad/watch.php?id=877
 #EXTINF:-1 tvg-id="franceligue1olympiquemarseillevsangerssco" tvg-name="All Soccer Events | France - Ligue 1 : Olympique Marseille vs Angers SCO (22:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Olympique Marseille_vs_Angers SCO.png" group-title="Eventi Live DLHD",All Soccer Events | France - Ligue 1 : Olympique Marseille vs Angers SCO (22:05)
 https://dlhd.dad/watch.php?id=460
 
-#EXTINF:-1 tvg-id="seriea1volleycivitanovavstrentinovolley" tvg-name="Volleyball | Serie A1 : Volley Civitanova vs. Trentino Volley (21:30)" tvg-logo="https://dicodusport.fr/blog/wp-content/uploads/2024/08/Volley-ball-JO-2024-Les-Bleus-en-finale-apres-leur-victoire-ecrasante-contre-lItalie.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 : Volley Civitanova vs. Trentino Volley (21:30)
+#EXTINF:-1 tvg-id="seriea1volleycivitanovavstrentinovolley" tvg-name="Volleyball | Serie A1 : Volley Civitanova vs. Trentino Volley (21:30)" tvg-logo="https://cdn.britannica.com/81/198481-050-10CED2D9/Gilberto-Godoy-Filho-ball-Brazil-Argentina-volleyball-2007.jpg" group-title="Eventi Live DLHD",Volleyball | Serie A1 : Volley Civitanova vs. Trentino Volley (21:30)
 https://dlhd.dad/watch.php?id=882
 
 
