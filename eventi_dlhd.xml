@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieACagliarivsSassuolo">
-    <display-name>Italy - Serie A : Cagliari vs Sassuolo</display-name>
-  </channel>
-  <programme start="20251030000000 +0200" stop="20251030193000 +0200" channel="ItalySerieACagliarivsSassuolo">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">Italy - Serie A : Cagliari vs Sassuolo.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251030193000 +0200" stop="20251030213000 +0200" channel="ItalySerieACagliarivsSassuolo">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Cagliari vs Sassuolo</desc>
-    <category lang="it">Soccer</category>
-  </programme>
   <channel id="ItalySerieAPisavsLazio">
     <display-name>Italy - Serie A : Pisa vs Lazio</display-name>
   </channel>
