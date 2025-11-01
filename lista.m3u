@@ -148,6 +148,8 @@ https://dlhd.dad/watch.php?id=879
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport2)/manifest.mpd&key_id=e8372283a523444c84646c4172b1bc0f&key=969a90e1a1a6424a68fe4b5d776368ec
 #EXTINF:-1 tvg-id="" tvg-logo="https://prolocopesarourbino.it/wp-content/uploads/2019/07/FANO-TV.jpg" group-title="Altro",FANO TV
 https://vavoo.to/vavoo-iptv/play/1798700028a88b50c2df9d
+#EXTINF:-1 tvg-id="fashion.tv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/fashion-tv-int.png?raw=true" group-title="Altro",FASHION TV
+https://vavoo.to/vavoo-iptv/play/3028319308fc52849f3d94
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtJ5HlBu4jXOrC4iA-giQNzXa9zm42bS-yrA&s" group-title="Musica",FM ITALIA
 https://vavoo.to/vavoo-iptv/play/6513881342f0388082aa1
 #EXTINF:-1 tvg-id="focus.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Mediaset",FOCUS (1)
@@ -320,8 +322,6 @@ https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
-https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/1925964148b9cb23cc2bce
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE (MPD)
@@ -572,10 +572,6 @@ https://vavoo.to/vavoo-iptv/play/32202484989ac14421915
 https://dlhd.dad/watch.php?id=881
 
 # RAI
-#EXTINF:-1 tvg-id="sportitalia.it" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA
-https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82
-#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA (BACKUP)
-https://vavoo.to/vavoo-iptv/play/3165086929ad0bcbc4fc19
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
 #EXTINF:-1 tvg-id="supertennis.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS
@@ -748,7 +744,7 @@ https://dlhd.dad/watch.php?id=197
 #EXTINF:-1 tvg-id="italyseriecpinetovspianese" tvg-name="All Soccer Events | Italy - Serie C : Pineto vs Pianese (15:30)" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.opencity.opencontent.it/var/pineto/storage/images/3330-22-ita-IT/Comune-di-Pineto_header_logo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pineto vs Pianese (15:30)
 https://dlhd.dad/watch.php?id=193
 
-#EXTINF:-1 tvg-id="italyseriecvirtuscasaranovsmonopoli" tvg-name="All Soccer Events | Italy - Serie C : Virtus Casarano vs Monopoli (15:30)" tvg-logo="https://www.solosophie.com/wp-content/uploads/2024/02/monopoli-port-768x1152.jpg" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Virtus Casarano vs Monopoli (15:30)
+#EXTINF:-1 tvg-id="italyseriecvirtuscasaranovsmonopoli" tvg-name="All Soccer Events | Italy - Serie C : Virtus Casarano vs Monopoli (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Virtus Casarano_vs_Monopoli.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Virtus Casarano vs Monopoli (15:30)
 https://dlhd.dad/watch.php?id=194
 
 #EXTINF:-1 tvg-id="italyseriecteamaltamuravscosenza" tvg-name="All Soccer Events | Italy - Serie C : Team Altamura vs Cosenza (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Team Altamura_vs_Cosenza.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Team Altamura vs Cosenza (15:30)
@@ -808,19 +804,19 @@ https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="franceligue1auxerrevsolympiquemarseille" tvg-name="All Soccer Events | France - Ligue 1 : Auxerre vs Olympique Marseille (22:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Auxerre_vs_Olympique Marseille.png" group-title="Eventi Live DLHD",All Soccer Events | France - Ligue 1 : Auxerre vs Olympique Marseille (22:05)
 https://dlhd.dad/watch.php?id=460
 
-#EXTINF:-1 tvg-id="parisatpjiujiangwtahongkongwtaampchennaiwtaearlyrounds" tvg-name="Tennis | Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds (08:00)" tvg-logo="https://images.adsttc.com/media/images/5d44/14fa/284d/d1fd/3a00/003d/large_jpg/eiffel-tower-in-paris-151-medium.jpg?1564742900" group-title="Eventi Live DLHD",Tennis | Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds (08:00)
+#EXTINF:-1 tvg-id="parisatpjiujiangwtahongkongwtaampchennaiwtaearlyrounds" tvg-name="Tennis | Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds (08:00)" tvg-logo="https://frenchmoments.eu/wp-content/uploads/2013/06/Eiffel-Tower-Avenue-de-New-York-Paris-copyright-French-Moments-1536x1028.jpg" group-title="Eventi Live DLHD",Tennis | Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds (08:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="2025italiangtsprintchampionshipmonza4throundrace1" tvg-name="Motorsport | 2025 Italian GT Sprint Championship - Monza 4th round - Race 1 (09:00)" tvg-logo="https://www.vs-racing.com/en/images/BW_Llarena.png" group-title="Eventi Live DLHD",Motorsport | 2025 Italian GT Sprint Championship - Monza 4th round - Race 1 (09:00)
+#EXTINF:-1 tvg-id="2025italiangtsprintchampionshipmonza4throundrace1" tvg-name="Motorsport | 2025 Italian GT Sprint Championship - Monza 4th round - Race 1 (09:00)" tvg-logo="https://png.pngtree.com/png-clipart/20241008/original/pngtree-calendar-2025-color-calendar-vector-png-image_16248596.png" group-title="Eventi Live DLHD",Motorsport | 2025 Italian GT Sprint Championship - Monza 4th round - Race 1 (09:00)
 https://dlhd.dad/watch.php?id=882
 
 #EXTINF:-1 tvg-id="x2otrophyoudenaardekoppenbergcrossoudenaardewomen" tvg-name="Cycling | X2O Trophy Oudenaarde - Koppenbergcross | Oudenaarde Women (14:45)" tvg-logo="https://www.poticap.com.br/manutencao.png" group-title="Eventi Live DLHD",Cycling | X2O Trophy Oudenaarde - Koppenbergcross | Oudenaarde Women (14:45)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="globalchampionstourjumpingriyadhseasonworldmasters" tvg-name="Equestrian | Global Champions Tour Jumping | Riyadh Season World Masters (15:00)" tvg-logo="https://destinationsinternational.org/sites/default/files/inline-images/Global Image_0.png" group-title="Eventi Live DLHD",Equestrian | Global Champions Tour Jumping | Riyadh Season World Masters (15:00)
+#EXTINF:-1 tvg-id="globalchampionstourjumpingriyadhseasonworldmasters" tvg-name="Equestrian | Global Champions Tour Jumping | Riyadh Season World Masters (15:00)" tvg-logo="https://wallpapers.com/images/hd/global-1600-x-931-background-ai8t4ntqu5qn94pl.jpg" group-title="Eventi Live DLHD",Equestrian | Global Champions Tour Jumping | Riyadh Season World Masters (15:00)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="grandprixcanadaicedanceshortprogrammixed" tvg-name="Ice Skating | Grand Prix | Canada Ice Dance | Short Program | Mixed (20:45)" tvg-logo="https://www.grandprixmotorpark.com/wp-content/uploads/2024/07/logo_gpm.png" group-title="Eventi Live DLHD",Ice Skating | Grand Prix | Canada Ice Dance | Short Program | Mixed (20:45)
+#EXTINF:-1 tvg-id="grandprixcanadaicedanceshortprogrammixed" tvg-name="Ice Skating | Grand Prix | Canada Ice Dance | Short Program | Mixed (20:45)" tvg-logo="https://static.wikia.nocookie.net/fortnite/images/c/cc/Grand_Glacier_-_Location_-_Fortnite.png/revision/latest/scale-to-width-down/1200?cb=20231204170439" group-title="Eventi Live DLHD",Ice Skating | Grand Prix | Canada Ice Dance | Short Program | Mixed (20:45)
 https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="serieaelitepetrarcapadovavsrovigo" tvg-name="Rugby Union | Serie A Elite : Petrarca Padova vs Rovigo (15:30)" tvg-logo="https://www.prefissotelefonico.it/telefono.png" group-title="Eventi Live DLHD",Rugby Union | Serie A Elite : Petrarca Padova vs Rovigo (15:30)
