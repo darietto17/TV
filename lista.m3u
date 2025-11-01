@@ -19,8 +19,6 @@ https://vavoo.to/vavoo-iptv/play/68845853044f9c95e43e
 https://vavoo.to/vavoo-iptv/play/190887752614ef25f5e1fd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.omceo.bg.it/images/loghi/antenna-2.png" group-title="Altro",ANTENNA 2
 https://vavoo.to/vavoo-iptv/play/30140012609b4bf5e8d3b7
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ANTENNA SICILIA
-https://vavoo.to/vavoo-iptv/play/3309975829c0cd274e96f4
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.antennasud.com/media/2022/08/cropped-LOGO_ANTENNA_SUD_ROSSO_FORATO.png" group-title="Altro",ANTENNA SUD
 https://vavoo.to/vavoo-iptv/play/4084059868fd82d62442e9
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="Documentari",ARTE NETWORK
@@ -184,7 +182,9 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="italia.2.it" tvg-name="ITALIA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png" group-title="Mediaset",ITALIA 2 (MPD)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (1)
+https://vavoo.to/vavoo-iptv/play/1565298794daace40d1b60
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (2)
 https://vavoo.to/vavoo-iptv/play/1200985239ceccd12c8a54
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV
 https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
@@ -657,8 +657,6 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="tg.norba.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tg-norba-24-it.png" group-title="News",TG NORBA 24
 https://vavoo.to/vavoo-iptv/play/3413557893b1ed86e5018c
-#EXTINF:-1 tvg-id="topcalcio24.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPHW5VLQDGnNMVZszgWZRqnBSjPUTgAcUltQ&s" group-title="Sport",TOP CALCIO 24
-https://vavoo.to/vavoo-iptv/play/383554932681b8c3d5666a
 #EXTINF:-1 tvg-id="top.crime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Mediaset",TOP CRIME
 https://vavoo.to/vavoo-iptv/play/3420407456fb80f4ceda0b
 
@@ -804,10 +802,10 @@ https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="franceligue1auxerrevsolympiquemarseille" tvg-name="All Soccer Events | France - Ligue 1 : Auxerre vs Olympique Marseille (22:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Auxerre_vs_Olympique Marseille.png" group-title="Eventi Live DLHD",All Soccer Events | France - Ligue 1 : Auxerre vs Olympique Marseille (22:05)
 https://dlhd.dad/watch.php?id=460
 
-#EXTINF:-1 tvg-id="x2otrophyoudenaardekoppenbergcrossoudenaardewomen" tvg-name="Cycling | X2O Trophy Oudenaarde - Koppenbergcross | Oudenaarde Women (14:45)" tvg-logo="https://www.footballkitarchive.com/static/logos/EcQaRVSQYVxRhu4/colombia-women-2023-logo.png" group-title="Eventi Live DLHD",Cycling | X2O Trophy Oudenaarde - Koppenbergcross | Oudenaarde Women (14:45)
+#EXTINF:-1 tvg-id="x2otrophyoudenaardekoppenbergcrossoudenaardewomen" tvg-name="Cycling | X2O Trophy Oudenaarde - Koppenbergcross | Oudenaarde Women (14:45)" tvg-logo="https://www.poticap.com.br/manutencao.png" group-title="Eventi Live DLHD",Cycling | X2O Trophy Oudenaarde - Koppenbergcross | Oudenaarde Women (14:45)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="globalchampionstourjumpingriyadhseasonworldmasters" tvg-name="Equestrian | Global Champions Tour Jumping | Riyadh Season World Masters (15:00)" tvg-logo="https://goodops.co/wp-content/uploads/2018/07/earth-global-routes-_-presentation-format-shutterstock_1111879256.png" group-title="Eventi Live DLHD",Equestrian | Global Champions Tour Jumping | Riyadh Season World Masters (15:00)
+#EXTINF:-1 tvg-id="globalchampionstourjumpingriyadhseasonworldmasters" tvg-name="Equestrian | Global Champions Tour Jumping | Riyadh Season World Masters (15:00)" tvg-logo="https://wallpapers.com/images/hd/global-1600-x-931-background-ai8t4ntqu5qn94pl.jpg" group-title="Eventi Live DLHD",Equestrian | Global Champions Tour Jumping | Riyadh Season World Masters (15:00)
 https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="grandprixcanadaicedanceshortprogrammixed" tvg-name="Ice Skating | Grand Prix | Canada Ice Dance | Short Program | Mixed (20:45)" tvg-logo="https://static.wikia.nocookie.net/fortnite/images/c/cc/Grand_Glacier_-_Location_-_Fortnite.png/revision/latest/scale-to-width-down/1200?cb=20231204170439" group-title="Eventi Live DLHD",Ice Skating | Grand Prix | Canada Ice Dance | Short Program | Mixed (20:45)
