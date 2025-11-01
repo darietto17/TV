@@ -1,3 +1,455 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ItalySerieAwomenParmavsNapoli">
+    <display-name>Italy - Serie A (women) : Parma vs Napoli</display-name>
+  </channel>
+  <programme start="20251101000000 +0200" stop="20251101133000 +0200" channel="ItalySerieAwomenParmavsNapoli">
+    <title lang="it">Inizia alle 13:30.</title>
+    <desc lang="it">Italy - Serie A (women) : Parma vs Napoli.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251101133000 +0200" stop="20251101153000 +0200" channel="ItalySerieAwomenParmavsNapoli">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie A (women) : Parma vs Napoli</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieBAvellinovsReggiana">
+    <display-name>Italy - Serie B : Avellino vs Reggiana</display-name>
+  </channel>
+  <programme start="20251101000000 +0200" stop="20251101133000 +0200" channel="ItalySerieBAvellinovsReggiana">
+    <title lang="it">Inizia alle 13:30.</title>
+    <desc lang="it">Italy - Serie B : Avellino vs Reggiana.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251101133000 +0200" stop="20251101153000 +0200" channel="ItalySerieBAvellinovsReggiana">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie B : Avellino vs Reggiana</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="GermanyBundesliga2KarlsruherSCvsSchalke04">
+    <display-name>Germany - Bundesliga 2 : Karlsruher SC vs Schalke 04</display-name>
+  </channel>
+  <programme start="20251101000000 +0200" stop="20251101140000 +0200" channel="GermanyBundesliga2KarlsruherSCvsSchalke04">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">Germany - Bundesliga 2 : Karlsruher SC vs Schalke 04.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251101140000 +0200" stop="20251101160000 +0200" channel="GermanyBundesliga2KarlsruherSCvsSchalke04">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Germany - Bundesliga 2 : Karlsruher SC vs Schalke 04</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCPergolettesevsNovara">
+    <display-name>Italy - Serie C : Pergolettese vs Novara</display-name>
+  </channel>
+  <programme start="20251101000000 +0200" stop="20251101153000 +0200" channel="ItalySerieCPergolettesevsNovara">
+    <title lang="it">Inizia alle 15:30.</title>
+    <desc lang="it">Italy - Serie C : Pergolettese vs Novara.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251101153000 +0200" stop="20251101173000 +0200" channel="ItalySerieCPergolettesevsNovara">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Pergolettese vs Novara</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCArezzovsCampobasso">
+    <display-name>Italy - Serie C : Arezzo vs Campobasso</display-name>
+  </channel>
+  <programme start="20251101000000 +0200" stop="20251101153000 +0200" channel="ItalySerieCArezzovsCampobasso">
+    <title lang="it">Inizia alle 15:30.</title>
+    <desc lang="it">Italy - Serie C : Arezzo vs Campobasso.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251101153000 +0200" stop="20251101173000 +0200" channel="ItalySerieCArezzovsCampobasso">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Arezzo vs Campobasso</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCPinetovsPianese">
+    <display-name>Italy - Serie C : Pineto vs Pianese</display-name>
+  </channel>
+  <programme start="20251101000000 +0200" stop="20251101153000 +0200" channel="ItalySerieCPinetovsPianese">
+    <title lang="it">Inizia alle 15:30.</title>
+    <desc lang="it">Italy - Serie C : Pineto vs Pianese.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251101153000 +0200" stop="20251101173000 +0200" channel="ItalySerieCPinetovsPianese">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Pineto vs Pianese</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCVirtusCasaranovsMonopoli">
+    <display-name>Italy - Serie C : Virtus Casarano vs Monopoli</display-name>
+  </channel>
+  <programme start="20251101000000 +0200" stop="20251101153000 +0200" channel="ItalySerieCVirtusCasaranovsMonopoli">
+    <title lang="it">Inizia alle 15:30.</title>
+    <desc lang="it">Italy - Serie C : Virtus Casarano vs Monopoli.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251101153000 +0200" stop="20251101173000 +0200" channel="ItalySerieCVirtusCasaranovsMonopoli">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Virtus Casarano vs Monopoli</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCTeamAltamuravsCosenza">
+    <display-name>Italy - Serie C : Team Altamura vs Cosenza</display-name>
+  </channel>
+  <programme start="20251101000000 +0200" stop="20251101153000 +0200" channel="ItalySerieCTeamAltamuravsCosenza">
+    <title lang="it">Inizia alle 15:30.</title>
+    <desc lang="it">Italy - Serie C : Team Altamura vs Cosenza.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251101153000 +0200" stop="20251101173000 +0200" channel="ItalySerieCTeamAltamuravsCosenza">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Team Altamura vs Cosenza</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCAudaceCerignolavsAtalantaII">
+    <display-name>Italy - Serie C : Audace Cerignola vs Atalanta II</display-name>
+  </channel>
+  <programme start="20251101000000 +0200" stop="20251101153000 +0200" channel="ItalySerieCAudaceCerignolavsAtalantaII">
+    <title lang="it">Inizia alle 15:30.</title>
+    <desc lang="it">Italy - Serie C : Audace Cerignola vs Atalanta II.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251101153000 +0200" stop="20251101173000 +0200" channel="ItalySerieCAudaceCerignolavsAtalantaII">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Audace Cerignola vs Atalanta II</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieAUdinesevsAtalanta">
+    <display-name>Italy - Serie A : Udinese vs Atalanta</display-name>
+  </channel>
+  <programme start="20251101000000 +0200" stop="20251101160000 +0200" channel="ItalySerieAUdinesevsAtalanta">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">Italy - Serie A : Udinese vs Atalanta.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251101160000 +0200" stop="20251101180000 +0200" channel="ItalySerieAUdinesevsAtalanta">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie A : Udinese vs Atalanta</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieBCarraresevsFrosinone">
+    <display-name>Italy - Serie B : Carrarese vs Frosinone</display-name>
+  </channel>
+  <programme start="20251101000000 +0200" stop="20251101160000 +0200" channel="ItalySerieBCarraresevsFrosinone">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">Italy - Serie B : Carrarese vs Frosinone.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251101160000 +0200" stop="20251101180000 +0200" channel="ItalySerieBCarraresevsFrosinone">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie B : Carrarese vs Frosinone</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieBCalcioPadovavsSdtirol">
+    <display-name>Italy - Serie B : Calcio Padova vs Südtirol</display-name>
+  </channel>
+  <programme start="20251101000000 +0200" stop="20251101160000 +0200" channel="ItalySerieBCalcioPadovavsSdtirol">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">Italy - Serie B : Calcio Padova vs Südtirol.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251101160000 +0200" stop="20251101180000 +0200" channel="ItalySerieBCalcioPadovavsSdtirol">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie B : Calcio Padova vs Südtirol</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="EnglandPremierLeagueNottinghamForestvsManchesterUnited">
+    <display-name>England - Premier League : Nottingham Forest vs Manchester United</display-name>
+  </channel>
+  <programme start="20251101000000 +0200" stop="20251101170000 +0200" channel="EnglandPremierLeagueNottinghamForestvsManchesterUnited">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">England - Premier League : Nottingham Forest vs Manchester United.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251101170000 +0200" stop="20251101190000 +0200" channel="EnglandPremierLeagueNottinghamForestvsManchesterUnited">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">England - Premier League : Nottingham Forest vs Manchester United</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="EnglandPremierLeagueBurnleyvsArsenal">
+    <display-name>England - Premier League : Burnley vs Arsenal</display-name>
+  </channel>
+  <programme start="20251101000000 +0200" stop="20251101170000 +0200" channel="EnglandPremierLeagueBurnleyvsArsenal">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">England - Premier League : Burnley vs Arsenal.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251101170000 +0200" stop="20251101190000 +0200" channel="EnglandPremierLeagueBurnleyvsArsenal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">England - Premier League : Burnley vs Arsenal</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieBVirtusEntellavsEmpoli">
+    <display-name>Italy - Serie B : Virtus Entella vs Empoli</display-name>
+  </channel>
+  <programme start="20251101000000 +0200" stop="20251101181500 +0200" channel="ItalySerieBVirtusEntellavsEmpoli">
+    <title lang="it">Inizia alle 18:15.</title>
+    <desc lang="it">Italy - Serie B : Virtus Entella vs Empoli.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251101181500 +0200" stop="20251101201500 +0200" channel="ItalySerieBVirtusEntellavsEmpoli">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie B : Virtus Entella vs Empoli</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCVirtusVeronavsTrento">
+    <display-name>Italy - Serie C : Virtus Verona vs Trento</display-name>
+  </channel>
+  <programme start="20251101000000 +0200" stop="20251101183000 +0200" channel="ItalySerieCVirtusVeronavsTrento">
+    <title lang="it">Inizia alle 18:30.</title>
+    <desc lang="it">Italy - Serie C : Virtus Verona vs Trento.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251101183000 +0200" stop="20251101203000 +0200" channel="ItalySerieCVirtusVeronavsTrento">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Virtus Verona vs Trento</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCRiminivsBra">
+    <display-name>Italy - Serie C : Rimini vs Bra</display-name>
+  </channel>
+  <programme start="20251101000000 +0200" stop="20251101183000 +0200" channel="ItalySerieCRiminivsBra">
+    <title lang="it">Inizia alle 18:30.</title>
+    <desc lang="it">Italy - Serie C : Rimini vs Bra.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251101183000 +0200" stop="20251101203000 +0200" channel="ItalySerieCRiminivsBra">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Rimini vs Bra</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieANapolivsComo">
+    <display-name>Italy - Serie A : Napoli vs Como</display-name>
+  </channel>
+  <programme start="20251101000000 +0200" stop="20251101190000 +0200" channel="ItalySerieANapolivsComo">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">Italy - Serie A : Napoli vs Como.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251101190000 +0200" stop="20251101210000 +0200" channel="ItalySerieANapolivsComo">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie A : Napoli vs Como</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieAwomenComovsGenoa">
+    <display-name>Italy - Serie A (women) : Como vs Genoa</display-name>
+  </channel>
+  <programme start="20251101000000 +0200" stop="20251101190000 +0200" channel="ItalySerieAwomenComovsGenoa">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">Italy - Serie A (women) : Como vs Genoa.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251101190000 +0200" stop="20251101210000 +0200" channel="ItalySerieAwomenComovsGenoa">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie A (women) : Como vs Genoa</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="GermanyBundesligaBayernMnchenvsBayerLeverkusen">
+    <display-name>Germany - Bundesliga : Bayern München vs Bayer Leverkusen</display-name>
+  </channel>
+  <programme start="20251101000000 +0200" stop="20251101193000 +0200" channel="GermanyBundesligaBayernMnchenvsBayerLeverkusen">
+    <title lang="it">Inizia alle 19:30.</title>
+    <desc lang="it">Germany - Bundesliga : Bayern München vs Bayer Leverkusen.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251101193000 +0200" stop="20251101213000 +0200" channel="GermanyBundesligaBayernMnchenvsBayerLeverkusen">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Germany - Bundesliga : Bayern München vs Bayer Leverkusen</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="EnglandPremierLeagueTottenhamHotspurvsChelsea">
+    <display-name>England - Premier League : Tottenham Hotspur vs Chelsea</display-name>
+  </channel>
+  <programme start="20251101000000 +0200" stop="20251101193000 +0200" channel="EnglandPremierLeagueTottenhamHotspurvsChelsea">
+    <title lang="it">Inizia alle 19:30.</title>
+    <desc lang="it">England - Premier League : Tottenham Hotspur vs Chelsea.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251101193000 +0200" stop="20251101213000 +0200" channel="EnglandPremierLeagueTottenhamHotspurvsChelsea">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">England - Premier League : Tottenham Hotspur vs Chelsea</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieBPalermovsPescara">
+    <display-name>Italy - Serie B : Palermo vs Pescara</display-name>
+  </channel>
+  <programme start="20251101000000 +0200" stop="20251101203000 +0200" channel="ItalySerieBPalermovsPescara">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">Italy - Serie B : Palermo vs Pescara.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251101203000 +0200" stop="20251101223000 +0200" channel="ItalySerieBPalermovsPescara">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie B : Palermo vs Pescara</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieACremonesevsJuventus">
+    <display-name>Italy - Serie A : Cremonese vs Juventus</display-name>
+  </channel>
+  <programme start="20251101000000 +0200" stop="20251101214500 +0200" channel="ItalySerieACremonesevsJuventus">
+    <title lang="it">Inizia alle 21:45.</title>
+    <desc lang="it">Italy - Serie A : Cremonese vs Juventus.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251101214500 +0200" stop="20251101234500 +0200" channel="ItalySerieACremonesevsJuventus">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie A : Cremonese vs Juventus</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20251101000000 +0200" stop="20251101214500 +0200" channel="ItalySerieACremonesevsJuventus">
+    <title lang="it">Inizia alle 21:45.</title>
+    <desc lang="it">Italy - Serie A : Cremonese vs Juventus.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251101214500 +0200" stop="20251101234500 +0200" channel="ItalySerieACremonesevsJuventus">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie A : Cremonese vs Juventus</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="EnglandPremierLeagueLiverpoolvsAstonVilla">
+    <display-name>England - Premier League : Liverpool vs Aston Villa</display-name>
+  </channel>
+  <programme start="20251101000000 +0200" stop="20251101220000 +0200" channel="EnglandPremierLeagueLiverpoolvsAstonVilla">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">England - Premier League : Liverpool vs Aston Villa.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251101220000 +0200" stop="20251102000000 +0200" channel="EnglandPremierLeagueLiverpoolvsAstonVilla">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">England - Premier League : Liverpool vs Aston Villa</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="FranceLigue1AuxerrevsOlympiqueMarseille">
+    <display-name>France - Ligue 1 : Auxerre vs Olympique Marseille</display-name>
+  </channel>
+  <programme start="20251101000000 +0200" stop="20251101220500 +0200" channel="FranceLigue1AuxerrevsOlympiqueMarseille">
+    <title lang="it">Inizia alle 22:05.</title>
+    <desc lang="it">France - Ligue 1 : Auxerre vs Olympique Marseille.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251101220500 +0200" stop="20251102000500 +0200" channel="FranceLigue1AuxerrevsOlympiqueMarseille">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">France - Ligue 1 : Auxerre vs Olympique Marseille</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ParisATPJiujiangWTAHongKongWTAampChennaiWTAEarlyRounds">
+    <display-name>Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds</display-name>
+  </channel>
+  <programme start="20251101000000 +0200" stop="20251101080000 +0200" channel="ParisATPJiujiangWTAHongKongWTAampChennaiWTAEarlyRounds">
+    <title lang="it">Inizia alle 08:00.</title>
+    <desc lang="it">Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251101080000 +0200" stop="20251101100000 +0200" channel="ParisATPJiujiangWTAHongKongWTAampChennaiWTAEarlyRounds">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Paris-ATP, Jiujiang-WTA, Hong Kong-WTA &amp; Chennai-WTA Early Rounds</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="2025ItalianGTSprintChampionshipMonza4throundRace1">
+    <display-name>2025 Italian GT Sprint Championship - Monza 4th round - Race 1</display-name>
+  </channel>
+  <programme start="20251101000000 +0200" stop="20251101090000 +0200" channel="2025ItalianGTSprintChampionshipMonza4throundRace1">
+    <title lang="it">Inizia alle 09:00.</title>
+    <desc lang="it">2025 Italian GT Sprint Championship - Monza 4th round - Race 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251101090000 +0200" stop="20251101110000 +0200" channel="2025ItalianGTSprintChampionshipMonza4throundRace1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 Italian GT Sprint Championship - Monza 4th round - Race 1</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="UFCFightNightMainCardSteveGarciavsDavidOnama">
+    <display-name>UFC Fight Night Main Card : Steve Garcia vs David Onama</display-name>
+  </channel>
+  <programme start="20251102000000 +0200" stop="20251102010000 +0200" channel="UFCFightNightMainCardSteveGarciavsDavidOnama">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">UFC Fight Night Main Card : Steve Garcia vs David Onama.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251102010000 +0200" stop="20251102030000 +0200" channel="UFCFightNightMainCardSteveGarciavsDavidOnama">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UFC Fight Night Main Card : Steve Garcia vs David Onama</desc>
+    <category lang="it">MMA</category>
+  </programme>
+  <channel id="X2OTrophyOudenaardeKoppenbergcrossOudenaardeWomen">
+    <display-name>X2O Trophy Oudenaarde - Koppenbergcross | Oudenaarde Women</display-name>
+  </channel>
+  <programme start="20251101000000 +0200" stop="20251101144500 +0200" channel="X2OTrophyOudenaardeKoppenbergcrossOudenaardeWomen">
+    <title lang="it">Inizia alle 14:45.</title>
+    <desc lang="it">X2O Trophy Oudenaarde - Koppenbergcross | Oudenaarde Women.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251101144500 +0200" stop="20251101164500 +0200" channel="X2OTrophyOudenaardeKoppenbergcrossOudenaardeWomen">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">X2O Trophy Oudenaarde - Koppenbergcross | Oudenaarde Women</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="GlobalChampionsTourJumpingRiyadhSeasonWorldMasters">
+    <display-name>Global Champions Tour Jumping | Riyadh Season World Masters</display-name>
+  </channel>
+  <programme start="20251101000000 +0200" stop="20251101150000 +0200" channel="GlobalChampionsTourJumpingRiyadhSeasonWorldMasters">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">Global Champions Tour Jumping | Riyadh Season World Masters.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251101150000 +0200" stop="20251101170000 +0200" channel="GlobalChampionsTourJumpingRiyadhSeasonWorldMasters">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Global Champions Tour Jumping | Riyadh Season World Masters</desc>
+    <category lang="it">Equestrian</category>
+  </programme>
+  <channel id="GrandPrixCanadaIceDanceShortProgramMixed">
+    <display-name>Grand Prix | Canada Ice Dance | Short Program | Mixed</display-name>
+  </channel>
+  <programme start="20251101000000 +0200" stop="20251101204500 +0200" channel="GrandPrixCanadaIceDanceShortProgramMixed">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">Grand Prix | Canada Ice Dance | Short Program | Mixed.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251101204500 +0200" stop="20251101224500 +0200" channel="GrandPrixCanadaIceDanceShortProgramMixed">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Grand Prix | Canada Ice Dance | Short Program | Mixed</desc>
+    <category lang="it">Ice Skating</category>
+  </programme>
+  <channel id="SerieAElitePetrarcaPadovavsRovigo">
+    <display-name>Serie A Elite : Petrarca Padova vs Rovigo</display-name>
+  </channel>
+  <programme start="20251101000000 +0200" stop="20251101153000 +0200" channel="SerieAElitePetrarcaPadovavsRovigo">
+    <title lang="it">Inizia alle 15:30.</title>
+    <desc lang="it">Serie A Elite : Petrarca Padova vs Rovigo.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251101153000 +0200" stop="20251101173000 +0200" channel="SerieAElitePetrarcaPadovavsRovigo">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Serie A Elite : Petrarca Padova vs Rovigo</desc>
+    <category lang="it">Rugby Union</category>
+  </programme>
+  <channel id="FriendlyInternationalEnglandvsAustralia">
+    <display-name>Friendly International : England vs Australia</display-name>
+  </channel>
+  <programme start="20251101000000 +0200" stop="20251101171000 +0200" channel="FriendlyInternationalEnglandvsAustralia">
+    <title lang="it">Inizia alle 17:10.</title>
+    <desc lang="it">Friendly International : England vs Australia.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251101171000 +0200" stop="20251101191000 +0200" channel="FriendlyInternationalEnglandvsAustralia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Friendly International : England vs Australia</desc>
+    <category lang="it">Rugby Union</category>
+  </programme>
+  <channel id="FriendlyInternationalIrelandvsNewZealand">
+    <display-name>Friendly International : Ireland vs New Zealand</display-name>
+  </channel>
+  <programme start="20251101000000 +0200" stop="20251101214500 +0200" channel="FriendlyInternationalIrelandvsNewZealand">
+    <title lang="it">Inizia alle 21:45.</title>
+    <desc lang="it">Friendly International : Ireland vs New Zealand.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251101214500 +0200" stop="20251101234500 +0200" channel="FriendlyInternationalIrelandvsNewZealand">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Friendly International : Ireland vs New Zealand</desc>
+    <category lang="it">Rugby Union</category>
+  </programme>
 </tv>
