@@ -1,114 +1,248 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieCAlcionevsProPatria">
-    <display-name>Italy - Serie C : Alcione vs Pro Patria</display-name>
+  <channel id="EuropeUEFAYouthLeagueLiverpoolU19vsRealMadridU19">
+    <display-name>Europe - UEFA Youth League : Liverpool U19 vs Real Madrid U19</display-name>
   </channel>
-  <programme start="20251103000000 +0200" stop="20251103213000 +0200" channel="ItalySerieCAlcionevsProPatria">
-    <title lang="it">Inizia alle 21:30.</title>
-    <desc lang="it">Italy - Serie C : Alcione vs Pro Patria.</desc>
+  <programme start="20251104000000 +0200" stop="20251104170000 +0200" channel="EuropeUEFAYouthLeagueLiverpoolU19vsRealMadridU19">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">Europe - UEFA Youth League : Liverpool U19 vs Real Madrid U19.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20251103213000 +0200" stop="20251103233000 +0200" channel="ItalySerieCAlcionevsProPatria">
+  <programme start="20251104170000 +0200" stop="20251104190000 +0200" channel="EuropeUEFAYouthLeagueLiverpoolU19vsRealMadridU19">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Alcione vs Pro Patria</desc>
+    <desc lang="it">Europe - UEFA Youth League : Liverpool U19 vs Real Madrid U19</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="ItalySerieCOspitalettovsDolomitiBellunesi">
-    <display-name>Italy - Serie C : Ospitaletto vs Dolomiti Bellunesi</display-name>
+  <channel id="UEFAChampionsLeagueSlaviaPrahavsArsenal">
+    <display-name>UEFA Champions League : Slavia Praha vs Arsenal</display-name>
   </channel>
-  <programme start="20251103000000 +0200" stop="20251103213000 +0200" channel="ItalySerieCOspitalettovsDolomitiBellunesi">
-    <title lang="it">Inizia alle 21:30.</title>
-    <desc lang="it">Italy - Serie C : Ospitaletto vs Dolomiti Bellunesi.</desc>
+  <programme start="20251104000000 +0200" stop="20251104194500 +0200" channel="UEFAChampionsLeagueSlaviaPrahavsArsenal">
+    <title lang="it">Inizia alle 19:45.</title>
+    <desc lang="it">UEFA Champions League : Slavia Praha vs Arsenal.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20251103213000 +0200" stop="20251103233000 +0200" channel="ItalySerieCOspitalettovsDolomitiBellunesi">
+  <programme start="20251104194500 +0200" stop="20251104214500 +0200" channel="UEFAChampionsLeagueSlaviaPrahavsArsenal">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Ospitaletto vs Dolomiti Bellunesi</desc>
+    <desc lang="it">UEFA Champions League : Slavia Praha vs Arsenal</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="ItalySerieCVisPesarovsJuventusII">
-    <display-name>Italy - Serie C : Vis Pesaro vs Juventus II</display-name>
+  <programme start="20251104000000 +0200" stop="20251104194500 +0200" channel="UEFAChampionsLeagueSlaviaPrahavsArsenal">
+    <title lang="it">Inizia alle 19:45.</title>
+    <desc lang="it">UEFA Champions League : Slavia Praha vs Arsenal.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251104194500 +0200" stop="20251104214500 +0200" channel="UEFAChampionsLeagueSlaviaPrahavsArsenal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Champions League : Slavia Praha vs Arsenal</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="UEFAChampionsLeagueNapolivsEintrachtFrankfurt">
+    <display-name>UEFA Champions League : Napoli vs Eintracht Frankfurt</display-name>
   </channel>
-  <programme start="20251103000000 +0200" stop="20251103213000 +0200" channel="ItalySerieCVisPesarovsJuventusII">
-    <title lang="it">Inizia alle 21:30.</title>
-    <desc lang="it">Italy - Serie C : Vis Pesaro vs Juventus II.</desc>
+  <programme start="20251104000000 +0200" stop="20251104194500 +0200" channel="UEFAChampionsLeagueNapolivsEintrachtFrankfurt">
+    <title lang="it">Inizia alle 19:45.</title>
+    <desc lang="it">UEFA Champions League : Napoli vs Eintracht Frankfurt.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20251103213000 +0200" stop="20251103233000 +0200" channel="ItalySerieCVisPesarovsJuventusII">
+  <programme start="20251104194500 +0200" stop="20251104214500 +0200" channel="UEFAChampionsLeagueNapolivsEintrachtFrankfurt">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Vis Pesaro vs Juventus II</desc>
+    <desc lang="it">UEFA Champions League : Napoli vs Eintracht Frankfurt</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <programme start="20251103000000 +0200" stop="20251103213000 +0200" channel="ItalySerieCVisPesarovsJuventusII">
-    <title lang="it">Inizia alle 21:30.</title>
-    <desc lang="it">Italy - Serie C : Vis Pesaro vs Juventus II.</desc>
+  <programme start="20251104000000 +0200" stop="20251104194500 +0200" channel="UEFAChampionsLeagueNapolivsEintrachtFrankfurt">
+    <title lang="it">Inizia alle 19:45.</title>
+    <desc lang="it">UEFA Champions League : Napoli vs Eintracht Frankfurt.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20251103213000 +0200" stop="20251103233000 +0200" channel="ItalySerieCVisPesarovsJuventusII">
+  <programme start="20251104194500 +0200" stop="20251104214500 +0200" channel="UEFAChampionsLeagueNapolivsEintrachtFrankfurt">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Vis Pesaro vs Juventus II</desc>
+    <desc lang="it">UEFA Champions League : Napoli vs Eintracht Frankfurt</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="ItalySerieCAlbinoLeffevsInterII">
-    <display-name>Italy - Serie C : AlbinoLeffe vs Inter II</display-name>
+  <channel id="UEFAChampionsLeagueOlympiakosPiraeusvsPSV">
+    <display-name>UEFA Champions League : Olympiakos Piraeus vs PSV</display-name>
   </channel>
-  <programme start="20251103000000 +0200" stop="20251103213000 +0200" channel="ItalySerieCAlbinoLeffevsInterII">
-    <title lang="it">Inizia alle 21:30.</title>
-    <desc lang="it">Italy - Serie C : AlbinoLeffe vs Inter II.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251103213000 +0200" stop="20251103233000 +0200" channel="ItalySerieCAlbinoLeffevsInterII">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : AlbinoLeffe vs Inter II</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="ItalySerieALaziovsCagliari">
-    <display-name>Italy - Serie A : Lazio vs Cagliari</display-name>
-  </channel>
-  <programme start="20251103000000 +0200" stop="20251103214500 +0200" channel="ItalySerieALaziovsCagliari">
-    <title lang="it">Inizia alle 21:45.</title>
-    <desc lang="it">Italy - Serie A : Lazio vs Cagliari.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251103214500 +0200" stop="20251103234500 +0200" channel="ItalySerieALaziovsCagliari">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Lazio vs Cagliari</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20251103000000 +0200" stop="20251103214500 +0200" channel="ItalySerieALaziovsCagliari">
-    <title lang="it">Inizia alle 21:45.</title>
-    <desc lang="it">Italy - Serie A : Lazio vs Cagliari.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251103214500 +0200" stop="20251103234500 +0200" channel="ItalySerieALaziovsCagliari">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Lazio vs Cagliari</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="EnglandPremierLeagueSunderlandvsEverton">
-    <display-name>England - Premier League : Sunderland vs Everton</display-name>
-  </channel>
-  <programme start="20251103000000 +0200" stop="20251103220000 +0200" channel="EnglandPremierLeagueSunderlandvsEverton">
+  <programme start="20251104000000 +0200" stop="20251104220000 +0200" channel="UEFAChampionsLeagueOlympiakosPiraeusvsPSV">
     <title lang="it">Inizia alle 22:00.</title>
-    <desc lang="it">England - Premier League : Sunderland vs Everton.</desc>
+    <desc lang="it">UEFA Champions League : Olympiakos Piraeus vs PSV.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20251103220000 +0200" stop="20251104000000 +0200" channel="EnglandPremierLeagueSunderlandvsEverton">
+  <programme start="20251104220000 +0200" stop="20251105000000 +0200" channel="UEFAChampionsLeagueOlympiakosPiraeusvsPSV">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Sunderland vs Everton</desc>
+    <desc lang="it">UEFA Champions League : Olympiakos Piraeus vs PSV</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="GrandPrixCanadaIceDanceFreeRoutineMixed">
-    <display-name>Grand Prix | Canada Ice Dance | Free Routine | Mixed</display-name>
+  <channel id="UEFAChampionsLeagueTottenhamHotspurvsKbenhavn">
+    <display-name>UEFA Champions League : Tottenham Hotspur vs København</display-name>
   </channel>
-  <programme start="20251103000000 +0200" stop="20251103203000 +0200" channel="GrandPrixCanadaIceDanceFreeRoutineMixed">
-    <title lang="it">Inizia alle 20:30.</title>
-    <desc lang="it">Grand Prix | Canada Ice Dance | Free Routine | Mixed.</desc>
+  <programme start="20251104000000 +0200" stop="20251104220000 +0200" channel="UEFAChampionsLeagueTottenhamHotspurvsKbenhavn">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">UEFA Champions League : Tottenham Hotspur vs København.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20251103203000 +0200" stop="20251103223000 +0200" channel="GrandPrixCanadaIceDanceFreeRoutineMixed">
+  <programme start="20251104220000 +0200" stop="20251105000000 +0200" channel="UEFAChampionsLeagueTottenhamHotspurvsKbenhavn">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Grand Prix | Canada Ice Dance | Free Routine | Mixed</desc>
-    <category lang="it">Ice Skating</category>
+    <desc lang="it">UEFA Champions League : Tottenham Hotspur vs København</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="UEFAChampionsLeagueLiverpoolvsRealMadrid">
+    <display-name>UEFA Champions League : Liverpool vs Real Madrid</display-name>
+  </channel>
+  <programme start="20251104000000 +0200" stop="20251104220000 +0200" channel="UEFAChampionsLeagueLiverpoolvsRealMadrid">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">UEFA Champions League : Liverpool vs Real Madrid.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251104220000 +0200" stop="20251105000000 +0200" channel="UEFAChampionsLeagueLiverpoolvsRealMadrid">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Champions League : Liverpool vs Real Madrid</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20251104000000 +0200" stop="20251104220000 +0200" channel="UEFAChampionsLeagueLiverpoolvsRealMadrid">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">UEFA Champions League : Liverpool vs Real Madrid.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251104220000 +0200" stop="20251105000000 +0200" channel="UEFAChampionsLeagueLiverpoolvsRealMadrid">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Champions League : Liverpool vs Real Madrid</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="UEFAChampionsLeagueAtlticoMadridvsUnionSaintGilloise">
+    <display-name>UEFA Champions League : Atlético Madrid vs Union Saint-Gilloise</display-name>
+  </channel>
+  <programme start="20251104000000 +0200" stop="20251104220000 +0200" channel="UEFAChampionsLeagueAtlticoMadridvsUnionSaintGilloise">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">UEFA Champions League : Atlético Madrid vs Union Saint-Gilloise.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251104220000 +0200" stop="20251105000000 +0200" channel="UEFAChampionsLeagueAtlticoMadridvsUnionSaintGilloise">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Champions League : Atlético Madrid vs Union Saint-Gilloise</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="UEFAChampionsLeagueBodGlimtvsMonaco">
+    <display-name>UEFA Champions League : Bodø / Glimt vs Monaco</display-name>
+  </channel>
+  <programme start="20251104000000 +0200" stop="20251104220000 +0200" channel="UEFAChampionsLeagueBodGlimtvsMonaco">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">UEFA Champions League : Bodø / Glimt vs Monaco.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251104220000 +0200" stop="20251105000000 +0200" channel="UEFAChampionsLeagueBodGlimtvsMonaco">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Champions League : Bodø / Glimt vs Monaco</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="UEFAChampionsLeaguePSGvsBayernMnchen">
+    <display-name>UEFA Champions League : PSG vs Bayern München</display-name>
+  </channel>
+  <programme start="20251104000000 +0200" stop="20251104220000 +0200" channel="UEFAChampionsLeaguePSGvsBayernMnchen">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">UEFA Champions League : PSG vs Bayern München.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251104220000 +0200" stop="20251105000000 +0200" channel="UEFAChampionsLeaguePSGvsBayernMnchen">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Champions League : PSG vs Bayern München</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="UEFAChampionsLeagueJuventusvsSportingCP">
+    <display-name>UEFA Champions League : Juventus vs Sporting CP</display-name>
+  </channel>
+  <programme start="20251104000000 +0200" stop="20251104220000 +0200" channel="UEFAChampionsLeagueJuventusvsSportingCP">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">UEFA Champions League : Juventus vs Sporting CP.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251104220000 +0200" stop="20251105000000 +0200" channel="UEFAChampionsLeagueJuventusvsSportingCP">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Champions League : Juventus vs Sporting CP</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20251104000000 +0200" stop="20251104220000 +0200" channel="UEFAChampionsLeagueJuventusvsSportingCP">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">UEFA Champions League : Juventus vs Sporting CP.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251104220000 +0200" stop="20251105000000 +0200" channel="UEFAChampionsLeagueJuventusvsSportingCP">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Champions League : Juventus vs Sporting CP</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="WTAFinalsRoundRobinAthensATPampMetzATPEarlyRounds">
+    <display-name>WTA Finals Round Robin; Athens-ATP &amp; Metz-ATP Early Rounds</display-name>
+  </channel>
+  <programme start="20251104000000 +0200" stop="20251104140000 +0200" channel="WTAFinalsRoundRobinAthensATPampMetzATPEarlyRounds">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">WTA Finals Round Robin; Athens-ATP &amp; Metz-ATP Early Rounds.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251104140000 +0200" stop="20251104160000 +0200" channel="WTAFinalsRoundRobinAthensATPampMetzATPEarlyRounds">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">WTA Finals Round Robin; Athens-ATP &amp; Metz-ATP Early Rounds</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="InternationalChampionshipRound2">
+    <display-name>International Championship | Round 2</display-name>
+  </channel>
+  <programme start="20251104000000 +0200" stop="20251104083000 +0200" channel="InternationalChampionshipRound2">
+    <title lang="it">Inizia alle 08:30.</title>
+    <desc lang="it">International Championship | Round 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251104083000 +0200" stop="20251104103000 +0200" channel="InternationalChampionshipRound2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">International Championship | Round 2</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <programme start="20251104103000 +0200" stop="20251104133000 +0200" channel="InternationalChampionshipRound2">
+    <title lang="it">Inizia alle 13:30.</title>
+    <desc lang="it">International Championship | Round 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251104133000 +0200" stop="20251104153000 +0200" channel="InternationalChampionshipRound2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">International Championship | Round 2</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <channel id="RomeHalfMarathon105min">
+    <display-name>Rome Half Marathon | 105 min</display-name>
+  </channel>
+  <programme start="20251104000000 +0200" stop="20251104050000 +0200" channel="RomeHalfMarathon105min">
+    <title lang="it">Inizia alle 05:00.</title>
+    <desc lang="it">Rome Half Marathon | 105 min.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251104050000 +0200" stop="20251104070000 +0200" channel="RomeHalfMarathon105min">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Rome Half Marathon | 105 min</desc>
+    <category lang="it">Athletics</category>
+  </programme>
+  <channel id="EuroleagueWomenVeneziaWvsZaragozaW">
+    <display-name>Euroleague Women : Venezia W vs Zaragoza W</display-name>
+  </channel>
+  <programme start="20251104000000 +0200" stop="20251104203000 +0200" channel="EuroleagueWomenVeneziaWvsZaragozaW">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">Euroleague Women : Venezia W vs Zaragoza W.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251104203000 +0200" stop="20251104223000 +0200" channel="EuroleagueWomenVeneziaWvsZaragozaW">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Euroleague Women : Venezia W vs Zaragoza W</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <channel id="MensSerieA1PosillipovsCanottieriNapoli">
+    <display-name>Men's Serie A1 : Posillipo vs Canottieri Napoli</display-name>
+  </channel>
+  <programme start="20251104000000 +0200" stop="20251104191000 +0200" channel="MensSerieA1PosillipovsCanottieriNapoli">
+    <title lang="it">Inizia alle 19:10.</title>
+    <desc lang="it">Men's Serie A1 : Posillipo vs Canottieri Napoli.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251104191000 +0200" stop="20251104211000 +0200" channel="MensSerieA1PosillipovsCanottieriNapoli">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Men's Serie A1 : Posillipo vs Canottieri Napoli</desc>
+    <category lang="it">Water polo</category>
   </programme>
 </tv>
