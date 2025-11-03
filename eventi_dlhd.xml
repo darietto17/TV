@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="FIFAU17WorldCupQatarU17vsItalyU17">
-    <display-name>FIFA U-17 World Cup : Qatar U17 vs Italy U17</display-name>
-  </channel>
-  <programme start="20251103000000 +0200" stop="20251103174500 +0200" channel="FIFAU17WorldCupQatarU17vsItalyU17">
-    <title lang="it">Inizia alle 17:45.</title>
-    <desc lang="it">FIFA U-17 World Cup : Qatar U17 vs Italy U17.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251103174500 +0200" stop="20251103194500 +0200" channel="FIFAU17WorldCupQatarU17vsItalyU17">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIFA U-17 World Cup : Qatar U17 vs Italy U17</desc>
-    <category lang="it">Soccer</category>
-  </programme>
   <channel id="ItalySerieASassuolovsGenoa">
     <display-name>Italy - Serie A : Sassuolo vs Genoa</display-name>
   </channel>
