@@ -168,8 +168,6 @@ https://vavoo.to/vavoo-iptv/play/40604994550f228d5b9b59
 https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV
 https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
-https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS
@@ -324,8 +322,6 @@ https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
-https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/1925964148b9cb23cc2bce
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE (MPD)
@@ -467,6 +463,8 @@ https://dlhd.dad/watch.php?id=862
 https://dlhd.dad/watch.php?id=867
 #EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film - Serie TV",SKY CINEMA DUE
 https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
+#EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24
+https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24 (D)
 https://dlhd.dad/watch.php?id=866
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY
@@ -774,13 +772,13 @@ https://dlhd.dad/watch.php?id=30
 #EXTINF:-1 tvg-id="uefachampionsleaguejuventusvssportingcp" tvg-name="All Soccer Events | UEFA Champions League : Juventus vs Sporting CP (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Juventus_vs_Sporting CP.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Champions League : Juventus vs Sporting CP (22:00)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="wtafinalsroundrobinathensatpampmetzatpearlyrounds" tvg-name="Tennis | WTA Finals Round Robin; Athens-ATP &amp; Metz-ATP Early Rounds (14:00)" tvg-logo="http://assets.stickpng.com/images/6266992c2c88722059d58710.png" group-title="Eventi Live DLHD",Tennis | WTA Finals Round Robin; Athens-ATP &amp; Metz-ATP Early Rounds (14:00)
+#EXTINF:-1 tvg-id="wtafinalsroundrobinathensatpampmetzatpearlyrounds" tvg-name="Tennis | WTA Finals Round Robin; Athens-ATP &amp; Metz-ATP Early Rounds (14:00)" tvg-logo="https://i.redd.it/for-the-first-time-since-2012-multiple-wta-players-have-v0-hkr68xo4d5zb1.png?s=a1e80770327ae01704c78bebba8a0524795c4d2d" group-title="Eventi Live DLHD",Tennis | WTA Finals Round Robin; Athens-ATP &amp; Metz-ATP Early Rounds (14:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="internationalchampionshipround2" tvg-name="Snooker | International Championship | Round 2 (08:30)" tvg-logo="https://www.kcl.ac.uk/newimages/sspp/faculty-top-level/main/international-relations-image-780-440.x881f33e9.png?f=webp" group-title="Eventi Live DLHD",Snooker | International Championship | Round 2 (08:30)
+#EXTINF:-1 tvg-id="internationalchampionshipround2" tvg-name="Snooker | International Championship | Round 2 (08:30)" tvg-logo="https://www.navitrans.com.co/wp-content/uploads/2023/02/hv-607-2.png" group-title="Eventi Live DLHD",Snooker | International Championship | Round 2 (08:30)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="internationalchampionshipround2" tvg-name="Snooker | International Championship | Round 2 (13:30)" tvg-logo="https://www.kcl.ac.uk/newimages/sspp/faculty-top-level/main/international-relations-image-780-440.x881f33e9.png?f=webp" group-title="Eventi Live DLHD",Snooker | International Championship | Round 2 (13:30)
+#EXTINF:-1 tvg-id="internationalchampionshipround2" tvg-name="Snooker | International Championship | Round 2 (13:30)" tvg-logo="https://www.navitrans.com.co/wp-content/uploads/2023/02/hv-607-2.png" group-title="Eventi Live DLHD",Snooker | International Championship | Round 2 (13:30)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="romehalfmarathon105min" tvg-name="Athletics | Rome Half Marathon | 105 min (05:00)" tvg-logo="https://www.voyagetips.com/wp-content/uploads/2017/05/vatican.jpg" group-title="Eventi Live DLHD",Athletics | Rome Half Marathon | 105 min (05:00)
