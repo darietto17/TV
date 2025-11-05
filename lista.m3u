@@ -100,8 +100,6 @@ https://vavoo.to/vavoo-iptv/play/4137427510ef362e6435fc
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
 #EXTINF:-1 tvg-id="dazn.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN
 https://vavoo.to/vavoo-iptv/play/2745635299ab0cc043a143
-#EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV
-https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319
 #EXTINF:-1 tvg-id="discovery.channel.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL
 https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 #EXTINF:-1 tvg-id="focus.it" tvg-name="DISCOVERY FOCUS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Documentari",DISCOVERY FOCUS (MPD)
@@ -168,8 +166,6 @@ https://vavoo.to/vavoo-iptv/play/40604994550f228d5b9b59
 https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV
 https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
-https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS
@@ -186,10 +182,10 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="italia.2.it" tvg-name="ITALIA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png" group-title="Mediaset",ITALIA 2 (MPD)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (1)
-https://vavoo.to/vavoo-iptv/play/1565298794daace40d1b60
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3
 https://vavoo.to/vavoo-iptv/play/1200985239ceccd12c8a54
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV
+https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Iunior_tv.png" group-title="Altro",IUNIOR TV
 https://vavoo.to/vavoo-iptv/play/803540254d5a6317673b3
 #EXTINF:-1 tvg-id="k2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",K2
@@ -766,12 +762,6 @@ https://dlhd.dad/watch.php?id=7
 
 #EXTINF:-1 tvg-id="uefachampionsleaguemanchestercityvsborussiadortmund" tvg-name="All Soccer Events | UEFA Champions League : Manchester City vs Borussia Dortmund (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Manchester City_vs_Borussia Dortmund.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Champions League : Manchester City vs Borussia Dortmund (22:00)
 https://dlhd.dad/watch.php?id=462
-
-#EXTINF:-1 tvg-id="wtatourfinalsriyadh" tvg-name="Tennis | WTA Tour Finals Riyadh (14:00)" tvg-logo="https://static.flashscore.com/res/image/data/OlRjh4kD-EVoZMSig.png" group-title="Eventi Live DLHD",Tennis | WTA Tour Finals Riyadh (14:00)
-https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="internationalchampionshipround3" tvg-name="Snooker | International Championship | Round 3 (13:30)" tvg-logo="https://www.usasf.net/EA International Logo -1-.png" group-title="Eventi Live DLHD",Snooker | International Championship | Round 3 (13:30)
-https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="eurocupveneziavshamburg" tvg-name="Basketball | Eurocup : Venezia vs Hamburg (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Venezia_vs_Hamburg.png" group-title="Eventi Live DLHD",Basketball | Eurocup : Venezia vs Hamburg (21:00)
 https://dlhd.dad/watch.php?id=181
