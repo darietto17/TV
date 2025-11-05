@@ -154,32 +154,6 @@
     <desc lang="it">UEFA Champions League : Manchester City vs Borussia Dortmund</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="WTATourFinalsRiyadh">
-    <display-name>WTA Tour Finals Riyadh</display-name>
-  </channel>
-  <programme start="20251105000000 +0200" stop="20251105140000 +0200" channel="WTATourFinalsRiyadh">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">WTA Tour Finals Riyadh.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251105140000 +0200" stop="20251105160000 +0200" channel="WTATourFinalsRiyadh">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA Tour Finals Riyadh</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <channel id="InternationalChampionshipRound3">
-    <display-name>International Championship | Round 3</display-name>
-  </channel>
-  <programme start="20251105000000 +0200" stop="20251105133000 +0200" channel="InternationalChampionshipRound3">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">International Championship | Round 3.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251105133000 +0200" stop="20251105153000 +0200" channel="InternationalChampionshipRound3">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">International Championship | Round 3</desc>
-    <category lang="it">Snooker</category>
-  </programme>
   <channel id="EurocupVeneziavsHamburg">
     <display-name>Eurocup : Venezia vs Hamburg</display-name>
   </channel>
