@@ -209,17 +209,7 @@
   <channel id="InternationalChampionshipQuarterFinal">
     <display-name>International Championship | Quarter-Final</display-name>
   </channel>
-  <programme start="20251106000000 +0200" stop="20251106090000 +0200" channel="InternationalChampionshipQuarterFinal">
-    <title lang="it">Inizia alle 09:00.</title>
-    <desc lang="it">International Championship | Quarter-Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251106090000 +0200" stop="20251106110000 +0200" channel="InternationalChampionshipQuarterFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">International Championship | Quarter-Final</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20251106110000 +0200" stop="20251106133000 +0200" channel="InternationalChampionshipQuarterFinal">
+  <programme start="20251106000000 +0200" stop="20251106133000 +0200" channel="InternationalChampionshipQuarterFinal">
     <title lang="it">Inizia alle 13:30.</title>
     <desc lang="it">International Championship | Quarter-Final.</desc>
     <category lang="it">Annuncio</category>
