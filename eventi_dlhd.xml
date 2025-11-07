@@ -111,45 +111,6 @@
     <desc lang="it">WTA Finals Semifinals; Athens-ATP &amp; Metz-ATP Semfinals</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="Moto3GreekGrandPrixofPortugalFreePractice1">
-    <display-name>Moto 3 : Greek Grand Prix of Portugal Free Practice 1</display-name>
-  </channel>
-  <programme start="20251107000000 +0200" stop="20251107110000 +0200" channel="Moto3GreekGrandPrixofPortugalFreePractice1">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">Moto 3 : Greek Grand Prix of Portugal Free Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251107110000 +0200" stop="20251107130000 +0200" channel="Moto3GreekGrandPrixofPortugalFreePractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto 3 : Greek Grand Prix of Portugal Free Practice 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Moto2GreekGrandPrixofPortugal">
-    <display-name>Moto 2 : Greek Grand Prix of Portugal</display-name>
-  </channel>
-  <programme start="20251107000000 +0200" stop="20251107114500 +0200" channel="Moto2GreekGrandPrixofPortugal">
-    <title lang="it">Inizia alle 11:45.</title>
-    <desc lang="it">Moto 2 : Greek Grand Prix of Portugal.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251107114500 +0200" stop="20251107134500 +0200" channel="Moto2GreekGrandPrixofPortugal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto 2 : Greek Grand Prix of Portugal</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="MotoGPGreekGrandPrixofPortugalFreePractice">
-    <display-name>MotoGP Greek Grand Prix of Portugal Free Practice</display-name>
-  </channel>
-  <programme start="20251107000000 +0200" stop="20251107124000 +0200" channel="MotoGPGreekGrandPrixofPortugalFreePractice">
-    <title lang="it">Inizia alle 12:40.</title>
-    <desc lang="it">MotoGP Greek Grand Prix of Portugal Free Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251107124000 +0200" stop="20251107144000 +0200" channel="MotoGPGreekGrandPrixofPortugalFreePractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP Greek Grand Prix of Portugal Free Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Moto3GreekGrandPrixofPortugal">
     <display-name>Moto 3 : Greek Grand Prix of Portugal</display-name>
   </channel>
@@ -163,7 +124,10 @@
     <desc lang="it">Moto 3 : Greek Grand Prix of Portugal</desc>
     <category lang="it">Motorsport</category>
   </programme>
-  <programme start="20251107134500 +0200" stop="20251107160000 +0200" channel="Moto2GreekGrandPrixofPortugal">
+  <channel id="Moto2GreekGrandPrixofPortugal">
+    <display-name>Moto 2 : Greek Grand Prix of Portugal</display-name>
+  </channel>
+  <programme start="20251107000000 +0200" stop="20251107160000 +0200" channel="Moto2GreekGrandPrixofPortugal">
     <title lang="it">Inizia alle 16:00.</title>
     <desc lang="it">Moto 2 : Greek Grand Prix of Portugal.</desc>
     <category lang="it">Annuncio</category>
@@ -263,18 +227,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">UCI BMX Freestyle World Championships Men | Flatland | Final</desc>
     <category lang="it">Cycling</category>
-  </programme>
-  <channel id="WomensShortProgram">
-    <display-name>Women's Short Program</display-name>
-  </channel>
-  <programme start="20251107000000 +0200" stop="20251107120000 +0200" channel="WomensShortProgram">
-    <title lang="it">Inizia alle 12:00.</title>
-    <desc lang="it">Women's Short Program.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251107120000 +0200" stop="20251107140000 +0200" channel="WomensShortProgram">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Women's Short Program</desc>
-    <category lang="it">Ice Skating</category>
   </programme>
 </tv>
