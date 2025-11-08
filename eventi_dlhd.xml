@@ -524,19 +524,6 @@
     <desc lang="it">UCI BMX Freestyle World Championships Men | Park | Final</desc>
     <category lang="it">Cycling</category>
   </programme>
-  <channel id="MensFreeSkate">
-    <display-name>Men's Free Skate</display-name>
-  </channel>
-  <programme start="20251108000000 +0200" stop="20251108093000 +0200" channel="MensFreeSkate">
-    <title lang="it">Inizia alle 09:30.</title>
-    <desc lang="it">Men's Free Skate.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251108093000 +0200" stop="20251108113000 +0200" channel="MensFreeSkate">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Men's Free Skate</desc>
-    <category lang="it">Ice Skating</category>
-  </programme>
   <channel id="WomensFreeSkate">
     <display-name>Women's Free Skate</display-name>
   </channel>
