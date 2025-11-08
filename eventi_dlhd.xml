@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieAwomenInterMilanovsSassuolo">
-    <display-name>Italy - Serie A (women) : Inter Milano vs Sassuolo</display-name>
-  </channel>
-  <programme start="20251108000000 +0200" stop="20251108133000 +0200" channel="ItalySerieAwomenInterMilanovsSassuolo">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie A (women) : Inter Milano vs Sassuolo.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251108133000 +0200" stop="20251108153000 +0200" channel="ItalySerieAwomenInterMilanovsSassuolo">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A (women) : Inter Milano vs Sassuolo</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="EnglandPremierLeagueTottenhamHotspurvsManchesterUnited">
     <display-name>England - Premier League : Tottenham Hotspur vs Manchester United</display-name>
   </channel>
@@ -332,32 +319,6 @@
     <desc lang="it">WTA Tour Finals Riyadh</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="Formula1MSCCruisesSaoPauloGPSprintGrid">
-    <display-name>Formula 1 : MSC Cruises Sao Paulo GP - Sprint Grid</display-name>
-  </channel>
-  <programme start="20251108000000 +0200" stop="20251108140000 +0200" channel="Formula1MSCCruisesSaoPauloGPSprintGrid">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Formula 1 : MSC Cruises Sao Paulo GP - Sprint Grid.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251108140000 +0200" stop="20251108160000 +0200" channel="Formula1MSCCruisesSaoPauloGPSprintGrid">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 1 : MSC Cruises Sao Paulo GP - Sprint Grid</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="MotoERound7PortugalRace1">
-    <display-name>MotoE | Round 7 | Portugal Race 1</display-name>
-  </channel>
-  <programme start="20251108000000 +0200" stop="20251108140000 +0200" channel="MotoERound7PortugalRace1">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">MotoE | Round 7 | Portugal Race 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251108140000 +0200" stop="20251108160000 +0200" channel="MotoERound7PortugalRace1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoE | Round 7 | Portugal Race 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Moto3GreekGrandPrixofPortugalQualifying">
     <display-name>Moto 3 : Greek Grand Prix of Portugal Qualifying</display-name>
   </channel>
@@ -448,19 +409,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Formula 1 : MSC Cruises Sao Paulo GP - Qualifying</desc>
     <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="InternationalChampionshipSemiFinal">
-    <display-name>International Championship | Semi-Final</display-name>
-  </channel>
-  <programme start="20251108000000 +0200" stop="20251108133000 +0200" channel="InternationalChampionshipSemiFinal">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">International Championship | Semi-Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251108133000 +0200" stop="20251108153000 +0200" channel="InternationalChampionshipSemiFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">International Championship | Semi-Final</desc>
-    <category lang="it">Snooker</category>
   </programme>
   <channel id="CyclocrossEuropeanChampionshipsMiddelkerke2025womensrace">
     <display-name>Cyclo-cross: European Championships - Middelkerke 2025 women's race</display-name>
