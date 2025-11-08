@@ -1,31 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="EnglandPremierLeagueEvertonvsFulham">
-    <display-name>England - Premier League : Everton vs Fulham</display-name>
-  </channel>
-  <programme start="20251108000000 +0200" stop="20251108170000 +0200" channel="EnglandPremierLeagueEvertonvsFulham">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">England - Premier League : Everton vs Fulham.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251108170000 +0200" stop="20251108190000 +0200" channel="EnglandPremierLeagueEvertonvsFulham">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Everton vs Fulham</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="FranceLigue1OlympiqueMarseillevsBrest">
-    <display-name>France - Ligue 1 : Olympique Marseille vs Brest</display-name>
-  </channel>
-  <programme start="20251108000000 +0200" stop="20251108180000 +0200" channel="FranceLigue1OlympiqueMarseillevsBrest">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">France - Ligue 1 : Olympique Marseille vs Brest.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251108180000 +0200" stop="20251108200000 +0200" channel="FranceLigue1OlympiqueMarseillevsBrest">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">France - Ligue 1 : Olympique Marseille vs Brest</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalySerieCProPatriavsLumezzane">
     <display-name>Italy - Serie C : Pro Patria vs Lumezzane</display-name>
   </channel>
@@ -175,58 +149,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">France - Ligue 1 : Monaco vs Lens</desc>
     <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="WTATourFinalsRiyadh">
-    <display-name>WTA Tour Finals Riyadh</display-name>
-  </channel>
-  <programme start="20251108000000 +0200" stop="20251108170000 +0200" channel="WTATourFinalsRiyadh">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">WTA Tour Finals Riyadh.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251108170000 +0200" stop="20251108190000 +0200" channel="WTATourFinalsRiyadh">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA Tour Finals Riyadh</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <channel id="MotoGPGreekGrandPrixofPortugalSprintRace">
-    <display-name>Moto GP : Greek Grand Prix of Portugal Sprint Race</display-name>
-  </channel>
-  <programme start="20251108000000 +0200" stop="20251108164500 +0200" channel="MotoGPGreekGrandPrixofPortugalSprintRace">
-    <title lang="it">Inizia alle 16:45.</title>
-    <desc lang="it">Moto GP : Greek Grand Prix of Portugal Sprint Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251108164500 +0200" stop="20251108184500 +0200" channel="MotoGPGreekGrandPrixofPortugalSprintRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto GP : Greek Grand Prix of Portugal Sprint Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="FIAWECRound88HoursofBahrainRace">
-    <display-name>FIA WEC | Round 8 | 8 Hours of Bahrain Race</display-name>
-  </channel>
-  <programme start="20251108000000 +0200" stop="20251108171500 +0200" channel="FIAWECRound88HoursofBahrainRace">
-    <title lang="it">Inizia alle 17:15.</title>
-    <desc lang="it">FIA WEC | Round 8 | 8 Hours of Bahrain Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251108171500 +0200" stop="20251108191500 +0200" channel="FIAWECRound88HoursofBahrainRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIA WEC | Round 8 | 8 Hours of Bahrain Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="MotoERound7PortugalRace2">
-    <display-name>MotoE | Round 7 | Portugal Race 2</display-name>
-  </channel>
-  <programme start="20251108000000 +0200" stop="20251108180000 +0200" channel="MotoERound7PortugalRace2">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">MotoE | Round 7 | Portugal Race 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251108180000 +0200" stop="20251108200000 +0200" channel="MotoERound7PortugalRace2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoE | Round 7 | Portugal Race 2</desc>
-    <category lang="it">Motorsport</category>
   </programme>
   <channel id="Formula1MSCCruisesSaoPauloGPQualifying">
     <display-name>Formula 1 : MSC Cruises Sao Paulo GP - Qualifying</display-name>
