@@ -1,132 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieCTrentovsOspitaletto">
-    <display-name>Italy - Serie C : Trento vs Ospitaletto</display-name>
-  </channel>
-  <programme start="20251109000000 +0200" stop="20251109153000 +0200" channel="ItalySerieCTrentovsOspitaletto">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Trento vs Ospitaletto.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251109153000 +0200" stop="20251109173000 +0200" channel="ItalySerieCTrentovsOspitaletto">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Trento vs Ospitaletto</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCProVercellivsTriestina">
-    <display-name>Italy - Serie C : Pro Vercelli vs Triestina</display-name>
-  </channel>
-  <programme start="20251109000000 +0200" stop="20251109153000 +0200" channel="ItalySerieCProVercellivsTriestina">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Pro Vercelli vs Triestina.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251109153000 +0200" stop="20251109173000 +0200" channel="ItalySerieCProVercellivsTriestina">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Pro Vercelli vs Triestina</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCPerugiavsArezzo">
-    <display-name>Italy - Serie C : Perugia vs Arezzo</display-name>
-  </channel>
-  <programme start="20251109000000 +0200" stop="20251109153000 +0200" channel="ItalySerieCPerugiavsArezzo">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Perugia vs Arezzo.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251109153000 +0200" stop="20251109173000 +0200" channel="ItalySerieCPerugiavsArezzo">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Perugia vs Arezzo</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCSiracusavsLatina">
-    <display-name>Italy - Serie C : Siracusa vs Latina</display-name>
-  </channel>
-  <programme start="20251109000000 +0200" stop="20251109153000 +0200" channel="ItalySerieCSiracusavsLatina">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Siracusa vs Latina.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251109153000 +0200" stop="20251109173000 +0200" channel="ItalySerieCSiracusavsLatina">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Siracusa vs Latina</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCCataniavsTeamAltamura">
-    <display-name>Italy - Serie C : Catania vs Team Altamura</display-name>
-  </channel>
-  <programme start="20251109000000 +0200" stop="20251109153000 +0200" channel="ItalySerieCCataniavsTeamAltamura">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Catania vs Team Altamura.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251109153000 +0200" stop="20251109173000 +0200" channel="ItalySerieCCataniavsTeamAltamura">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Catania vs Team Altamura</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20251109000000 +0200" stop="20251109153000 +0200" channel="ItalySerieCCataniavsTeamAltamura">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Catania vs Team Altamura.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251109153000 +0200" stop="20251109173000 +0200" channel="ItalySerieCCataniavsTeamAltamura">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Catania vs Team Altamura</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCUnionBresciavsAlcione">
-    <display-name>Italy - Serie C : Union Brescia vs Alcione</display-name>
-  </channel>
-  <programme start="20251109000000 +0200" stop="20251109153000 +0200" channel="ItalySerieCUnionBresciavsAlcione">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Union Brescia vs Alcione.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251109153000 +0200" stop="20251109173000 +0200" channel="ItalySerieCUnionBresciavsAlcione">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Union Brescia vs Alcione</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="EnglandPremierLeagueBrentfordvsNewcastleUnited">
-    <display-name>England - Premier League : Brentford vs Newcastle United</display-name>
-  </channel>
-  <programme start="20251109000000 +0200" stop="20251109160000 +0200" channel="EnglandPremierLeagueBrentfordvsNewcastleUnited">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">England - Premier League : Brentford vs Newcastle United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251109160000 +0200" stop="20251109180000 +0200" channel="EnglandPremierLeagueBrentfordvsNewcastleUnited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Brentford vs Newcastle United</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieABolognavsNapoli">
-    <display-name>Italy - Serie A : Bologna vs Napoli</display-name>
-  </channel>
-  <programme start="20251109000000 +0200" stop="20251109160000 +0200" channel="ItalySerieABolognavsNapoli">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Italy - Serie A : Bologna vs Napoli.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251109160000 +0200" stop="20251109180000 +0200" channel="ItalySerieABolognavsNapoli">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Bologna vs Napoli</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieAGenoavsFiorentina">
-    <display-name>Italy - Serie A : Genoa vs Fiorentina</display-name>
-  </channel>
-  <programme start="20251109000000 +0200" stop="20251109160000 +0200" channel="ItalySerieAGenoavsFiorentina">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Italy - Serie A : Genoa vs Fiorentina.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251109160000 +0200" stop="20251109180000 +0200" channel="ItalySerieAGenoavsFiorentina">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Genoa vs Fiorentina</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="FIFAU17WorldCupItalyU17vsSouthAfricaU17">
     <display-name>FIFA U-17 World Cup : Italy U17 vs South Africa U17</display-name>
   </channel>
@@ -316,19 +189,6 @@
     <desc lang="it">Italy - Serie A : Internazionale vs Lazio</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="2025NittoATPFinalsRoundRobinDay1">
-    <display-name>2025 Nitto ATP Finals Round Robin, Day 1</display-name>
-  </channel>
-  <programme start="20251109000000 +0200" stop="20251109150000 +0200" channel="2025NittoATPFinalsRoundRobinDay1">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">2025 Nitto ATP Finals Round Robin, Day 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251109150000 +0200" stop="20251109170000 +0200" channel="2025NittoATPFinalsRoundRobinDay1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2025 Nitto ATP Finals Round Robin, Day 1</desc>
-    <category lang="it">Tennis</category>
-  </programme>
   <channel id="CenterCourtLiveATPFinalsSinglesRoundRobinLive">
     <display-name>Center Court Live ATP Finals Singles Round Robin Live</display-name>
   </channel>
@@ -341,32 +201,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Center Court Live ATP Finals Singles Round Robin Live</desc>
     <category lang="it">Tennis</category>
-  </programme>
-  <channel id="MotoGPGreekGrandPrixofPortugalRace">
-    <display-name>Moto GP : Greek Grand Prix of Portugal Race</display-name>
-  </channel>
-  <programme start="20251109000000 +0200" stop="20251109150000 +0200" channel="MotoGPGreekGrandPrixofPortugalRace">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">Moto GP : Greek Grand Prix of Portugal Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251109150000 +0200" stop="20251109170000 +0200" channel="MotoGPGreekGrandPrixofPortugalRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto GP : Greek Grand Prix of Portugal Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Moto3GreekGrandPrixofPortugalRace">
-    <display-name>Moto 3 : Greek Grand Prix of Portugal Race</display-name>
-  </channel>
-  <programme start="20251109000000 +0200" stop="20251109161500 +0200" channel="Moto3GreekGrandPrixofPortugalRace">
-    <title lang="it">Inizia alle 16:15.</title>
-    <desc lang="it">Moto 3 : Greek Grand Prix of Portugal Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251109161500 +0200" stop="20251109181500 +0200" channel="Moto3GreekGrandPrixofPortugalRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto 3 : Greek Grand Prix of Portugal Race</desc>
-    <category lang="it">Motorsport</category>
   </programme>
   <channel id="Formula1MSCCruisesSaoPauloGPGrandPrixSunday">
     <display-name>Formula 1 : MSC Cruises Sao Paulo GP - Grand Prix Sunday</display-name>
@@ -393,19 +227,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Formula 1 : MSC Cruises Sao Paulo GP - Race</desc>
     <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="UECEuropeanChampionshipsEliteMenMiddelkerke">
-    <display-name>UEC European Championships Elite Men | Middelkerke</display-name>
-  </channel>
-  <programme start="20251109000000 +0200" stop="20251109154500 +0200" channel="UECEuropeanChampionshipsEliteMenMiddelkerke">
-    <title lang="it">Inizia alle 15:45.</title>
-    <desc lang="it">UEC European Championships Elite Men | Middelkerke.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251109154500 +0200" stop="20251109174500 +0200" channel="UECEuropeanChampionshipsEliteMenMiddelkerke">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UEC European Championships Elite Men | Middelkerke</desc>
-    <category lang="it">Cycling</category>
   </programme>
   <channel id="FriendlyInternationalWalesvsArgentina">
     <display-name>Friendly International : Wales vs Argentina</display-name>
