@@ -1,54 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieAAtalantavsSassuolo">
-    <display-name>Italy - Serie A : Atalanta vs Sassuolo</display-name>
-  </channel>
-  <programme start="20251109000000 +0200" stop="20251109133000 +0200" channel="ItalySerieAAtalantavsSassuolo">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie A : Atalanta vs Sassuolo.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251109133000 +0200" stop="20251109153000 +0200" channel="ItalySerieAAtalantavsSassuolo">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Atalanta vs Sassuolo</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCInterIIvsVicenza">
-    <display-name>Italy - Serie C : Inter II vs Vicenza</display-name>
-  </channel>
-  <programme start="20251109000000 +0200" stop="20251109133000 +0200" channel="ItalySerieCInterIIvsVicenza">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie C : Inter II vs Vicenza.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251109133000 +0200" stop="20251109153000 +0200" channel="ItalySerieCInterIIvsVicenza">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Inter II vs Vicenza</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20251109000000 +0200" stop="20251109133000 +0200" channel="ItalySerieCInterIIvsVicenza">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie C : Inter II vs Vicenza.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251109133000 +0200" stop="20251109153000 +0200" channel="ItalySerieCInterIIvsVicenza">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Inter II vs Vicenza</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCJuventusIIvsForl">
-    <display-name>Italy - Serie C : Juventus II vs Forlì</display-name>
-  </channel>
-  <programme start="20251109000000 +0200" stop="20251109133000 +0200" channel="ItalySerieCJuventusIIvsForl">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie C : Juventus II vs Forlì.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251109133000 +0200" stop="20251109153000 +0200" channel="ItalySerieCJuventusIIvsForl">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Juventus II vs Forlì</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalySerieCTrentovsOspitaletto">
     <display-name>Italy - Serie C : Trento vs Ospitaletto</display-name>
   </channel>
@@ -442,32 +393,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Formula 1 : MSC Cruises Sao Paulo GP - Race</desc>
     <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="InternationalChampionshipFinalEveningSession">
-    <display-name>International Championship | Final | Evening Session</display-name>
-  </channel>
-  <programme start="20251109000000 +0200" stop="20251109140000 +0200" channel="InternationalChampionshipFinalEveningSession">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">International Championship | Final | Evening Session.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251109140000 +0200" stop="20251109160000 +0200" channel="InternationalChampionshipFinalEveningSession">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">International Championship | Final | Evening Session</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <channel id="SerieA2PesarovsScafati">
-    <display-name>Serie A2 : Pesaro vs Scafati</display-name>
-  </channel>
-  <programme start="20251109000000 +0200" stop="20251109133000 +0200" channel="SerieA2PesarovsScafati">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Serie A2 : Pesaro vs Scafati.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251109133000 +0200" stop="20251109153000 +0200" channel="SerieA2PesarovsScafati">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Serie A2 : Pesaro vs Scafati</desc>
-    <category lang="it">Basketball</category>
   </programme>
   <channel id="UECEuropeanChampionshipsEliteMenMiddelkerke">
     <display-name>UEC European Championships Elite Men | Middelkerke</display-name>
