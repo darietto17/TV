@@ -469,19 +469,6 @@
     <desc lang="it">Formula 1 : MSC Cruises Sao Paulo GP - Race</desc>
     <category lang="it">Motorsport</category>
   </programme>
-  <channel id="InternationalChampionshipFinalAfternoonSession">
-    <display-name>International Championship | Final | Afternoon Session</display-name>
-  </channel>
-  <programme start="20251109000000 +0200" stop="20251109090000 +0200" channel="InternationalChampionshipFinalAfternoonSession">
-    <title lang="it">Inizia alle 09:00.</title>
-    <desc lang="it">International Championship | Final | Afternoon Session.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251109090000 +0200" stop="20251109110000 +0200" channel="InternationalChampionshipFinalAfternoonSession">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">International Championship | Final | Afternoon Session</desc>
-    <category lang="it">Snooker</category>
-  </programme>
   <channel id="InternationalChampionshipFinalEveningSession">
     <display-name>International Championship | Final | Evening Session</display-name>
   </channel>
