@@ -19,8 +19,6 @@ https://vavoo.to/vavoo-iptv/play/68845853044f9c95e43e
 https://vavoo.to/vavoo-iptv/play/190887752614ef25f5e1fd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.omceo.bg.it/images/loghi/antenna-2.png" group-title="Altro",ANTENNA 2
 https://vavoo.to/vavoo-iptv/play/30140012609b4bf5e8d3b7
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ANTENNA SICILIA
-https://vavoo.to/vavoo-iptv/play/3309975829c0cd274e96f4
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.antennasud.com/media/2022/08/cropped-LOGO_ANTENNA_SUD_ROSSO_FORATO.png" group-title="Altro",ANTENNA SUD
 https://vavoo.to/vavoo-iptv/play/4084059868fd82d62442e9
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="Documentari",ARTE NETWORK
@@ -463,16 +461,12 @@ https://dlhd.dad/watch.php?id=862
 https://dlhd.dad/watch.php?id=867
 #EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film - Serie TV",SKY CINEMA DUE
 https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
-#EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24
-https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24 (D)
 https://dlhd.dad/watch.php?id=866
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY
 https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY (D)
 https://dlhd.dad/watch.php?id=865
-#EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE
-https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE (D)
 https://dlhd.dad/watch.php?id=864
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE
@@ -537,8 +531,6 @@ https://dlhd.dad/watch.php?id=870
 https://dlhd.dad/watch.php?id=577
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/198930923100c09085a1ae
-#EXTINF:-1 tvg-id="sky.sport.golf.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF
-https://vavoo.to/vavoo-iptv/play/3897711086f5655aa4d5fb
 #EXTINF:-1 tvg-id="sky.sport.max.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png" group-title="Sport",SKY SPORT MAX (D)
 https://dlhd.dad/watch.php?id=460
 #EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-motogp-hd-it.png" group-title="Sport",SKY SPORT MOTOGP
@@ -744,16 +736,16 @@ https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="atpfinalssinglesroundrobin" tvg-name="Tennis | ATP Finals Singles Round Robin (15:00)" tvg-logo="https://media.geeksforgeeks.org/wp-content/uploads/20240102093745/Structure-of-ATP.png" group-title="Eventi Live DLHD",Tennis | ATP Finals Singles Round Robin (15:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="atpfinalsdoubles2day2inturinita" tvg-name="Tennis | ATP Finals: Doubles 2, Day 2 in Turin (ITA) (19:00)" tvg-logo="https://media.geeksforgeeks.org/wp-content/uploads/20240102093745/Structure-of-ATP.png" group-title="Eventi Live DLHD",Tennis | ATP Finals: Doubles 2, Day 2 in Turin (ITA) (19:00)
+#EXTINF:-1 tvg-id="atpfinalsdoubles2day2inturinita" tvg-name="Tennis | ATP Finals: Doubles 2, Day 2 in Turin (ITA) (19:00)" tvg-logo="https://tickets.nittoatpfinals.com/img/lang/es.png" group-title="Eventi Live DLHD",Tennis | ATP Finals: Doubles 2, Day 2 in Turin (ITA) (19:00)
 https://dlhd.dad/watch.php?id=576
 
 #EXTINF:-1 tvg-id="atptourfinalsturinitalyjanniksinnervsfelixaugeraliassime" tvg-name="Tennis | ATP Tour Finals Turin, Italy : Jannik Sinner vs Felix Auger-Aliassime (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Jannik Sinner_vs_Felix Auger-Aliassime.png" group-title="Eventi Live DLHD",Tennis | ATP Tour Finals Turin, Italy : Jannik Sinner vs Felix Auger-Aliassime (21:30)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="nicosapiotrophy20251stmatchday" tvg-name="Water Sports | Nico Sapio Trophy 2025 - 1st matchday (16:15)" tvg-logo="https://media.distractify.com/brand-img/zcK7q9G7D/0x0/yazawa-nico-1626369451106.png" group-title="Eventi Live DLHD",Water Sports | Nico Sapio Trophy 2025 - 1st matchday (16:15)
+#EXTINF:-1 tvg-id="nicosapiotrophy20251stmatchday" tvg-name="Water Sports | Nico Sapio Trophy 2025 - 1st matchday (16:15)" tvg-logo="https://www.piscinesciorba.com/wp-content/uploads/2018/09/archivio.png" group-title="Eventi Live DLHD",Water Sports | Nico Sapio Trophy 2025 - 1st matchday (16:15)
 https://dlhd.dad/watch.php?id=882
 
-#EXTINF:-1 tvg-id="nicosapiotrophy20252ndday" tvg-name="Water Sports | Nico Sapio Trophy 2025 - 2nd day (18:30)" tvg-logo="https://media.distractify.com/brand-img/zcK7q9G7D/0x0/yazawa-nico-1626369451106.png" group-title="Eventi Live DLHD",Water Sports | Nico Sapio Trophy 2025 - 2nd day (18:30)
+#EXTINF:-1 tvg-id="nicosapiotrophy20252ndday" tvg-name="Water Sports | Nico Sapio Trophy 2025 - 2nd day (18:30)" tvg-logo="https://www.piscinesciorba.com/wp-content/uploads/2018/09/archivio.png" group-title="Eventi Live DLHD",Water Sports | Nico Sapio Trophy 2025 - 2nd day (18:30)
 https://dlhd.dad/watch.php?id=882
 
 
