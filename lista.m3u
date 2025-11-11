@@ -318,8 +318,6 @@ https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
-https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/1925964148b9cb23cc2bce
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE (MPD)
@@ -519,8 +517,6 @@ https://dlhd.dad/watch.php?id=872
 https://dlhd.dad/watch.php?id=873
 #EXTINF:-1 tvg-id="sky.sport..254.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png" group-title="Sport",SKY SPORT 254 (D)
 https://dlhd.dad/watch.php?id=874
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
-https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",SKY SPORT BASKET (D)
@@ -659,6 +655,8 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="tg.norba.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tg-norba-24-it.png" group-title="News",TG NORBA 24
 https://vavoo.to/vavoo-iptv/play/3413557893b1ed86e5018c
+#EXTINF:-1 tvg-id="topcalcio24.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPHW5VLQDGnNMVZszgWZRqnBSjPUTgAcUltQ&s" group-title="Sport",TOP CALCIO 24
+https://vavoo.to/vavoo-iptv/play/383554932681b8c3d5666a
 #EXTINF:-1 tvg-id="top.crime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Mediaset",TOP CRIME
 https://vavoo.to/vavoo-iptv/play/3420407456fb80f4ceda0b
 
@@ -726,21 +724,24 @@ https://vavoo.to/vavoo-iptv/play/2989824407cb0184041b08
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecsalernitanavscrotone" tvg-name="Soccer | Italy - Serie C : Salernitana vs Crotone (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Salernitana_vs_Crotone.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Salernitana vs Crotone (21:30)
-https://dlhd.dad/watch.php?id=5
-
-#EXTINF:-1 tvg-id="italyseriecsalernitanavscrotone" tvg-name="Soccer | Italy - Serie C : Salernitana vs Crotone (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Salernitana_vs_Crotone.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Salernitana vs Crotone (21:30)
-https://dlhd.dad/watch.php?id=882
-
-#EXTINF:-1 tvg-id="italyseriecsalernitanavscrotone" tvg-name="Soccer | Italy - Serie C : Salernitana vs Crotone (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Salernitana_vs_Crotone.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Salernitana vs Crotone (21:30)
-https://dlhd.dad/watch.php?id=870
-
-#EXTINF:-1 tvg-id="atptourfinalsturinitalyjanniksinnervsfelixaugeraliassime" tvg-name="Tennis | ATP Tour Finals Turin, Italy : Jannik Sinner vs Felix Auger-Aliassime (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Jannik Sinner_vs_Felix Auger-Aliassime.png" group-title="Eventi Live DLHD",Tennis | ATP Tour Finals Turin, Italy : Jannik Sinner vs Felix Auger-Aliassime (21:30)
+#EXTINF:-1 tvg-id="2025nittoatpfinalsroundrobinday3" tvg-name="Tennis | 2025 Nitto ATP Finals Round Robin, Day 3 (15:00)" tvg-logo="https://png.pngtree.com/png-clipart/20240204/original/pngtree-2025-minimalist-calendar-vector-png-image_14235147.png" group-title="Eventi Live DLHD",Tennis | 2025 Nitto ATP Finals Round Robin, Day 3 (15:00)
 https://dlhd.dad/watch.php?id=576
 
+#EXTINF:-1 tvg-id="atpfinalssinglesroundrobin" tvg-name="Tennis | ATP Finals Singles Round Robin (21:30)" tvg-logo="https://media.geeksforgeeks.org/wp-content/uploads/20240102093745/Structure-of-ATP.png" group-title="Eventi Live DLHD",Tennis | ATP Finals Singles Round Robin (21:30)
+https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 group-title="Eventi Live SPORTSONLINE",NESSUN EVENTO
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:-1 tvg-id="championsleaguetrapanivsbneiherzliya" tvg-name="Basketball | Champions League : Trapani vs Bnei Herzliya (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Trapani_vs_Bnei Herzliya.png" group-title="Eventi Live DLHD",Basketball | Champions League : Trapani vs Bnei Herzliya (21:30)
+https://dlhd.dad/watch.php?id=877
+
+#EXTINF:-1 tvg-id="telenetsuperprestigenieljaarmarktcrosss" tvg-name="Cycling | Telenet Superprestige Niel - Jaarmarktcrosss (14:30)" tvg-logo="https://freight.cargo.site/i/d5a6606db6ac28646c7ace584c4d9e1ec68fb94fd230d14d2b60d3033f6721f1/NIEL-logo_IG.png" group-title="Eventi Live DLHD",Cycling | Telenet Superprestige Niel - Jaarmarktcrosss (14:30)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="championsleagueproreccovsvkjadransplit" tvg-name="Waterpolo | Champions League : Pro Recco vs. Vk Jadran Split (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pro Recco_vs_Vk Jadran Split.png" group-title="Eventi Live DLHD",Waterpolo | Champions League : Pro Recco vs. Vk Jadran Split (21:30)
+https://dlhd.dad/watch.php?id=462
+
+
+#EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Roma W x VÃ¥lerenga W 18:45
+https://sportzonline.live/channels/hd/hd7.php
 
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="OTHER | 13:35 | Tour of Holland | Stage 5 Men | Arnhem (155km) (EuroSport 1 Italy HD)" group-title="Eventi Live STREAMED",OTHER | 13:35 | Tour of Holland | Stage 5 Men | Arnhem (155km) (EuroSport 1 Italy HD)
 #EXTVLCOPT:http-referrer=https://embedsports.top/
