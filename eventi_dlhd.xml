@@ -55,17 +55,7 @@
   <channel id="ATPFinalsSinglesRoundRobin">
     <display-name>ATP Finals Singles Round Robin</display-name>
   </channel>
-  <programme start="20251114000000 +0200" stop="20251114150000 +0200" channel="ATPFinalsSinglesRoundRobin">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">ATP Finals Singles Round Robin.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251114150000 +0200" stop="20251114170000 +0200" channel="ATPFinalsSinglesRoundRobin">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP Finals Singles Round Robin</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20251114170000 +0200" stop="20251114213000 +0200" channel="ATPFinalsSinglesRoundRobin">
+  <programme start="20251114000000 +0200" stop="20251114213000 +0200" channel="ATPFinalsSinglesRoundRobin">
     <title lang="it">Inizia alle 21:30.</title>
     <desc lang="it">ATP Finals Singles Round Robin.</desc>
     <category lang="it">Annuncio</category>
@@ -74,19 +64,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">ATP Finals Singles Round Robin</desc>
     <category lang="it">Tennis</category>
-  </programme>
-  <channel id="Moto2ValenciaGrandPrixPractice1">
-    <display-name>Moto2 : Valencia Grand Prix Practice 1</display-name>
-  </channel>
-  <programme start="20251114000000 +0200" stop="20251114150000 +0200" channel="Moto2ValenciaGrandPrixPractice1">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">Moto2 : Valencia Grand Prix Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251114150000 +0200" stop="20251114170000 +0200" channel="Moto2ValenciaGrandPrixPractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Valencia Grand Prix Practice 1</desc>
-    <category lang="it">Motorsport</category>
   </programme>
   <channel id="SerieA2PesarovsScafati10thround">
     <display-name>Serie A2 : Pesaro vs Scafati (10th round)</display-name>
@@ -100,19 +77,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Serie A2 : Pesaro vs Scafati (10th round)</desc>
     <category lang="it">Basketball</category>
-  </programme>
-  <channel id="2025WorldCupAthensMixedTeamTrap">
-    <display-name>2025 World Cup - Athens: Mixed Team Trap</display-name>
-  </channel>
-  <programme start="20251114000000 +0200" stop="20251114150000 +0200" channel="2025WorldCupAthensMixedTeamTrap">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">2025 World Cup - Athens: Mixed Team Trap.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251114150000 +0200" stop="20251114170000 +0200" channel="2025WorldCupAthensMixedTeamTrap">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2025 World Cup - Athens: Mixed Team Trap</desc>
-    <category lang="it">Shooting</category>
   </programme>
   <channel id="PremierPadelDubaiT2025MensQuarterFinal2">
     <display-name>Premier Padel. Dubai (T2025): Men's Quarter-Final 2</display-name>
