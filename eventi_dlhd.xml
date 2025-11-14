@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="EuropeEuroU21QualifyingPolandU21vsItalyU21">
-    <display-name>Europe - Euro U-21 Qualifying : Poland U21 vs Italy U21</display-name>
-  </channel>
-  <programme start="20251114000000 +0200" stop="20251114170000 +0200" channel="EuropeEuroU21QualifyingPolandU21vsItalyU21">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">Europe - Euro U-21 Qualifying : Poland U21 vs Italy U21.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251114170000 +0200" stop="20251114190000 +0200" channel="EuropeEuroU21QualifyingPolandU21vsItalyU21">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Europe - Euro U-21 Qualifying : Poland U21 vs Italy U21</desc>
-    <category lang="it">Soccer</category>
-  </programme>
   <channel id="WorldCupQualifyingFinlandvsMalta">
     <display-name>World Cup Qualifying : Finland vs Malta</display-name>
   </channel>
@@ -64,31 +51,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">ATP Finals Singles Round Robin</desc>
     <category lang="it">Tennis</category>
-  </programme>
-  <channel id="SerieA2PesarovsScafati10thround">
-    <display-name>Serie A2 : Pesaro vs Scafati (10th round)</display-name>
-  </channel>
-  <programme start="20251114000000 +0200" stop="20251114175000 +0200" channel="SerieA2PesarovsScafati10thround">
-    <title lang="it">Inizia alle 17:50.</title>
-    <desc lang="it">Serie A2 : Pesaro vs Scafati (10th round).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251114175000 +0200" stop="20251114195000 +0200" channel="SerieA2PesarovsScafati10thround">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Serie A2 : Pesaro vs Scafati (10th round)</desc>
-    <category lang="it">Basketball</category>
-  </programme>
-  <channel id="PremierPadelDubaiT2025MensQuarterFinal2">
-    <display-name>Premier Padel. Dubai (T2025): Men's Quarter-Final 2</display-name>
-  </channel>
-  <programme start="20251114000000 +0200" stop="20251114180000 +0200" channel="PremierPadelDubaiT2025MensQuarterFinal2">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">Premier Padel. Dubai (T2025): Men's Quarter-Final 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251114180000 +0200" stop="20251114200000 +0200" channel="PremierPadelDubaiT2025MensQuarterFinal2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Premier Padel. Dubai (T2025): Men's Quarter-Final 2</desc>
-    <category lang="it">Squash</category>
   </programme>
 </tv>
