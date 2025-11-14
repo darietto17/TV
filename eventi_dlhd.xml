@@ -1,3 +1,208 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="EuropeEuroU21QualifyingPolandU21vsItalyU21">
+    <display-name>Europe - Euro U-21 Qualifying : Poland U21 vs Italy U21</display-name>
+  </channel>
+  <programme start="20251114000000 +0200" stop="20251114170000 +0200" channel="EuropeEuroU21QualifyingPolandU21vsItalyU21">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">Europe - Euro U-21 Qualifying : Poland U21 vs Italy U21.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251114170000 +0200" stop="20251114190000 +0200" channel="EuropeEuroU21QualifyingPolandU21vsItalyU21">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - Euro U-21 Qualifying : Poland U21 vs Italy U21</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="WorldCupQualifyingFinlandvsMalta">
+    <display-name>World Cup Qualifying : Finland vs Malta</display-name>
+  </channel>
+  <programme start="20251114000000 +0200" stop="20251114190000 +0200" channel="WorldCupQualifyingFinlandvsMalta">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">World Cup Qualifying : Finland vs Malta.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251114190000 +0200" stop="20251114210000 +0200" channel="WorldCupQualifyingFinlandvsMalta">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Cup Qualifying : Finland vs Malta</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCArezzovsBra">
+    <display-name>Italy - Serie C : Arezzo vs Bra</display-name>
+  </channel>
+  <programme start="20251114000000 +0200" stop="20251114213000 +0200" channel="ItalySerieCArezzovsBra">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Arezzo vs Bra.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251114213000 +0200" stop="20251114233000 +0200" channel="ItalySerieCArezzovsBra">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Arezzo vs Bra</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCForlvsCampobasso">
+    <display-name>Italy - Serie C : Forlì vs Campobasso</display-name>
+  </channel>
+  <programme start="20251114000000 +0200" stop="20251114213000 +0200" channel="ItalySerieCForlvsCampobasso">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Forlì vs Campobasso.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251114213000 +0200" stop="20251114233000 +0200" channel="ItalySerieCForlvsCampobasso">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Forlì vs Campobasso</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ATPFinalsSinglesRoundRobin">
+    <display-name>ATP Finals Singles Round Robin</display-name>
+  </channel>
+  <programme start="20251114000000 +0200" stop="20251114150000 +0200" channel="ATPFinalsSinglesRoundRobin">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">ATP Finals Singles Round Robin.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251114150000 +0200" stop="20251114170000 +0200" channel="ATPFinalsSinglesRoundRobin">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">ATP Finals Singles Round Robin</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20251114170000 +0200" stop="20251114213000 +0200" channel="ATPFinalsSinglesRoundRobin">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">ATP Finals Singles Round Robin.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251114213000 +0200" stop="20251114233000 +0200" channel="ATPFinalsSinglesRoundRobin">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">ATP Finals Singles Round Robin</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="Moto3ValenciaGrandPrixFreePractice">
+    <display-name>Moto3 : Valencia Grand Prix Free Practice</display-name>
+  </channel>
+  <programme start="20251114000000 +0200" stop="20251114095500 +0200" channel="Moto3ValenciaGrandPrixFreePractice">
+    <title lang="it">Inizia alle 09:55.</title>
+    <desc lang="it">Moto3 : Valencia Grand Prix Free Practice.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251114095500 +0200" stop="20251114115500 +0200" channel="Moto3ValenciaGrandPrixFreePractice">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Moto3 : Valencia Grand Prix Free Practice</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="MotoGPValenciaGrandPrixFreePractice">
+    <display-name>MotoGP : Valencia Grand Prix Free Practice</display-name>
+  </channel>
+  <programme start="20251114000000 +0200" stop="20251114100000 +0200" channel="MotoGPValenciaGrandPrixFreePractice">
+    <title lang="it">Inizia alle 10:00.</title>
+    <desc lang="it">MotoGP : Valencia Grand Prix Free Practice.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251114100000 +0200" stop="20251114120000 +0200" channel="MotoGPValenciaGrandPrixFreePractice">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MotoGP : Valencia Grand Prix Free Practice</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Moto2ValenciaGrandPrixFreePractice">
+    <display-name>Moto2 : Valencia Grand Prix Free Practice</display-name>
+  </channel>
+  <programme start="20251114000000 +0200" stop="20251114104500 +0200" channel="Moto2ValenciaGrandPrixFreePractice">
+    <title lang="it">Inizia alle 10:45.</title>
+    <desc lang="it">Moto2 : Valencia Grand Prix Free Practice.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251114104500 +0200" stop="20251114124500 +0200" channel="Moto2ValenciaGrandPrixFreePractice">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Moto2 : Valencia Grand Prix Free Practice</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Moto3ValenciaGrandPrixPractice1">
+    <display-name>Moto3 : Valencia Grand Prix Practice 1</display-name>
+  </channel>
+  <programme start="20251114000000 +0200" stop="20251114141000 +0200" channel="Moto3ValenciaGrandPrixPractice1">
+    <title lang="it">Inizia alle 14:10.</title>
+    <desc lang="it">Moto3 : Valencia Grand Prix Practice 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251114141000 +0200" stop="20251114161000 +0200" channel="Moto3ValenciaGrandPrixPractice1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Moto3 : Valencia Grand Prix Practice 1</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="MotoGPValenciaGrandPrixPractice1">
+    <display-name>MotoGP : Valencia Grand Prix Practice 1</display-name>
+  </channel>
+  <programme start="20251114000000 +0200" stop="20251114141500 +0200" channel="MotoGPValenciaGrandPrixPractice1">
+    <title lang="it">Inizia alle 14:15.</title>
+    <desc lang="it">MotoGP : Valencia Grand Prix Practice 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251114141500 +0200" stop="20251114161500 +0200" channel="MotoGPValenciaGrandPrixPractice1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MotoGP : Valencia Grand Prix Practice 1</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Moto2ValenciaGrandPrixPractice1">
+    <display-name>Moto2 : Valencia Grand Prix Practice 1</display-name>
+  </channel>
+  <programme start="20251114000000 +0200" stop="20251114150000 +0200" channel="Moto2ValenciaGrandPrixPractice1">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">Moto2 : Valencia Grand Prix Practice 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251114150000 +0200" stop="20251114170000 +0200" channel="Moto2ValenciaGrandPrixPractice1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Moto2 : Valencia Grand Prix Practice 1</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="SerieA2PesarovsScafati10thround">
+    <display-name>Serie A2 : Pesaro vs Scafati (10th round)</display-name>
+  </channel>
+  <programme start="20251114000000 +0200" stop="20251114175000 +0200" channel="SerieA2PesarovsScafati10thround">
+    <title lang="it">Inizia alle 17:50.</title>
+    <desc lang="it">Serie A2 : Pesaro vs Scafati (10th round).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251114175000 +0200" stop="20251114195000 +0200" channel="SerieA2PesarovsScafati10thround">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Serie A2 : Pesaro vs Scafati (10th round)</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <channel id="2025WorldCupAthensMixedTeamTrap">
+    <display-name>2025 World Cup - Athens: Mixed Team Trap</display-name>
+  </channel>
+  <programme start="20251114000000 +0200" stop="20251114150000 +0200" channel="2025WorldCupAthensMixedTeamTrap">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">2025 World Cup - Athens: Mixed Team Trap.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251114150000 +0200" stop="20251114170000 +0200" channel="2025WorldCupAthensMixedTeamTrap">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 World Cup - Athens: Mixed Team Trap</desc>
+    <category lang="it">Shooting</category>
+  </programme>
+  <channel id="PremierPadelDubaiT2025MensQuarterFinal2">
+    <display-name>Premier Padel. Dubai (T2025): Men's Quarter-Final 2</display-name>
+  </channel>
+  <programme start="20251114000000 +0200" stop="20251114180000 +0200" channel="PremierPadelDubaiT2025MensQuarterFinal2">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">Premier Padel. Dubai (T2025): Men's Quarter-Final 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251114180000 +0200" stop="20251114200000 +0200" channel="PremierPadelDubaiT2025MensQuarterFinal2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Premier Padel. Dubai (T2025): Men's Quarter-Final 2</desc>
+    <category lang="it">Squash</category>
+  </programme>
+  <channel id="T100TriathlonWorldTourDubaiMenandWomen">
+    <display-name>T100 Triathlon World Tour | Dubai Men and Women</display-name>
+  </channel>
+  <programme start="20251114000000 +0200" stop="20251114091500 +0200" channel="T100TriathlonWorldTourDubaiMenandWomen">
+    <title lang="it">Inizia alle 09:15.</title>
+    <desc lang="it">T100 Triathlon World Tour | Dubai Men and Women.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251114091500 +0200" stop="20251114111500 +0200" channel="T100TriathlonWorldTourDubaiMenandWomen">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">T100 Triathlon World Tour | Dubai Men and Women</desc>
+    <category lang="it">Triathlon</category>
+  </programme>
 </tv>
