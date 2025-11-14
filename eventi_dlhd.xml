@@ -75,32 +75,6 @@
     <desc lang="it">ATP Finals Singles Round Robin</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="Moto3ValenciaGrandPrixFreePractice">
-    <display-name>Moto3 : Valencia Grand Prix Free Practice</display-name>
-  </channel>
-  <programme start="20251114000000 +0200" stop="20251114095500 +0200" channel="Moto3ValenciaGrandPrixFreePractice">
-    <title lang="it">Inizia alle 09:55.</title>
-    <desc lang="it">Moto3 : Valencia Grand Prix Free Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251114095500 +0200" stop="20251114115500 +0200" channel="Moto3ValenciaGrandPrixFreePractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Valencia Grand Prix Free Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="MotoGPValenciaGrandPrixFreePractice">
-    <display-name>MotoGP : Valencia Grand Prix Free Practice</display-name>
-  </channel>
-  <programme start="20251114000000 +0200" stop="20251114100000 +0200" channel="MotoGPValenciaGrandPrixFreePractice">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">MotoGP : Valencia Grand Prix Free Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251114100000 +0200" stop="20251114120000 +0200" channel="MotoGPValenciaGrandPrixFreePractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : Valencia Grand Prix Free Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Moto2ValenciaGrandPrixFreePractice">
     <display-name>Moto2 : Valencia Grand Prix Free Practice</display-name>
   </channel>
@@ -191,18 +165,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Premier Padel. Dubai (T2025): Men's Quarter-Final 2</desc>
     <category lang="it">Squash</category>
-  </programme>
-  <channel id="T100TriathlonWorldTourDubaiMenandWomen">
-    <display-name>T100 Triathlon World Tour | Dubai Men and Women</display-name>
-  </channel>
-  <programme start="20251114000000 +0200" stop="20251114091500 +0200" channel="T100TriathlonWorldTourDubaiMenandWomen">
-    <title lang="it">Inizia alle 09:15.</title>
-    <desc lang="it">T100 Triathlon World Tour | Dubai Men and Women.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251114091500 +0200" stop="20251114111500 +0200" channel="T100TriathlonWorldTourDubaiMenandWomen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">T100 Triathlon World Tour | Dubai Men and Women</desc>
-    <category lang="it">Triathlon</category>
   </programme>
 </tv>
