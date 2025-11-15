@@ -251,19 +251,6 @@
     <desc lang="it">Nitto ATP Finals Semi-final</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="Moto2ValenciaGrandPrixPractice2">
-    <display-name>Moto2 : Valencia Grand Prix Practice 2</display-name>
-  </channel>
-  <programme start="20251115000000 +0200" stop="20251115114500 +0200" channel="Moto2ValenciaGrandPrixPractice2">
-    <title lang="it">Inizia alle 11:45.</title>
-    <desc lang="it">Moto2 : Valencia Grand Prix Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251115114500 +0200" stop="20251115134500 +0200" channel="Moto2ValenciaGrandPrixPractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Valencia Grand Prix Practice 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Moto3ValenciaGrandPrixQualifying">
     <display-name>Moto3 : Valencia Grand Prix Qualifying</display-name>
   </channel>
@@ -306,17 +293,7 @@
   <channel id="SlalomWomenLeviWomenLjuticZrinkavsHectorSara">
     <display-name>Slalom Women Levi Women : Ljutic, Zrinka vs. Hector, Sara</display-name>
   </channel>
-  <programme start="20251115000000 +0200" stop="20251115104500 +0200" channel="SlalomWomenLeviWomenLjuticZrinkavsHectorSara">
-    <title lang="it">Inizia alle 10:45.</title>
-    <desc lang="it">Slalom Women Levi Women : Ljutic, Zrinka vs. Hector, Sara.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251115104500 +0200" stop="20251115124500 +0200" channel="SlalomWomenLeviWomenLjuticZrinkavsHectorSara">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Slalom Women Levi Women : Ljutic, Zrinka vs. Hector, Sara</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
-  <programme start="20251115124500 +0200" stop="20251115134500 +0200" channel="SlalomWomenLeviWomenLjuticZrinkavsHectorSara">
+  <programme start="20251115000000 +0200" stop="20251115134500 +0200" channel="SlalomWomenLeviWomenLjuticZrinkavsHectorSara">
     <title lang="it">Inizia alle 13:45.</title>
     <desc lang="it">Slalom Women Levi Women : Ljutic, Zrinka vs. Hector, Sara.</desc>
     <category lang="it">Annuncio</category>
