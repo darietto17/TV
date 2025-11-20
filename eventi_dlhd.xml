@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="DavisCupWorldGroupTeamsSpainvsCzechRepublic">
-    <display-name>Davis Cup World Group Teams : Spain vs Czech Republic</display-name>
-  </channel>
-  <programme start="20251120000000 +0200" stop="20251120110000 +0200" channel="DavisCupWorldGroupTeamsSpainvsCzechRepublic">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">Davis Cup World Group Teams : Spain vs Czech Republic.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251120110000 +0200" stop="20251120130000 +0200" channel="DavisCupWorldGroupTeamsSpainvsCzechRepublic">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Davis Cup World Group Teams : Spain vs Czech Republic</desc>
-    <category lang="it">Tennis</category>
-  </programme>
   <channel id="DavisCupWorldGroupTeamsArgentinavsGermany">
     <display-name>Davis Cup World Group Teams : Argentina vs Germany</display-name>
   </channel>
