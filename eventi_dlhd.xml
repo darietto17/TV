@@ -1,3 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="DavisCupWorldGroupTeamsSpainvsCzechRepublic">
+    <display-name>Davis Cup World Group Teams : Spain vs Czech Republic</display-name>
+  </channel>
+  <programme start="20251120000000 +0200" stop="20251120110000 +0200" channel="DavisCupWorldGroupTeamsSpainvsCzechRepublic">
+    <title lang="it">Inizia alle 11:00.</title>
+    <desc lang="it">Davis Cup World Group Teams : Spain vs Czech Republic.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251120110000 +0200" stop="20251120130000 +0200" channel="DavisCupWorldGroupTeamsSpainvsCzechRepublic">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Davis Cup World Group Teams : Spain vs Czech Republic</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="DavisCupWorldGroupTeamsArgentinavsGermany">
+    <display-name>Davis Cup World Group Teams : Argentina vs Germany</display-name>
+  </channel>
+  <programme start="20251120000000 +0200" stop="20251120180000 +0200" channel="DavisCupWorldGroupTeamsArgentinavsGermany">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">Davis Cup World Group Teams : Argentina vs Germany.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251120180000 +0200" stop="20251120200000 +0200" channel="DavisCupWorldGroupTeamsArgentinavsGermany">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Davis Cup World Group Teams : Argentina vs Germany</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="Formula1HeinekenLasVegasGrandPrixPractice1">
+    <display-name>Formula 1 : Heineken Las Vegas Grand Prix - Practice 1</display-name>
+  </channel>
+  <programme start="20251120000000 +0200" stop="20251120023000 +0200" channel="Formula1HeinekenLasVegasGrandPrixPractice1">
+    <title lang="it">Inizia alle 02:30.</title>
+    <desc lang="it">Formula 1 : Heineken Las Vegas Grand Prix - Practice 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251120023000 +0200" stop="20251120043000 +0200" channel="Formula1HeinekenLasVegasGrandPrixPractice1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 1 : Heineken Las Vegas Grand Prix - Practice 1</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="F1AcademyLasVegasStripCircuitinNevadaPracticeSession">
+    <display-name>F1 Academy : Las Vegas Strip Circuit in Nevada Practice Session</display-name>
+  </channel>
+  <programme start="20251120000000 +0200" stop="20251120040000 +0200" channel="F1AcademyLasVegasStripCircuitinNevadaPracticeSession">
+    <title lang="it">Inizia alle 04:00.</title>
+    <desc lang="it">F1 Academy : Las Vegas Strip Circuit in Nevada Practice Session.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251120040000 +0200" stop="20251120060000 +0200" channel="F1AcademyLasVegasStripCircuitinNevadaPracticeSession">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">F1 Academy : Las Vegas Strip Circuit in Nevada Practice Session</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="RiyadhSnookerChampionshipKyrenWilsonvsNeilRobertson">
+    <display-name>Riyadh Snooker Championship : Kyren Wilson vs Neil Robertson</display-name>
+  </channel>
+  <programme start="20251120000000 +0200" stop="20251120160000 +0200" channel="RiyadhSnookerChampionshipKyrenWilsonvsNeilRobertson">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">Riyadh Snooker Championship : Kyren Wilson vs Neil Robertson.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251120160000 +0200" stop="20251120180000 +0200" channel="RiyadhSnookerChampionshipKyrenWilsonvsNeilRobertson">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Riyadh Snooker Championship : Kyren Wilson vs Neil Robertson</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <channel id="RiyadhSnookerChampionshipJuddTrumpvsMarkWilliams">
+    <display-name>Riyadh Snooker Championship : Judd Trump vs Mark Williams</display-name>
+  </channel>
+  <programme start="20251120000000 +0200" stop="20251120210000 +0200" channel="RiyadhSnookerChampionshipJuddTrumpvsMarkWilliams">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Riyadh Snooker Championship : Judd Trump vs Mark Williams.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251120210000 +0200" stop="20251120230000 +0200" channel="RiyadhSnookerChampionshipJuddTrumpvsMarkWilliams">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Riyadh Snooker Championship : Judd Trump vs Mark Williams</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <channel id="JumpingPragueGlobalChampionsLeagueQuarterFinal">
+    <display-name>Jumping | Prague Global Champions League | Quarter-Final</display-name>
+  </channel>
+  <programme start="20251120000000 +0200" stop="20251120210000 +0200" channel="JumpingPragueGlobalChampionsLeagueQuarterFinal">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Jumping | Prague Global Champions League | Quarter-Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251120210000 +0200" stop="20251120230000 +0200" channel="JumpingPragueGlobalChampionsLeagueQuarterFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Jumping | Prague Global Champions League | Quarter-Final</desc>
+    <category lang="it">Equestrian</category>
+  </programme>
 </tv>
