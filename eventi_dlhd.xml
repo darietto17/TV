@@ -1,3 +1,260 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="GermanyBundesliga2HerthaBSCvsEintrachtBraunschweig">
+    <display-name>Germany - Bundesliga 2 : Hertha BSC vs Eintracht Braunschweig</display-name>
+  </channel>
+  <programme start="20251121000000 +0200" stop="20251121193000 +0200" channel="GermanyBundesliga2HerthaBSCvsEintrachtBraunschweig">
+    <title lang="it">Inizia alle 19:30.</title>
+    <desc lang="it">Germany - Bundesliga 2 : Hertha BSC vs Eintracht Braunschweig.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251121193000 +0200" stop="20251121213000 +0200" channel="GermanyBundesliga2HerthaBSCvsEintrachtBraunschweig">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Germany - Bundesliga 2 : Hertha BSC vs Eintracht Braunschweig</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCProPatriavsPergolettese">
+    <display-name>Italy - Serie C : Pro Patria vs Pergolettese</display-name>
+  </channel>
+  <programme start="20251121000000 +0200" stop="20251121213000 +0200" channel="ItalySerieCProPatriavsPergolettese">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Pro Patria vs Pergolettese.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251121213000 +0200" stop="20251121233000 +0200" channel="ItalySerieCProPatriavsPergolettese">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Pro Patria vs Pergolettese</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCBravsPontedera">
+    <display-name>Italy - Serie C : Bra vs Pontedera</display-name>
+  </channel>
+  <programme start="20251121000000 +0200" stop="20251121213000 +0200" channel="ItalySerieCBravsPontedera">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Bra vs Pontedera.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251121213000 +0200" stop="20251121233000 +0200" channel="ItalySerieCBravsPontedera">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Bra vs Pontedera</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCAudaceCerignolavsCrotone">
+    <display-name>Italy - Serie C : Audace Cerignola vs Crotone</display-name>
+  </channel>
+  <programme start="20251121000000 +0200" stop="20251121213000 +0200" channel="ItalySerieCAudaceCerignolavsCrotone">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Audace Cerignola vs Crotone.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251121213000 +0200" stop="20251121233000 +0200" channel="ItalySerieCAudaceCerignolavsCrotone">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Audace Cerignola vs Crotone</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20251121000000 +0200" stop="20251121213000 +0200" channel="ItalySerieCAudaceCerignolavsCrotone">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Audace Cerignola vs Crotone.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251121213000 +0200" stop="20251121233000 +0200" channel="ItalySerieCAudaceCerignolavsCrotone">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Audace Cerignola vs Crotone</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="FranceLigue1NicevsOlympiqueMarseille">
+    <display-name>France - Ligue 1 : Nice vs Olympique Marseille</display-name>
+  </channel>
+  <programme start="20251121000000 +0200" stop="20251121214500 +0200" channel="FranceLigue1NicevsOlympiqueMarseille">
+    <title lang="it">Inizia alle 21:45.</title>
+    <desc lang="it">France - Ligue 1 : Nice vs Olympique Marseille.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251121214500 +0200" stop="20251121234500 +0200" channel="FranceLigue1NicevsOlympiqueMarseille">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">France - Ligue 1 : Nice vs Olympique Marseille</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="DavisCupFinalsSemifinal1ArgentinavsGermany">
+    <display-name>Davis Cup Finals Semifinal 1 : Argentina vs Germany</display-name>
+  </channel>
+  <programme start="20251121000000 +0200" stop="20251121170000 +0200" channel="DavisCupFinalsSemifinal1ArgentinavsGermany">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">Davis Cup Finals Semifinal 1 : Argentina vs Germany.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251121170000 +0200" stop="20251121190000 +0200" channel="DavisCupFinalsSemifinal1ArgentinavsGermany">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Davis Cup Finals Semifinal 1 : Argentina vs Germany</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="Formula1HeinekenLasVegasGrandPrixPractice3">
+    <display-name>Formula 1 : Heineken Las Vegas Grand Prix - Practice 3</display-name>
+  </channel>
+  <programme start="20251121000000 +0200" stop="20251121023000 +0200" channel="Formula1HeinekenLasVegasGrandPrixPractice3">
+    <title lang="it">Inizia alle 02:30.</title>
+    <desc lang="it">Formula 1 : Heineken Las Vegas Grand Prix - Practice 3.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251121023000 +0200" stop="20251121043000 +0200" channel="Formula1HeinekenLasVegasGrandPrixPractice3">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 1 : Heineken Las Vegas Grand Prix - Practice 3</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Formula1HeinekenLasVegasGrandPrixPractice2">
+    <display-name>Formula 1 : Heineken Las Vegas Grand Prix - Practice 2</display-name>
+  </channel>
+  <programme start="20251121000000 +0200" stop="20251121060000 +0200" channel="Formula1HeinekenLasVegasGrandPrixPractice2">
+    <title lang="it">Inizia alle 06:00.</title>
+    <desc lang="it">Formula 1 : Heineken Las Vegas Grand Prix - Practice 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251121060000 +0200" stop="20251121080000 +0200" channel="Formula1HeinekenLasVegasGrandPrixPractice2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 1 : Heineken Las Vegas Grand Prix - Practice 2</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="F1AcademyLasVegasStripCircuitinNevadaQualifying">
+    <display-name>F1 Academy : Las Vegas Strip Circuit in Nevada Qualifying</display-name>
+  </channel>
+  <programme start="20251121000000 +0200" stop="20251121073000 +0200" channel="F1AcademyLasVegasStripCircuitinNevadaQualifying">
+    <title lang="it">Inizia alle 07:30.</title>
+    <desc lang="it">F1 Academy : Las Vegas Strip Circuit in Nevada Qualifying.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251121073000 +0200" stop="20251121093000 +0200" channel="F1AcademyLasVegasStripCircuitinNevadaQualifying">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">F1 Academy : Las Vegas Strip Circuit in Nevada Qualifying</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="RiyadhSeasonChampionshipSemiFinal">
+    <display-name>Riyadh Season Championship | Semi-Final</display-name>
+  </channel>
+  <programme start="20251121000000 +0200" stop="20251121160000 +0200" channel="RiyadhSeasonChampionshipSemiFinal">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">Riyadh Season Championship | Semi-Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251121160000 +0200" stop="20251121180000 +0200" channel="RiyadhSeasonChampionshipSemiFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Riyadh Season Championship | Semi-Final</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <channel id="RiyadhSeasonChampionshipFinal">
+    <display-name>Riyadh Season Championship | Final</display-name>
+  </channel>
+  <programme start="20251121000000 +0200" stop="20251121210000 +0200" channel="RiyadhSeasonChampionshipFinal">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Riyadh Season Championship | Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251121210000 +0200" stop="20251121230000 +0200" channel="RiyadhSeasonChampionshipFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Riyadh Season Championship | Final</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <channel id="WorldCupCortinaMensDownhill1strun">
+    <display-name>World Cup - Cortina: Men's Downhill - 1st run</display-name>
+  </channel>
+  <programme start="20251121000000 +0200" stop="20251121100000 +0200" channel="WorldCupCortinaMensDownhill1strun">
+    <title lang="it">Inizia alle 10:00.</title>
+    <desc lang="it">World Cup - Cortina: Men's Downhill - 1st run.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251121100000 +0200" stop="20251121120000 +0200" channel="WorldCupCortinaMensDownhill1strun">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Cup - Cortina: Men's Downhill - 1st run</desc>
+    <category lang="it">Alpine Ski</category>
+  </programme>
+  <channel id="WorldCupCortinaMensDownhill2ndrun">
+    <display-name>World Cup - Cortina: Men's Downhill - 2nd run</display-name>
+  </channel>
+  <programme start="20251121000000 +0200" stop="20251121114000 +0200" channel="WorldCupCortinaMensDownhill2ndrun">
+    <title lang="it">Inizia alle 11:40.</title>
+    <desc lang="it">World Cup - Cortina: Men's Downhill - 2nd run.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251121114000 +0200" stop="20251121134000 +0200" channel="WorldCupCortinaMensDownhill2ndrun">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Cup - Cortina: Men's Downhill - 2nd run</desc>
+    <category lang="it">Alpine Ski</category>
+  </programme>
+  <channel id="JumpingPragueGlobalChampionsLeagueSemiFinal">
+    <display-name>Jumping | Prague Global Champions League | Semi-Final</display-name>
+  </channel>
+  <programme start="20251121000000 +0200" stop="20251121210000 +0200" channel="JumpingPragueGlobalChampionsLeagueSemiFinal">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Jumping | Prague Global Champions League | Semi-Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251121210000 +0200" stop="20251121230000 +0200" channel="JumpingPragueGlobalChampionsLeagueSemiFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Jumping | Prague Global Champions League | Semi-Final</desc>
+    <category lang="it">Equestrian</category>
+  </programme>
+  <channel id="GrandPrixFinlandiaMixedpairsShortProgram">
+    <display-name>Grand Prix | Finlandia Mixed pairs | Short Program</display-name>
+  </channel>
+  <programme start="20251121000000 +0200" stop="20251121140000 +0200" channel="GrandPrixFinlandiaMixedpairsShortProgram">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">Grand Prix | Finlandia Mixed pairs | Short Program.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251121140000 +0200" stop="20251121160000 +0200" channel="GrandPrixFinlandiaMixedpairsShortProgram">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Grand Prix | Finlandia Mixed pairs | Short Program</desc>
+    <category lang="it">Ice Skating</category>
+  </programme>
+  <channel id="GrandPrixFinlandiaShortProgramMale">
+    <display-name>Grand Prix | Finlandia Short Program | Male</display-name>
+  </channel>
+  <programme start="20251121000000 +0200" stop="20251121153000 +0200" channel="GrandPrixFinlandiaShortProgramMale">
+    <title lang="it">Inizia alle 15:30.</title>
+    <desc lang="it">Grand Prix | Finlandia Short Program | Male.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251121153000 +0200" stop="20251121173000 +0200" channel="GrandPrixFinlandiaShortProgramMale">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Grand Prix | Finlandia Short Program | Male</desc>
+    <category lang="it">Ice Skating</category>
+  </programme>
+  <channel id="GrandPrixFinlandiaShortProgramFemale">
+    <display-name>Grand Prix | Finlandia Short Program | Female</display-name>
+  </channel>
+  <programme start="20251121000000 +0200" stop="20251121173000 +0200" channel="GrandPrixFinlandiaShortProgramFemale">
+    <title lang="it">Inizia alle 17:30.</title>
+    <desc lang="it">Grand Prix | Finlandia Short Program | Female.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251121173000 +0200" stop="20251121193000 +0200" channel="GrandPrixFinlandiaShortProgramFemale">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Grand Prix | Finlandia Short Program | Female</desc>
+    <category lang="it">Ice Skating</category>
+  </programme>
+  <channel id="GFigureSkatingFinlandiaTrophyrhythmicdance">
+    <display-name>GFigure Skating: Finlandia Trophy rhythmic dance</display-name>
+  </channel>
+  <programme start="20251121000000 +0200" stop="20251121193000 +0200" channel="GFigureSkatingFinlandiaTrophyrhythmicdance">
+    <title lang="it">Inizia alle 19:30.</title>
+    <desc lang="it">GFigure Skating: Finlandia Trophy rhythmic dance.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251121193000 +0200" stop="20251121213000 +0200" channel="GFigureSkatingFinlandiaTrophyrhythmicdance">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">GFigure Skating: Finlandia Trophy rhythmic dance</desc>
+    <category lang="it">Ice Skating</category>
+  </programme>
+  <channel id="LillehammerMixedTeamHS140WorldCupDay1">
+    <display-name>Lillehammer | Mixed Team HS 140 World Cup | Day 1</display-name>
+  </channel>
+  <programme start="20251121000000 +0200" stop="20251121164500 +0200" channel="LillehammerMixedTeamHS140WorldCupDay1">
+    <title lang="it">Inizia alle 16:45.</title>
+    <desc lang="it">Lillehammer | Mixed Team HS 140 World Cup | Day 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251121164500 +0200" stop="20251121184500 +0200" channel="LillehammerMixedTeamHS140WorldCupDay1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Lillehammer | Mixed Team HS 140 World Cup | Day 1</desc>
+    <category lang="it">Ski Jumping</category>
+  </programme>
 </tv>
