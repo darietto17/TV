@@ -75,19 +75,6 @@
     <desc lang="it">France - Ligue 1 : Nice vs Olympique Marseille</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="DavisCupFinalsSemifinal1ArgentinavsGermany">
-    <display-name>Davis Cup Finals Semifinal 1 : Argentina vs Germany</display-name>
-  </channel>
-  <programme start="20251121000000 +0200" stop="20251121170000 +0200" channel="DavisCupFinalsSemifinal1ArgentinavsGermany">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">Davis Cup Finals Semifinal 1 : Argentina vs Germany.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251121170000 +0200" stop="20251121190000 +0200" channel="DavisCupFinalsSemifinal1ArgentinavsGermany">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Davis Cup Finals Semifinal 1 : Argentina vs Germany</desc>
-    <category lang="it">Tennis</category>
-  </programme>
   <channel id="RiyadhSeasonChampionshipFinal">
     <display-name>Riyadh Season Championship | Final</display-name>
   </channel>
@@ -114,19 +101,6 @@
     <desc lang="it">Jumping | Prague Global Champions League | Semi-Final</desc>
     <category lang="it">Equestrian</category>
   </programme>
-  <channel id="GrandPrixFinlandiaShortProgramFemale">
-    <display-name>Grand Prix | Finlandia Short Program | Female</display-name>
-  </channel>
-  <programme start="20251121000000 +0200" stop="20251121173000 +0200" channel="GrandPrixFinlandiaShortProgramFemale">
-    <title lang="it">Inizia alle 17:30.</title>
-    <desc lang="it">Grand Prix | Finlandia Short Program | Female.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251121173000 +0200" stop="20251121193000 +0200" channel="GrandPrixFinlandiaShortProgramFemale">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Grand Prix | Finlandia Short Program | Female</desc>
-    <category lang="it">Ice Skating</category>
-  </programme>
   <channel id="GFigureSkatingFinlandiaTrophyrhythmicdance">
     <display-name>GFigure Skating: Finlandia Trophy rhythmic dance</display-name>
   </channel>
@@ -139,18 +113,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">GFigure Skating: Finlandia Trophy rhythmic dance</desc>
     <category lang="it">Ice Skating</category>
-  </programme>
-  <channel id="LillehammerMixedTeamHS140WorldCupDay1">
-    <display-name>Lillehammer | Mixed Team HS 140 World Cup | Day 1</display-name>
-  </channel>
-  <programme start="20251121000000 +0200" stop="20251121164500 +0200" channel="LillehammerMixedTeamHS140WorldCupDay1">
-    <title lang="it">Inizia alle 16:45.</title>
-    <desc lang="it">Lillehammer | Mixed Team HS 140 World Cup | Day 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251121164500 +0200" stop="20251121184500 +0200" channel="LillehammerMixedTeamHS140WorldCupDay1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Lillehammer | Mixed Team HS 140 World Cup | Day 1</desc>
-    <category lang="it">Ski Jumping</category>
   </programme>
 </tv>
