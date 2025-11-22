@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="GermanyBundesligaBayernMnchenvsFreiburg">
-    <display-name>Germany - Bundesliga : Bayern München vs Freiburg</display-name>
-  </channel>
-  <programme start="20251122000000 +0200" stop="20251122163000 +0200" channel="GermanyBundesligaBayernMnchenvsFreiburg">
-    <title lang="it">Inizia alle 16:30.</title>
-    <desc lang="it">Germany - Bundesliga : Bayern München vs Freiburg.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251122163000 +0200" stop="20251122183000 +0200" channel="GermanyBundesligaBayernMnchenvsFreiburg">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga : Bayern München vs Freiburg</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalySerieCUnionArzignanoChiampovsDolomitiBellunesi">
     <display-name>Italy - Serie C : Union ArzignanoChiampo vs Dolomiti Bellunesi</display-name>
   </channel>
@@ -160,19 +147,6 @@
     <desc lang="it">Italy - Serie A : Napoli vs Atalanta</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="DavisCupT2025Semifinal2Doubles">
-    <display-name>Davis Cup (T2025): Semifinal 2. Doubles</display-name>
-  </channel>
-  <programme start="20251122000000 +0200" stop="20251122173000 +0200" channel="DavisCupT2025Semifinal2Doubles">
-    <title lang="it">Inizia alle 17:30.</title>
-    <desc lang="it">Davis Cup (T2025): Semifinal 2. Doubles.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251122173000 +0200" stop="20251122193000 +0200" channel="DavisCupT2025Semifinal2Doubles">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Davis Cup (T2025): Semifinal 2. Doubles</desc>
-    <category lang="it">Tennis</category>
-  </programme>
   <channel id="UFCFightNightMainCardArmanTsarukyanvsDanHooker">
     <display-name>UFC Fight Night Main Card : Arman Tsarukyan vs Dan Hooker</display-name>
   </channel>
@@ -198,42 +172,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Global Champions Tour | Event 17 Jumping | Prague</desc>
     <category lang="it">Equestrian</category>
-  </programme>
-  <channel id="WomenFreeProgramGrandPrixFinland">
-    <display-name>Women | Free Program Grand Prix | Finland</display-name>
-  </channel>
-  <programme start="20251122000000 +0200" stop="20251122173000 +0200" channel="WomenFreeProgramGrandPrixFinland">
-    <title lang="it">Inizia alle 17:30.</title>
-    <desc lang="it">Women | Free Program Grand Prix | Finland.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251122173000 +0200" stop="20251122193000 +0200" channel="WomenFreeProgramGrandPrixFinland">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Women | Free Program Grand Prix | Finland</desc>
-    <category lang="it">Ice Skating</category>
-  </programme>
-  <programme start="20251122000000 +0200" stop="20251122173000 +0200" channel="WomenFreeProgramGrandPrixFinland">
-    <title lang="it">Inizia alle 17:30.</title>
-    <desc lang="it">Women | Free Program Grand Prix | Finland.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251122173000 +0200" stop="20251122193000 +0200" channel="WomenFreeProgramGrandPrixFinland">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Women | Free Program Grand Prix | Finland</desc>
-    <category lang="it">Ice Skating</category>
-  </programme>
-  <channel id="FriendlyInternationalWalesvsNewZealand">
-    <display-name>Friendly International : Wales vs New Zealand</display-name>
-  </channel>
-  <programme start="20251122000000 +0200" stop="20251122171000 +0200" channel="FriendlyInternationalWalesvsNewZealand">
-    <title lang="it">Inizia alle 17:10.</title>
-    <desc lang="it">Friendly International : Wales vs New Zealand.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251122171000 +0200" stop="20251122191000 +0200" channel="FriendlyInternationalWalesvsNewZealand">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Friendly International : Wales vs New Zealand</desc>
-    <category lang="it">Rugby Union</category>
   </programme>
   <channel id="FriendlyInternationalIrelandvsSouthAfrica">
     <display-name>Friendly International : Ireland vs South Africa</display-name>
