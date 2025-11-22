@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="GermanyBundesliga2FortunaDsseldorfvsMagdeburg">
-    <display-name>Germany - Bundesliga 2 : Fortuna Düsseldorf vs Magdeburg</display-name>
-  </channel>
-  <programme start="20251122000000 +0200" stop="20251122140000 +0200" channel="GermanyBundesliga2FortunaDsseldorfvsMagdeburg">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Fortuna Düsseldorf vs Magdeburg.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251122140000 +0200" stop="20251122160000 +0200" channel="GermanyBundesliga2FortunaDsseldorfvsMagdeburg">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Fortuna Düsseldorf vs Magdeburg</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalySerieCProVercellivsAlcione">
     <display-name>Italy - Serie C : Pro Vercelli vs Alcione</display-name>
   </channel>
@@ -277,19 +264,6 @@
     <desc lang="it">Italy - Serie A : Napoli vs Atalanta</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="DavisCupFinalsSemifinal2">
-    <display-name>Davis Cup Finals Semifinal 2</display-name>
-  </channel>
-  <programme start="20251122000000 +0200" stop="20251122130000 +0200" channel="DavisCupFinalsSemifinal2">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Davis Cup Finals Semifinal 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251122130000 +0200" stop="20251122150000 +0200" channel="DavisCupFinalsSemifinal2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Davis Cup Finals Semifinal 2</desc>
-    <category lang="it">Tennis</category>
-  </programme>
   <channel id="DavisCupT2025Semifinal2Singles2">
     <display-name>Davis Cup (T2025): Semifinal 2. Singles 2</display-name>
   </channel>
@@ -341,19 +315,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Slalom, Gurgl : Kristoffersen, Henrik vs. Meillard, Loic</desc>
     <category lang="it">Alpine Ski</category>
-  </programme>
-  <channel id="UCICycloCrossWorldCupTabor">
-    <display-name>UCI Cyclo-Cross World Cup Tabor</display-name>
-  </channel>
-  <programme start="20251122000000 +0200" stop="20251122134500 +0200" channel="UCICycloCrossWorldCupTabor">
-    <title lang="it">Inizia alle 13:45.</title>
-    <desc lang="it">UCI Cyclo-Cross World Cup Tabor.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251122134500 +0200" stop="20251122154500 +0200" channel="UCICycloCrossWorldCupTabor">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UCI Cyclo-Cross World Cup Tabor</desc>
-    <category lang="it">Cycling</category>
   </programme>
   <channel id="GlobalChampionsTourEvent17JumpingPrague">
     <display-name>Global Champions Tour | Event 17 Jumping | Prague</display-name>
@@ -439,19 +400,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Friendly International : Italy vs Chile</desc>
     <category lang="it">Rugby Union</category>
-  </programme>
-  <channel id="QualificationLillehammerLadies">
-    <display-name>Qualification | Lillehammer Ladies</display-name>
-  </channel>
-  <programme start="20251122000000 +0200" stop="20251122124500 +0200" channel="QualificationLillehammerLadies">
-    <title lang="it">Inizia alle 12:45.</title>
-    <desc lang="it">Qualification | Lillehammer Ladies.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251122124500 +0200" stop="20251122144500 +0200" channel="QualificationLillehammerLadies">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Qualification | Lillehammer Ladies</desc>
-    <category lang="it">Ski Jumping</category>
   </programme>
   <channel id="IndividualcompetitionLillehammerHS140">
     <display-name>Individual competition | Lillehammer HS140</display-name>
