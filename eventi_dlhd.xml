@@ -332,17 +332,7 @@
   <channel id="SlalomGurglKristoffersenHenrikvsMeillardLoic">
     <display-name>Slalom, Gurgl : Kristoffersen, Henrik vs. Meillard, Loic</display-name>
   </channel>
-  <programme start="20251122000000 +0200" stop="20251122111500 +0200" channel="SlalomGurglKristoffersenHenrikvsMeillardLoic">
-    <title lang="it">Inizia alle 11:15.</title>
-    <desc lang="it">Slalom, Gurgl : Kristoffersen, Henrik vs. Meillard, Loic.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251122111500 +0200" stop="20251122131500 +0200" channel="SlalomGurglKristoffersenHenrikvsMeillardLoic">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Slalom, Gurgl : Kristoffersen, Henrik vs. Meillard, Loic</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
-  <programme start="20251122131500 +0200" stop="20251122143000 +0200" channel="SlalomGurglKristoffersenHenrikvsMeillardLoic">
+  <programme start="20251122000000 +0200" stop="20251122143000 +0200" channel="SlalomGurglKristoffersenHenrikvsMeillardLoic">
     <title lang="it">Inizia alle 14:30.</title>
     <desc lang="it">Slalom, Gurgl : Kristoffersen, Henrik vs. Meillard, Loic.</desc>
     <category lang="it">Annuncio</category>
@@ -377,19 +367,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Global Champions Tour | Event 17 Jumping | Prague</desc>
     <category lang="it">Equestrian</category>
-  </programme>
-  <channel id="GrandPrixFinlandiaMixedpairsFreeroutine">
-    <display-name>Grand Prix | Finlandia Mixed pairs | Free routine</display-name>
-  </channel>
-  <programme start="20251122000000 +0200" stop="20251122123000 +0200" channel="GrandPrixFinlandiaMixedpairsFreeroutine">
-    <title lang="it">Inizia alle 12:30.</title>
-    <desc lang="it">Grand Prix | Finlandia Mixed pairs | Free routine.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251122123000 +0200" stop="20251122143000 +0200" channel="GrandPrixFinlandiaMixedpairsFreeroutine">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Grand Prix | Finlandia Mixed pairs | Free routine</desc>
-    <category lang="it">Ice Skating</category>
   </programme>
   <channel id="WomenFreeProgramGrandPrixFinland">
     <display-name>Women | Free Program Grand Prix | Finland</display-name>
