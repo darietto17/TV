@@ -1,54 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieAHellasVeronavsParma">
-    <display-name>Italy - Serie A : Hellas Verona vs Parma</display-name>
-  </channel>
-  <programme start="20251123000000 +0200" stop="20251123133000 +0200" channel="ItalySerieAHellasVeronavsParma">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie A : Hellas Verona vs Parma.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251123133000 +0200" stop="20251123153000 +0200" channel="ItalySerieAHellasVeronavsParma">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Hellas Verona vs Parma</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="ItalySerieCCavesevsAtalantaII">
-    <display-name>Italy - Serie C : Cavese vs Atalanta II</display-name>
-  </channel>
-  <programme start="20251123000000 +0200" stop="20251123133000 +0200" channel="ItalySerieCCavesevsAtalantaII">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie C : Cavese vs Atalanta II.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251123133000 +0200" stop="20251123153000 +0200" channel="ItalySerieCCavesevsAtalantaII">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Cavese vs Atalanta II</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="ItalySerieCTrentovsInterII">
-    <display-name>Italy - Serie C : Trento vs Inter II</display-name>
-  </channel>
-  <programme start="20251123000000 +0200" stop="20251123133000 +0200" channel="ItalySerieCTrentovsInterII">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie C : Trento vs Inter II.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251123133000 +0200" stop="20251123153000 +0200" channel="ItalySerieCTrentovsInterII">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Trento vs Inter II</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20251123000000 +0200" stop="20251123133000 +0200" channel="ItalySerieCTrentovsInterII">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie C : Trento vs Inter II.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251123133000 +0200" stop="20251123153000 +0200" channel="ItalySerieCTrentovsInterII">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Trento vs Inter II</desc>
-    <category lang="it">Soccer</category>
-  </programme>
   <channel id="ItalySerieCNovaravsRenate">
     <display-name>Italy - Serie C : Novara vs Renate</display-name>
   </channel>
@@ -333,19 +284,6 @@
     <desc lang="it">Slalom Women, Gurgl, Women : Meillard, Melanie vs. Liensberger, Katharina</desc>
     <category lang="it">Alpine Ski</category>
   </programme>
-  <channel id="UCIWorldCupTaborEliteRaceWomen">
-    <display-name>UCI World Cup Tabor | Elite Race (Women)</display-name>
-  </channel>
-  <programme start="20251123000000 +0200" stop="20251123140000 +0200" channel="UCIWorldCupTaborEliteRaceWomen">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">UCI World Cup Tabor | Elite Race (Women).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251123140000 +0200" stop="20251123160000 +0200" channel="UCIWorldCupTaborEliteRaceWomen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UCI World Cup Tabor | Elite Race (Women)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
   <channel id="UCIWorldCupTaborEliteRaceMen">
     <display-name>UCI World Cup Tabor | Elite Race (Men)</display-name>
   </channel>
@@ -410,19 +348,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Top 14 : Stade Francais vs Toulon</desc>
     <category lang="it">Rugby Union</category>
-  </programme>
-  <channel id="LillehammerHS140WorldCupWomen">
-    <display-name>Lillehammer | HS140 World Cup | Women</display-name>
-  </channel>
-  <programme start="20251123000000 +0200" stop="20251123130000 +0200" channel="LillehammerHS140WorldCupWomen">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Lillehammer | HS140 World Cup | Women.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251123130000 +0200" stop="20251123150000 +0200" channel="LillehammerHS140WorldCupWomen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Lillehammer | HS140 World Cup | Women</desc>
-    <category lang="it">Ski Jumping</category>
   </programme>
   <channel id="QualificationLillehammerHS140">
     <display-name>Qualification | Lillehammer HS140</display-name>
