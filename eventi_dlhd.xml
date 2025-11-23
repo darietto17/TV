@@ -147,32 +147,6 @@
     <desc lang="it">Davis Cup (T2025): Final. Doubles</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="JumpingPragueGlobalChampionsLeagueFinal">
-    <display-name>Jumping | Prague Global Champions League | Final</display-name>
-  </channel>
-  <programme start="20251123000000 +0200" stop="20251123163000 +0200" channel="JumpingPragueGlobalChampionsLeagueFinal">
-    <title lang="it">Inizia alle 16:30.</title>
-    <desc lang="it">Jumping | Prague Global Champions League | Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251123163000 +0200" stop="20251123183000 +0200" channel="JumpingPragueGlobalChampionsLeagueFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Jumping | Prague Global Champions League | Final</desc>
-    <category lang="it">Equestrian</category>
-  </programme>
-  <channel id="QuilterNationsSeriesEnglandvsArgentina">
-    <display-name>Quilter Nations Series : England vs Argentina</display-name>
-  </channel>
-  <programme start="20251123000000 +0200" stop="20251123174500 +0200" channel="QuilterNationsSeriesEnglandvsArgentina">
-    <title lang="it">Inizia alle 17:45.</title>
-    <desc lang="it">Quilter Nations Series : England vs Argentina.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251123174500 +0200" stop="20251123194500 +0200" channel="QuilterNationsSeriesEnglandvsArgentina">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Quilter Nations Series : England vs Argentina</desc>
-    <category lang="it">Rugby Union</category>
-  </programme>
   <channel id="Top14StadeFrancaisvsToulon">
     <display-name>Top 14 : Stade Francais vs Toulon</display-name>
   </channel>
@@ -185,18 +159,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Top 14 : Stade Francais vs Toulon</desc>
     <category lang="it">Rugby Union</category>
-  </programme>
-  <channel id="IndividualLHLillehammerHS140KraftStefanvsHoerlJan">
-    <display-name>Individual LH, Lillehammer HS140 : Kraft, Stefan vs. Hoerl, Jan</display-name>
-  </channel>
-  <programme start="20251123000000 +0200" stop="20251123170000 +0200" channel="IndividualLHLillehammerHS140KraftStefanvsHoerlJan">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">Individual LH, Lillehammer HS140 : Kraft, Stefan vs. Hoerl, Jan.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251123170000 +0200" stop="20251123190000 +0200" channel="IndividualLHLillehammerHS140KraftStefanvsHoerlJan">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Individual LH, Lillehammer HS140 : Kraft, Stefan vs. Hoerl, Jan</desc>
-    <category lang="it">Winter Sports</category>
   </programme>
 </tv>
