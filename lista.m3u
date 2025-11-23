@@ -19,6 +19,8 @@ https://vavoo.to/vavoo-iptv/play/68845853044f9c95e43e
 https://vavoo.to/vavoo-iptv/play/190887752614ef25f5e1fd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.omceo.bg.it/images/loghi/antenna-2.png" group-title="Altro",ANTENNA 2
 https://vavoo.to/vavoo-iptv/play/30140012609b4bf5e8d3b7
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ANTENNA SICILIA
+https://vavoo.to/vavoo-iptv/play/3309975829c0cd274e96f4
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.antennasud.com/media/2022/08/cropped-LOGO_ANTENNA_SUD_ROSSO_FORATO.png" group-title="Altro",ANTENNA SUD
 https://vavoo.to/vavoo-iptv/play/4084059868fd82d62442e9
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="Documentari",ARTE NETWORK
@@ -382,10 +384,6 @@ https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
 https://vavoo.to/vavoo-iptv/play/209862439074120bb15132
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN FAMILY
 https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN TOP FREE
-https://vavoo.to/vavoo-iptv/play/1572866962efea4ca22353
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN TV SHOWS
-https://vavoo.to/vavoo-iptv/play/860912269147f85ae7a8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png" group-title="Musica",RDS SOCIAL
 https://vavoo.to/vavoo-iptv/play/4031388312f5ebcfc7dc6d
 #EXTINF:-1 tvg-id="rdssocialtv.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png" group-title="Musica",RDS SOCIAL TV
@@ -439,8 +437,6 @@ https://vavoo.to/vavoo-iptv/play/11138532639c972f8c712f
 https://vavoo.to/vavoo-iptv/play/2002360508ebbced695f3c
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/senato-tv-it.png?raw=true" group-title="Altro",SENATO TV (2)
 https://vavoo.to/vavoo-iptv/play/28955495519a6e882c3db3
-#EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE
-https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
 #EXTINF:-1 tvg-id="sky.atlantic.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film - Serie TV",SKY ATLANTIC
 https://vavoo.to/vavoo-iptv/play/1482866609814ff0b05ac7
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film - Serie TV",SKY CINEMA ACTION
@@ -733,7 +729,7 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-id="italyserieahellasveronavsparma" tvg-name="Soccer | Italy - Serie A : Hellas Verona vs Parma (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Hellas Verona_vs_Parma.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Hellas Verona vs Parma (13:30)
 https://dlhd.dad/watch.php?id=877
 
-#EXTINF:-1 tvg-id="italyserieccavesevsatalantaii" tvg-name="Soccer | Italy - Serie C : Cavese vs Atalanta II (13:30)" tvg-logo="https://assets-es.imgfoot.com/media/cache/150x150/club/atalanta.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Cavese vs Atalanta II (13:30)
+#EXTINF:-1 tvg-id="italyserieccavesevsatalantaii" tvg-name="Soccer | Italy - Serie C : Cavese vs Atalanta II (13:30)" tvg-logo="https://footballparkpanel.b-cdn.net/uploads/Atalanta_BC_svg_c31b4a80de.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Cavese vs Atalanta II (13:30)
 https://dlhd.dad/watch.php?id=23
 
 #EXTINF:-1 tvg-id="italyseriectrentovsinterii" tvg-name="Soccer | Italy - Serie C : Trento vs Inter II (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Trento_vs_Inter II.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Trento vs Inter II (13:30)
@@ -802,14 +798,11 @@ https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="italyserieainternazionalevsmilan" tvg-name="Soccer | Italy - Serie A : Internazionale vs Milan (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Internazionale_vs_Milan.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Internazionale vs Milan (21:45)
 https://dlhd.dad/watch.php?id=877
 
-#EXTINF:-1 tvg-id="daviscupfinalsfinal" tvg-name="Tennis | Davis Cup Finals Final (16:00)" tvg-logo="https://www.collegetransitions.com/wp-content/uploads/2022/03/UC-Davis-e1648646748811.png" group-title="Eventi Live DLHD",Tennis | Davis Cup Finals Final (16:00)
+#EXTINF:-1 tvg-id="daviscupfinalsfinal" tvg-name="Tennis | Davis Cup Finals Final (16:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/The_University_of_California_Davis.svg/300px-The_University_of_California_Davis.svg.png" group-title="Eventi Live DLHD",Tennis | Davis Cup Finals Final (16:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="daviscupt2025finaldoubles" tvg-name="Tennis | Davis Cup (T2025): Final. Doubles (21:00)" tvg-logo="https://www.collegetransitions.com/wp-content/uploads/2022/03/UC-Davis-e1648646748811.png" group-title="Eventi Live DLHD",Tennis | Davis Cup (T2025): Final. Doubles (21:00)
+#EXTINF:-1 tvg-id="daviscupt2025finaldoubles" tvg-name="Tennis | Davis Cup (T2025): Final. Doubles (21:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/The_University_of_California_Davis.svg/300px-The_University_of_California_Davis.svg.png" group-title="Eventi Live DLHD",Tennis | Davis Cup (T2025): Final. Doubles (21:00)
 https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="formula1heinekenlasvegasgrandprixrace" tvg-name="Motorsport | Formula 1 : Heineken Las Vegas Grand Prix - Race (06:00)" tvg-logo="https://i.pinimg.com/originals/48/7a/cf/487acf60c75951c1de0116aa0fa7a4b6.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Heineken Las Vegas Grand Prix - Race (06:00)
-https://dlhd.dad/watch.php?id=577
 
 #EXTINF:-1 tvg-id="slalomwomengurglwomenmeillardmelanievsliensbergerkatharina" tvg-name="Alpine Ski | Slalom Women, Gurgl, Women : Meillard, Melanie vs. Liensberger, Katharina (11:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Meillard, Melanie_vs_Liensberger, Katharina.png" group-title="Eventi Live DLHD",Alpine Ski | Slalom Women, Gurgl, Women : Meillard, Melanie vs. Liensberger, Katharina (11:30)
 https://dlhd.dad/watch.php?id=878
@@ -817,13 +810,13 @@ https://dlhd.dad/watch.php?id=878
 #EXTINF:-1 tvg-id="slalomwomengurglwomenmeillardmelanievsliensbergerkatharina" tvg-name="Alpine Ski | Slalom Women, Gurgl, Women : Meillard, Melanie vs. Liensberger, Katharina (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Meillard, Melanie_vs_Liensberger, Katharina.png" group-title="Eventi Live DLHD",Alpine Ski | Slalom Women, Gurgl, Women : Meillard, Melanie vs. Liensberger, Katharina (14:30)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="uciworldcuptaboreliteracewomen" tvg-name="Cycling | UCI World Cup Tabor | Elite Race (Women) (14:00)" tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/Uci-Symbol.png" group-title="Eventi Live DLHD",Cycling | UCI World Cup Tabor | Elite Race (Women) (14:00)
+#EXTINF:-1 tvg-id="uciworldcuptaboreliteracewomen" tvg-name="Cycling | UCI World Cup Tabor | Elite Race (Women) (14:00)" tvg-logo="http://lochabertrails.org/assets/img/lochaber_trail_association_logo.png" group-title="Eventi Live DLHD",Cycling | UCI World Cup Tabor | Elite Race (Women) (14:00)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="uciworldcuptaboreliteracemen" tvg-name="Cycling | UCI World Cup Tabor | Elite Race (Men) (15:20)" tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/Uci-Symbol.png" group-title="Eventi Live DLHD",Cycling | UCI World Cup Tabor | Elite Race (Men) (15:20)
+#EXTINF:-1 tvg-id="uciworldcuptaboreliteracemen" tvg-name="Cycling | UCI World Cup Tabor | Elite Race (Men) (15:20)" tvg-logo="https://i.pinimg.com/originals/19/a6/64/19a664e93e4a1ac0df504db6c3f40a02.png" group-title="Eventi Live DLHD",Cycling | UCI World Cup Tabor | Elite Race (Men) (15:20)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="jumpingpragueglobalchampionsleaguefinal" tvg-name="Equestrian | Jumping | Prague Global Champions League | Final (16:30)" tvg-logo="https://dam.destination.one/192063/a56a2a0d08f522da18de28dcc1e58ca3757ab8c8ba713cb50cf88580189c99b1/.jpg" group-title="Eventi Live DLHD",Equestrian | Jumping | Prague Global Champions League | Final (16:30)
+#EXTINF:-1 tvg-id="jumpingpragueglobalchampionsleaguefinal" tvg-name="Equestrian | Jumping | Prague Global Champions League | Final (16:30)" tvg-logo="https://static.vecteezy.com/system/resources/previews/015/674/977/original/athletic-man-jumping-png.png" group-title="Eventi Live DLHD",Equestrian | Jumping | Prague Global Champions League | Final (16:30)
 https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="quilternationsseriesscotlandvstonga" tvg-name="Rugby Union | Quilter Nations Series : Scotland vs Tonga (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Scotland_vs_Tonga.png" group-title="Eventi Live DLHD",Rugby Union | Quilter Nations Series : Scotland vs Tonga (15:00)
@@ -838,7 +831,7 @@ https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="lillehammerhs140worldcupwomen" tvg-name="Ski Jumping | Lillehammer | HS140 World Cup | Women (13:00)" tvg-logo="https://bareyogalillehammer.no/wp-content/uploads/2024/01/BAREYOGA-07-1.png" group-title="Eventi Live DLHD",Ski Jumping | Lillehammer | HS140 World Cup | Women (13:00)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="qualificationlillehammerhs140" tvg-name="Ski Jumping | Qualification | Lillehammer HS140 (15:25)" tvg-logo="https://qualifications.jtec.gov.jm/wp-content/uploads/2021/11/JTECLogo_White-1536x1421.png" group-title="Eventi Live DLHD",Ski Jumping | Qualification | Lillehammer HS140 (15:25)
+#EXTINF:-1 tvg-id="qualificationlillehammerhs140" tvg-name="Ski Jumping | Qualification | Lillehammer HS140 (15:25)" tvg-logo="https://section125qualification.com/wp-content/uploads/2025/01/s125-cc-logo.png" group-title="Eventi Live DLHD",Ski Jumping | Qualification | Lillehammer HS140 (15:25)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="individuallhlillehammerhs140kraftstefanvshoerljan" tvg-name="Winter Sports | Individual LH, Lillehammer HS140 : Kraft, Stefan vs. Hoerl, Jan (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Kraft, Stefan_vs_Hoerl, Jan.png" group-title="Eventi Live DLHD",Winter Sports | Individual LH, Lillehammer HS140 : Kraft, Stefan vs. Hoerl, Jan (17:00)
