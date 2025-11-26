@@ -281,17 +281,7 @@
   <channel id="QualificationFalun">
     <display-name>Qualification | Falun</display-name>
   </channel>
-  <programme start="20251126000000 +0200" stop="20251126120000 +0200" channel="QualificationFalun">
-    <title lang="it">Inizia alle 12:00.</title>
-    <desc lang="it">Qualification | Falun.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251126120000 +0200" stop="20251126140000 +0200" channel="QualificationFalun">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Qualification | Falun</desc>
-    <category lang="it">Ski Jumping</category>
-  </programme>
-  <programme start="20251126140000 +0200" stop="20251126160000 +0200" channel="QualificationFalun">
+  <programme start="20251126000000 +0200" stop="20251126160000 +0200" channel="QualificationFalun">
     <title lang="it">Inizia alle 16:00.</title>
     <desc lang="it">Qualification | Falun.</desc>
     <category lang="it">Annuncio</category>
