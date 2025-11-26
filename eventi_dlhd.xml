@@ -1,41 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalyCoppaItaliaSerieCInterIIvsRenate">
-    <display-name>Italy - Coppa Italia Serie C : Inter II vs Renate</display-name>
-  </channel>
-  <programme start="20251126000000 +0200" stop="20251126160000 +0200" channel="ItalyCoppaItaliaSerieCInterIIvsRenate">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Italy - Coppa Italia Serie C : Inter II vs Renate.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251126160000 +0200" stop="20251126180000 +0200" channel="ItalyCoppaItaliaSerieCInterIIvsRenate">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Coppa Italia Serie C : Inter II vs Renate</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCGubbiovsJuventusII">
-    <display-name>Italy - Serie C : Gubbio vs Juventus II</display-name>
-  </channel>
-  <programme start="20251126000000 +0200" stop="20251126160000 +0200" channel="ItalySerieCGubbiovsJuventusII">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Italy - Serie C : Gubbio vs Juventus II.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251126160000 +0200" stop="20251126180000 +0200" channel="ItalySerieCGubbiovsJuventusII">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Gubbio vs Juventus II</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20251126000000 +0200" stop="20251126160000 +0200" channel="ItalySerieCGubbiovsJuventusII">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Italy - Serie C : Gubbio vs Juventus II.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251126160000 +0200" stop="20251126180000 +0200" channel="ItalySerieCGubbiovsJuventusII">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Gubbio vs Juventus II</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalyCoppaItaliaSerieCArezzovsLatina">
     <display-name>Italy - Coppa Italia Serie C : Arezzo vs Latina</display-name>
   </channel>
@@ -277,19 +241,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">UEFA Champions League : Olympiakos Piraeus vs Real Madrid</desc>
     <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="QualificationFalun">
-    <display-name>Qualification | Falun</display-name>
-  </channel>
-  <programme start="20251126000000 +0200" stop="20251126160000 +0200" channel="QualificationFalun">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Qualification | Falun.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251126160000 +0200" stop="20251126180000 +0200" channel="QualificationFalun">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Qualification | Falun</desc>
-    <category lang="it">Ski Jumping</category>
   </programme>
   <channel id="MenRoundRobinEuropeanChampionshipsSwedenvsScotland">
     <display-name>Men | Round Robin | European Championships : Sweden vs Scotland</display-name>
