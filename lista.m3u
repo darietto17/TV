@@ -182,9 +182,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="italia.2.it" tvg-name="ITALIA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png" group-title="Mediaset",ITALIA 2 (MPD)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (1)
-https://vavoo.to/vavoo-iptv/play/1565298794daace40d1b60
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3 (2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3
 https://vavoo.to/vavoo-iptv/play/1200985239ceccd12c8a54
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV
 https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
@@ -192,6 +190,8 @@ https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
 https://vavoo.to/vavoo-iptv/play/803540254d5a6317673b3
 #EXTINF:-1 tvg-id="k2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",K2
 https://vavoo.to/vavoo-iptv/play/11090349bae706bd9ec4
+
+# FILM - SERIE TV
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/radio-kiss-kiss-tv-it.png?raw=true" group-title="Musica",KISS KISS
 https://vavoo.to/vavoo-iptv/play/38157267494d3060cf955b
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/radio-kiss-kiss-italia-it.png?raw=true" group-title="Musica",KISS KISS ITALIA
@@ -505,8 +505,6 @@ https://vavoo.to/vavoo-iptv/play/17532606771304e2497369
 # MUSICA
 #EXTINF:-1 tvg-id="sky.serie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film - Serie TV",SKY SERIE (D)
 https://dlhd.dad/watch.php?id=880
-#EXTINF:-1 tvg-id="skysport.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport",SKY SPORT
-https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20
 #EXTINF:-1 tvg-id="sky.sport.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 (D)
 https://dlhd.dad/watch.php?id=869
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY]
@@ -531,8 +529,6 @@ https://dlhd.dad/watch.php?id=870
 https://dlhd.dad/watch.php?id=577
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/198930923100c09085a1ae
-#EXTINF:-1 tvg-id="sky.sport.golf.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF
-https://vavoo.to/vavoo-iptv/play/3897711086f5655aa4d5fb
 #EXTINF:-1 tvg-id="sky.sport.max.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png" group-title="Sport",SKY SPORT MAX (D)
 https://dlhd.dad/watch.php?id=460
 #EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-motogp-hd-it.png" group-title="Sport",SKY SPORT MOTOGP
@@ -578,10 +574,6 @@ https://vavoo.to/vavoo-iptv/play/300937751365646200d097
 https://vavoo.to/vavoo-iptv/play/11653719d8ef305a8c92
 #EXTINF:-1 tvg-id="" tvg-logo="https://bresciasat.it/assets/front/img/logo3.png" group-title="Altro",SUPER TV BRESCIA
 https://vavoo.to/vavoo-iptv/play/2061826034c5ac3b5d7306
-#EXTINF:-1 tvg-id="super!.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/1024px-Super%21_logo_2021.svg.png" group-title="Bambini",SUPER!
-https://vavoo.to/vavoo-iptv/play/2900362153b8a056cb86c0
-
-# FILM - SERIE TV
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_ebhZMV4eYibx6UpVDOt1KOlmhOPYBh0gKw&s" group-title="Altro",SUPERSIX LOMBARDIA
 https://vavoo.to/vavoo-iptv/play/8491244640295fc9ea282
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.abruzzi.tv/logo-abruzzi.png" group-title="Altro",TELE ABRUZZO
@@ -806,22 +798,22 @@ https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="franceligue1olympiquemarseillevstoulouse" tvg-name="All Soccer Events | France - Ligue 1 : Olympique Marseille vs Toulouse (22:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Olympique Marseille_vs_Toulouse.png" group-title="Eventi Live DLHD",All Soccer Events | France - Ligue 1 : Olympique Marseille vs Toulouse (22:05)
 https://dlhd.dad/watch.php?id=460
 
-#EXTINF:-1 tvg-id="formula1qatarairwaysqatargrandprixsprint" tvg-name="Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Sprint (16:00)" tvg-logo="https://images.seeklogo.com/logo-png/42/2/mclaren-formula-1-team-logo-png_seeklogo-425651.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Sprint (16:00)
+#EXTINF:-1 tvg-id="formula1qatarairwaysqatargrandprixsprint" tvg-name="Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Sprint (16:00)" tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Emblem.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Sprint (16:00)
 https://dlhd.dad/watch.php?id=577
 
 #EXTINF:-1 tvg-id="formula2qatarairwaysqatargrandprixsprintrace" tvg-name="Motorsport | Formula 2 : Qatar Airways Qatar Grand Prix - Sprint Race (18:20)" tvg-logo="https://www.dtti.it/wp-content/uploads/2022/07/formula-1-logo-0.png" group-title="Eventi Live DLHD",Motorsport | Formula 2 : Qatar Airways Qatar Grand Prix - Sprint Race (18:20)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="formula1qatarairwaysqatargrandprixqualifying" tvg-name="Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Qualifying (20:00)" tvg-logo="https://images.seeklogo.com/logo-png/42/2/mclaren-formula-1-team-logo-png_seeklogo-425651.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Qualifying (20:00)
+#EXTINF:-1 tvg-id="formula1qatarairwaysqatargrandprixqualifying" tvg-name="Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Qualifying (20:00)" tvg-logo="https://logos-world.net/wp-content/uploads/2023/12/F1-Emblem.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Qualifying (20:00)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="2025victorianplumbingukchampionshipyorkbarbican" tvg-name="Snooker | 2025 Victorian Plumbing UK Championship - York Barbican (15:00)" tvg-logo="https://images.squarespace-cdn.com/content/v1/5748ef421d07c0e0855afd96/18abd479-7364-46c9-add5-0709c3ceb097/Screenshot+2024-08-19+at+4.13.33 AM.png?format=750w" group-title="Eventi Live DLHD",Snooker | 2025 Victorian Plumbing UK Championship - York Barbican (15:00)
+#EXTINF:-1 tvg-id="2025victorianplumbingukchampionshipyorkbarbican" tvg-name="Snooker | 2025 Victorian Plumbing UK Championship - York Barbican (15:00)" tvg-logo="https://png.pngtree.com/png-clipart/20240226/original/pngtree-2025-year-gradient-vector-png-image_14411938.png" group-title="Eventi Live DLHD",Snooker | 2025 Victorian Plumbing UK Championship - York Barbican (15:00)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="2025victorianplumbingukchampionshipyorkbarbican" tvg-name="Snooker | 2025 Victorian Plumbing UK Championship - York Barbican (21:00)" tvg-logo="https://images.squarespace-cdn.com/content/v1/5748ef421d07c0e0855afd96/18abd479-7364-46c9-add5-0709c3ceb097/Screenshot+2024-08-19+at+4.13.33 AM.png?format=750w" group-title="Eventi Live DLHD",Snooker | 2025 Victorian Plumbing UK Championship - York Barbican (21:00)
+#EXTINF:-1 tvg-id="2025victorianplumbingukchampionshipyorkbarbican" tvg-name="Snooker | 2025 Victorian Plumbing UK Championship - York Barbican (21:00)" tvg-logo="https://png.pngtree.com/png-clipart/20240226/original/pngtree-2025-year-gradient-vector-png-image_14411938.png" group-title="Eventi Live DLHD",Snooker | 2025 Victorian Plumbing UK Championship - York Barbican (21:00)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="worldcupracesatcoppermountain2ndrunofthewomensgiantslalom" tvg-name="Alpine Ski | World Cup Races at Copper Mountain 2nd run of the women's giant slalom (21:45)" tvg-logo="https://dcspotlight.com/wp-content/uploads/2015/10/NEW-HEADLINES-WORLD.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup Races at Copper Mountain 2nd run of the women's giant slalom (21:45)
+#EXTINF:-1 tvg-id="worldcupracesatcoppermountain2ndrunofthewomensgiantslalom" tvg-name="Alpine Ski | World Cup Races at Copper Mountain 2nd run of the women's giant slalom (21:45)" tvg-logo="https://www.medihelpz.com/wp-content/uploads/2024/02/World.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup Races at Copper Mountain 2nd run of the women's giant slalom (21:45)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="ostersundwomensrelayworldcup" tvg-name="Biathlon | Ostersund | Women's Relay World Cup (14:15)" tvg-logo="https://www.theshieldofsports.news/wp-content/uploads/2022/11/256.png" group-title="Eventi Live DLHD",Biathlon | Ostersund | Women's Relay World Cup (14:15)
@@ -832,9 +824,6 @@ https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="f1h2oworldchampionshipround4jeddahsprintrace" tvg-name="Sailing / Boating | F1H2O World Championship | Round 4 | Jeddah Sprint Race (15:00)" tvg-logo="https://media-s3-us-east-1.ceros.com/stream-realty-dfw/images/2023/12/16/0689a64f8af57ce1ef3b94fd4b26fd4a/2-text.png" group-title="Eventi Live DLHD",Sailing / Boating | F1H2O World Championship | Round 4 | Jeddah Sprint Race (15:00)
 https://dlhd.dad/watch.php?id=879
-
-#EXTINF:-1 tvg-id="rukaclassicsprintworldcup" tvg-name="Cross Country | Ruka | Classic Sprint World Cup (12:15)" tvg-logo="https://www.ruka.fi/sites/ruka/files/styles/large/public/2022-06/ruka_fi_icons_ruka_kuusamo_alamakipyoraily.png?itok=359yq8Ld" group-title="Eventi Live DLHD",Cross Country | Ruka | Classic Sprint World Cup (12:15)
-https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="unitedrugbychampionshipzebrevscardiffrugby" tvg-name="Rugby Union | United Rugby Championship : Zebre vs Cardiff Rugby (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Zebre_vs_Cardiff Rugby.png" group-title="Eventi Live DLHD",Rugby Union | United Rugby Championship : Zebre vs Cardiff Rugby (15:00)
 https://dlhd.dad/watch.php?id=462
