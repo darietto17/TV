@@ -1,217 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieALeccevsTorino">
-    <display-name>Italy - Serie A : Lecce vs Torino</display-name>
-  </channel>
-  <programme start="20251130000000 +0200" stop="20251130133000 +0200" channel="ItalySerieALeccevsTorino">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Torino.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251130133000 +0200" stop="20251130153000 +0200" channel="ItalySerieALeccevsTorino">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Torino</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCRiminivsSassariTorres">
-    <display-name>Italy - Serie C : Rimini vs Sassari Torres</display-name>
-  </channel>
-  <programme start="20251130000000 +0200" stop="20251130133000 +0200" channel="ItalySerieCRiminivsSassariTorres">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie C : Rimini vs Sassari Torres.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251130133000 +0200" stop="20251130153000 +0200" channel="ItalySerieCRiminivsSassariTorres">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Rimini vs Sassari Torres</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20251130000000 +0200" stop="20251130133000 +0200" channel="ItalySerieCRiminivsSassariTorres">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie C : Rimini vs Sassari Torres.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251130133000 +0200" stop="20251130153000 +0200" channel="ItalySerieCRiminivsSassariTorres">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Rimini vs Sassari Torres</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCJuventusIIvsPerugia">
-    <display-name>Italy - Serie C : Juventus II vs Perugia</display-name>
-  </channel>
-  <programme start="20251130000000 +0200" stop="20251130133000 +0200" channel="ItalySerieCJuventusIIvsPerugia">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie C : Juventus II vs Perugia.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251130133000 +0200" stop="20251130153000 +0200" channel="ItalySerieCJuventusIIvsPerugia">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Juventus II vs Perugia</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20251130000000 +0200" stop="20251130133000 +0200" channel="ItalySerieCJuventusIIvsPerugia">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie C : Juventus II vs Perugia.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251130133000 +0200" stop="20251130153000 +0200" channel="ItalySerieCJuventusIIvsPerugia">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Juventus II vs Perugia</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="EnglandPremierLeagueCrystalPalacevsManchesterUnited">
-    <display-name>England - Premier League : Crystal Palace vs Manchester United</display-name>
-  </channel>
-  <programme start="20251130000000 +0200" stop="20251130140000 +0200" channel="EnglandPremierLeagueCrystalPalacevsManchesterUnited">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">England - Premier League : Crystal Palace vs Manchester United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251130140000 +0200" stop="20251130160000 +0200" channel="EnglandPremierLeagueCrystalPalacevsManchesterUnited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Crystal Palace vs Manchester United</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCVicenzavsLecco">
-    <display-name>Italy - Serie C : Vicenza vs Lecco</display-name>
-  </channel>
-  <programme start="20251130000000 +0200" stop="20251130153000 +0200" channel="ItalySerieCVicenzavsLecco">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Vicenza vs Lecco.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251130153000 +0200" stop="20251130173000 +0200" channel="ItalySerieCVicenzavsLecco">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Vicenza vs Lecco</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCAlcionevsTrento">
-    <display-name>Italy - Serie C : Alcione vs Trento</display-name>
-  </channel>
-  <programme start="20251130000000 +0200" stop="20251130153000 +0200" channel="ItalySerieCAlcionevsTrento">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Alcione vs Trento.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251130153000 +0200" stop="20251130173000 +0200" channel="ItalySerieCAlcionevsTrento">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Alcione vs Trento</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCArezzovsSambenedettese">
-    <display-name>Italy - Serie C : Arezzo vs Sambenedettese</display-name>
-  </channel>
-  <programme start="20251130000000 +0200" stop="20251130153000 +0200" channel="ItalySerieCArezzovsSambenedettese">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Arezzo vs Sambenedettese.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251130153000 +0200" stop="20251130173000 +0200" channel="ItalySerieCArezzovsSambenedettese">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Arezzo vs Sambenedettese</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCTrapani1905vsMonopoli">
-    <display-name>Italy - Serie C : Trapani 1905 vs Monopoli</display-name>
-  </channel>
-  <programme start="20251130000000 +0200" stop="20251130153000 +0200" channel="ItalySerieCTrapani1905vsMonopoli">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Trapani 1905 vs Monopoli.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251130153000 +0200" stop="20251130173000 +0200" channel="ItalySerieCTrapani1905vsMonopoli">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Trapani 1905 vs Monopoli</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCAtalantaIIvsSiracusa">
-    <display-name>Italy - Serie C : Atalanta II vs Siracusa</display-name>
-  </channel>
-  <programme start="20251130000000 +0200" stop="20251130153000 +0200" channel="ItalySerieCAtalantaIIvsSiracusa">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Atalanta II vs Siracusa.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251130153000 +0200" stop="20251130173000 +0200" channel="ItalySerieCAtalantaIIvsSiracusa">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Atalanta II vs Siracusa</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20251130000000 +0200" stop="20251130153000 +0200" channel="ItalySerieCAtalantaIIvsSiracusa">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Atalanta II vs Siracusa.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251130153000 +0200" stop="20251130173000 +0200" channel="ItalySerieCAtalantaIIvsSiracusa">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Atalanta II vs Siracusa</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCInterIIvsProVercelli">
-    <display-name>Italy - Serie C : Inter II vs Pro Vercelli</display-name>
-  </channel>
-  <programme start="20251130000000 +0200" stop="20251130153000 +0200" channel="ItalySerieCInterIIvsProVercelli">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Inter II vs Pro Vercelli.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251130153000 +0200" stop="20251130173000 +0200" channel="ItalySerieCInterIIvsProVercelli">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Inter II vs Pro Vercelli</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieAPisavsInternazionale">
-    <display-name>Italy - Serie A : Pisa vs Internazionale</display-name>
-  </channel>
-  <programme start="20251130000000 +0200" stop="20251130160000 +0200" channel="ItalySerieAPisavsInternazionale">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Italy - Serie A : Pisa vs Internazionale.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251130160000 +0200" stop="20251130180000 +0200" channel="ItalySerieAPisavsInternazionale">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Pisa vs Internazionale</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="EnglandPremierLeagueWestHamUnitedvsLiverpool">
-    <display-name>England - Premier League : West Ham United vs Liverpool</display-name>
-  </channel>
-  <programme start="20251130000000 +0200" stop="20251130160500 +0200" channel="EnglandPremierLeagueWestHamUnitedvsLiverpool">
-    <title lang="it">Inizia alle 16:05.</title>
-    <desc lang="it">England - Premier League : West Ham United vs Liverpool.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251130160500 +0200" stop="20251130180500 +0200" channel="EnglandPremierLeagueWestHamUnitedvsLiverpool">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : West Ham United vs Liverpool</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="EnglandPremierLeagueAstonVillavsWolverhamptonWanderers">
-    <display-name>England - Premier League : Aston Villa vs Wolverhampton Wanderers</display-name>
-  </channel>
-  <programme start="20251130000000 +0200" stop="20251130160500 +0200" channel="EnglandPremierLeagueAstonVillavsWolverhamptonWanderers">
-    <title lang="it">Inizia alle 16:05.</title>
-    <desc lang="it">England - Premier League : Aston Villa vs Wolverhampton Wanderers.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251130160500 +0200" stop="20251130180500 +0200" channel="EnglandPremierLeagueAstonVillavsWolverhamptonWanderers">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Aston Villa vs Wolverhampton Wanderers</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="EnglandPremierLeagueNottinghamForestvsBrightonampHoveAlbion">
-    <display-name>England - Premier League : Nottingham Forest vs Brighton &amp; Hove Albion</display-name>
-  </channel>
-  <programme start="20251130000000 +0200" stop="20251130160500 +0200" channel="EnglandPremierLeagueNottinghamForestvsBrightonampHoveAlbion">
-    <title lang="it">Inizia alle 16:05.</title>
-    <desc lang="it">England - Premier League : Nottingham Forest vs Brighton &amp; Hove Albion.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251130160500 +0200" stop="20251130180500 +0200" channel="EnglandPremierLeagueNottinghamForestvsBrightonampHoveAlbion">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Nottingham Forest vs Brighton &amp; Hove Albion</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="EnglandPremierLeagueChelseavsArsenal">
     <display-name>England - Premier League : Chelsea vs Arsenal</display-name>
   </channel>
@@ -388,19 +176,6 @@
     <desc lang="it">France - Ligue 1 : Olympique Lyonnais vs Nantes</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="Formula2QatarAirwaysQatarGrandPrixRace">
-    <display-name>Formula 2 : Qatar Airways Qatar Grand Prix - Race</display-name>
-  </channel>
-  <programme start="20251130000000 +0200" stop="20251130140000 +0200" channel="Formula2QatarAirwaysQatarGrandPrixRace">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Formula 2 : Qatar Airways Qatar Grand Prix - Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251130140000 +0200" stop="20251130160000 +0200" channel="Formula2QatarAirwaysQatarGrandPrixRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 2 : Qatar Airways Qatar Grand Prix - Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Formula1QatarAirwaysQatarGrandPrixGrandPrixSunday">
     <display-name>Formula 1 : Qatar Airways Qatar Grand Prix - Grand Prix Sunday</display-name>
   </channel>
@@ -430,17 +205,7 @@
   <channel id="UKChampionshipRound1">
     <display-name>UK Championship | Round 1</display-name>
   </channel>
-  <programme start="20251130000000 +0200" stop="20251130144500 +0200" channel="UKChampionshipRound1">
-    <title lang="it">Inizia alle 14:45.</title>
-    <desc lang="it">UK Championship | Round 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251130144500 +0200" stop="20251130164500 +0200" channel="UKChampionshipRound1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UK Championship | Round 1</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20251130164500 +0200" stop="20251130204500 +0200" channel="UKChampionshipRound1">
+  <programme start="20251130000000 +0200" stop="20251130204500 +0200" channel="UKChampionshipRound1">
     <title lang="it">Inizia alle 20:45.</title>
     <desc lang="it">UK Championship | Round 1.</desc>
     <category lang="it">Annuncio</category>
@@ -476,19 +241,6 @@
     <desc lang="it">World Cup | Women Copper Mountain | Slalom | Run 2</desc>
     <category lang="it">Alpine Ski</category>
   </programme>
-  <channel id="UCIWorldCupFlamanvilleEliteRaceWomen">
-    <display-name>UCI World Cup Flamanville | Elite Race (Women)</display-name>
-  </channel>
-  <programme start="20251130000000 +0200" stop="20251130143000 +0200" channel="UCIWorldCupFlamanvilleEliteRaceWomen">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">UCI World Cup Flamanville | Elite Race (Women).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251130143000 +0200" stop="20251130163000 +0200" channel="UCIWorldCupFlamanvilleEliteRaceWomen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UCI World Cup Flamanville | Elite Race (Women)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
   <channel id="Top14SectionPaloisevsLaRochelle">
     <display-name>Top 14 : Section Paloise vs La Rochelle</display-name>
   </channel>
@@ -514,18 +266,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy, Serie A1, Women : Monviso Volley vs. Volley Vallefoglia</desc>
     <category lang="it">Volleyball</category>
-  </programme>
-  <channel id="RukaMensHS142WorldCupDay3">
-    <display-name>Ruka | Men's HS 142 World Cup | Day 3</display-name>
-  </channel>
-  <programme start="20251130000000 +0200" stop="20251130140000 +0200" channel="RukaMensHS142WorldCupDay3">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Ruka | Men's HS 142 World Cup | Day 3.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251130140000 +0200" stop="20251130160000 +0200" channel="RukaMensHS142WorldCupDay3">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Ruka | Men's HS 142 World Cup | Day 3</desc>
-    <category lang="it">Winter Sports</category>
   </programme>
 </tv>
