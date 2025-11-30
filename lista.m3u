@@ -166,6 +166,8 @@ https://vavoo.to/vavoo-iptv/play/40604994550f228d5b9b59
 https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV
 https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
+https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS
@@ -570,8 +572,6 @@ https://vavoo.to/vavoo-iptv/play/32202484989ac14421915
 https://dlhd.dad/watch.php?id=881
 
 # RAI
-#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA (BACKUP)
-https://vavoo.to/vavoo-iptv/play/3165086929ad0bcbc4fc19
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
 #EXTINF:-1 tvg-id="supertennis.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS
@@ -729,10 +729,10 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-id="italyseriealeccevstorino" tvg-name="All Soccer Events | Italy - Serie A : Lecce vs Torino (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lecce_vs_Torino.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Lecce vs Torino (13:30)
 https://dlhd.dad/watch.php?id=877
 
-#EXTINF:-1 tvg-id="italyseriecriminivssassaritorres" tvg-name="All Soccer Events | Italy - Serie C : Rimini vs Sassari Torres (13:30)" tvg-logo="https://cdn.getyourguide.com/img/location/5cbef7c974e5c.jpeg/88.jpg" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Rimini vs Sassari Torres (13:30)
+#EXTINF:-1 tvg-id="italyseriecriminivssassaritorres" tvg-name="All Soccer Events | Italy - Serie C : Rimini vs Sassari Torres (13:30)" tvg-logo="https://www.prefissotelefonico.it/telefono.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Rimini vs Sassari Torres (13:30)
 https://dlhd.dad/watch.php?id=6
 
-#EXTINF:-1 tvg-id="italyseriecriminivssassaritorres" tvg-name="All Soccer Events | Italy - Serie C : Rimini vs Sassari Torres (13:30)" tvg-logo="https://cdn.getyourguide.com/img/location/5cbef7c974e5c.jpeg/88.jpg" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Rimini vs Sassari Torres (13:30)
+#EXTINF:-1 tvg-id="italyseriecriminivssassaritorres" tvg-name="All Soccer Events | Italy - Serie C : Rimini vs Sassari Torres (13:30)" tvg-logo="https://www.prefissotelefonico.it/telefono.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Rimini vs Sassari Torres (13:30)
 https://dlhd.dad/watch.php?id=462
 
 #EXTINF:-1 tvg-id="italyseriecjuventusiivsperugia" tvg-name="All Soccer Events | Italy - Serie C : Juventus II vs Perugia (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Juventus II_vs_Perugia.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Juventus II vs Perugia (13:30)
@@ -786,7 +786,7 @@ https://dlhd.dad/watch.php?id=59
 #EXTINF:-1 tvg-id="italyseriecpontederavsathleticcarpi" tvg-name="All Soccer Events | Italy - Serie C : Pontedera vs Athletic Carpi (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pontedera_vs_Athletic Carpi.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pontedera vs Athletic Carpi (18:30)
 https://dlhd.dad/watch.php?id=77
 
-#EXTINF:-1 tvg-id="italyserieccampobassovspianese" tvg-name="All Soccer Events | Italy - Serie C : Campobasso vs Pianese (18:30)" tvg-logo="https://www.magnoliabasket.it/wp-content/uploads/2019/08/logo_magnolia2019_traccia.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Campobasso vs Pianese (18:30)
+#EXTINF:-1 tvg-id="italyserieccampobassovspianese" tvg-name="All Soccer Events | Italy - Serie C : Campobasso vs Pianese (18:30)" tvg-logo="https://static.vecteezy.com/system/resources/previews/024/983/617/original/instagram-whatsapp-logo-transparent-free-png.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Campobasso vs Pianese (18:30)
 https://dlhd.dad/watch.php?id=69
 
 #EXTINF:-1 tvg-id="italyseriecternanavsnuovamonterosi" tvg-name="All Soccer Events | Italy - Serie C : Ternana vs Nuova Monterosi (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ternana_vs_Nuova Monterosi.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Ternana vs Nuova Monterosi (18:30)
@@ -819,37 +819,37 @@ https://dlhd.dad/watch.php?id=877
 #EXTINF:-1 tvg-id="franceligue1olympiquelyonnaisvsnantes" tvg-name="All Soccer Events | France - Ligue 1 : Olympique Lyonnais vs Nantes (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Olympique Lyonnais_vs_Nantes.png" group-title="Eventi Live DLHD",All Soccer Events | France - Ligue 1 : Olympique Lyonnais vs Nantes (21:45)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="formula2qatarairwaysqatargrandprixrace" tvg-name="Motorsport | Formula 2 : Qatar Airways Qatar Grand Prix - Race (14:00)" tvg-logo="https://i.pinimg.com/originals/48/7a/cf/487acf60c75951c1de0116aa0fa7a4b6.png" group-title="Eventi Live DLHD",Motorsport | Formula 2 : Qatar Airways Qatar Grand Prix - Race (14:00)
+#EXTINF:-1 tvg-id="formula2qatarairwaysqatargrandprixrace" tvg-name="Motorsport | Formula 2 : Qatar Airways Qatar Grand Prix - Race (14:00)" tvg-logo="https://www.dtti.it/wp-content/uploads/2022/07/formula-1-logo-0.png" group-title="Eventi Live DLHD",Motorsport | Formula 2 : Qatar Airways Qatar Grand Prix - Race (14:00)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="formula1qatarairwaysqatargrandprixgrandprixsunday" tvg-name="Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Grand Prix Sunday (17:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-2048.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Grand Prix Sunday (17:00)
+#EXTINF:-1 tvg-id="formula1qatarairwaysqatargrandprixgrandprixsunday" tvg-name="Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Grand Prix Sunday (17:00)" tvg-logo="https://logolook.net/wp-content/uploads/2022/07/F1-Logo-history.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Grand Prix Sunday (17:00)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="formula1qatarairwaysqatargrandprixrace" tvg-name="Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Race (18:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-2048.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Race (18:00)
+#EXTINF:-1 tvg-id="formula1qatarairwaysqatargrandprixrace" tvg-name="Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Race (18:00)" tvg-logo="https://logolook.net/wp-content/uploads/2022/07/F1-Logo-history.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Qatar Airways Qatar Grand Prix - Race (18:00)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="ukchampionshipround1" tvg-name="Snooker | UK Championship | Round 1 (14:45)" tvg-logo="http://mapsof.net/uploads/static-maps/UK_Map.png" group-title="Eventi Live DLHD",Snooker | UK Championship | Round 1 (14:45)
+#EXTINF:-1 tvg-id="ukchampionshipround1" tvg-name="Snooker | UK Championship | Round 1 (14:45)" tvg-logo="https://www.classicalfinance.com/content/images/size/w1600/2022/09/mapof-theuk-1.png" group-title="Eventi Live DLHD",Snooker | UK Championship | Round 1 (14:45)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="ukchampionshipround1" tvg-name="Snooker | UK Championship | Round 1 (20:45)" tvg-logo="http://mapsof.net/uploads/static-maps/UK_Map.png" group-title="Eventi Live DLHD",Snooker | UK Championship | Round 1 (20:45)
+#EXTINF:-1 tvg-id="ukchampionshipround1" tvg-name="Snooker | UK Championship | Round 1 (20:45)" tvg-logo="https://www.classicalfinance.com/content/images/size/w1600/2022/09/mapof-theuk-1.png" group-title="Eventi Live DLHD",Snooker | UK Championship | Round 1 (20:45)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="worldcupwomencoppermountainslalomrun1" tvg-name="Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 1 (18:45)" tvg-logo="http://theglobe.net/logotypes/THE_WORLD.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 1 (18:45)
+#EXTINF:-1 tvg-id="worldcupwomencoppermountainslalomrun1" tvg-name="Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 1 (18:45)" tvg-logo="https://citybibleforum.org/sites/default/files/images/content/2021/World_image.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 1 (18:45)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="worldcupwomencoppermountainslalomrun2" tvg-name="Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 2 (21:45)" tvg-logo="http://theglobe.net/logotypes/THE_WORLD.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 2 (21:45)
+#EXTINF:-1 tvg-id="worldcupwomencoppermountainslalomrun2" tvg-name="Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 2 (21:45)" tvg-logo="https://citybibleforum.org/sites/default/files/images/content/2021/World_image.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup | Women Copper Mountain | Slalom | Run 2 (21:45)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="rukamensmassstartfreestyle20kmworldcup" tvg-name="Cross Country | Ruka | Men's Mass Start Freestyle 20km World Cup (11:00)" tvg-logo="https://mikucrossing.com/img/mikucrossing03/special_ticket/Ruka_transparent.png" group-title="Eventi Live DLHD",Cross Country | Ruka | Men's Mass Start Freestyle 20km World Cup (11:00)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="uciworldcupflamanvilleeliteracewomen" tvg-name="Cycling | UCI World Cup Flamanville | Elite Race (Women) (14:30)" tvg-logo="https://www.theracecompanion.com/static/media/Hardline_Logo_Small.12e91ef430ac35614014.png" group-title="Eventi Live DLHD",Cycling | UCI World Cup Flamanville | Elite Race (Women) (14:30)
+#EXTINF:-1 tvg-id="uciworldcupflamanvilleeliteracewomen" tvg-name="Cycling | UCI World Cup Flamanville | Elite Race (Women) (14:30)" tvg-logo="https://logos-world.net/wp-content/uploads/2023/06/Uci-Symbol.png" group-title="Eventi Live DLHD",Cycling | UCI World Cup Flamanville | Elite Race (Women) (14:30)
 https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="top14sectionpaloisevslarochelle" tvg-name="Rugby Union | Top 14 : Section Paloise vs La Rochelle (22:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Section Paloise_vs_La Rochelle.png" group-title="Eventi Live DLHD",Rugby Union | Top 14 : Section Paloise vs La Rochelle (22:05)
 https://dlhd.dad/watch.php?id=462
 
-#EXTINF:-1 tvg-id="worldcuprukahs142menqualifying" tvg-name="Ski Jumping | World Cup Ruka | HS142 Men | Qualifying (10:00)" tvg-logo="http://theglobe.net/logotypes/THE_WORLD.png" group-title="Eventi Live DLHD",Ski Jumping | World Cup Ruka | HS142 Men | Qualifying (10:00)
+#EXTINF:-1 tvg-id="worldcuprukahs142menqualifying" tvg-name="Ski Jumping | World Cup Ruka | HS142 Men | Qualifying (10:00)" tvg-logo="https://citybibleforum.org/sites/default/files/images/content/2021/World_image.png" group-title="Eventi Live DLHD",Ski Jumping | World Cup Ruka | HS142 Men | Qualifying (10:00)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="italyseriea1womenmonvisovolleyvsvolleyvallefoglia" tvg-name="Volleyball | Italy, Serie A1, Women : Monviso Volley vs. Volley Vallefoglia (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Monviso Volley_vs_Volley Vallefoglia.png" group-title="Eventi Live DLHD",Volleyball | Italy, Serie A1, Women : Monviso Volley vs. Volley Vallefoglia (16:30)
