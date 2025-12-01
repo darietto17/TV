@@ -1,98 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieCVisPesarovsAscoli">
-    <display-name>Italy - Serie C : Vis Pesaro vs Ascoli</display-name>
+  <channel id="EnglandPremierLeagueAFCBournemouthvsEverton">
+    <display-name>England - Premier League : AFC Bournemouth vs Everton</display-name>
   </channel>
-  <programme start="20251201000000 +0200" stop="20251201213000 +0200" channel="ItalySerieCVisPesarovsAscoli">
+  <programme start="20251202000000 +0200" stop="20251202213000 +0200" channel="EnglandPremierLeagueAFCBournemouthvsEverton">
     <title lang="it">Inizia alle 21:30.</title>
-    <desc lang="it">Italy - Serie C : Vis Pesaro vs Ascoli.</desc>
+    <desc lang="it">England - Premier League : AFC Bournemouth vs Everton.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20251201213000 +0200" stop="20251201233000 +0200" channel="ItalySerieCVisPesarovsAscoli">
+  <programme start="20251202213000 +0200" stop="20251202233000 +0200" channel="EnglandPremierLeagueAFCBournemouthvsEverton">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Vis Pesaro vs Ascoli</desc>
+    <desc lang="it">England - Premier League : AFC Bournemouth vs Everton</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <programme start="20251201000000 +0200" stop="20251201213000 +0200" channel="ItalySerieCVisPesarovsAscoli">
-    <title lang="it">Inizia alle 21:30.</title>
-    <desc lang="it">Italy - Serie C : Vis Pesaro vs Ascoli.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251201213000 +0200" stop="20251201233000 +0200" channel="ItalySerieCVisPesarovsAscoli">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Vis Pesaro vs Ascoli</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCBeneventovsSalernitana">
-    <display-name>Italy - Serie C : Benevento vs Salernitana</display-name>
+  <channel id="EnglandPremierLeagueFulhamvsManchesterCity">
+    <display-name>England - Premier League : Fulham vs Manchester City</display-name>
   </channel>
-  <programme start="20251201000000 +0200" stop="20251201213000 +0200" channel="ItalySerieCBeneventovsSalernitana">
+  <programme start="20251202000000 +0200" stop="20251202213000 +0200" channel="EnglandPremierLeagueFulhamvsManchesterCity">
     <title lang="it">Inizia alle 21:30.</title>
-    <desc lang="it">Italy - Serie C : Benevento vs Salernitana.</desc>
+    <desc lang="it">England - Premier League : Fulham vs Manchester City.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20251201213000 +0200" stop="20251201233000 +0200" channel="ItalySerieCBeneventovsSalernitana">
+  <programme start="20251202213000 +0200" stop="20251202233000 +0200" channel="EnglandPremierLeagueFulhamvsManchesterCity">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Benevento vs Salernitana</desc>
+    <desc lang="it">England - Premier League : Fulham vs Manchester City</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <programme start="20251201000000 +0200" stop="20251201213000 +0200" channel="ItalySerieCBeneventovsSalernitana">
-    <title lang="it">Inizia alle 21:30.</title>
-    <desc lang="it">Italy - Serie C : Benevento vs Salernitana.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251201213000 +0200" stop="20251201233000 +0200" channel="ItalySerieCBeneventovsSalernitana">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Benevento vs Salernitana</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCCittadellavsUnionBrescia">
-    <display-name>Italy - Serie C : Cittadella vs Union Brescia</display-name>
+  <channel id="ItalyCoppaItaliaJuventusvsUdinese">
+    <display-name>Italy - Coppa Italia : Juventus vs Udinese</display-name>
   </channel>
-  <programme start="20251201000000 +0200" stop="20251201213000 +0200" channel="ItalySerieCCittadellavsUnionBrescia">
-    <title lang="it">Inizia alle 21:30.</title>
-    <desc lang="it">Italy - Serie C : Cittadella vs Union Brescia.</desc>
+  <programme start="20251202000000 +0200" stop="20251202220000 +0200" channel="ItalyCoppaItaliaJuventusvsUdinese">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Italy - Coppa Italia : Juventus vs Udinese.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20251201213000 +0200" stop="20251201233000 +0200" channel="ItalySerieCCittadellavsUnionBrescia">
+  <programme start="20251202220000 +0200" stop="20251203000000 +0200" channel="ItalyCoppaItaliaJuventusvsUdinese">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Cittadella vs Union Brescia</desc>
+    <desc lang="it">Italy - Coppa Italia : Juventus vs Udinese</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <programme start="20251201000000 +0200" stop="20251201213000 +0200" channel="ItalySerieCCittadellavsUnionBrescia">
-    <title lang="it">Inizia alle 21:30.</title>
-    <desc lang="it">Italy - Serie C : Cittadella vs Union Brescia.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251201213000 +0200" stop="20251201233000 +0200" channel="ItalySerieCCittadellavsUnionBrescia">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Cittadella vs Union Brescia</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieABolognavsCremonese">
-    <display-name>Italy - Serie A : Bologna vs Cremonese</display-name>
+  <channel id="GermanyDFBPokalBorussiaDortmundvsBayerLeverkusen">
+    <display-name>Germany - DFB Pokal : Borussia Dortmund vs Bayer Leverkusen</display-name>
   </channel>
-  <programme start="20251201000000 +0200" stop="20251201214500 +0200" channel="ItalySerieABolognavsCremonese">
-    <title lang="it">Inizia alle 21:45.</title>
-    <desc lang="it">Italy - Serie A : Bologna vs Cremonese.</desc>
+  <programme start="20251202000000 +0200" stop="20251202220000 +0200" channel="GermanyDFBPokalBorussiaDortmundvsBayerLeverkusen">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Germany - DFB Pokal : Borussia Dortmund vs Bayer Leverkusen.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20251201214500 +0200" stop="20251201234500 +0200" channel="ItalySerieABolognavsCremonese">
+  <programme start="20251202220000 +0200" stop="20251203000000 +0200" channel="GermanyDFBPokalBorussiaDortmundvsBayerLeverkusen">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Bologna vs Cremonese</desc>
+    <desc lang="it">Germany - DFB Pokal : Borussia Dortmund vs Bayer Leverkusen</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="UKChampionshipRound1">
     <display-name>UK Championship | Round 1</display-name>
   </channel>
-  <programme start="20251201000000 +0200" stop="20251201204500 +0200" channel="UKChampionshipRound1">
-    <title lang="it">Inizia alle 20:45.</title>
+  <programme start="20251202000000 +0200" stop="20251202144500 +0200" channel="UKChampionshipRound1">
+    <title lang="it">Inizia alle 14:45.</title>
     <desc lang="it">UK Championship | Round 1.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20251201204500 +0200" stop="20251201224500 +0200" channel="UKChampionshipRound1">
+  <programme start="20251202144500 +0200" stop="20251202164500 +0200" channel="UKChampionshipRound1">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">UK Championship | Round 1</desc>
     <category lang="it">Snooker</category>
+  </programme>
+  <channel id="2025VictorianPlumbingUKChampionshipYorkBarbican">
+    <display-name>2025 Victorian Plumbing UK Championship - York Barbican</display-name>
+  </channel>
+  <programme start="20251202000000 +0200" stop="20251202210000 +0200" channel="2025VictorianPlumbingUKChampionshipYorkBarbican">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">2025 Victorian Plumbing UK Championship - York Barbican.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251202210000 +0200" stop="20251202230000 +0200" channel="2025VictorianPlumbingUKChampionshipYorkBarbican">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2025 Victorian Plumbing UK Championship - York Barbican</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <channel id="IBUWorldCupOstersundWomen15kmIndividualCompetitionIBUWorldCupOstersund">
+    <display-name>IBU World Cup Ostersund Women 15 km Individual Competition | IBU World Cup Ostersund</display-name>
+  </channel>
+  <programme start="20251202000000 +0200" stop="20251202153000 +0200" channel="IBUWorldCupOstersundWomen15kmIndividualCompetitionIBUWorldCupOstersund">
+    <title lang="it">Inizia alle 15:30.</title>
+    <desc lang="it">IBU World Cup Ostersund Women 15 km Individual Competition | IBU World Cup Ostersund.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251202153000 +0200" stop="20251202173000 +0200" channel="IBUWorldCupOstersundWomen15kmIndividualCompetitionIBUWorldCupOstersund">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">IBU World Cup Ostersund Women 15 km Individual Competition | IBU World Cup Ostersund</desc>
+    <category lang="it">Biathlon</category>
   </programme>
 </tv>
