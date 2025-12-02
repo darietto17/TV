@@ -52,19 +52,6 @@
     <desc lang="it">Germany - DFB Pokal : Borussia Dortmund vs Bayer Leverkusen</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="UKChampionshipRound1">
-    <display-name>UK Championship | Round 1</display-name>
-  </channel>
-  <programme start="20251202000000 +0200" stop="20251202144500 +0200" channel="UKChampionshipRound1">
-    <title lang="it">Inizia alle 14:45.</title>
-    <desc lang="it">UK Championship | Round 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251202144500 +0200" stop="20251202164500 +0200" channel="UKChampionshipRound1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UK Championship | Round 1</desc>
-    <category lang="it">Snooker</category>
-  </programme>
   <channel id="2025VictorianPlumbingUKChampionshipYorkBarbican">
     <display-name>2025 Victorian Plumbing UK Championship - York Barbican</display-name>
   </channel>
@@ -77,18 +64,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">2025 Victorian Plumbing UK Championship - York Barbican</desc>
     <category lang="it">Snooker</category>
-  </programme>
-  <channel id="IBUWorldCupOstersundWomen15kmIndividualCompetitionIBUWorldCupOstersund">
-    <display-name>IBU World Cup Ostersund Women 15 km Individual Competition | IBU World Cup Ostersund</display-name>
-  </channel>
-  <programme start="20251202000000 +0200" stop="20251202153000 +0200" channel="IBUWorldCupOstersundWomen15kmIndividualCompetitionIBUWorldCupOstersund">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">IBU World Cup Ostersund Women 15 km Individual Competition | IBU World Cup Ostersund.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251202153000 +0200" stop="20251202173000 +0200" channel="IBUWorldCupOstersundWomen15kmIndividualCompetitionIBUWorldCupOstersund">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">IBU World Cup Ostersund Women 15 km Individual Competition | IBU World Cup Ostersund</desc>
-    <category lang="it">Biathlon</category>
   </programme>
 </tv>
