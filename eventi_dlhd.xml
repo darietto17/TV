@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="GermanyBundesliga2FortunaDsseldorfvsSchalke04">
-    <display-name>Germany - Bundesliga 2 : Fortuna Düsseldorf vs Schalke 04</display-name>
-  </channel>
-  <programme start="20251205000000 +0200" stop="20251205193000 +0200" channel="GermanyBundesliga2FortunaDsseldorfvsSchalke04">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Fortuna Düsseldorf vs Schalke 04.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251205193000 +0200" stop="20251205213000 +0200" channel="GermanyBundesliga2FortunaDsseldorfvsSchalke04">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Fortuna Düsseldorf vs Schalke 04</desc>
-    <category lang="it">Soccer</category>
-  </programme>
   <channel id="ItalySerieCTrentovsCittadella">
     <display-name>Italy - Serie C : Trento vs Cittadella</display-name>
   </channel>
@@ -62,19 +49,6 @@
     <desc lang="it">France - Ligue 1 : Lille vs Olympique Marseille</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="BeaverCreekMensDownhillWorldCupDay2">
-    <display-name>Beaver Creek | Men's Downhill World Cup | Day 2</display-name>
-  </channel>
-  <programme start="20251205000000 +0200" stop="20251205200000 +0200" channel="BeaverCreekMensDownhillWorldCupDay2">
-    <title lang="it">Inizia alle 20:00.</title>
-    <desc lang="it">Beaver Creek | Men's Downhill World Cup | Day 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251205200000 +0200" stop="20251205220000 +0200" channel="BeaverCreekMensDownhillWorldCupDay2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Beaver Creek | Men's Downhill World Cup | Day 2</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
   <channel id="SerieA2UebCividalevsBluBasket1971">
     <display-name>Serie A2 : Ueb Cividale vs. Blu Basket 1971</display-name>
   </channel>
@@ -87,18 +61,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Serie A2 : Ueb Cividale vs. Blu Basket 1971</desc>
     <category lang="it">Basketball</category>
-  </programme>
-  <channel id="InnsbruckSinglesWorldCup">
-    <display-name>Innsbruck | Singles World Cup</display-name>
-  </channel>
-  <programme start="20251205000000 +0200" stop="20251205183000 +0200" channel="InnsbruckSinglesWorldCup">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Innsbruck | Singles World Cup.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251205183000 +0200" stop="20251205203000 +0200" channel="InnsbruckSinglesWorldCup">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Innsbruck | Singles World Cup</desc>
-    <category lang="it">Winter Sports</category>
   </programme>
 </tv>

@@ -109,6 +109,8 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
 https://vavoo.to/vavoo-iptv/play/3037871903561253a95659
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari",DISCOVERY NOVE
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="Film - Serie TV",DISNEY+ FILM
+https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 #EXTINF:-1 tvg-id="dmax.it" tvg-logo="https://cdn.cookielaw.org/logos/50417659-aa29-4f7f-b59d-f6e887deed53/a32be519-de41-40f4-abed-d2934ba6751b/9a44af24-5ca6-4098-aa95-594755bd7b2d/dmax_logo.png" group-title="Altro",DMAX
 https://vavoo.to/vavoo-iptv/play/3803638765756268d23edc
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/%C3%88_live_Brescia_logo.png" group-title="Altro",ELIVE TV BRESCIA
@@ -481,6 +483,8 @@ https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
 https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
 #EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (D)
 https://dlhd.dad/watch.php?id=860
+#EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24
+https://vavoo.to/vavoo-iptv/play/16998765309700e7076450
 #EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24 (D)
 https://dlhd.dad/watch.php?id=863
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 1
@@ -722,7 +726,7 @@ https://vavoo.to/vavoo-iptv/play/2989824407cb0184041b08
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="germanybundesliga2fortunadüsseldorfvsschalke04" tvg-name="Soccer | Germany - Bundesliga 2 : Fortuna Düsseldorf vs Schalke 04 (19:30)" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/schalke-04-logo.png" group-title="Eventi Live DLHD",Soccer | Germany - Bundesliga 2 : Fortuna Düsseldorf vs Schalke 04 (19:30)
+#EXTINF:-1 tvg-id="germanybundesliga2fortunadüsseldorfvsschalke04" tvg-name="Soccer | Germany - Bundesliga 2 : Fortuna Düsseldorf vs Schalke 04 (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fortuna Düsseldorf_vs_Schalke 04.png" group-title="Eventi Live DLHD",Soccer | Germany - Bundesliga 2 : Fortuna Düsseldorf vs Schalke 04 (19:30)
 https://dlhd.dad/watch.php?id=870
 
 #EXTINF:-1 tvg-id="italyseriectrentovscittadella" tvg-name="Soccer | Italy - Serie C : Trento vs Cittadella (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Trento_vs_Cittadella.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Trento vs Cittadella (21:30)
@@ -743,7 +747,7 @@ https://dlhd.dad/watch.php?id=878
 #EXTINF:-1 tvg-id="seriea2uebcividalevsblubasket1971" tvg-name="Basketball | Serie A2 : Ueb Cividale vs. Blu Basket 1971 (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ueb Cividale_vs_Blu Basket 1971.png" group-title="Eventi Live DLHD",Basketball | Serie A2 : Ueb Cividale vs. Blu Basket 1971 (22:00)
 https://dlhd.dad/watch.php?id=882
 
-#EXTINF:-1 tvg-id="innsbrucksinglesworldcup" tvg-name="Winter Sports | Innsbruck | Singles World Cup (18:30)" tvg-logo="https://cdn.britannica.com/23/94523-050-CA07C8DB/Innsbruck-Austria-background-Alps.jpg" group-title="Eventi Live DLHD",Winter Sports | Innsbruck | Singles World Cup (18:30)
+#EXTINF:-1 tvg-id="innsbrucksinglesworldcup" tvg-name="Winter Sports | Innsbruck | Singles World Cup (18:30)" tvg-logo="https://www.wiredforadventure.com/wp-content/uploads/2020/01/Altstadt-Innsbruck_Innsbruck-Tourismus_Christof-Lackner.jpg" group-title="Eventi Live DLHD",Winter Sports | Innsbruck | Singles World Cup (18:30)
 https://dlhd.dad/watch.php?id=878
 
 
