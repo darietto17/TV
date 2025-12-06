@@ -1,31 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="GermanyBundesligaStuttgartvsBayernMnchen">
-    <display-name>Germany - Bundesliga : Stuttgart vs Bayern München</display-name>
-  </channel>
-  <programme start="20251206000000 +0200" stop="20251206163000 +0200" channel="GermanyBundesligaStuttgartvsBayernMnchen">
-    <title lang="it">Inizia alle 16:30.</title>
-    <desc lang="it">Germany - Bundesliga : Stuttgart vs Bayern München.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251206163000 +0200" stop="20251206183000 +0200" channel="GermanyBundesligaStuttgartvsBayernMnchen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga : Stuttgart vs Bayern München</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="EnglandPremierLeagueManchesterCityvsSunderland">
-    <display-name>England - Premier League : Manchester City vs Sunderland</display-name>
-  </channel>
-  <programme start="20251206000000 +0200" stop="20251206170000 +0200" channel="EnglandPremierLeagueManchesterCityvsSunderland">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">England - Premier League : Manchester City vs Sunderland.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251206170000 +0200" stop="20251206190000 +0200" channel="EnglandPremierLeagueManchesterCityvsSunderland">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Manchester City vs Sunderland</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalySerieCBravsCampobasso">
     <display-name>Italy - Serie C : Bra vs Campobasso</display-name>
   </channel>
@@ -118,19 +92,6 @@
     <desc lang="it">Italy - Serie A : Hellas Verona vs Atalanta</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="FormulaESaoPauloRace">
-    <display-name>Formula E : Sao Paulo | Race</display-name>
-  </channel>
-  <programme start="20251206000000 +0200" stop="20251206180000 +0200" channel="FormulaESaoPauloRace">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">Formula E : Sao Paulo | Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251206180000 +0200" stop="20251206200000 +0200" channel="FormulaESaoPauloRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula E : Sao Paulo | Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="SuperGBeaverCreekOdermattMarcovsRogentinStefan">
     <display-name>Super G, Beaver Creek : Odermatt, Marco vs. Rogentin, Stefan</display-name>
   </channel>
@@ -156,19 +117,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Tremblant | Women's Giant Slalom World Cup | Run 2</desc>
     <category lang="it">Alpine Ski</category>
-  </programme>
-  <channel id="Mens10kmSprintCompetitionIBUWorldCupOstersund">
-    <display-name>Men's 10 km Sprint Competition | IBU World Cup Ostersund</display-name>
-  </channel>
-  <programme start="20251206000000 +0200" stop="20251206163000 +0200" channel="Mens10kmSprintCompetitionIBUWorldCupOstersund">
-    <title lang="it">Inizia alle 16:30.</title>
-    <desc lang="it">Men's 10 km Sprint Competition | IBU World Cup Ostersund.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251206163000 +0200" stop="20251206183000 +0200" channel="Mens10kmSprintCompetitionIBUWorldCupOstersund">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Men's 10 km Sprint Competition | IBU World Cup Ostersund</desc>
-    <category lang="it">Biathlon</category>
   </programme>
   <channel id="SolitudeMixedRelayWorldCup">
     <display-name>Solitude | Mixed Relay World Cup</display-name>
