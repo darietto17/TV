@@ -245,19 +245,6 @@
     <desc lang="it">Italy - Serie A : Hellas Verona vs Atalanta</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="Formula1EtihadAirwaysAbuDhabiGPPractice3">
-    <display-name>Formula 1 : Etihad Airways Abu Dhabi GP - Practice 3</display-name>
-  </channel>
-  <programme start="20251206000000 +0200" stop="20251206123000 +0200" channel="Formula1EtihadAirwaysAbuDhabiGPPractice3">
-    <title lang="it">Inizia alle 12:30.</title>
-    <desc lang="it">Formula 1 : Etihad Airways Abu Dhabi GP - Practice 3.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251206123000 +0200" stop="20251206143000 +0200" channel="Formula1EtihadAirwaysAbuDhabiGPPractice3">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 1 : Etihad Airways Abu Dhabi GP - Practice 3</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Formula2AbuDhabiSprintRace">
     <display-name>Formula 2 : Abu Dhabi Sprint Race</display-name>
   </channel>
@@ -336,19 +323,6 @@
     <desc lang="it">Men's 10 km Sprint Competition | IBU World Cup Ostersund</desc>
     <category lang="it">Biathlon</category>
   </programme>
-  <channel id="TrondheimMensSkiathlonWorldCup">
-    <display-name>Trondheim | Men's Skiathlon World Cup</display-name>
-  </channel>
-  <programme start="20251206000000 +0200" stop="20251206120000 +0200" channel="TrondheimMensSkiathlonWorldCup">
-    <title lang="it">Inizia alle 12:00.</title>
-    <desc lang="it">Trondheim | Men's Skiathlon World Cup.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251206120000 +0200" stop="20251206140000 +0200" channel="TrondheimMensSkiathlonWorldCup">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Trondheim | Men's Skiathlon World Cup</desc>
-    <category lang="it">Cross Country</category>
-  </programme>
   <channel id="IndividualcompetitionWislaHS134">
     <display-name>Individual competition | Wisla HS134</display-name>
   </channel>
@@ -361,29 +335,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Individual competition | Wisla HS134</desc>
     <category lang="it">Ski Jumping</category>
-  </programme>
-  <channel id="TrondheimMensMassStart10kmWorldCup">
-    <display-name>Trondheim | Men's Mass Start 10km World Cup</display-name>
-  </channel>
-  <programme start="20251206000000 +0200" stop="20251206103000 +0200" channel="TrondheimMensMassStart10kmWorldCup">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">Trondheim | Men's Mass Start 10km World Cup.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251206103000 +0200" stop="20251206123000 +0200" channel="TrondheimMensMassStart10kmWorldCup">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Trondheim | Men's Mass Start 10km World Cup</desc>
-    <category lang="it">Winter Sports</category>
-  </programme>
-  <programme start="20251206000000 +0200" stop="20251206120000 +0200" channel="TrondheimMensSkiathlonWorldCup">
-    <title lang="it">Inizia alle 12:00.</title>
-    <desc lang="it">Trondheim | Men's Skiathlon World Cup.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251206120000 +0200" stop="20251206140000 +0200" channel="TrondheimMensSkiathlonWorldCup">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Trondheim | Men's Skiathlon World Cup</desc>
-    <category lang="it">Winter Sports</category>
   </programme>
   <channel id="TrondheimWomensHS102WorldCupDay2">
     <display-name>Trondheim | Women's HS 102 World Cup | Day 2</display-name>
