@@ -1,3 +1,427 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="GermanyBundesliga2PaderbornvsElversberg">
+    <display-name>Germany - Bundesliga 2 : Paderborn vs Elversberg</display-name>
+  </channel>
+  <programme start="20251206000000 +0200" stop="20251206140000 +0200" channel="GermanyBundesliga2PaderbornvsElversberg">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">Germany - Bundesliga 2 : Paderborn vs Elversberg.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251206140000 +0200" stop="20251206160000 +0200" channel="GermanyBundesliga2PaderbornvsElversberg">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Germany - Bundesliga 2 : Paderborn vs Elversberg</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="EnglandPremierLeagueAstonVillavsArsenal">
+    <display-name>England - Premier League : Aston Villa vs Arsenal</display-name>
+  </channel>
+  <programme start="20251206000000 +0200" stop="20251206143000 +0200" channel="EnglandPremierLeagueAstonVillavsArsenal">
+    <title lang="it">Inizia alle 14:30.</title>
+    <desc lang="it">England - Premier League : Aston Villa vs Arsenal.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251206143000 +0200" stop="20251206163000 +0200" channel="EnglandPremierLeagueAstonVillavsArsenal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">England - Premier League : Aston Villa vs Arsenal</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="ItalySerieCProVercellivsRenate">
+    <display-name>Italy - Serie C : Pro Vercelli vs Renate</display-name>
+  </channel>
+  <programme start="20251206000000 +0200" stop="20251206153000 +0200" channel="ItalySerieCProVercellivsRenate">
+    <title lang="it">Inizia alle 15:30.</title>
+    <desc lang="it">Italy - Serie C : Pro Vercelli vs Renate.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251206153000 +0200" stop="20251206173000 +0200" channel="ItalySerieCProVercellivsRenate">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Pro Vercelli vs Renate</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="ItalySerieCPianesevsGubbio">
+    <display-name>Italy - Serie C : Pianese vs Gubbio</display-name>
+  </channel>
+  <programme start="20251206000000 +0200" stop="20251206153000 +0200" channel="ItalySerieCPianesevsGubbio">
+    <title lang="it">Inizia alle 15:30.</title>
+    <desc lang="it">Italy - Serie C : Pianese vs Gubbio.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251206153000 +0200" stop="20251206173000 +0200" channel="ItalySerieCPianesevsGubbio">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Pianese vs Gubbio</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="ItalySerieCLivornovsArezzo">
+    <display-name>Italy - Serie C : Livorno vs Arezzo</display-name>
+  </channel>
+  <programme start="20251206000000 +0200" stop="20251206153000 +0200" channel="ItalySerieCLivornovsArezzo">
+    <title lang="it">Inizia alle 15:30.</title>
+    <desc lang="it">Italy - Serie C : Livorno vs Arezzo.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251206153000 +0200" stop="20251206173000 +0200" channel="ItalySerieCLivornovsArezzo">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Livorno vs Arezzo</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <programme start="20251206000000 +0200" stop="20251206153000 +0200" channel="ItalySerieCLivornovsArezzo">
+    <title lang="it">Inizia alle 15:30.</title>
+    <desc lang="it">Italy - Serie C : Livorno vs Arezzo.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251206153000 +0200" stop="20251206173000 +0200" channel="ItalySerieCLivornovsArezzo">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Livorno vs Arezzo</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="ItalySerieCSorrentovsPotenzaCalcio">
+    <display-name>Italy - Serie C : Sorrento vs Potenza Calcio</display-name>
+  </channel>
+  <programme start="20251206000000 +0200" stop="20251206153000 +0200" channel="ItalySerieCSorrentovsPotenzaCalcio">
+    <title lang="it">Inizia alle 15:30.</title>
+    <desc lang="it">Italy - Serie C : Sorrento vs Potenza Calcio.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251206153000 +0200" stop="20251206173000 +0200" channel="ItalySerieCSorrentovsPotenzaCalcio">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Sorrento vs Potenza Calcio</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="ItalySerieCSiracusavsFoggia">
+    <display-name>Italy - Serie C : Siracusa vs Foggia</display-name>
+  </channel>
+  <programme start="20251206000000 +0200" stop="20251206153000 +0200" channel="ItalySerieCSiracusavsFoggia">
+    <title lang="it">Inizia alle 15:30.</title>
+    <desc lang="it">Italy - Serie C : Siracusa vs Foggia.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251206153000 +0200" stop="20251206173000 +0200" channel="ItalySerieCSiracusavsFoggia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Siracusa vs Foggia</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="ItalySerieCVirtusCasaranovsLatina">
+    <display-name>Italy - Serie C : Virtus Casarano vs Latina</display-name>
+  </channel>
+  <programme start="20251206000000 +0200" stop="20251206153000 +0200" channel="ItalySerieCVirtusCasaranovsLatina">
+    <title lang="it">Inizia alle 15:30.</title>
+    <desc lang="it">Italy - Serie C : Virtus Casarano vs Latina.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251206153000 +0200" stop="20251206173000 +0200" channel="ItalySerieCVirtusCasaranovsLatina">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Virtus Casarano vs Latina</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="ItalySerieASassuolovsFiorentina">
+    <display-name>Italy - Serie A : Sassuolo vs Fiorentina</display-name>
+  </channel>
+  <programme start="20251206000000 +0200" stop="20251206160000 +0200" channel="ItalySerieASassuolovsFiorentina">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">Italy - Serie A : Sassuolo vs Fiorentina.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251206160000 +0200" stop="20251206180000 +0200" channel="ItalySerieASassuolovsFiorentina">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie A : Sassuolo vs Fiorentina</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="GermanyBundesligaStuttgartvsBayernMnchen">
+    <display-name>Germany - Bundesliga : Stuttgart vs Bayern München</display-name>
+  </channel>
+  <programme start="20251206000000 +0200" stop="20251206163000 +0200" channel="GermanyBundesligaStuttgartvsBayernMnchen">
+    <title lang="it">Inizia alle 16:30.</title>
+    <desc lang="it">Germany - Bundesliga : Stuttgart vs Bayern München.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251206163000 +0200" stop="20251206183000 +0200" channel="GermanyBundesligaStuttgartvsBayernMnchen">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Germany - Bundesliga : Stuttgart vs Bayern München</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="EnglandPremierLeagueManchesterCityvsSunderland">
+    <display-name>England - Premier League : Manchester City vs Sunderland</display-name>
+  </channel>
+  <programme start="20251206000000 +0200" stop="20251206170000 +0200" channel="EnglandPremierLeagueManchesterCityvsSunderland">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">England - Premier League : Manchester City vs Sunderland.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251206170000 +0200" stop="20251206190000 +0200" channel="EnglandPremierLeagueManchesterCityvsSunderland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">England - Premier League : Manchester City vs Sunderland</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="ItalySerieCBravsCampobasso">
+    <display-name>Italy - Serie C : Bra vs Campobasso</display-name>
+  </channel>
+  <programme start="20251206000000 +0200" stop="20251206183000 +0200" channel="ItalySerieCBravsCampobasso">
+    <title lang="it">Inizia alle 18:30.</title>
+    <desc lang="it">Italy - Serie C : Bra vs Campobasso.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251206183000 +0200" stop="20251206203000 +0200" channel="ItalySerieCBravsCampobasso">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Bra vs Campobasso</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <programme start="20251206000000 +0200" stop="20251206183000 +0200" channel="ItalySerieCBravsCampobasso">
+    <title lang="it">Inizia alle 18:30.</title>
+    <desc lang="it">Italy - Serie C : Bra vs Campobasso.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251206183000 +0200" stop="20251206203000 +0200" channel="ItalySerieCBravsCampobasso">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Bra vs Campobasso</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="ItalySerieCGiuglianovsTeamAltamura">
+    <display-name>Italy - Serie C : Giugliano vs Team Altamura</display-name>
+  </channel>
+  <programme start="20251206000000 +0200" stop="20251206183000 +0200" channel="ItalySerieCGiuglianovsTeamAltamura">
+    <title lang="it">Inizia alle 18:30.</title>
+    <desc lang="it">Italy - Serie C : Giugliano vs Team Altamura.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251206183000 +0200" stop="20251206203000 +0200" channel="ItalySerieCGiuglianovsTeamAltamura">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Giugliano vs Team Altamura</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <programme start="20251206000000 +0200" stop="20251206183000 +0200" channel="ItalySerieCGiuglianovsTeamAltamura">
+    <title lang="it">Inizia alle 18:30.</title>
+    <desc lang="it">Italy - Serie C : Giugliano vs Team Altamura.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251206183000 +0200" stop="20251206203000 +0200" channel="ItalySerieCGiuglianovsTeamAltamura">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Giugliano vs Team Altamura</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <programme start="20251206000000 +0200" stop="20251206183000 +0200" channel="ItalySerieCGiuglianovsTeamAltamura">
+    <title lang="it">Inizia alle 18:30.</title>
+    <desc lang="it">Italy - Serie C : Giugliano vs Team Altamura.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251206183000 +0200" stop="20251206203000 +0200" channel="ItalySerieCGiuglianovsTeamAltamura">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Giugliano vs Team Altamura</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="ItalySerieAInternazionalevsComo">
+    <display-name>Italy - Serie A : Internazionale vs Como</display-name>
+  </channel>
+  <programme start="20251206000000 +0200" stop="20251206190000 +0200" channel="ItalySerieAInternazionalevsComo">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">Italy - Serie A : Internazionale vs Como.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251206190000 +0200" stop="20251206210000 +0200" channel="ItalySerieAInternazionalevsComo">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie A : Internazionale vs Como</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="ItalySerieAHellasVeronavsAtalanta">
+    <display-name>Italy - Serie A : Hellas Verona vs Atalanta</display-name>
+  </channel>
+  <programme start="20251206000000 +0200" stop="20251206214500 +0200" channel="ItalySerieAHellasVeronavsAtalanta">
+    <title lang="it">Inizia alle 21:45.</title>
+    <desc lang="it">Italy - Serie A : Hellas Verona vs Atalanta.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251206214500 +0200" stop="20251206234500 +0200" channel="ItalySerieAHellasVeronavsAtalanta">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie A : Hellas Verona vs Atalanta</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <programme start="20251206000000 +0200" stop="20251206214500 +0200" channel="ItalySerieAHellasVeronavsAtalanta">
+    <title lang="it">Inizia alle 21:45.</title>
+    <desc lang="it">Italy - Serie A : Hellas Verona vs Atalanta.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251206214500 +0200" stop="20251206234500 +0200" channel="ItalySerieAHellasVeronavsAtalanta">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie A : Hellas Verona vs Atalanta</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="Formula1EtihadAirwaysAbuDhabiGPPractice3">
+    <display-name>Formula 1 : Etihad Airways Abu Dhabi GP - Practice 3</display-name>
+  </channel>
+  <programme start="20251206000000 +0200" stop="20251206123000 +0200" channel="Formula1EtihadAirwaysAbuDhabiGPPractice3">
+    <title lang="it">Inizia alle 12:30.</title>
+    <desc lang="it">Formula 1 : Etihad Airways Abu Dhabi GP - Practice 3.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251206123000 +0200" stop="20251206143000 +0200" channel="Formula1EtihadAirwaysAbuDhabiGPPractice3">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 1 : Etihad Airways Abu Dhabi GP - Practice 3</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Formula2AbuDhabiSprintRace">
+    <display-name>Formula 2 : Abu Dhabi Sprint Race</display-name>
+  </channel>
+  <programme start="20251206000000 +0200" stop="20251206141500 +0200" channel="Formula2AbuDhabiSprintRace">
+    <title lang="it">Inizia alle 14:15.</title>
+    <desc lang="it">Formula 2 : Abu Dhabi Sprint Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251206141500 +0200" stop="20251206161500 +0200" channel="Formula2AbuDhabiSprintRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 2 : Abu Dhabi Sprint Race</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Formula1EtihadAirwaysAbuDhabiGPQualifying">
+    <display-name>Formula 1 : Etihad Airways Abu Dhabi GP - Qualifying</display-name>
+  </channel>
+  <programme start="20251206000000 +0200" stop="20251206160000 +0200" channel="Formula1EtihadAirwaysAbuDhabiGPQualifying">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">Formula 1 : Etihad Airways Abu Dhabi GP - Qualifying.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251206160000 +0200" stop="20251206180000 +0200" channel="Formula1EtihadAirwaysAbuDhabiGPQualifying">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 1 : Etihad Airways Abu Dhabi GP - Qualifying</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="FormulaESaoPauloRace">
+    <display-name>Formula E : Sao Paulo | Race</display-name>
+  </channel>
+  <programme start="20251206000000 +0200" stop="20251206180000 +0200" channel="FormulaESaoPauloRace">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">Formula E : Sao Paulo | Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251206180000 +0200" stop="20251206200000 +0200" channel="FormulaESaoPauloRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula E : Sao Paulo | Race</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="UFC323MainCardMerabDvalishvilivsPetrYan">
+    <display-name>UFC 323 Main Card : Merab Dvalishvili vs Petr Yan</display-name>
+  </channel>
+  <programme start="20251206000000 +0200" stop="20251206050000 +0200" channel="UFC323MainCardMerabDvalishvilivsPetrYan">
+    <title lang="it">Inizia alle 05:00.</title>
+    <desc lang="it">UFC 323 Main Card : Merab Dvalishvili vs Petr Yan.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251206050000 +0200" stop="20251206070000 +0200" channel="UFC323MainCardMerabDvalishvilivsPetrYan">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UFC 323 Main Card : Merab Dvalishvili vs Petr Yan</desc>
+    <category lang="it">UFC 323</category>
+  </programme>
+  <channel id="SuperGBeaverCreekOdermattMarcovsRogentinStefan">
+    <display-name>Super G, Beaver Creek : Odermatt, Marco vs. Rogentin, Stefan</display-name>
+  </channel>
+  <programme start="20251206000000 +0200" stop="20251206191500 +0200" channel="SuperGBeaverCreekOdermattMarcovsRogentinStefan">
+    <title lang="it">Inizia alle 19:15.</title>
+    <desc lang="it">Super G, Beaver Creek : Odermatt, Marco vs. Rogentin, Stefan.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251206191500 +0200" stop="20251206211500 +0200" channel="SuperGBeaverCreekOdermattMarcovsRogentinStefan">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Super G, Beaver Creek : Odermatt, Marco vs. Rogentin, Stefan</desc>
+    <category lang="it">Alpine Ski</category>
+  </programme>
+  <channel id="TremblantWomensGiantSlalomWorldCupRun2">
+    <display-name>Tremblant | Women's Giant Slalom World Cup | Run 2</display-name>
+  </channel>
+  <programme start="20251206000000 +0200" stop="20251206204500 +0200" channel="TremblantWomensGiantSlalomWorldCupRun2">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">Tremblant | Women's Giant Slalom World Cup | Run 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251206204500 +0200" stop="20251206224500 +0200" channel="TremblantWomensGiantSlalomWorldCupRun2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Tremblant | Women's Giant Slalom World Cup | Run 2</desc>
+    <category lang="it">Alpine Ski</category>
+  </programme>
+  <channel id="Mens10kmSprintCompetitionIBUWorldCupOstersund">
+    <display-name>Men's 10 km Sprint Competition | IBU World Cup Ostersund</display-name>
+  </channel>
+  <programme start="20251206000000 +0200" stop="20251206163000 +0200" channel="Mens10kmSprintCompetitionIBUWorldCupOstersund">
+    <title lang="it">Inizia alle 16:30.</title>
+    <desc lang="it">Men's 10 km Sprint Competition | IBU World Cup Ostersund.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251206163000 +0200" stop="20251206183000 +0200" channel="Mens10kmSprintCompetitionIBUWorldCupOstersund">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Men's 10 km Sprint Competition | IBU World Cup Ostersund</desc>
+    <category lang="it">Biathlon</category>
+  </programme>
+  <channel id="TrondheimMensSkiathlonWorldCup">
+    <display-name>Trondheim | Men's Skiathlon World Cup</display-name>
+  </channel>
+  <programme start="20251206000000 +0200" stop="20251206120000 +0200" channel="TrondheimMensSkiathlonWorldCup">
+    <title lang="it">Inizia alle 12:00.</title>
+    <desc lang="it">Trondheim | Men's Skiathlon World Cup.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251206120000 +0200" stop="20251206140000 +0200" channel="TrondheimMensSkiathlonWorldCup">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Trondheim | Men's Skiathlon World Cup</desc>
+    <category lang="it">Cross Country</category>
+  </programme>
+  <channel id="IndividualcompetitionWislaHS134">
+    <display-name>Individual competition | Wisla HS134</display-name>
+  </channel>
+  <programme start="20251206000000 +0200" stop="20251206153000 +0200" channel="IndividualcompetitionWislaHS134">
+    <title lang="it">Inizia alle 15:30.</title>
+    <desc lang="it">Individual competition | Wisla HS134.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251206153000 +0200" stop="20251206173000 +0200" channel="IndividualcompetitionWislaHS134">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Individual competition | Wisla HS134</desc>
+    <category lang="it">Ski Jumping</category>
+  </programme>
+  <channel id="TrondheimMensMassStart10kmWorldCup">
+    <display-name>Trondheim | Men's Mass Start 10km World Cup</display-name>
+  </channel>
+  <programme start="20251206000000 +0200" stop="20251206103000 +0200" channel="TrondheimMensMassStart10kmWorldCup">
+    <title lang="it">Inizia alle 10:30.</title>
+    <desc lang="it">Trondheim | Men's Mass Start 10km World Cup.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251206103000 +0200" stop="20251206123000 +0200" channel="TrondheimMensMassStart10kmWorldCup">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Trondheim | Men's Mass Start 10km World Cup</desc>
+    <category lang="it">Winter Sports</category>
+  </programme>
+  <programme start="20251206000000 +0200" stop="20251206120000 +0200" channel="TrondheimMensSkiathlonWorldCup">
+    <title lang="it">Inizia alle 12:00.</title>
+    <desc lang="it">Trondheim | Men's Skiathlon World Cup.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251206120000 +0200" stop="20251206140000 +0200" channel="TrondheimMensSkiathlonWorldCup">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Trondheim | Men's Skiathlon World Cup</desc>
+    <category lang="it">Winter Sports</category>
+  </programme>
+  <channel id="TrondheimWomensHS102WorldCupDay2">
+    <display-name>Trondheim | Women's HS 102 World Cup | Day 2</display-name>
+  </channel>
+  <programme start="20251206000000 +0200" stop="20251206154000 +0200" channel="TrondheimWomensHS102WorldCupDay2">
+    <title lang="it">Inizia alle 15:40.</title>
+    <desc lang="it">Trondheim | Women's HS 102 World Cup | Day 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251206154000 +0200" stop="20251206174000 +0200" channel="TrondheimWomensHS102WorldCupDay2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Trondheim | Women's HS 102 World Cup | Day 2</desc>
+    <category lang="it">Winter Sports</category>
+  </programme>
+  <channel id="SolitudeMixedRelayWorldCup">
+    <display-name>Solitude | Mixed Relay World Cup</display-name>
+  </channel>
+  <programme start="20251206000000 +0200" stop="20251206220000 +0200" channel="SolitudeMixedRelayWorldCup">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Solitude | Mixed Relay World Cup.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251206220000 +0200" stop="20251207000000 +0200" channel="SolitudeMixedRelayWorldCup">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Solitude | Mixed Relay World Cup</desc>
+    <category lang="it">Winter Sports</category>
+  </programme>
 </tv>
