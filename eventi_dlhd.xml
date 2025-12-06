@@ -1,74 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieCBravsCampobasso">
-    <display-name>Italy - Serie C : Bra vs Campobasso</display-name>
-  </channel>
-  <programme start="20251206000000 +0200" stop="20251206183000 +0200" channel="ItalySerieCBravsCampobasso">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Italy - Serie C : Bra vs Campobasso.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251206183000 +0200" stop="20251206203000 +0200" channel="ItalySerieCBravsCampobasso">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Bra vs Campobasso</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20251206000000 +0200" stop="20251206183000 +0200" channel="ItalySerieCBravsCampobasso">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Italy - Serie C : Bra vs Campobasso.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251206183000 +0200" stop="20251206203000 +0200" channel="ItalySerieCBravsCampobasso">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Bra vs Campobasso</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCGiuglianovsTeamAltamura">
-    <display-name>Italy - Serie C : Giugliano vs Team Altamura</display-name>
-  </channel>
-  <programme start="20251206000000 +0200" stop="20251206183000 +0200" channel="ItalySerieCGiuglianovsTeamAltamura">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Italy - Serie C : Giugliano vs Team Altamura.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251206183000 +0200" stop="20251206203000 +0200" channel="ItalySerieCGiuglianovsTeamAltamura">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Giugliano vs Team Altamura</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20251206000000 +0200" stop="20251206183000 +0200" channel="ItalySerieCGiuglianovsTeamAltamura">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Italy - Serie C : Giugliano vs Team Altamura.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251206183000 +0200" stop="20251206203000 +0200" channel="ItalySerieCGiuglianovsTeamAltamura">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Giugliano vs Team Altamura</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20251206000000 +0200" stop="20251206183000 +0200" channel="ItalySerieCGiuglianovsTeamAltamura">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Italy - Serie C : Giugliano vs Team Altamura.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251206183000 +0200" stop="20251206203000 +0200" channel="ItalySerieCGiuglianovsTeamAltamura">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Giugliano vs Team Altamura</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieAInternazionalevsComo">
-    <display-name>Italy - Serie A : Internazionale vs Como</display-name>
-  </channel>
-  <programme start="20251206000000 +0200" stop="20251206190000 +0200" channel="ItalySerieAInternazionalevsComo">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">Italy - Serie A : Internazionale vs Como.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251206190000 +0200" stop="20251206210000 +0200" channel="ItalySerieAInternazionalevsComo">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Internazionale vs Como</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalySerieAHellasVeronavsAtalanta">
     <display-name>Italy - Serie A : Hellas Verona vs Atalanta</display-name>
   </channel>
@@ -91,19 +22,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Serie A : Hellas Verona vs Atalanta</desc>
     <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="SuperGBeaverCreekOdermattMarcovsRogentinStefan">
-    <display-name>Super G, Beaver Creek : Odermatt, Marco vs. Rogentin, Stefan</display-name>
-  </channel>
-  <programme start="20251206000000 +0200" stop="20251206191500 +0200" channel="SuperGBeaverCreekOdermattMarcovsRogentinStefan">
-    <title lang="it">Inizia alle 19:15.</title>
-    <desc lang="it">Super G, Beaver Creek : Odermatt, Marco vs. Rogentin, Stefan.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251206191500 +0200" stop="20251206211500 +0200" channel="SuperGBeaverCreekOdermattMarcovsRogentinStefan">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Super G, Beaver Creek : Odermatt, Marco vs. Rogentin, Stefan</desc>
-    <category lang="it">Alpine Ski</category>
   </programme>
   <channel id="TremblantWomensGiantSlalomWorldCupRun2">
     <display-name>Tremblant | Women's Giant Slalom World Cup | Run 2</display-name>
