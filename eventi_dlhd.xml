@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="GermanyBundesliga2PaderbornvsElversberg">
-    <display-name>Germany - Bundesliga 2 : Paderborn vs Elversberg</display-name>
-  </channel>
-  <programme start="20251206000000 +0200" stop="20251206140000 +0200" channel="GermanyBundesliga2PaderbornvsElversberg">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Paderborn vs Elversberg.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251206140000 +0200" stop="20251206160000 +0200" channel="GermanyBundesliga2PaderbornvsElversberg">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Paderborn vs Elversberg</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="EnglandPremierLeagueAstonVillavsArsenal">
     <display-name>England - Premier League : Aston Villa vs Arsenal</display-name>
   </channel>
@@ -244,19 +231,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Serie A : Hellas Verona vs Atalanta</desc>
     <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="Formula2AbuDhabiSprintRace">
-    <display-name>Formula 2 : Abu Dhabi Sprint Race</display-name>
-  </channel>
-  <programme start="20251206000000 +0200" stop="20251206141500 +0200" channel="Formula2AbuDhabiSprintRace">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">Formula 2 : Abu Dhabi Sprint Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251206141500 +0200" stop="20251206161500 +0200" channel="Formula2AbuDhabiSprintRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 2 : Abu Dhabi Sprint Race</desc>
-    <category lang="it">Motorsport</category>
   </programme>
   <channel id="Formula1EtihadAirwaysAbuDhabiGPQualifying">
     <display-name>Formula 1 : Etihad Airways Abu Dhabi GP - Qualifying</display-name>
