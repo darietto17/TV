@@ -421,19 +421,6 @@
     <desc lang="it">World Cup | The Man Beaver Creek | Giant Slalom | Run 2</desc>
     <category lang="it">Alpine Ski</category>
   </programme>
-  <channel id="ValenciaMarathonTrinidadAlfonsoT2025">
-    <display-name>Valencia Marathon Trinidad Alfonso (T2025)</display-name>
-  </channel>
-  <programme start="20251207000000 +0200" stop="20251207090000 +0200" channel="ValenciaMarathonTrinidadAlfonsoT2025">
-    <title lang="it">Inizia alle 09:00.</title>
-    <desc lang="it">Valencia Marathon Trinidad Alfonso (T2025).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251207090000 +0200" stop="20251207110000 +0200" channel="ValenciaMarathonTrinidadAlfonsoT2025">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Valencia Marathon Trinidad Alfonso (T2025)</desc>
-    <category lang="it">Athletics</category>
-  </programme>
   <channel id="Women10kmPursuitCompetitionIBUWorldCupOstersund">
     <display-name>Women 10 km Pursuit Competition | IBU World Cup Ostersund</display-name>
   </channel>
@@ -459,19 +446,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Men 12.5 km Pursuit Competition | IBU World Cup Ostersund</desc>
     <category lang="it">Biathlon</category>
-  </programme>
-  <channel id="TrondheimWomens10kmFreestyleWorldCup">
-    <display-name>Trondheim | Women's 10km Freestyle World Cup</display-name>
-  </channel>
-  <programme start="20251207000000 +0200" stop="20251207101500 +0200" channel="TrondheimWomens10kmFreestyleWorldCup">
-    <title lang="it">Inizia alle 10:15.</title>
-    <desc lang="it">Trondheim | Women's 10km Freestyle World Cup.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251207101500 +0200" stop="20251207121500 +0200" channel="TrondheimWomens10kmFreestyleWorldCup">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Trondheim | Women's 10km Freestyle World Cup</desc>
-    <category lang="it">Cross Country</category>
   </programme>
   <channel id="TrondheimMens10kmFreestyleWorldCup">
     <display-name>Trondheim | Men's 10km Freestyle World Cup</display-name>
