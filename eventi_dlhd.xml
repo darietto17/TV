@@ -1,119 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieCNovaravsVicenza">
-    <display-name>Italy - Serie C : Novara vs Vicenza</display-name>
-  </channel>
-  <programme start="20251207000000 +0200" stop="20251207153000 +0200" channel="ItalySerieCNovaravsVicenza">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Novara vs Vicenza.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251207153000 +0200" stop="20251207173000 +0200" channel="ItalySerieCNovaravsVicenza">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Novara vs Vicenza</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCPerugiavsTernana">
-    <display-name>Italy - Serie C : Perugia vs Ternana</display-name>
-  </channel>
-  <programme start="20251207000000 +0200" stop="20251207153000 +0200" channel="ItalySerieCPerugiavsTernana">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Perugia vs Ternana.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251207153000 +0200" stop="20251207173000 +0200" channel="ItalySerieCPerugiavsTernana">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Perugia vs Ternana</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCSassariTorresvsPineto">
-    <display-name>Italy - Serie C : Sassari Torres vs Pineto</display-name>
-  </channel>
-  <programme start="20251207000000 +0200" stop="20251207153000 +0200" channel="ItalySerieCSassariTorresvsPineto">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Sassari Torres vs Pineto.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251207153000 +0200" stop="20251207173000 +0200" channel="ItalySerieCSassariTorresvsPineto">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Sassari Torres vs Pineto</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCSalernitanavsTrapani1905">
-    <display-name>Italy - Serie C : Salernitana vs Trapani 1905</display-name>
-  </channel>
-  <programme start="20251207000000 +0200" stop="20251207153000 +0200" channel="ItalySerieCSalernitanavsTrapani1905">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Salernitana vs Trapani 1905.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251207153000 +0200" stop="20251207173000 +0200" channel="ItalySerieCSalernitanavsTrapani1905">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Salernitana vs Trapani 1905</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20251207000000 +0200" stop="20251207153000 +0200" channel="ItalySerieCSalernitanavsTrapani1905">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Salernitana vs Trapani 1905.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251207153000 +0200" stop="20251207173000 +0200" channel="ItalySerieCSalernitanavsTrapani1905">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Salernitana vs Trapani 1905</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCMonopolivsAtalantaII">
-    <display-name>Italy - Serie C : Monopoli vs Atalanta II</display-name>
-  </channel>
-  <programme start="20251207000000 +0200" stop="20251207153000 +0200" channel="ItalySerieCMonopolivsAtalantaII">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Monopoli vs Atalanta II.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251207153000 +0200" stop="20251207173000 +0200" channel="ItalySerieCMonopolivsAtalantaII">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Monopoli vs Atalanta II</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCUnionBresciavsLumezzane">
-    <display-name>Italy - Serie C : Union Brescia vs Lumezzane</display-name>
-  </channel>
-  <programme start="20251207000000 +0200" stop="20251207153000 +0200" channel="ItalySerieCUnionBresciavsLumezzane">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Union Brescia vs Lumezzane.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251207153000 +0200" stop="20251207173000 +0200" channel="ItalySerieCUnionBresciavsLumezzane">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Union Brescia vs Lumezzane</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="EnglandPremierLeagueBrightonampHoveAlbionvsWestHamUnited">
-    <display-name>England - Premier League : Brighton &amp; Hove Albion vs West Ham United</display-name>
-  </channel>
-  <programme start="20251207000000 +0200" stop="20251207160000 +0200" channel="EnglandPremierLeagueBrightonampHoveAlbionvsWestHamUnited">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">England - Premier League : Brighton &amp; Hove Albion vs West Ham United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251207160000 +0200" stop="20251207180000 +0200" channel="EnglandPremierLeagueBrightonampHoveAlbionvsWestHamUnited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Brighton &amp; Hove Albion vs West Ham United</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieACagliarivsRoma">
-    <display-name>Italy - Serie A : Cagliari vs Roma</display-name>
-  </channel>
-  <programme start="20251207000000 +0200" stop="20251207160000 +0200" channel="ItalySerieACagliarivsRoma">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Italy - Serie A : Cagliari vs Roma.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251207160000 +0200" stop="20251207180000 +0200" channel="ItalySerieACagliarivsRoma">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Cagliari vs Roma</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="GermanyBundesligaHamburgerSVvsWerderBremen">
     <display-name>Germany - Bundesliga : Hamburger SV vs Werder Bremen</display-name>
   </channel>
@@ -274,33 +160,10 @@
     <desc lang="it">France - Ligue 1 : Lorient vs Olympique Lyonnais</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="Formula1EtihadAirwaysAbuDhabiGPRace">
-    <display-name>Formula 1 : Etihad Airways Abu Dhabi GP - Race</display-name>
-  </channel>
-  <programme start="20251207000000 +0200" stop="20251207150000 +0200" channel="Formula1EtihadAirwaysAbuDhabiGPRace">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">Formula 1 : Etihad Airways Abu Dhabi GP - Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251207150000 +0200" stop="20251207170000 +0200" channel="Formula1EtihadAirwaysAbuDhabiGPRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 1 : Etihad Airways Abu Dhabi GP - Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="UKChampionshipFinal">
     <display-name>UK Championship | Final</display-name>
   </channel>
-  <programme start="20251207000000 +0200" stop="20251207143000 +0200" channel="UKChampionshipFinal">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">UK Championship | Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251207143000 +0200" stop="20251207163000 +0200" channel="UKChampionshipFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UK Championship | Final</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20251207163000 +0200" stop="20251207204500 +0200" channel="UKChampionshipFinal">
+  <programme start="20251207000000 +0200" stop="20251207204500 +0200" channel="UKChampionshipFinal">
     <title lang="it">Inizia alle 20:45.</title>
     <desc lang="it">UK Championship | Final.</desc>
     <category lang="it">Annuncio</category>
@@ -335,45 +198,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">World Cup | The Man Beaver Creek | Giant Slalom | Run 2</desc>
     <category lang="it">Alpine Ski</category>
-  </programme>
-  <channel id="Men125kmPursuitCompetitionIBUWorldCupOstersund">
-    <display-name>Men 12.5 km Pursuit Competition | IBU World Cup Ostersund</display-name>
-  </channel>
-  <programme start="20251207000000 +0200" stop="20251207161000 +0200" channel="Men125kmPursuitCompetitionIBUWorldCupOstersund">
-    <title lang="it">Inizia alle 16:10.</title>
-    <desc lang="it">Men 12.5 km Pursuit Competition | IBU World Cup Ostersund.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251207161000 +0200" stop="20251207181000 +0200" channel="Men125kmPursuitCompetitionIBUWorldCupOstersund">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Men 12.5 km Pursuit Competition | IBU World Cup Ostersund</desc>
-    <category lang="it">Biathlon</category>
-  </programme>
-  <channel id="UCICycloCrossWorldCupTerralbaSardinia">
-    <display-name>UCI Cyclo-Cross World Cup Terralba - Sardinia</display-name>
-  </channel>
-  <programme start="20251207000000 +0200" stop="20251207143000 +0200" channel="UCICycloCrossWorldCupTerralbaSardinia">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">UCI Cyclo-Cross World Cup Terralba - Sardinia.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251207143000 +0200" stop="20251207163000 +0200" channel="UCICycloCrossWorldCupTerralbaSardinia">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UCI Cyclo-Cross World Cup Terralba - Sardinia</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <channel id="IndividualcompetitionWislaHS134">
-    <display-name>Individual competition | Wisla HS134</display-name>
-  </channel>
-  <programme start="20251207000000 +0200" stop="20251207150500 +0200" channel="IndividualcompetitionWislaHS134">
-    <title lang="it">Inizia alle 15:05.</title>
-    <desc lang="it">Individual competition | Wisla HS134.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251207150500 +0200" stop="20251207170500 +0200" channel="IndividualcompetitionWislaHS134">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Individual competition | Wisla HS134</desc>
-    <category lang="it">Ski Jumping</category>
   </programme>
   <channel id="ISMFWorldCupSolitudeSprintHF">
     <display-name>ISMF World Cup Solitude | Sprint (H/F)</display-name>
