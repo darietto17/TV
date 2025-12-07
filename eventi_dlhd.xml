@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="GermanyBundesligaHamburgerSVvsWerderBremen">
-    <display-name>Germany - Bundesliga : Hamburger SV vs Werder Bremen</display-name>
-  </channel>
-  <programme start="20251207000000 +0200" stop="20251207163000 +0200" channel="GermanyBundesligaHamburgerSVvsWerderBremen">
-    <title lang="it">Inizia alle 16:30.</title>
-    <desc lang="it">Germany - Bundesliga : Hamburger SV vs Werder Bremen.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251207163000 +0200" stop="20251207183000 +0200" channel="GermanyBundesligaHamburgerSVvsWerderBremen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga : Hamburger SV vs Werder Bremen</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalySerieCProPatriavsDolomitiBellunesi">
     <display-name>Italy - Serie C : Pro Patria vs Dolomiti Bellunesi</display-name>
   </channel>
@@ -172,19 +159,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">UK Championship | Final</desc>
     <category lang="it">Snooker</category>
-  </programme>
-  <channel id="WorldCupWomenTremblantGiantSlalomRun1">
-    <display-name>World Cup | Women Tremblant | Giant Slalom | Run 1</display-name>
-  </channel>
-  <programme start="20251207000000 +0200" stop="20251207164500 +0200" channel="WorldCupWomenTremblantGiantSlalomRun1">
-    <title lang="it">Inizia alle 16:45.</title>
-    <desc lang="it">World Cup | Women Tremblant | Giant Slalom | Run 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251207164500 +0200" stop="20251207184500 +0200" channel="WorldCupWomenTremblantGiantSlalomRun1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup | Women Tremblant | Giant Slalom | Run 1</desc>
-    <category lang="it">Alpine Ski</category>
   </programme>
   <channel id="WorldCupTheManBeaverCreekGiantSlalomRun2">
     <display-name>World Cup | The Man Beaver Creek | Giant Slalom | Run 2</display-name>
