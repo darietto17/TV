@@ -1,52 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieATorinovsMilan">
-    <display-name>Italy - Serie A : Torino vs Milan</display-name>
+  <channel id="EuropeUEFAChampionsLeagueBayernMnchenvsSportingCP">
+    <display-name>Europe - UEFA Champions League : Bayern München vs Sporting CP</display-name>
   </channel>
-  <programme start="20251208000000 +0200" stop="20251208214500 +0200" channel="ItalySerieATorinovsMilan">
-    <title lang="it">Inizia alle 21:45.</title>
-    <desc lang="it">Italy - Serie A : Torino vs Milan.</desc>
+  <programme start="20251209000000 +0200" stop="20251209194500 +0200" channel="EuropeUEFAChampionsLeagueBayernMnchenvsSportingCP">
+    <title lang="it">Inizia alle 19:45.</title>
+    <desc lang="it">Europe - UEFA Champions League : Bayern München vs Sporting CP.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20251208214500 +0200" stop="20251208234500 +0200" channel="ItalySerieATorinovsMilan">
+  <programme start="20251209194500 +0200" stop="20251209214500 +0200" channel="EuropeUEFAChampionsLeagueBayernMnchenvsSportingCP">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Torino vs Milan</desc>
+    <desc lang="it">Europe - UEFA Champions League : Bayern München vs Sporting CP</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <programme start="20251208000000 +0200" stop="20251208214500 +0200" channel="ItalySerieATorinovsMilan">
-    <title lang="it">Inizia alle 21:45.</title>
-    <desc lang="it">Italy - Serie A : Torino vs Milan.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251208214500 +0200" stop="20251208234500 +0200" channel="ItalySerieATorinovsMilan">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Torino vs Milan</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="EnglandPremierLeagueWolverhamptonWanderersvsManchesterUnited">
-    <display-name>England - Premier League : Wolverhampton Wanderers vs Manchester United</display-name>
+  <channel id="EuropeUEFAChampionsLeagueTottenhamHotspurvsSlaviaPraha">
+    <display-name>Europe - UEFA Champions League : Tottenham Hotspur vs Slavia Praha</display-name>
   </channel>
-  <programme start="20251208000000 +0200" stop="20251208220000 +0200" channel="EnglandPremierLeagueWolverhamptonWanderersvsManchesterUnited">
+  <programme start="20251209000000 +0200" stop="20251209220000 +0200" channel="EuropeUEFAChampionsLeagueTottenhamHotspurvsSlaviaPraha">
     <title lang="it">Inizia alle 22:00.</title>
-    <desc lang="it">England - Premier League : Wolverhampton Wanderers vs Manchester United.</desc>
+    <desc lang="it">Europe - UEFA Champions League : Tottenham Hotspur vs Slavia Praha.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20251208220000 +0200" stop="20251209000000 +0200" channel="EnglandPremierLeagueWolverhamptonWanderersvsManchesterUnited">
+  <programme start="20251209220000 +0200" stop="20251210000000 +0200" channel="EuropeUEFAChampionsLeagueTottenhamHotspurvsSlaviaPraha">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Wolverhampton Wanderers vs Manchester United</desc>
+    <desc lang="it">Europe - UEFA Champions League : Tottenham Hotspur vs Slavia Praha</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="ItalySerieA2Pallacanestro2015ForlivsASPistoiaBasket2000">
-    <display-name>Italy, Serie A2 : Pallacanestro 2.015 Forli vs. AS Pistoia Basket 2000</display-name>
+  <channel id="EuropeUEFAChampionsLeagueMonacovsGalatasaray">
+    <display-name>Europe - UEFA Champions League : Monaco vs Galatasaray</display-name>
   </channel>
-  <programme start="20251208000000 +0200" stop="20251208214500 +0200" channel="ItalySerieA2Pallacanestro2015ForlivsASPistoiaBasket2000">
-    <title lang="it">Inizia alle 21:45.</title>
-    <desc lang="it">Italy, Serie A2 : Pallacanestro 2.015 Forli vs. AS Pistoia Basket 2000.</desc>
+  <programme start="20251209000000 +0200" stop="20251209220000 +0200" channel="EuropeUEFAChampionsLeagueMonacovsGalatasaray">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Europe - UEFA Champions League : Monaco vs Galatasaray.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20251208214500 +0200" stop="20251208234500 +0200" channel="ItalySerieA2Pallacanestro2015ForlivsASPistoiaBasket2000">
+  <programme start="20251209220000 +0200" stop="20251210000000 +0200" channel="EuropeUEFAChampionsLeagueMonacovsGalatasaray">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy, Serie A2 : Pallacanestro 2.015 Forli vs. AS Pistoia Basket 2000</desc>
-    <category lang="it">Basketball</category>
+    <desc lang="it">Europe - UEFA Champions League : Monaco vs Galatasaray</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="EuropeUEFAChampionsLeaguePSVvsAtlticoMadrid">
+    <display-name>Europe - UEFA Champions League : PSV vs Atlético Madrid</display-name>
+  </channel>
+  <programme start="20251209000000 +0200" stop="20251209220000 +0200" channel="EuropeUEFAChampionsLeaguePSVvsAtlticoMadrid">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Europe - UEFA Champions League : PSV vs Atlético Madrid.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251209220000 +0200" stop="20251210000000 +0200" channel="EuropeUEFAChampionsLeaguePSVvsAtlticoMadrid">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Champions League : PSV vs Atlético Madrid</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="EuropeUEFAChampionsLeagueUnionSaintGilloisevsOlympiqueMarseille">
+    <display-name>Europe - UEFA Champions League : Union Saint-Gilloise vs Olympique Marseille</display-name>
+  </channel>
+  <programme start="20251209000000 +0200" stop="20251209220000 +0200" channel="EuropeUEFAChampionsLeagueUnionSaintGilloisevsOlympiqueMarseille">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Europe - UEFA Champions League : Union Saint-Gilloise vs Olympique Marseille.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251209220000 +0200" stop="20251210000000 +0200" channel="EuropeUEFAChampionsLeagueUnionSaintGilloisevsOlympiqueMarseille">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Champions League : Union Saint-Gilloise vs Olympique Marseille</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="EuropeUEFAChampionsLeagueAtalantavsChelsea">
+    <display-name>Europe - UEFA Champions League : Atalanta vs Chelsea</display-name>
+  </channel>
+  <programme start="20251209000000 +0200" stop="20251209220000 +0200" channel="EuropeUEFAChampionsLeagueAtalantavsChelsea">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Europe - UEFA Champions League : Atalanta vs Chelsea.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251209220000 +0200" stop="20251210000000 +0200" channel="EuropeUEFAChampionsLeagueAtalantavsChelsea">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Champions League : Atalanta vs Chelsea</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20251209000000 +0200" stop="20251209220000 +0200" channel="EuropeUEFAChampionsLeagueAtalantavsChelsea">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Europe - UEFA Champions League : Atalanta vs Chelsea.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251209220000 +0200" stop="20251210000000 +0200" channel="EuropeUEFAChampionsLeagueAtalantavsChelsea">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Champions League : Atalanta vs Chelsea</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="EuropeUEFAChampionsLeagueInternazionalevsLiverpool">
+    <display-name>Europe - UEFA Champions League : Internazionale vs Liverpool</display-name>
+  </channel>
+  <programme start="20251209000000 +0200" stop="20251209220000 +0200" channel="EuropeUEFAChampionsLeagueInternazionalevsLiverpool">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Europe - UEFA Champions League : Internazionale vs Liverpool.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251209220000 +0200" stop="20251210000000 +0200" channel="EuropeUEFAChampionsLeagueInternazionalevsLiverpool">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Champions League : Internazionale vs Liverpool</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="EuropeUEFAChampionsLeagueBarcelonavsEintrachtFrankfurt">
+    <display-name>Europe - UEFA Champions League : Barcelona vs Eintracht Frankfurt</display-name>
+  </channel>
+  <programme start="20251209000000 +0200" stop="20251209220000 +0200" channel="EuropeUEFAChampionsLeagueBarcelonavsEintrachtFrankfurt">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Europe - UEFA Champions League : Barcelona vs Eintracht Frankfurt.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251209220000 +0200" stop="20251210000000 +0200" channel="EuropeUEFAChampionsLeagueBarcelonavsEintrachtFrankfurt">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Champions League : Barcelona vs Eintracht Frankfurt</desc>
+    <category lang="it">Soccer</category>
   </programme>
 </tv>
