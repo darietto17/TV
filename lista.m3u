@@ -160,10 +160,10 @@ https://vavoo.to/vavoo-iptv/play/56316060941df205a0842
 https://vavoo.to/vavoo-iptv/play/217968682876c9a8051121
 #EXTINF:-1 tvg-id="giallo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro",GIALLO
 https://vavoo.to/vavoo-iptv/play/40604994550f228d5b9b59
+#EXTINF:-1 tvg-id="" tvg-logo="https://ennapress.it/wp-content/uploads/2020/10/globus.png" group-title="Altro",GLOBUS TELEVISION
+https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV
 https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
-https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS
@@ -245,8 +245,6 @@ https://vavoo.to/vavoo-iptv/play/1641481816a8a66ad9baf6
 https://vavoo.to/vavoo-iptv/play/3471319012d308ec0dc636
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",PEOPLE ARE AWESOME
 https://vavoo.to/vavoo-iptv/play/1087345241c8751e395263
-#EXTINF:-1 tvg-id="pescaecaccia.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/caccia-pesca-it.png?raw=true" group-title="Altro",PESCA E CACCIA
-https://vavoo.to/vavoo-iptv/play/312451299385241b4e7078
 #EXTINF:-1 tvg-id="premiumcrime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Film - Serie TV",PREMIUM CRIME
 https://vavoo.to/vavoo-iptv/play/444768053e397c96fc6df
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Prima_TV_Logo_2022.svg/800px-Prima_TV_Logo_2022.svg.png" group-title="Altro",PRIMA TV (1)
@@ -296,6 +294,8 @@ https://dlhd.dad/watch.php?id=852
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
 
+#EXTINF:-1 tvg-id="rai4.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Rai",RAI 4
+https://vavoo.to/vavoo-iptv/play/2179822223e6f7fefa408e
 #EXTINF:-1 tvg-id="rai4.it" tvg-name="RAI 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Rai",RAI 4 (MPD)
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
@@ -388,6 +388,8 @@ https://vavoo.to/vavoo-iptv/play/860912269147f85ae7a8
 https://vavoo.to/vavoo-iptv/play/4031388312f5ebcfc7dc6d
 #EXTINF:-1 tvg-id="rdssocialtv.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png" group-title="Musica",RDS SOCIAL TV
 https://vavoo.to/vavoo-iptv/play/36560804080912cdf76cbf
+#EXTINF:-1 tvg-id="real.time.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro",REAL TIME
+https://vavoo.to/vavoo-iptv/play/2251241999722578d55332
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Reggio_TV_logo.png/640px-Reggio_TV_logo.png" group-title="Altro",REGGIO TV
 https://vavoo.to/vavoo-iptv/play/216554978929adb39fe170
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rei-tv-it.png?raw=true" group-title="Altro",REI TV
@@ -455,6 +457,8 @@ https://dlhd.dad/watch.php?id=862
 https://dlhd.dad/watch.php?id=867
 #EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film - Serie TV",SKY CINEMA DUE
 https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
+#EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24
+https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24 (D)
 https://dlhd.dad/watch.php?id=866
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY
@@ -743,7 +747,7 @@ https://dlhd.dad/watch.php?id=460
 #EXTINF:-1 tvg-id="italyserieapisavsparma" tvg-name="Soccer | Italy - Serie A : Pisa vs Parma (16:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pisa_vs_Parma.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Pisa vs Parma (16:00)
 https://dlhd.dad/watch.php?id=877
 
-#EXTINF:-1 tvg-id="italyserieaudinesevsgenoa" tvg-name="Soccer | Italy - Serie A : Udinese vs Genoa (19:00)" tvg-logo="http://www.zastavki.com/pictures/originals/2014/World___Italy_Port_lights_in_Genoa__Italy_064842_.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Udinese vs Genoa (19:00)
+#EXTINF:-1 tvg-id="italyserieaudinesevsgenoa" tvg-name="Soccer | Italy - Serie A : Udinese vs Genoa (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Udinese_vs_Genoa.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Udinese vs Genoa (19:00)
 https://dlhd.dad/watch.php?id=877
 
 #EXTINF:-1 tvg-id="italyserieatorinovsmilan" tvg-name="Soccer | Italy - Serie A : Torino vs Milan (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Torino_vs_Milan.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Torino vs Milan (21:45)
@@ -752,7 +756,7 @@ https://dlhd.dad/watch.php?id=6
 #EXTINF:-1 tvg-id="italyserieatorinovsmilan" tvg-name="Soccer | Italy - Serie A : Torino vs Milan (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Torino_vs_Milan.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Torino vs Milan (21:45)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="englandpremierleaguewolverhamptonwanderersvsmanchesterunited" tvg-name="Soccer | England - Premier League : Wolverhampton Wanderers vs Manchester United (22:00)" tvg-logo="http://www.ufopedia.it/images/b/ba/Wolverhampton-wanderers-fc-logo-1.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Wolverhampton Wanderers vs Manchester United (22:00)
+#EXTINF:-1 tvg-id="englandpremierleaguewolverhamptonwanderersvsmanchesterunited" tvg-name="Soccer | England - Premier League : Wolverhampton Wanderers vs Manchester United (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Wolverhampton Wanderers_vs_Manchester United.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Wolverhampton Wanderers vs Manchester United (22:00)
 https://dlhd.dad/watch.php?id=462
 
 #EXTINF:-1 tvg-id="italyseriea2pallacanestro2015forlivsaspistoiabasket2000" tvg-name="Basketball | Italy, Serie A2 : Pallacanestro 2.015 Forli vs. AS Pistoia Basket 2000 (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pallacanestro 2.015 Forli_vs_AS Pistoia Basket 2000.png" group-title="Eventi Live DLHD",Basketball | Italy, Serie A2 : Pallacanestro 2.015 Forli vs. AS Pistoia Basket 2000 (21:45)
@@ -761,7 +765,7 @@ https://dlhd.dad/watch.php?id=882
 #EXTINF:-1 tvg-id="italysuperlegapallavolopadovavsvvmonza" tvg-name="Volleyball | Italy, SuperLega : Pallavolo Padova vs. VV Monza (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pallavolo Padova_vs_VV Monza.png" group-title="Eventi Live DLHD",Volleyball | Italy, SuperLega : Pallavolo Padova vs. VV Monza (18:30)
 https://dlhd.dad/watch.php?id=882
 
-#EXTINF:-1 tvg-id="handmogulsworldcupwomenmenday2" tvg-name="Winter Sports | Hand | Moguls World Cup | Women Men | Day 2 (16:20)" tvg-logo="https://www.publicdomainpictures.net/pictures/550000/velka/male-hand-on-isolated-background.png" group-title="Eventi Live DLHD",Winter Sports | Hand | Moguls World Cup | Women Men | Day 2 (16:20)
+#EXTINF:-1 tvg-id="handmogulsworldcupwomenmenday2" tvg-name="Winter Sports | Hand | Moguls World Cup | Women Men | Day 2 (16:20)" tvg-logo="https://o.quizlet.com/9-.MEFPHN4kDU91Rdi3F9w.png" group-title="Eventi Live DLHD",Winter Sports | Hand | Moguls World Cup | Women Men | Day 2 (16:20)
 https://dlhd.dad/watch.php?id=878
 
 
