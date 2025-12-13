@@ -1,31 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieAwomenJuventusvsNapoli">
-    <display-name>Italy - Serie A (women) : Juventus vs Napoli</display-name>
-  </channel>
-  <programme start="20251213000000 +0200" stop="20251213133000 +0200" channel="ItalySerieAwomenJuventusvsNapoli">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie A (women) : Juventus vs Napoli.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251213133000 +0200" stop="20251213153000 +0200" channel="ItalySerieAwomenJuventusvsNapoli">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A (women) : Juventus vs Napoli</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="GermanyBundesliga2KarlsruherSCvsPaderborn">
-    <display-name>Germany - Bundesliga 2 : Karlsruher SC vs Paderborn</display-name>
-  </channel>
-  <programme start="20251213000000 +0200" stop="20251213140000 +0200" channel="GermanyBundesliga2KarlsruherSCvsPaderborn">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Karlsruher SC vs Paderborn.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251213140000 +0200" stop="20251213160000 +0200" channel="GermanyBundesliga2KarlsruherSCvsPaderborn">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Karlsruher SC vs Paderborn</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalySerieCLumezzanevsLecco">
     <display-name>Italy - Serie C : Lumezzane vs Lecco</display-name>
   </channel>
@@ -302,19 +276,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Shoot Out Round 4</desc>
     <category lang="it">Snooker</category>
-  </programme>
-  <channel id="WorldCupCompetitioninValdIsere2ndrunofthemensgiantslalom">
-    <display-name>World Cup Competition in Val dIsere 2nd run of the men's giant slalom</display-name>
-  </channel>
-  <programme start="20251213000000 +0200" stop="20251213134500 +0200" channel="WorldCupCompetitioninValdIsere2ndrunofthemensgiantslalom">
-    <title lang="it">Inizia alle 13:45.</title>
-    <desc lang="it">World Cup Competition in Val dIsere 2nd run of the men's giant slalom.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251213134500 +0200" stop="20251213154500 +0200" channel="WorldCupCompetitioninValdIsere2ndrunofthemensgiantslalom">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Competition in Val dIsere 2nd run of the men's giant slalom</desc>
-    <category lang="it">Alpine Ski</category>
   </programme>
   <channel id="Women4x6kmRelayCompetitionHochfilzen">
     <display-name>Women 4x6 km Relay Competition | Hochfilzen</display-name>
