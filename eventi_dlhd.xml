@@ -1,31 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="GermanyBundesligaEintrachtFrankfurtvsAugsburg">
-    <display-name>Germany - Bundesliga : Eintracht Frankfurt vs Augsburg</display-name>
-  </channel>
-  <programme start="20251213000000 +0200" stop="20251213163000 +0200" channel="GermanyBundesligaEintrachtFrankfurtvsAugsburg">
-    <title lang="it">Inizia alle 16:30.</title>
-    <desc lang="it">Germany - Bundesliga : Eintracht Frankfurt vs Augsburg.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251213163000 +0200" stop="20251213183000 +0200" channel="GermanyBundesligaEintrachtFrankfurtvsAugsburg">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga : Eintracht Frankfurt vs Augsburg</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="EnglandPremierLeagueChelseavsEverton">
-    <display-name>England - Premier League : Chelsea vs Everton</display-name>
-  </channel>
-  <programme start="20251213000000 +0200" stop="20251213170000 +0200" channel="EnglandPremierLeagueChelseavsEverton">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">England - Premier League : Chelsea vs Everton.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251213170000 +0200" stop="20251213190000 +0200" channel="EnglandPremierLeagueChelseavsEverton">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Chelsea vs Everton</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalySerieCAlcionevsVirtusVerona">
     <display-name>Italy - Serie C : Alcione vs Virtus Verona</display-name>
   </channel>
@@ -162,32 +136,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Shoot Out Round 4</desc>
     <category lang="it">Snooker</category>
-  </programme>
-  <channel id="WorldCupDavosMensandWomensSprintFreestyle">
-    <display-name>World Cup Davos | Men's and Women's Sprint Freestyle</display-name>
-  </channel>
-  <programme start="20251213000000 +0200" stop="20251213170500 +0200" channel="WorldCupDavosMensandWomensSprintFreestyle">
-    <title lang="it">Inizia alle 17:05.</title>
-    <desc lang="it">World Cup Davos | Men's and Women's Sprint Freestyle.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251213170500 +0200" stop="20251213190500 +0200" channel="WorldCupDavosMensandWomensSprintFreestyle">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Davos | Men's and Women's Sprint Freestyle</desc>
-    <category lang="it">Cross Country</category>
-  </programme>
-  <channel id="IndividualcompetitionKlingentalHS140">
-    <display-name>Individual competition | Klingental HS140</display-name>
-  </channel>
-  <programme start="20251213000000 +0200" stop="20251213163000 +0200" channel="IndividualcompetitionKlingentalHS140">
-    <title lang="it">Inizia alle 16:30.</title>
-    <desc lang="it">Individual competition | Klingental HS140.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251213163000 +0200" stop="20251213183000 +0200" channel="IndividualcompetitionKlingentalHS140">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Individual competition | Klingental HS140</desc>
-    <category lang="it">Ski Jumping</category>
   </programme>
   <channel id="ItalySuperLegaVVMonzavsMandGScuolaPallavolo">
     <display-name>Italy, SuperLega : VV Monza vs. MandG Scuola Pallavolo</display-name>
