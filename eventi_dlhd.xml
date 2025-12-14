@@ -385,19 +385,6 @@
     <desc lang="it">France - Ligue 1 : Olympique Marseille vs Monaco</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="SlalomValdIsere">
-    <display-name>Slalom | Val d'Isere</display-name>
-  </channel>
-  <programme start="20251214000000 +0200" stop="20251214101500 +0200" channel="SlalomValdIsere">
-    <title lang="it">Inizia alle 10:15.</title>
-    <desc lang="it">Slalom | Val d'Isere.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251214101500 +0200" stop="20251214121500 +0200" channel="SlalomValdIsere">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Slalom | Val d'Isere</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
   <channel id="SuperGStMoritzLadies">
     <display-name>Super-G | St. Moritz Ladies</display-name>
   </channel>
@@ -411,7 +398,10 @@
     <desc lang="it">Super-G | St. Moritz Ladies</desc>
     <category lang="it">Alpine Ski</category>
   </programme>
-  <programme start="20251214121500 +0200" stop="20251214134500 +0200" channel="SlalomValdIsere">
+  <channel id="SlalomValdIsere">
+    <display-name>Slalom | Val d'Isere</display-name>
+  </channel>
+  <programme start="20251214000000 +0200" stop="20251214134500 +0200" channel="SlalomValdIsere">
     <title lang="it">Inizia alle 13:45.</title>
     <desc lang="it">Slalom | Val d'Isere.</desc>
     <category lang="it">Annuncio</category>
