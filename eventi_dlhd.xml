@@ -385,19 +385,6 @@
     <desc lang="it">France - Ligue 1 : Olympique Marseille vs Monaco</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="SuperGStMoritzLadies">
-    <display-name>Super-G | St. Moritz Ladies</display-name>
-  </channel>
-  <programme start="20251214000000 +0200" stop="20251214113000 +0200" channel="SuperGStMoritzLadies">
-    <title lang="it">Inizia alle 11:30.</title>
-    <desc lang="it">Super-G | St. Moritz Ladies.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251214113000 +0200" stop="20251214133000 +0200" channel="SuperGStMoritzLadies">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Super-G | St. Moritz Ladies</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
   <channel id="SlalomValdIsere">
     <display-name>Slalom | Val d'Isere</display-name>
   </channel>
@@ -410,32 +397,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Slalom | Val d'Isere</desc>
     <category lang="it">Alpine Ski</category>
-  </programme>
-  <channel id="Mens4x75kmRelayCompetitionHochfilzen">
-    <display-name>Men's 4x7.5 km Relay Competition | Hochfilzen</display-name>
-  </channel>
-  <programme start="20251214000000 +0200" stop="20251214121500 +0200" channel="Mens4x75kmRelayCompetitionHochfilzen">
-    <title lang="it">Inizia alle 12:15.</title>
-    <desc lang="it">Men's 4x7.5 km Relay Competition | Hochfilzen.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251214121500 +0200" stop="20251214141500 +0200" channel="Mens4x75kmRelayCompetitionHochfilzen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Men's 4x7.5 km Relay Competition | Hochfilzen</desc>
-    <category lang="it">Biathlon</category>
-  </programme>
-  <channel id="WorldCupDavosMens10kmFreestyle">
-    <display-name>World Cup Davos | Men's 10km Freestyle</display-name>
-  </channel>
-  <programme start="20251214000000 +0200" stop="20251214104000 +0200" channel="WorldCupDavosMens10kmFreestyle">
-    <title lang="it">Inizia alle 10:40.</title>
-    <desc lang="it">World Cup Davos | Men's 10km Freestyle.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251214104000 +0200" stop="20251214124000 +0200" channel="WorldCupDavosMens10kmFreestyle">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Davos | Men's 10km Freestyle</desc>
-    <category lang="it">Cross Country</category>
   </programme>
   <channel id="UCICycloCrossWorldCupNamur">
     <display-name>UCI Cyclo-Cross World Cup Namur</display-name>
@@ -475,19 +436,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Individual competition | Klingental HS140</desc>
     <category lang="it">Ski Jumping</category>
-  </programme>
-  <channel id="DavosMens10kmFreestyleWorldCup">
-    <display-name>Davos | Men's 10km Freestyle World Cup</display-name>
-  </channel>
-  <programme start="20251214000000 +0200" stop="20251214104000 +0200" channel="DavosMens10kmFreestyleWorldCup">
-    <title lang="it">Inizia alle 10:40.</title>
-    <desc lang="it">Davos | Men's 10km Freestyle World Cup.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251214104000 +0200" stop="20251214124000 +0200" channel="DavosMens10kmFreestyleWorldCup">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Davos | Men's 10km Freestyle World Cup</desc>
-    <category lang="it">Winter Sports</category>
   </programme>
   <channel id="Davos10kmwomensTLWorldCup">
     <display-name>Davos | 10km women's TL World Cup</display-name>
