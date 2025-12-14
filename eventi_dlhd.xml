@@ -1,96 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="GermanyBundesligaFreiburgvsBorussiaDortmund">
-    <display-name>Germany - Bundesliga : Freiburg vs Borussia Dortmund</display-name>
-  </channel>
-  <programme start="20251214000000 +0200" stop="20251214163000 +0200" channel="GermanyBundesligaFreiburgvsBorussiaDortmund">
-    <title lang="it">Inizia alle 16:30.</title>
-    <desc lang="it">Germany - Bundesliga : Freiburg vs Borussia Dortmund.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251214163000 +0200" stop="20251214183000 +0200" channel="GermanyBundesligaFreiburgvsBorussiaDortmund">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga : Freiburg vs Borussia Dortmund</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="GermanyBundesligaBayernMnchenvsMainz05">
-    <display-name>Germany - Bundesliga : Bayern München vs Mainz 05</display-name>
-  </channel>
-  <programme start="20251214000000 +0200" stop="20251214183000 +0200" channel="GermanyBundesligaBayernMnchenvsMainz05">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Germany - Bundesliga : Bayern München vs Mainz 05.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251214183000 +0200" stop="20251214203000 +0200" channel="GermanyBundesligaBayernMnchenvsMainz05">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga : Bayern München vs Mainz 05</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCOspitalettovsProVercelli">
-    <display-name>Italy - Serie C : Ospitaletto vs Pro Vercelli</display-name>
-  </channel>
-  <programme start="20251214000000 +0200" stop="20251214183000 +0200" channel="ItalySerieCOspitalettovsProVercelli">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Italy - Serie C : Ospitaletto vs Pro Vercelli.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251214183000 +0200" stop="20251214203000 +0200" channel="ItalySerieCOspitalettovsProVercelli">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Ospitaletto vs Pro Vercelli</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCTriestinavsAlbinoLeffe">
-    <display-name>Italy - Serie C : Triestina vs AlbinoLeffe</display-name>
-  </channel>
-  <programme start="20251214000000 +0200" stop="20251214183000 +0200" channel="ItalySerieCTriestinavsAlbinoLeffe">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Italy - Serie C : Triestina vs AlbinoLeffe.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251214183000 +0200" stop="20251214203000 +0200" channel="ItalySerieCTriestinavsAlbinoLeffe">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Triestina vs AlbinoLeffe</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCNuovaMonterosivsAscoli">
-    <display-name>Italy - Serie C : Nuova Monterosi vs Ascoli</display-name>
-  </channel>
-  <programme start="20251214000000 +0200" stop="20251214183000 +0200" channel="ItalySerieCNuovaMonterosivsAscoli">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Italy - Serie C : Nuova Monterosi vs Ascoli.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251214183000 +0200" stop="20251214203000 +0200" channel="ItalySerieCNuovaMonterosivsAscoli">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Nuova Monterosi vs Ascoli</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCCasertanavsLatina">
-    <display-name>Italy - Serie C : Casertana vs Latina</display-name>
-  </channel>
-  <programme start="20251214000000 +0200" stop="20251214183000 +0200" channel="ItalySerieCCasertanavsLatina">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Italy - Serie C : Casertana vs Latina.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251214183000 +0200" stop="20251214203000 +0200" channel="ItalySerieCCasertanavsLatina">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Casertana vs Latina</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCBeneventovsGiugliano">
-    <display-name>Italy - Serie C : Benevento vs Giugliano</display-name>
-  </channel>
-  <programme start="20251214000000 +0200" stop="20251214183000 +0200" channel="ItalySerieCBeneventovsGiugliano">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Italy - Serie C : Benevento vs Giugliano.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251214183000 +0200" stop="20251214203000 +0200" channel="ItalySerieCBeneventovsGiugliano">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Benevento vs Giugliano</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalySerieAGenoavsInternazionale">
     <display-name>Italy - Serie A : Genoa vs Internazionale</display-name>
   </channel>
@@ -185,18 +94,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">France - Ligue 1 : Olympique Marseille vs Monaco</desc>
     <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="IndividualcompetitionKlingentalHS140">
-    <display-name>Individual competition | Klingental HS140</display-name>
-  </channel>
-  <programme start="20251214000000 +0200" stop="20251214163000 +0200" channel="IndividualcompetitionKlingentalHS140">
-    <title lang="it">Inizia alle 16:30.</title>
-    <desc lang="it">Individual competition | Klingental HS140.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251214163000 +0200" stop="20251214183000 +0200" channel="IndividualcompetitionKlingentalHS140">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Individual competition | Klingental HS140</desc>
-    <category lang="it">Ski Jumping</category>
   </programme>
 </tv>
