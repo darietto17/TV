@@ -1,29 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ScottishOpenRound2">
-    <display-name>Scottish Open | Round 2</display-name>
-  </channel>
-  <programme start="20251217000000 +0200" stop="20251217210000 +0200" channel="ScottishOpenRound2">
-    <title lang="it">Inizia alle 21:00.</title>
-    <desc lang="it">Scottish Open | Round 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251217210000 +0200" stop="20251217230000 +0200" channel="ScottishOpenRound2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Scottish Open | Round 2</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <channel id="EuroleagueWomenPFSchiovsZVVZUSKPraha">
-    <display-name>Euroleague Women : PF Schio vs. ZVVZ USK Praha</display-name>
-  </channel>
-  <programme start="20251217000000 +0200" stop="20251217210000 +0200" channel="EuroleagueWomenPFSchiovsZVVZUSKPraha">
-    <title lang="it">Inizia alle 21:00.</title>
-    <desc lang="it">Euroleague Women : PF Schio vs. ZVVZ USK Praha.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251217210000 +0200" stop="20251217230000 +0200" channel="EuroleagueWomenPFSchiovsZVVZUSKPraha">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Euroleague Women : PF Schio vs. ZVVZ USK Praha</desc>
-    <category lang="it">Basketball</category>
-  </programme>
 </tv>
