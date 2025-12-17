@@ -1,3 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ScottishOpenRound2">
+    <display-name>Scottish Open | Round 2</display-name>
+  </channel>
+  <programme start="20251217000000 +0200" stop="20251217150000 +0200" channel="ScottishOpenRound2">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">Scottish Open | Round 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251217150000 +0200" stop="20251217170000 +0200" channel="ScottishOpenRound2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Scottish Open | Round 2</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <programme start="20251217000000 +0200" stop="20251217170000 +0200" channel="ScottishOpenRound2">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">Scottish Open | Round 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251217170000 +0200" stop="20251217190000 +0200" channel="ScottishOpenRound2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Scottish Open | Round 2</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <programme start="20251217190000 +0200" stop="20251217210000 +0200" channel="ScottishOpenRound2">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Scottish Open | Round 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251217210000 +0200" stop="20251217230000 +0200" channel="ScottishOpenRound2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Scottish Open | Round 2</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <channel id="ValGardenaMensDownhillWorldCupTraining">
+    <display-name>Val Gardena | Men's Downhill World Cup | Training</display-name>
+  </channel>
+  <programme start="20251217000000 +0200" stop="20251217124500 +0200" channel="ValGardenaMensDownhillWorldCupTraining">
+    <title lang="it">Inizia alle 12:45.</title>
+    <desc lang="it">Val Gardena | Men's Downhill World Cup | Training.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251217124500 +0200" stop="20251217144500 +0200" channel="ValGardenaMensDownhillWorldCupTraining">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Val Gardena | Men's Downhill World Cup | Training</desc>
+    <category lang="it">Alpine Ski</category>
+  </programme>
+  <channel id="EuroleagueWomenPFSchiovsZVVZUSKPraha">
+    <display-name>Euroleague Women : PF Schio vs. ZVVZ USK Praha</display-name>
+  </channel>
+  <programme start="20251217000000 +0200" stop="20251217210000 +0200" channel="EuroleagueWomenPFSchiovsZVVZUSKPraha">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Euroleague Women : PF Schio vs. ZVVZ USK Praha.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251217210000 +0200" stop="20251217230000 +0200" channel="EuroleagueWomenPFSchiovsZVVZUSKPraha">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Euroleague Women : PF Schio vs. ZVVZ USK Praha</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <channel id="FreestyleSkiingWorldCupCompetitioninArosa">
+    <display-name>Freestyle Skiing: World Cup Competition in Arosa</display-name>
+  </channel>
+  <programme start="20251217000000 +0200" stop="20251217201500 +0200" channel="FreestyleSkiingWorldCupCompetitioninArosa">
+    <title lang="it">Inizia alle 20:15.</title>
+    <desc lang="it">Freestyle Skiing: World Cup Competition in Arosa.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251217201500 +0200" stop="20251217221500 +0200" channel="FreestyleSkiingWorldCupCompetitioninArosa">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Freestyle Skiing: World Cup Competition in Arosa</desc>
+    <category lang="it">Winter Sports</category>
+  </programme>
 </tv>
