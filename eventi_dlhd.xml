@@ -3,17 +3,7 @@
   <channel id="ScottishOpenRound2">
     <display-name>Scottish Open | Round 2</display-name>
   </channel>
-  <programme start="20251217000000 +0200" stop="20251217170000 +0200" channel="ScottishOpenRound2">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">Scottish Open | Round 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251217170000 +0200" stop="20251217190000 +0200" channel="ScottishOpenRound2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Scottish Open | Round 2</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20251217190000 +0200" stop="20251217210000 +0200" channel="ScottishOpenRound2">
+  <programme start="20251217000000 +0200" stop="20251217210000 +0200" channel="ScottishOpenRound2">
     <title lang="it">Inizia alle 21:00.</title>
     <desc lang="it">Scottish Open | Round 2.</desc>
     <category lang="it">Annuncio</category>
