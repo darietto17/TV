@@ -1,3 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ItalySupercoppaItalianaNapolivsMilan">
+    <display-name>Italy - Supercoppa Italiana : Napoli vs Milan</display-name>
+  </channel>
+  <programme start="20251218000000 +0200" stop="20251218210000 +0200" channel="ItalySupercoppaItalianaNapolivsMilan">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Italy - Supercoppa Italiana : Napoli vs Milan.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251218210000 +0200" stop="20251218230000 +0200" channel="ItalySupercoppaItalianaNapolivsMilan">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Supercoppa Italiana : Napoli vs Milan</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="EuropeUEFAConferenceLeagueRayoVallecanovsDrita">
+    <display-name>Europe - UEFA Conference League : Rayo Vallecano vs Drita</display-name>
+  </channel>
+  <programme start="20251218000000 +0200" stop="20251218220000 +0200" channel="EuropeUEFAConferenceLeagueRayoVallecanovsDrita">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Europe - UEFA Conference League : Rayo Vallecano vs Drita.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251218220000 +0200" stop="20251219000000 +0200" channel="EuropeUEFAConferenceLeagueRayoVallecanovsDrita">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Conference League : Rayo Vallecano vs Drita</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="EuropeUEFAConferenceLeagueLausanneSportvsFiorentina">
+    <display-name>Europe - UEFA Conference League : Lausanne Sport vs Fiorentina</display-name>
+  </channel>
+  <programme start="20251218000000 +0200" stop="20251218220000 +0200" channel="EuropeUEFAConferenceLeagueLausanneSportvsFiorentina">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Europe - UEFA Conference League : Lausanne Sport vs Fiorentina.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251218220000 +0200" stop="20251219000000 +0200" channel="EuropeUEFAConferenceLeagueLausanneSportvsFiorentina">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Conference League : Lausanne Sport vs Fiorentina</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20251218000000 +0200" stop="20251218220000 +0200" channel="EuropeUEFAConferenceLeagueLausanneSportvsFiorentina">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Europe - UEFA Conference League : Lausanne Sport vs Fiorentina.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251218220000 +0200" stop="20251219000000 +0200" channel="EuropeUEFAConferenceLeagueLausanneSportvsFiorentina">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Conference League : Lausanne Sport vs Fiorentina</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ScottishOpenRound3">
+    <display-name>Scottish Open | Round 3</display-name>
+  </channel>
+  <programme start="20251218000000 +0200" stop="20251218150000 +0200" channel="ScottishOpenRound3">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">Scottish Open | Round 3.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251218150000 +0200" stop="20251218170000 +0200" channel="ScottishOpenRound3">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Scottish Open | Round 3</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <programme start="20251218170000 +0200" stop="20251218210000 +0200" channel="ScottishOpenRound3">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Scottish Open | Round 3.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251218210000 +0200" stop="20251218230000 +0200" channel="ScottishOpenRound3">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Scottish Open | Round 3</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <channel id="ValGardenaMensDownhillWorldCup">
+    <display-name>Val Gardena | Men's Downhill World Cup</display-name>
+  </channel>
+  <programme start="20251218000000 +0200" stop="20251218123000 +0200" channel="ValGardenaMensDownhillWorldCup">
+    <title lang="it">Inizia alle 12:30.</title>
+    <desc lang="it">Val Gardena | Men's Downhill World Cup.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251218123000 +0200" stop="20251218143000 +0200" channel="ValGardenaMensDownhillWorldCup">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Val Gardena | Men's Downhill World Cup</desc>
+    <category lang="it">Alpine Ski</category>
+  </programme>
+  <channel id="LeGrandBornandSprintWorldCupWomen">
+    <display-name>Le Grand Bornand | Sprint World Cup | Women</display-name>
+  </channel>
+  <programme start="20251218000000 +0200" stop="20251218150000 +0200" channel="LeGrandBornandSprintWorldCupWomen">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">Le Grand Bornand | Sprint World Cup | Women.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251218150000 +0200" stop="20251218170000 +0200" channel="LeGrandBornandSprintWorldCupWomen">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Le Grand Bornand | Sprint World Cup | Women</desc>
+    <category lang="it">Biathlon</category>
+  </programme>
+  <channel id="FIVBClubWorldChampionshipsSadaCruzeirovsPerugia">
+    <display-name>FIVB Club World Championships : Sada Cruzeiro vs Perugia</display-name>
+  </channel>
+  <programme start="20251218000000 +0200" stop="20251218150000 +0200" channel="FIVBClubWorldChampionshipsSadaCruzeirovsPerugia">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">FIVB Club World Championships : Sada Cruzeiro vs Perugia.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251218150000 +0200" stop="20251218170000 +0200" channel="FIVBClubWorldChampionshipsSadaCruzeirovsPerugia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">FIVB Club World Championships : Sada Cruzeiro vs Perugia</desc>
+    <category lang="it">Volleyball</category>
+  </programme>
+  <channel id="CarezzaParallelGiantSlalomWorldCup">
+    <display-name>Carezza | Parallel Giant Slalom World Cup</display-name>
+  </channel>
+  <programme start="20251218000000 +0200" stop="20251218131500 +0200" channel="CarezzaParallelGiantSlalomWorldCup">
+    <title lang="it">Inizia alle 13:15.</title>
+    <desc lang="it">Carezza | Parallel Giant Slalom World Cup.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251218131500 +0200" stop="20251218151500 +0200" channel="CarezzaParallelGiantSlalomWorldCup">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Carezza | Parallel Giant Slalom World Cup</desc>
+    <category lang="it">Winter Sports</category>
+  </programme>
 </tv>
