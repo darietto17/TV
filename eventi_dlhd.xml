@@ -52,17 +52,7 @@
   <channel id="ScottishOpenRound3">
     <display-name>Scottish Open | Round 3</display-name>
   </channel>
-  <programme start="20251218000000 +0200" stop="20251218150000 +0200" channel="ScottishOpenRound3">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">Scottish Open | Round 3.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251218150000 +0200" stop="20251218170000 +0200" channel="ScottishOpenRound3">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Scottish Open | Round 3</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20251218170000 +0200" stop="20251218210000 +0200" channel="ScottishOpenRound3">
+  <programme start="20251218000000 +0200" stop="20251218210000 +0200" channel="ScottishOpenRound3">
     <title lang="it">Inizia alle 21:00.</title>
     <desc lang="it">Scottish Open | Round 3.</desc>
     <category lang="it">Annuncio</category>
@@ -71,31 +61,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Scottish Open | Round 3</desc>
     <category lang="it">Snooker</category>
-  </programme>
-  <channel id="LeGrandBornandSprintWorldCupWomen">
-    <display-name>Le Grand Bornand | Sprint World Cup | Women</display-name>
-  </channel>
-  <programme start="20251218000000 +0200" stop="20251218150000 +0200" channel="LeGrandBornandSprintWorldCupWomen">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">Le Grand Bornand | Sprint World Cup | Women.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251218150000 +0200" stop="20251218170000 +0200" channel="LeGrandBornandSprintWorldCupWomen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Le Grand Bornand | Sprint World Cup | Women</desc>
-    <category lang="it">Biathlon</category>
-  </programme>
-  <channel id="FIVBClubWorldChampionshipsSadaCruzeirovsPerugia">
-    <display-name>FIVB Club World Championships : Sada Cruzeiro vs Perugia</display-name>
-  </channel>
-  <programme start="20251218000000 +0200" stop="20251218150000 +0200" channel="FIVBClubWorldChampionshipsSadaCruzeirovsPerugia">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">FIVB Club World Championships : Sada Cruzeiro vs Perugia.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251218150000 +0200" stop="20251218170000 +0200" channel="FIVBClubWorldChampionshipsSadaCruzeirovsPerugia">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIVB Club World Championships : Sada Cruzeiro vs Perugia</desc>
-    <category lang="it">Volleyball</category>
   </programme>
 </tv>
