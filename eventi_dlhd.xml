@@ -1,3 +1,202 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ItalySupercoppaItalianaBolognavsInternazionale">
+    <display-name>Italy - Supercoppa Italiana : Bologna vs Internazionale</display-name>
+  </channel>
+  <programme start="20251219000000 +0200" stop="20251219210000 +0200" channel="ItalySupercoppaItalianaBolognavsInternazionale">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Italy - Supercoppa Italiana : Bologna vs Internazionale.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251219210000 +0200" stop="20251219230000 +0200" channel="ItalySupercoppaItalianaBolognavsInternazionale">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Supercoppa Italiana : Bologna vs Internazionale</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="GermanyBundesligaBorussiaDortmundvsBorussiaMgladbach">
+    <display-name>Germany - Bundesliga : Borussia Dortmund vs Borussia M'gladbach</display-name>
+  </channel>
+  <programme start="20251219000000 +0200" stop="20251219213000 +0200" channel="GermanyBundesligaBorussiaDortmundvsBorussiaMgladbach">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Germany - Bundesliga : Borussia Dortmund vs Borussia M'gladbach.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251219213000 +0200" stop="20251219233000 +0200" channel="GermanyBundesligaBorussiaDortmundvsBorussiaMgladbach">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Germany - Bundesliga : Borussia Dortmund vs Borussia M'gladbach</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="ItalySerieCAudaceCerignolavsBenevento">
+    <display-name>Italy - Serie C : Audace Cerignola vs Benevento</display-name>
+  </channel>
+  <programme start="20251219000000 +0200" stop="20251219213000 +0200" channel="ItalySerieCAudaceCerignolavsBenevento">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Audace Cerignola vs Benevento.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251219213000 +0200" stop="20251219233000 +0200" channel="ItalySerieCAudaceCerignolavsBenevento">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Audace Cerignola vs Benevento</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <programme start="20251219000000 +0200" stop="20251219213000 +0200" channel="ItalySerieCAudaceCerignolavsBenevento">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Audace Cerignola vs Benevento.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251219213000 +0200" stop="20251219233000 +0200" channel="ItalySerieCAudaceCerignolavsBenevento">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Audace Cerignola vs Benevento</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="ItalySerieCCosenzavsCavese">
+    <display-name>Italy - Serie C : Cosenza vs Cavese</display-name>
+  </channel>
+  <programme start="20251219000000 +0200" stop="20251219213000 +0200" channel="ItalySerieCCosenzavsCavese">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Cosenza vs Cavese.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251219213000 +0200" stop="20251219233000 +0200" channel="ItalySerieCCosenzavsCavese">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Cosenza vs Cavese</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <programme start="20251219000000 +0200" stop="20251219213000 +0200" channel="ItalySerieCCosenzavsCavese">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Cosenza vs Cavese.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251219213000 +0200" stop="20251219233000 +0200" channel="ItalySerieCCosenzavsCavese">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Cosenza vs Cavese</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="ItalySerieCGiuglianovsCasertana">
+    <display-name>Italy - Serie C : Giugliano vs Casertana</display-name>
+  </channel>
+  <programme start="20251219000000 +0200" stop="20251219213000 +0200" channel="ItalySerieCGiuglianovsCasertana">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Giugliano vs Casertana.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251219213000 +0200" stop="20251219233000 +0200" channel="ItalySerieCGiuglianovsCasertana">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Giugliano vs Casertana</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="ScottishOpenQuarterFinal">
+    <display-name>Scottish Open | Quarter-Final</display-name>
+  </channel>
+  <programme start="20251219000000 +0200" stop="20251219150000 +0200" channel="ScottishOpenQuarterFinal">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">Scottish Open | Quarter-Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251219150000 +0200" stop="20251219170000 +0200" channel="ScottishOpenQuarterFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Scottish Open | Quarter-Final</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <programme start="20251219170000 +0200" stop="20251219210000 +0200" channel="ScottishOpenQuarterFinal">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Scottish Open | Quarter-Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251219210000 +0200" stop="20251219230000 +0200" channel="ScottishOpenQuarterFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Scottish Open | Quarter-Final</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <channel id="ValGardenaTheManSuperGWorldCup">
+    <display-name>Val Gardena | The Man Super-G World Cup</display-name>
+  </channel>
+  <programme start="20251219000000 +0200" stop="20251219123000 +0200" channel="ValGardenaTheManSuperGWorldCup">
+    <title lang="it">Inizia alle 12:30.</title>
+    <desc lang="it">Val Gardena | The Man Super-G World Cup.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251219123000 +0200" stop="20251219143000 +0200" channel="ValGardenaTheManSuperGWorldCup">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Val Gardena | The Man Super-G World Cup</desc>
+    <category lang="it">Alpine Ski</category>
+  </programme>
+  <channel id="SerieA2LibertasLivornovsMestre">
+    <display-name>Serie A2 : Libertas Livorno vs Mestre</display-name>
+  </channel>
+  <programme start="20251219000000 +0200" stop="20251219213000 +0200" channel="SerieA2LibertasLivornovsMestre">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Serie A2 : Libertas Livorno vs Mestre.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251219213000 +0200" stop="20251219233000 +0200" channel="SerieA2LibertasLivornovsMestre">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Serie A2 : Libertas Livorno vs Mestre</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <channel id="WorldCupDavosMens10kmFreestyle">
+    <display-name>World Cup - Davos: Men's 10 km - Freestyle</display-name>
+  </channel>
+  <programme start="20251219000000 +0200" stop="20251219103000 +0200" channel="WorldCupDavosMens10kmFreestyle">
+    <title lang="it">Inizia alle 10:30.</title>
+    <desc lang="it">World Cup - Davos: Men's 10 km - Freestyle.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251219103000 +0200" stop="20251219123000 +0200" channel="WorldCupDavosMens10kmFreestyle">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Cup - Davos: Men's 10 km - Freestyle</desc>
+    <category lang="it">Cross Country</category>
+  </programme>
+  <channel id="EngelbergMensHS140WorldCupQualifyingDay1">
+    <display-name>Engelberg | Men's HS 140 World Cup | Qualifying | Day 1</display-name>
+  </channel>
+  <programme start="20251219000000 +0200" stop="20251219164000 +0200" channel="EngelbergMensHS140WorldCupQualifyingDay1">
+    <title lang="it">Inizia alle 16:40.</title>
+    <desc lang="it">Engelberg | Men's HS 140 World Cup | Qualifying | Day 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251219164000 +0200" stop="20251219184000 +0200" channel="EngelbergMensHS140WorldCupQualifyingDay1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Engelberg | Men's HS 140 World Cup | Qualifying | Day 1</desc>
+    <category lang="it">Ski Jumping</category>
+  </programme>
+  <channel id="RamsauWomens5kmMassStartWorldCup">
+    <display-name>Ramsau | Women's 5km Mass Start World Cup</display-name>
+  </channel>
+  <programme start="20251219000000 +0200" stop="20251219110000 +0200" channel="RamsauWomens5kmMassStartWorldCup">
+    <title lang="it">Inizia alle 11:00.</title>
+    <desc lang="it">Ramsau | Women's 5km Mass Start World Cup.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251219110000 +0200" stop="20251219130000 +0200" channel="RamsauWomens5kmMassStartWorldCup">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Ramsau | Women's 5km Mass Start World Cup</desc>
+    <category lang="it">Winter Sports</category>
+  </programme>
+  <channel id="RamsauMens10kmMassStartWorldCup">
+    <display-name>Ramsau | Men's 10km Mass Start World Cup</display-name>
+  </channel>
+  <programme start="20251219000000 +0200" stop="20251219114500 +0200" channel="RamsauMens10kmMassStartWorldCup">
+    <title lang="it">Inizia alle 11:45.</title>
+    <desc lang="it">Ramsau | Men's 10km Mass Start World Cup.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251219114500 +0200" stop="20251219134500 +0200" channel="RamsauMens10kmMassStartWorldCup">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Ramsau | Men's 10km Mass Start World Cup</desc>
+    <category lang="it">Winter Sports</category>
+  </programme>
+  <channel id="RamsauWomensHS98WorldCupDay1">
+    <display-name>Ramsau | Women's HS 98 World Cup | Day 1</display-name>
+  </channel>
+  <programme start="20251219000000 +0200" stop="20251219131500 +0200" channel="RamsauWomensHS98WorldCupDay1">
+    <title lang="it">Inizia alle 13:15.</title>
+    <desc lang="it">Ramsau | Women's HS 98 World Cup | Day 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251219131500 +0200" stop="20251219151500 +0200" channel="RamsauWomensHS98WorldCupDay1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Ramsau | Women's HS 98 World Cup | Day 1</desc>
+    <category lang="it">Winter Sports</category>
+  </programme>
 </tv>
