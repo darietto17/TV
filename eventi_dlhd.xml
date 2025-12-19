@@ -88,17 +88,7 @@
   <channel id="ScottishOpenQuarterFinal">
     <display-name>Scottish Open | Quarter-Final</display-name>
   </channel>
-  <programme start="20251219000000 +0200" stop="20251219150000 +0200" channel="ScottishOpenQuarterFinal">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">Scottish Open | Quarter-Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251219150000 +0200" stop="20251219170000 +0200" channel="ScottishOpenQuarterFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Scottish Open | Quarter-Final</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20251219170000 +0200" stop="20251219210000 +0200" channel="ScottishOpenQuarterFinal">
+  <programme start="20251219000000 +0200" stop="20251219210000 +0200" channel="ScottishOpenQuarterFinal">
     <title lang="it">Inizia alle 21:00.</title>
     <desc lang="it">Scottish Open | Quarter-Final.</desc>
     <category lang="it">Annuncio</category>
