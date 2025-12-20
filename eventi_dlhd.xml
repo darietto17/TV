@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="EnglandPremierLeagueManchesterCityvsWestHamUnited">
-    <display-name>England - Premier League : Manchester City vs West Ham United</display-name>
-  </channel>
-  <programme start="20251220000000 +0200" stop="20251220170000 +0200" channel="EnglandPremierLeagueManchesterCityvsWestHamUnited">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">England - Premier League : Manchester City vs West Ham United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251220170000 +0200" stop="20251220190000 +0200" channel="EnglandPremierLeagueManchesterCityvsWestHamUnited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Manchester City vs West Ham United</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalySerieCProPatriavsRenate">
     <display-name>Italy - Serie C : Pro Patria vs Renate</display-name>
   </channel>
@@ -185,32 +172,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Scottish Open | Semi-Final</desc>
     <category lang="it">Snooker</category>
-  </programme>
-  <channel id="UnitedRugbyChampionshipSharksvsBulls">
-    <display-name>United Rugby Championship : Sharks vs Bulls</display-name>
-  </channel>
-  <programme start="20251220000000 +0200" stop="20251220180000 +0200" channel="UnitedRugbyChampionshipSharksvsBulls">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">United Rugby Championship : Sharks vs Bulls.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251220180000 +0200" stop="20251220200000 +0200" channel="UnitedRugbyChampionshipSharksvsBulls">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">United Rugby Championship : Sharks vs Bulls</desc>
-    <category lang="it">Rugby Union</category>
-  </programme>
-  <channel id="EngelbergMensHS140WorldCupDay1">
-    <display-name>Engelberg | Men's HS 140 World Cup | Day 1</display-name>
-  </channel>
-  <programme start="20251220000000 +0200" stop="20251220170000 +0200" channel="EngelbergMensHS140WorldCupDay1">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">Engelberg | Men's HS 140 World Cup | Day 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251220170000 +0200" stop="20251220190000 +0200" channel="EngelbergMensHS140WorldCupDay1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Engelberg | Men's HS 140 World Cup | Day 1</desc>
-    <category lang="it">Ski Jumping</category>
   </programme>
   <channel id="ItalySuperLegaGasSalesPiacenzavsVolleyVerona">
     <display-name>Italy, SuperLega : Gas Sales Piacenza vs. Volley Verona</display-name>
