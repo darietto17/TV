@@ -297,19 +297,6 @@
     <desc lang="it">Scottish Open | Semi-Final</desc>
     <category lang="it">Snooker</category>
   </programme>
-  <channel id="IBUWorldCupLeGrandBornandWomen10kmPursuitCompetition">
-    <display-name>IBU World Cup Le Grand Bornand | Women 10 km Pursuit Competition</display-name>
-  </channel>
-  <programme start="20251220000000 +0200" stop="20251220130000 +0200" channel="IBUWorldCupLeGrandBornandWomen10kmPursuitCompetition">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">IBU World Cup Le Grand Bornand | Women 10 km Pursuit Competition.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251220130000 +0200" stop="20251220150000 +0200" channel="IBUWorldCupLeGrandBornandWomen10kmPursuitCompetition">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">IBU World Cup Le Grand Bornand | Women 10 km Pursuit Competition</desc>
-    <category lang="it">Biathlon</category>
-  </programme>
   <channel id="IBUWorldCupLeGrandBornandMen125kmPursuitCompetition">
     <display-name>IBU World Cup Le Grand Bornand | Men 12.5 km Pursuit Competition</display-name>
   </channel>
@@ -374,19 +361,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">United Rugby Championship : Sharks vs Bulls</desc>
     <category lang="it">Rugby Union</category>
-  </programme>
-  <channel id="EngelbergWomensHS140WorldCupDay1">
-    <display-name>Engelberg | Women's HS 140 World Cup | Day 1</display-name>
-  </channel>
-  <programme start="20251220000000 +0200" stop="20251220140000 +0200" channel="EngelbergWomensHS140WorldCupDay1">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Engelberg | Women's HS 140 World Cup | Day 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251220140000 +0200" stop="20251220160000 +0200" channel="EngelbergWomensHS140WorldCupDay1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Engelberg | Women's HS 140 World Cup | Day 1</desc>
-    <category lang="it">Ski Jumping</category>
   </programme>
   <channel id="EngelbergMensHS140WorldCupDay1">
     <display-name>Engelberg | Men's HS 140 World Cup | Day 1</display-name>
