@@ -1,88 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieCVirtusCasaranovsTeamAltamura">
-    <display-name>Italy - Serie C : Virtus Casarano vs Team Altamura</display-name>
+  <channel id="ItalySupercoppaItalianaFinalNapolivsBologna">
+    <display-name>Italy - Supercoppa Italiana Final : Napoli vs Bologna</display-name>
   </channel>
-  <programme start="20251221000000 +0200" stop="20251221213000 +0200" channel="ItalySerieCVirtusCasaranovsTeamAltamura">
+  <programme start="20251222000000 +0200" stop="20251222210000 +0200" channel="ItalySupercoppaItalianaFinalNapolivsBologna">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Italy - Supercoppa Italiana Final : Napoli vs Bologna.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251222210000 +0200" stop="20251222230000 +0200" channel="ItalySupercoppaItalianaFinalNapolivsBologna">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Supercoppa Italiana Final : Napoli vs Bologna</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCUnionBresciavsInterII">
+    <display-name>Italy - Serie C : Union Brescia vs Inter II</display-name>
+  </channel>
+  <programme start="20251222000000 +0200" stop="20251222213000 +0200" channel="ItalySerieCUnionBresciavsInterII">
     <title lang="it">Inizia alle 21:30.</title>
-    <desc lang="it">Italy - Serie C : Virtus Casarano vs Team Altamura.</desc>
+    <desc lang="it">Italy - Serie C : Union Brescia vs Inter II.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20251221213000 +0200" stop="20251221233000 +0200" channel="ItalySerieCVirtusCasaranovsTeamAltamura">
+  <programme start="20251222213000 +0200" stop="20251222233000 +0200" channel="ItalySerieCUnionBresciavsInterII">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Virtus Casarano vs Team Altamura</desc>
-    <category lang="it">All Soccer Events</category>
+    <desc lang="it">Italy - Serie C : Union Brescia vs Inter II</desc>
+    <category lang="it">Soccer</category>
   </programme>
-  <programme start="20251221000000 +0200" stop="20251221213000 +0200" channel="ItalySerieCVirtusCasaranovsTeamAltamura">
+  <programme start="20251222000000 +0200" stop="20251222213000 +0200" channel="ItalySerieCUnionBresciavsInterII">
     <title lang="it">Inizia alle 21:30.</title>
-    <desc lang="it">Italy - Serie C : Virtus Casarano vs Team Altamura.</desc>
+    <desc lang="it">Italy - Serie C : Union Brescia vs Inter II.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20251221213000 +0200" stop="20251221233000 +0200" channel="ItalySerieCVirtusCasaranovsTeamAltamura">
+  <programme start="20251222213000 +0200" stop="20251222233000 +0200" channel="ItalySerieCUnionBresciavsInterII">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Virtus Casarano vs Team Altamura</desc>
-    <category lang="it">All Soccer Events</category>
+    <desc lang="it">Italy - Serie C : Union Brescia vs Inter II</desc>
+    <category lang="it">Soccer</category>
   </programme>
-  <channel id="ItalySerieCSiracusavsTrapani1905">
-    <display-name>Italy - Serie C : Siracusa vs Trapani 1905</display-name>
-  </channel>
-  <programme start="20251221000000 +0200" stop="20251221213000 +0200" channel="ItalySerieCSiracusavsTrapani1905">
+  <programme start="20251222000000 +0200" stop="20251222213000 +0200" channel="ItalySerieCUnionBresciavsInterII">
     <title lang="it">Inizia alle 21:30.</title>
-    <desc lang="it">Italy - Serie C : Siracusa vs Trapani 1905.</desc>
+    <desc lang="it">Italy - Serie C : Union Brescia vs Inter II.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20251221213000 +0200" stop="20251221233000 +0200" channel="ItalySerieCSiracusavsTrapani1905">
+  <programme start="20251222213000 +0200" stop="20251222233000 +0200" channel="ItalySerieCUnionBresciavsInterII">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Siracusa vs Trapani 1905</desc>
-    <category lang="it">All Soccer Events</category>
+    <desc lang="it">Italy - Serie C : Union Brescia vs Inter II</desc>
+    <category lang="it">Soccer</category>
   </programme>
-  <programme start="20251221000000 +0200" stop="20251221213000 +0200" channel="ItalySerieCSiracusavsTrapani1905">
-    <title lang="it">Inizia alle 21:30.</title>
-    <desc lang="it">Italy - Serie C : Siracusa vs Trapani 1905.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251221213000 +0200" stop="20251221233000 +0200" channel="ItalySerieCSiracusavsTrapani1905">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Siracusa vs Trapani 1905</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieAGenoavsAtalanta">
-    <display-name>Italy - Serie A : Genoa vs Atalanta</display-name>
+  <channel id="EnglandPremierLeagueFulhamvsNottinghamForest">
+    <display-name>England - Premier League : Fulham vs Nottingham Forest</display-name>
   </channel>
-  <programme start="20251221000000 +0200" stop="20251221214500 +0200" channel="ItalySerieAGenoavsAtalanta">
-    <title lang="it">Inizia alle 21:45.</title>
-    <desc lang="it">Italy - Serie A : Genoa vs Atalanta.</desc>
+  <programme start="20251222000000 +0200" stop="20251222220000 +0200" channel="EnglandPremierLeagueFulhamvsNottinghamForest">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">England - Premier League : Fulham vs Nottingham Forest.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20251221214500 +0200" stop="20251221234500 +0200" channel="ItalySerieAGenoavsAtalanta">
+  <programme start="20251222220000 +0200" stop="20251223000000 +0200" channel="EnglandPremierLeagueFulhamvsNottinghamForest">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Genoa vs Atalanta</desc>
-    <category lang="it">All Soccer Events</category>
+    <desc lang="it">England - Premier League : Fulham vs Nottingham Forest</desc>
+    <category lang="it">Soccer</category>
   </programme>
-  <channel id="ScottishOpenFinal">
-    <display-name>Scottish Open | Final</display-name>
+  <channel id="SpainLaLigaAthleticClubvsEspanyol">
+    <display-name>Spain - La Liga : Athletic Club vs Espanyol</display-name>
   </channel>
-  <programme start="20251221000000 +0200" stop="20251221204500 +0200" channel="ScottishOpenFinal">
-    <title lang="it">Inizia alle 20:45.</title>
-    <desc lang="it">Scottish Open | Final.</desc>
+  <programme start="20251222000000 +0200" stop="20251222220000 +0200" channel="SpainLaLigaAthleticClubvsEspanyol">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Spain - La Liga : Athletic Club vs Espanyol.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20251221204500 +0200" stop="20251221224500 +0200" channel="ScottishOpenFinal">
+  <programme start="20251222220000 +0200" stop="20251223000000 +0200" channel="SpainLaLigaAthleticClubvsEspanyol">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Scottish Open | Final</desc>
-    <category lang="it">Snooker</category>
+    <desc lang="it">Spain - La Liga : Athletic Club vs Espanyol</desc>
+    <category lang="it">Soccer</category>
   </programme>
-  <channel id="Top14BordeauxBeglesvsToulon">
-    <display-name>Top 14 : Bordeaux Begles vs Toulon</display-name>
+  <channel id="AltaBadiaMensSlalomWorldCupRun1">
+    <display-name>Alta Badia | Men's Slalom World Cup | Run 1</display-name>
   </channel>
-  <programme start="20251221000000 +0200" stop="20251221220500 +0200" channel="Top14BordeauxBeglesvsToulon">
-    <title lang="it">Inizia alle 22:05.</title>
-    <desc lang="it">Top 14 : Bordeaux Begles vs Toulon.</desc>
+  <programme start="20251222000000 +0200" stop="20251222104500 +0200" channel="AltaBadiaMensSlalomWorldCupRun1">
+    <title lang="it">Inizia alle 10:45.</title>
+    <desc lang="it">Alta Badia | Men's Slalom World Cup | Run 1.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20251221220500 +0200" stop="20251222000500 +0200" channel="Top14BordeauxBeglesvsToulon">
+  <programme start="20251222104500 +0200" stop="20251222124500 +0200" channel="AltaBadiaMensSlalomWorldCupRun1">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Top 14 : Bordeaux Begles vs Toulon</desc>
-    <category lang="it">Rugby Union</category>
+    <desc lang="it">Alta Badia | Men's Slalom World Cup | Run 1</desc>
+    <category lang="it">Alpine Ski</category>
+  </programme>
+  <channel id="AltaBadiaMensSlalomWorldCupRun2">
+    <display-name>Alta Badia | Men's Slalom World Cup | Run 2</display-name>
+  </channel>
+  <programme start="20251222000000 +0200" stop="20251222140500 +0200" channel="AltaBadiaMensSlalomWorldCupRun2">
+    <title lang="it">Inizia alle 14:05.</title>
+    <desc lang="it">Alta Badia | Men's Slalom World Cup | Run 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251222140500 +0200" stop="20251222160500 +0200" channel="AltaBadiaMensSlalomWorldCupRun2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Alta Badia | Men's Slalom World Cup | Run 2</desc>
+    <category lang="it">Alpine Ski</category>
+  </programme>
+  <channel id="X2OPlageCrossXOBadkamersTrophy">
+    <display-name>X2O Plage Cross X?O Badkamers Trophy</display-name>
+  </channel>
+  <programme start="20251222000000 +0200" stop="20251222144000 +0200" channel="X2OPlageCrossXOBadkamersTrophy">
+    <title lang="it">Inizia alle 14:40.</title>
+    <desc lang="it">X2O Plage Cross X?O Badkamers Trophy.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251222144000 +0200" stop="20251222164000 +0200" channel="X2OPlageCrossXOBadkamersTrophy">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">X2O Plage Cross X?O Badkamers Trophy</desc>
+    <category lang="it">Cycling</category>
   </programme>
 </tv>
