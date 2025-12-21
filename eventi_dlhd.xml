@@ -1,64 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieACagliarivsPisa">
-    <display-name>Italy - Serie A : Cagliari vs Pisa</display-name>
-  </channel>
-  <programme start="20251221000000 +0200" stop="20251221133000 +0200" channel="ItalySerieACagliarivsPisa">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie A : Cagliari vs Pisa.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251221133000 +0200" stop="20251221153000 +0200" channel="ItalySerieACagliarivsPisa">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Cagliari vs Pisa</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCAscolivsCampobasso">
-    <display-name>Italy - Serie C : Ascoli vs Campobasso</display-name>
-  </channel>
-  <programme start="20251221000000 +0200" stop="20251221133000 +0200" channel="ItalySerieCAscolivsCampobasso">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie C : Ascoli vs Campobasso.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251221133000 +0200" stop="20251221153000 +0200" channel="ItalySerieCAscolivsCampobasso">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Ascoli vs Campobasso</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20251221000000 +0200" stop="20251221133000 +0200" channel="ItalySerieCAscolivsCampobasso">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie C : Ascoli vs Campobasso.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251221133000 +0200" stop="20251221153000 +0200" channel="ItalySerieCAscolivsCampobasso">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Ascoli vs Campobasso</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCBravsJuventusII">
-    <display-name>Italy - Serie C : Bra vs Juventus II</display-name>
-  </channel>
-  <programme start="20251221000000 +0200" stop="20251221133000 +0200" channel="ItalySerieCBravsJuventusII">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie C : Bra vs Juventus II.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251221133000 +0200" stop="20251221153000 +0200" channel="ItalySerieCBravsJuventusII">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Bra vs Juventus II</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20251221000000 +0200" stop="20251221133000 +0200" channel="ItalySerieCBravsJuventusII">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie C : Bra vs Juventus II.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251221133000 +0200" stop="20251221153000 +0200" channel="ItalySerieCBravsJuventusII">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Bra vs Juventus II</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalySerieCProVercellivsUnionArzignanoChiampo">
     <display-name>Italy - Serie C : Pro Vercelli vs Union ArzignanoChiampo</display-name>
   </channel>
@@ -386,19 +327,6 @@
     <desc lang="it">Scottish Open | Final</desc>
     <category lang="it">Snooker</category>
   </programme>
-  <channel id="WorldCupCompetitioninAltaBadia2ndrunofmensgiantslalom">
-    <display-name>World Cup Competition in Alta Badia 2nd run of men's giant slalom</display-name>
-  </channel>
-  <programme start="20251221000000 +0200" stop="20251221140000 +0200" channel="WorldCupCompetitioninAltaBadia2ndrunofmensgiantslalom">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">World Cup Competition in Alta Badia 2nd run of men's giant slalom.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251221140000 +0200" stop="20251221160000 +0200" channel="WorldCupCompetitioninAltaBadia2ndrunofmensgiantslalom">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Competition in Alta Badia 2nd run of men's giant slalom</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
   <channel id="IBUWorldCupLeGrandBornandMen15kmMassStartCompetition">
     <display-name>IBU World Cup Le Grand Bornand | Men 15 km Mass Start Competition</display-name>
   </channel>
@@ -476,18 +404,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Individual competiton | Engelberg HS140</desc>
     <category lang="it">Ski Jumping</category>
-  </programme>
-  <channel id="InnichenSkiCrossWorldCupDay2">
-    <display-name>Innichen | Ski Cross World Cup | Day 2</display-name>
-  </channel>
-  <programme start="20251221000000 +0200" stop="20251221130000 +0200" channel="InnichenSkiCrossWorldCupDay2">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Innichen | Ski Cross World Cup | Day 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251221130000 +0200" stop="20251221150000 +0200" channel="InnichenSkiCrossWorldCupDay2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Innichen | Ski Cross World Cup | Day 2</desc>
-    <category lang="it">Winter Sports</category>
   </programme>
 </tv>
