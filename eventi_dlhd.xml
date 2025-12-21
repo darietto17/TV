@@ -1,28 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieAFiorentinavsUdinese">
-    <display-name>Italy - Serie A : Fiorentina vs Udinese</display-name>
-  </channel>
-  <programme start="20251221000000 +0200" stop="20251221190000 +0200" channel="ItalySerieAFiorentinavsUdinese">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">Italy - Serie A : Fiorentina vs Udinese.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251221190000 +0200" stop="20251221210000 +0200" channel="ItalySerieAFiorentinavsUdinese">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Fiorentina vs Udinese</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20251221000000 +0200" stop="20251221190000 +0200" channel="ItalySerieAFiorentinavsUdinese">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">Italy - Serie A : Fiorentina vs Udinese.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251221190000 +0200" stop="20251221210000 +0200" channel="ItalySerieAFiorentinavsUdinese">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Fiorentina vs Udinese</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalySerieCVirtusCasaranovsTeamAltamura">
     <display-name>Italy - Serie C : Virtus Casarano vs Team Altamura</display-name>
   </channel>
