@@ -1,44 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="EnglandPremierLeagueNottinghamForestvsManchesterCity">
-    <display-name>England - Premier League : Nottingham Forest vs Manchester City</display-name>
-  </channel>
-  <programme start="20251227000000 +0200" stop="20251227143000 +0200" channel="EnglandPremierLeagueNottinghamForestvsManchesterCity">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">England - Premier League : Nottingham Forest vs Manchester City.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251227143000 +0200" stop="20251227163000 +0200" channel="EnglandPremierLeagueNottinghamForestvsManchesterCity">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Nottingham Forest vs Manchester City</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieALeccevsComo">
-    <display-name>Italy - Serie A : Lecce vs Como</display-name>
-  </channel>
-  <programme start="20251227000000 +0200" stop="20251227160000 +0200" channel="ItalySerieALeccevsComo">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Como.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251227160000 +0200" stop="20251227180000 +0200" channel="ItalySerieALeccevsComo">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Como</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieATorinovsCagliari">
-    <display-name>Italy - Serie A : Torino vs Cagliari</display-name>
-  </channel>
-  <programme start="20251227000000 +0200" stop="20251227160000 +0200" channel="ItalySerieATorinovsCagliari">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Italy - Serie A : Torino vs Cagliari.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251227160000 +0200" stop="20251227180000 +0200" channel="ItalySerieATorinovsCagliari">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Torino vs Cagliari</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="EnglandPremierLeagueBrentfordvsAFCBournemouth">
     <display-name>England - Premier League : Brentford vs AFC Bournemouth</display-name>
   </channel>
