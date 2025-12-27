@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieAParmavsFiorentina">
-    <display-name>Italy - Serie A : Parma vs Fiorentina</display-name>
-  </channel>
-  <programme start="20251227000000 +0200" stop="20251227133000 +0200" channel="ItalySerieAParmavsFiorentina">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie A : Parma vs Fiorentina.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251227133000 +0200" stop="20251227153000 +0200" channel="ItalySerieAParmavsFiorentina">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Parma vs Fiorentina</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="EnglandPremierLeagueNottinghamForestvsManchesterCity">
     <display-name>England - Premier League : Nottingham Forest vs Manchester City</display-name>
   </channel>
@@ -159,19 +146,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Serie A : Pisa vs Juventus</desc>
     <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="SemmeringWomensGiantSlalomWorldCupRun2">
-    <display-name>Semmering | Women's Giant Slalom World Cup | Run 2</display-name>
-  </channel>
-  <programme start="20251227000000 +0200" stop="20251227140000 +0200" channel="SemmeringWomensGiantSlalomWorldCupRun2">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Semmering | Women's Giant Slalom World Cup | Run 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251227140000 +0200" stop="20251227160000 +0200" channel="SemmeringWomensGiantSlalomWorldCupRun2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Semmering | Women's Giant Slalom World Cup | Run 2</desc>
-    <category lang="it">Alpine Ski</category>
   </programme>
   <channel id="UnitedRugbyChampionshipZebrevsTreviso">
     <display-name>United Rugby Championship : Zebre vs Treviso</display-name>
