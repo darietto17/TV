@@ -1,31 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="EnglandPremierLeagueSunderlandvsLeedsUnited">
-    <display-name>England - Premier League : Sunderland vs Leeds United</display-name>
-  </channel>
-  <programme start="20251228000000 +0200" stop="20251228160000 +0200" channel="EnglandPremierLeagueSunderlandvsLeedsUnited">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">England - Premier League : Sunderland vs Leeds United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251228160000 +0200" stop="20251228180000 +0200" channel="EnglandPremierLeagueSunderlandvsLeedsUnited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Sunderland vs Leeds United</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="ItalySerieACremonesevsNapoli">
-    <display-name>Italy - Serie A : Cremonese vs Napoli</display-name>
-  </channel>
-  <programme start="20251228000000 +0200" stop="20251228160000 +0200" channel="ItalySerieACremonesevsNapoli">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Italy - Serie A : Cremonese vs Napoli.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251228160000 +0200" stop="20251228180000 +0200" channel="ItalySerieACremonesevsNapoli">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Cremonese vs Napoli</desc>
-    <category lang="it">Soccer</category>
-  </programme>
   <channel id="EnglandPremierLeagueCrystalPalacevsTottenhamHotspur">
     <display-name>England - Premier League : Crystal Palace vs Tottenham Hotspur</display-name>
   </channel>
@@ -85,19 +59,6 @@
     <desc lang="it">Italy - Serie A : Atalanta vs Internazionale</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="SemmeringWomensSlalomWorldCupRun1">
-    <display-name>Semmering | Women's Slalom World Cup | Run 1</display-name>
-  </channel>
-  <programme start="20251228000000 +0200" stop="20251228150000 +0200" channel="SemmeringWomensSlalomWorldCupRun1">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">Semmering | Women's Slalom World Cup | Run 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251228150000 +0200" stop="20251228170000 +0200" channel="SemmeringWomensSlalomWorldCupRun1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Semmering | Women's Slalom World Cup | Run 1</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
   <channel id="SemmeringWomensSlalomWorldCupRun2">
     <display-name>Semmering | Women's Slalom World Cup | Run 2</display-name>
   </channel>
@@ -136,45 +97,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">World Team Challenge Gelsenkirchen | Mixed Team Pursuit</desc>
     <category lang="it">Biathlon</category>
-  </programme>
-  <channel id="WorldCupToblachMensandWomensSprintFreestyle">
-    <display-name>World Cup Toblach | Men's and Women's Sprint Freestyle</display-name>
-  </channel>
-  <programme start="20251228000000 +0200" stop="20251228150000 +0200" channel="WorldCupToblachMensandWomensSprintFreestyle">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">World Cup Toblach | Men's and Women's Sprint Freestyle.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251228150000 +0200" stop="20251228170000 +0200" channel="WorldCupToblachMensandWomensSprintFreestyle">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Toblach | Men's and Women's Sprint Freestyle</desc>
-    <category lang="it">Cross Country</category>
-  </programme>
-  <channel id="WorldCupDendermondeWomen">
-    <display-name>World Cup | Dendermonde Women</display-name>
-  </channel>
-  <programme start="20251228000000 +0200" stop="20251228143000 +0200" channel="WorldCupDendermondeWomen">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">World Cup | Dendermonde Women.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251228143000 +0200" stop="20251228163000 +0200" channel="WorldCupDendermondeWomen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup | Dendermonde Women</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <channel id="WorldCupDendermondeMen">
-    <display-name>World Cup | Dendermonde Men</display-name>
-  </channel>
-  <programme start="20251228000000 +0200" stop="20251228153000 +0200" channel="WorldCupDendermondeMen">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">World Cup | Dendermonde Men.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251228153000 +0200" stop="20251228173000 +0200" channel="WorldCupDendermondeMen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup | Dendermonde Men</desc>
-    <category lang="it">Cycling</category>
   </programme>
   <channel id="SerieACittadiCosenzavsCapurso">
     <display-name>Serie A : Citta di Cosenza vs Capurso</display-name>
