@@ -19,6 +19,8 @@ https://vavoo.to/vavoo-iptv/play/68845853044f9c95e43e
 https://vavoo.to/vavoo-iptv/play/190887752614ef25f5e1fd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.omceo.bg.it/images/loghi/antenna-2.png" group-title="Altro",ANTENNA 2
 https://vavoo.to/vavoo-iptv/play/30140012609b4bf5e8d3b7
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.antennasud.com/media/2022/08/cropped-LOGO_ANTENNA_SUD_ROSSO_FORATO.png" group-title="Altro",ANTENNA SUD
+https://vavoo.to/vavoo-iptv/play/4084059868fd82d62442e9
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="Documentari",ARTE NETWORK
 https://vavoo.to/vavoo-iptv/play/430570853d0b7479b224d
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.auroraarte.it/wp-content/uploads/2023/11/AURORA-ARTE-brand.png" group-title="Documentari",AURORA ARTE
@@ -376,8 +378,6 @@ https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN ACTION MOVIES
-https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN COMEDY MOVIES
 https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN DRAMA
@@ -463,8 +463,6 @@ https://dlhd.dad/watch.php?id=862
 https://dlhd.dad/watch.php?id=867
 #EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film - Serie TV",SKY CINEMA DUE
 https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
-#EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24
-https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad
 #EXTINF:-1 tvg-id="sky.cinema.due.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA DUE +24 (D)
 https://dlhd.dad/watch.php?id=866
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY
@@ -654,6 +652,8 @@ https://vavoo.to/vavoo-iptv/play/257447576d383e8001862
 https://vavoo.to/vavoo-iptv/play/3271666551331132c8bfab
 #EXTINF:-1 tvg-id="" tvg-logo="https://lh3.googleusercontent.com/proxy/UNXKnLrwdDNoio4peXah3Pz81kI5Cv2FzJo82TPzn4seN-JZ3tovuVe45XSRBkIyMOfrrZ3bnWaMsTi80Xj40Q" group-title="Altro",TELEVIDEO AGRIGENTO
 https://vavoo.to/vavoo-iptv/play/40202419628e8eecc1dd12
+#EXTINF:-1 tvg-id="tgcom24.it" tvg-logo="https://yt3.hgoogleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="News",TG COM 24
+https://vavoo.to/vavoo-iptv/play/1785098768e3514b1dbecc
 #EXTINF:-1 tvg-id="tgcom24.it" tvg-name="TG COM 24" tvg-logo="https://yt3.hgoogleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="News",TG COM 24 (MPD)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 
@@ -734,10 +734,10 @@ https://dlhd.dad/watch.php?id=9
 #EXTINF:-1 tvg-id="italyseriearomavsgenoa" tvg-name="All Soccer Events | Italy - Serie A : Roma vs Genoa (21:45)" tvg-logo="https://irp.cdn-website.com/8189a2e4/dms3rep/multi/stemma--teatro-centrale--nero.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Roma vs Genoa (21:45)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="worldcuptoblachmens10kmclassic" tvg-name="Cross Country | World Cup Toblach | Men's 10km Classic (12:30)" tvg-logo="https://dentistry.co.uk/wp-content/uploads/2015/05/shutterstock_113914618.jpg" group-title="Eventi Live DLHD",Cross Country | World Cup Toblach | Men's 10km Classic (12:30)
+#EXTINF:-1 tvg-id="worldcuptoblachmens10kmclassic" tvg-name="Cross Country | World Cup Toblach | Men's 10km Classic (12:30)" tvg-logo="https://sn00p.files.wordpress.com/2007/05/revworld.gif" group-title="Eventi Live DLHD",Cross Country | World Cup Toblach | Men's 10km Classic (12:30)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="worldcuptoblachwomens10kmclassic" tvg-name="Cross Country | World Cup Toblach | Women's 10km Classic (15:30)" tvg-logo="https://dentistry.co.uk/wp-content/uploads/2015/05/shutterstock_113914618.jpg" group-title="Eventi Live DLHD",Cross Country | World Cup Toblach | Women's 10km Classic (15:30)
+#EXTINF:-1 tvg-id="worldcuptoblachwomens10kmclassic" tvg-name="Cross Country | World Cup Toblach | Women's 10km Classic (15:30)" tvg-logo="https://sn00p.files.wordpress.com/2007/05/revworld.gif" group-title="Eventi Live DLHD",Cross Country | World Cup Toblach | Women's 10km Classic (15:30)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="x2oloenhoutxobadkamerstrophy" tvg-name="Cycling | X2O Loenhout X?O Badkamers Trophy (14:30)" tvg-logo="https://static.vecteezy.com/system/resources/previews/024/555/698/original/trophy-cup-champion-trophy-free-png.png" group-title="Eventi Live DLHD",Cycling | X2O Loenhout X?O Badkamers Trophy (14:30)
