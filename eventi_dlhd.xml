@@ -1,107 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="EnglandPremierLeagueBurnleyvsNewcastleUnited">
-    <display-name>England - Premier League : Burnley vs Newcastle United</display-name>
+  <channel id="ToblachMensMassStartWorldCupHeat1">
+    <display-name>Toblach | Men's Mass Start World Cup | Heat 1</display-name>
   </channel>
-  <programme start="20251230000000 +0200" stop="20251230213000 +0200" channel="EnglandPremierLeagueBurnleyvsNewcastleUnited">
-    <title lang="it">Inizia alle 21:30.</title>
-    <desc lang="it">England - Premier League : Burnley vs Newcastle United.</desc>
+  <programme start="20251231000000 +0200" stop="20251231121500 +0200" channel="ToblachMensMassStartWorldCupHeat1">
+    <title lang="it">Inizia alle 12:15.</title>
+    <desc lang="it">Toblach | Men's Mass Start World Cup | Heat 1.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20251230213000 +0200" stop="20251230233000 +0200" channel="EnglandPremierLeagueBurnleyvsNewcastleUnited">
+  <programme start="20251231121500 +0200" stop="20251231141500 +0200" channel="ToblachMensMassStartWorldCupHeat1">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Burnley vs Newcastle United</desc>
-    <category lang="it">All Soccer Events</category>
+    <desc lang="it">Toblach | Men's Mass Start World Cup | Heat 1</desc>
+    <category lang="it">Cross Country</category>
   </programme>
-  <channel id="EnglandPremierLeagueNottinghamForestvsEverton">
-    <display-name>England - Premier League : Nottingham Forest vs Everton</display-name>
+  <channel id="DiegemTelenetSuperprestige">
+    <display-name>Diegem Telenet Superprestige</display-name>
   </channel>
-  <programme start="20251230000000 +0200" stop="20251230213000 +0200" channel="EnglandPremierLeagueNottinghamForestvsEverton">
-    <title lang="it">Inizia alle 21:30.</title>
-    <desc lang="it">England - Premier League : Nottingham Forest vs Everton.</desc>
+  <programme start="20251231000000 +0200" stop="20251231193000 +0200" channel="DiegemTelenetSuperprestige">
+    <title lang="it">Inizia alle 19:30.</title>
+    <desc lang="it">Diegem Telenet Superprestige.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20251230213000 +0200" stop="20251230233000 +0200" channel="EnglandPremierLeagueNottinghamForestvsEverton">
+  <programme start="20251231193000 +0200" stop="20251231213000 +0200" channel="DiegemTelenetSuperprestige">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Nottingham Forest vs Everton</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="EnglandPremierLeagueWestHamUnitedvsBrightonampHoveAlbion">
-    <display-name>England - Premier League : West Ham United vs Brighton &amp; Hove Albion</display-name>
-  </channel>
-  <programme start="20251230000000 +0200" stop="20251230213000 +0200" channel="EnglandPremierLeagueWestHamUnitedvsBrightonampHoveAlbion">
-    <title lang="it">Inizia alle 21:30.</title>
-    <desc lang="it">England - Premier League : West Ham United vs Brighton &amp; Hove Albion.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251230213000 +0200" stop="20251230233000 +0200" channel="EnglandPremierLeagueWestHamUnitedvsBrightonampHoveAlbion">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : West Ham United vs Brighton &amp; Hove Albion</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="EnglandPremierLeagueChelseavsAFCBournemouth">
-    <display-name>England - Premier League : Chelsea vs AFC Bournemouth</display-name>
-  </channel>
-  <programme start="20251230000000 +0200" stop="20251230213000 +0200" channel="EnglandPremierLeagueChelseavsAFCBournemouth">
-    <title lang="it">Inizia alle 21:30.</title>
-    <desc lang="it">England - Premier League : Chelsea vs AFC Bournemouth.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251230213000 +0200" stop="20251230233000 +0200" channel="EnglandPremierLeagueChelseavsAFCBournemouth">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Chelsea vs AFC Bournemouth</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="EnglandPremierLeagueArsenalvsAstonVilla">
-    <display-name>England - Premier League : Arsenal vs Aston Villa</display-name>
-  </channel>
-  <programme start="20251230000000 +0200" stop="20251230221500 +0200" channel="EnglandPremierLeagueArsenalvsAstonVilla">
-    <title lang="it">Inizia alle 22:15.</title>
-    <desc lang="it">England - Premier League : Arsenal vs Aston Villa.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251230221500 +0200" stop="20251231001500 +0200" channel="EnglandPremierLeagueArsenalvsAstonVilla">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Arsenal vs Aston Villa</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="EnglandPremierLeagueManchesterUnitedvsWolverhamptonWanderers">
-    <display-name>England - Premier League : Manchester United vs Wolverhampton Wanderers</display-name>
-  </channel>
-  <programme start="20251230000000 +0200" stop="20251230221500 +0200" channel="EnglandPremierLeagueManchesterUnitedvsWolverhamptonWanderers">
-    <title lang="it">Inizia alle 22:15.</title>
-    <desc lang="it">England - Premier League : Manchester United vs Wolverhampton Wanderers.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251230221500 +0200" stop="20251231001500 +0200" channel="EnglandPremierLeagueManchesterUnitedvsWolverhamptonWanderers">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Manchester United vs Wolverhampton Wanderers</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="SuperprestigeDiegemMen">
-    <display-name>Superprestige | Diegem Men</display-name>
-  </channel>
-  <programme start="20251230000000 +0200" stop="20251230210000 +0200" channel="SuperprestigeDiegemMen">
-    <title lang="it">Inizia alle 21:00.</title>
-    <desc lang="it">Superprestige | Diegem Men.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251230210000 +0200" stop="20251230230000 +0200" channel="SuperprestigeDiegemMen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Superprestige | Diegem Men</desc>
+    <desc lang="it">Diegem Telenet Superprestige</desc>
     <category lang="it">Cycling</category>
   </programme>
-  <channel id="ItalyCoppaItaliaSuperlegaPerugiaUmbriaVolleyvsVolleyCivitanova">
-    <display-name>Italy, Coppa Italia Superlega : Perugia Umbria Volley vs. Volley Civitanova</display-name>
+  <channel id="GarmischPartenkirchenWomensHS142WorldCup">
+    <display-name>Garmisch-Partenkirchen | Women's HS 142 World Cup</display-name>
   </channel>
-  <programme start="20251230000000 +0200" stop="20251230213000 +0200" channel="ItalyCoppaItaliaSuperlegaPerugiaUmbriaVolleyvsVolleyCivitanova">
-    <title lang="it">Inizia alle 21:30.</title>
-    <desc lang="it">Italy, Coppa Italia Superlega : Perugia Umbria Volley vs. Volley Civitanova.</desc>
+  <programme start="20251231000000 +0200" stop="20251231134500 +0200" channel="GarmischPartenkirchenWomensHS142WorldCup">
+    <title lang="it">Inizia alle 13:45.</title>
+    <desc lang="it">Garmisch-Partenkirchen | Women's HS 142 World Cup.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20251230213000 +0200" stop="20251230233000 +0200" channel="ItalyCoppaItaliaSuperlegaPerugiaUmbriaVolleyvsVolleyCivitanova">
+  <programme start="20251231134500 +0200" stop="20251231154500 +0200" channel="GarmischPartenkirchenWomensHS142WorldCup">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy, Coppa Italia Superlega : Perugia Umbria Volley vs. Volley Civitanova</desc>
-    <category lang="it">Volleyball</category>
+    <desc lang="it">Garmisch-Partenkirchen | Women's HS 142 World Cup</desc>
+    <category lang="it">Ski Jumping</category>
+  </programme>
+  <channel id="GarmischPartenkirchenMensHS142FourHillsEvent2Qualifying">
+    <display-name>Garmisch-Partenkirchen | Men's HS 142 Four Hills | Event 2 | Qualifying</display-name>
+  </channel>
+  <programme start="20251231000000 +0200" stop="20251231164500 +0200" channel="GarmischPartenkirchenMensHS142FourHillsEvent2Qualifying">
+    <title lang="it">Inizia alle 16:45.</title>
+    <desc lang="it">Garmisch-Partenkirchen | Men's HS 142 Four Hills | Event 2 | Qualifying.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20251231164500 +0200" stop="20251231184500 +0200" channel="GarmischPartenkirchenMensHS142FourHillsEvent2Qualifying">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Garmisch-Partenkirchen | Men's HS 142 Four Hills | Event 2 | Qualifying</desc>
+    <category lang="it">Ski Jumping</category>
   </programme>
 </tv>
