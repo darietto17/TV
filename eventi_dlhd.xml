@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ToblachMensMassStartWorldCupHeat1">
-    <display-name>Toblach | Men's Mass Start World Cup | Heat 1</display-name>
-  </channel>
-  <programme start="20251231000000 +0200" stop="20251231121500 +0200" channel="ToblachMensMassStartWorldCupHeat1">
-    <title lang="it">Inizia alle 12:15.</title>
-    <desc lang="it">Toblach | Men's Mass Start World Cup | Heat 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251231121500 +0200" stop="20251231141500 +0200" channel="ToblachMensMassStartWorldCupHeat1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Toblach | Men's Mass Start World Cup | Heat 1</desc>
-    <category lang="it">Cross Country</category>
-  </programme>
   <channel id="DiegemTelenetSuperprestige">
     <display-name>Diegem Telenet Superprestige</display-name>
   </channel>
