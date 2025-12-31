@@ -1,3 +1,156 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="EnglandPremierLeagueLiverpoolvsLeedsUnited">
+    <display-name>England - Premier League : Liverpool vs Leeds United</display-name>
+  </channel>
+  <programme start="20260101000000 +0200" stop="20260101193000 +0200" channel="EnglandPremierLeagueLiverpoolvsLeedsUnited">
+    <title lang="it">Inizia alle 19:30.</title>
+    <desc lang="it">England - Premier League : Liverpool vs Leeds United.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260101193000 +0200" stop="20260101213000 +0200" channel="EnglandPremierLeagueLiverpoolvsLeedsUnited">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">England - Premier League : Liverpool vs Leeds United</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="EnglandPremierLeagueCrystalPalacevsFulham">
+    <display-name>England - Premier League : Crystal Palace vs Fulham</display-name>
+  </channel>
+  <programme start="20260101000000 +0200" stop="20260101193000 +0200" channel="EnglandPremierLeagueCrystalPalacevsFulham">
+    <title lang="it">Inizia alle 19:30.</title>
+    <desc lang="it">England - Premier League : Crystal Palace vs Fulham.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260101193000 +0200" stop="20260101213000 +0200" channel="EnglandPremierLeagueCrystalPalacevsFulham">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">England - Premier League : Crystal Palace vs Fulham</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="EnglandPremierLeagueBrentfordvsTottenhamHotspur">
+    <display-name>England - Premier League : Brentford vs Tottenham Hotspur</display-name>
+  </channel>
+  <programme start="20260101000000 +0200" stop="20260101220000 +0200" channel="EnglandPremierLeagueBrentfordvsTottenhamHotspur">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">England - Premier League : Brentford vs Tottenham Hotspur.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260101220000 +0200" stop="20260102000000 +0200" channel="EnglandPremierLeagueBrentfordvsTottenhamHotspur">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">England - Premier League : Brentford vs Tottenham Hotspur</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="EnglandPremierLeagueSunderlandvsManchesterCity">
+    <display-name>England - Premier League : Sunderland vs Manchester City</display-name>
+  </channel>
+  <programme start="20260101000000 +0200" stop="20260101220000 +0200" channel="EnglandPremierLeagueSunderlandvsManchesterCity">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">England - Premier League : Sunderland vs Manchester City.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260101220000 +0200" stop="20260102000000 +0200" channel="EnglandPremierLeagueSunderlandvsManchesterCity">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">England - Premier League : Sunderland vs Manchester City</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="TourdeSkiinToblachmens20kmclassicstylerace">
+    <display-name>Tour de Ski in Toblach men's 20 km classic style race</display-name>
+  </channel>
+  <programme start="20260101000000 +0200" stop="20260101111500 +0200" channel="TourdeSkiinToblachmens20kmclassicstylerace">
+    <title lang="it">Inizia alle 11:15.</title>
+    <desc lang="it">Tour de Ski in Toblach men's 20 km classic style race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260101111500 +0200" stop="20260101131500 +0200" channel="TourdeSkiinToblachmens20kmclassicstylerace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Tour de Ski in Toblach men's 20 km classic style race</desc>
+    <category lang="it">Cross Country</category>
+  </programme>
+  <channel id="TourdeSkiinToblachwomens20kmclassicrace">
+    <display-name>Tour de Ski in Toblach women's 20 km classic race</display-name>
+  </channel>
+  <programme start="20260101000000 +0200" stop="20260101131500 +0200" channel="TourdeSkiinToblachwomens20kmclassicrace">
+    <title lang="it">Inizia alle 13:15.</title>
+    <desc lang="it">Tour de Ski in Toblach women's 20 km classic race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260101131500 +0200" stop="20260101151500 +0200" channel="TourdeSkiinToblachwomens20kmclassicrace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Tour de Ski in Toblach women's 20 km classic race</desc>
+    <category lang="it">Cross Country</category>
+  </programme>
+  <programme start="20260101000000 +0200" stop="20260101131500 +0200" channel="TourdeSkiinToblachwomens20kmclassicrace">
+    <title lang="it">Inizia alle 13:15.</title>
+    <desc lang="it">Tour de Ski in Toblach women's 20 km classic race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260101131500 +0200" stop="20260101151500 +0200" channel="TourdeSkiinToblachwomens20kmclassicrace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Tour de Ski in Toblach women's 20 km classic race</desc>
+    <category lang="it">Cross Country</category>
+  </programme>
+  <channel id="X2OBaalXOBadkamersTrophy">
+    <display-name>X2O Baal X?O Badkamers Trophy</display-name>
+  </channel>
+  <programme start="20260101000000 +0200" stop="20260101144500 +0200" channel="X2OBaalXOBadkamersTrophy">
+    <title lang="it">Inizia alle 14:45.</title>
+    <desc lang="it">X2O Baal X?O Badkamers Trophy.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260101144500 +0200" stop="20260101164500 +0200" channel="X2OBaalXOBadkamersTrophy">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">X2O Baal X?O Badkamers Trophy</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="IndividualcompetitionGarmischPartenkirchenHS142">
+    <display-name>Individual competition | Garmisch-Partenkirchen HS142</display-name>
+  </channel>
+  <programme start="20260101000000 +0200" stop="20260101143000 +0200" channel="IndividualcompetitionGarmischPartenkirchenHS142">
+    <title lang="it">Inizia alle 14:30.</title>
+    <desc lang="it">Individual competition | Garmisch-Partenkirchen HS142.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260101143000 +0200" stop="20260101163000 +0200" channel="IndividualcompetitionGarmischPartenkirchenHS142">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Individual competition | Garmisch-Partenkirchen HS142</desc>
+    <category lang="it">Ski Jumping</category>
+  </programme>
+  <channel id="IndividualcompetitionOberstdorfHS137Women">
+    <display-name>Individual competition | Oberstdorf HS137 Women</display-name>
+  </channel>
+  <programme start="20260101000000 +0200" stop="20260101171500 +0200" channel="IndividualcompetitionOberstdorfHS137Women">
+    <title lang="it">Inizia alle 17:15.</title>
+    <desc lang="it">Individual competition | Oberstdorf HS137 Women.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260101171500 +0200" stop="20260101191500 +0200" channel="IndividualcompetitionOberstdorfHS137Women">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Individual competition | Oberstdorf HS137 Women</desc>
+    <category lang="it">Ski Jumping</category>
+  </programme>
+  <channel id="GarmischPartenkirchenHS142FourHillsTournament">
+    <display-name>Garmisch-Partenkirchen HS142 Four Hills Tournament</display-name>
+  </channel>
+  <programme start="20260102000000 +0200" stop="20260102004500 +0200" channel="GarmischPartenkirchenHS142FourHillsTournament">
+    <title lang="it">Inizia alle 00:45.</title>
+    <desc lang="it">Garmisch-Partenkirchen HS142 Four Hills Tournament.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260102004500 +0200" stop="20260102024500 +0200" channel="GarmischPartenkirchenHS142FourHillsTournament">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Garmisch-Partenkirchen HS142 Four Hills Tournament</desc>
+    <category lang="it">Ski Jumping</category>
+  </programme>
+  <channel id="TourdeSkiWorldCupToblachMens15kmClassicPursuit">
+    <display-name>Tour de Ski World Cup Toblach | Men's 15km Classic Pursuit</display-name>
+  </channel>
+  <programme start="20260101000000 +0200" stop="20260101111500 +0200" channel="TourdeSkiWorldCupToblachMens15kmClassicPursuit">
+    <title lang="it">Inizia alle 11:15.</title>
+    <desc lang="it">Tour de Ski World Cup Toblach | Men's 15km Classic Pursuit.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260101111500 +0200" stop="20260101131500 +0200" channel="TourdeSkiWorldCupToblachMens15kmClassicPursuit">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Tour de Ski World Cup Toblach | Men's 15km Classic Pursuit</desc>
+    <category lang="it">Winter Sports</category>
+  </programme>
 </tv>
