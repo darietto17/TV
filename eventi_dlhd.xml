@@ -1,16 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="DiegemTelenetSuperprestige">
-    <display-name>Diegem Telenet Superprestige</display-name>
-  </channel>
-  <programme start="20251231000000 +0200" stop="20251231193000 +0200" channel="DiegemTelenetSuperprestige">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">Diegem Telenet Superprestige.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20251231193000 +0200" stop="20251231213000 +0200" channel="DiegemTelenetSuperprestige">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Diegem Telenet Superprestige</desc>
-    <category lang="it">Cycling</category>
-  </programme>
 </tv>
