@@ -1,31 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="EnglandPremierLeagueLiverpoolvsLeedsUnited">
-    <display-name>England - Premier League : Liverpool vs Leeds United</display-name>
-  </channel>
-  <programme start="20260101000000 +0200" stop="20260101193000 +0200" channel="EnglandPremierLeagueLiverpoolvsLeedsUnited">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">England - Premier League : Liverpool vs Leeds United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260101193000 +0200" stop="20260101213000 +0200" channel="EnglandPremierLeagueLiverpoolvsLeedsUnited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Liverpool vs Leeds United</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="EnglandPremierLeagueCrystalPalacevsFulham">
-    <display-name>England - Premier League : Crystal Palace vs Fulham</display-name>
-  </channel>
-  <programme start="20260101000000 +0200" stop="20260101193000 +0200" channel="EnglandPremierLeagueCrystalPalacevsFulham">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">England - Premier League : Crystal Palace vs Fulham.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260101193000 +0200" stop="20260101213000 +0200" channel="EnglandPremierLeagueCrystalPalacevsFulham">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Crystal Palace vs Fulham</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="EnglandPremierLeagueBrentfordvsTottenhamHotspur">
     <display-name>England - Premier League : Brentford vs Tottenham Hotspur</display-name>
   </channel>
