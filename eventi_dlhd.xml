@@ -1,42 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="EnglandPremierLeagueBrentfordvsTottenhamHotspur">
-    <display-name>England - Premier League : Brentford vs Tottenham Hotspur</display-name>
+  <channel id="ItalySerieACagliarivsMilan">
+    <display-name>Italy - Serie A : Cagliari vs Milan</display-name>
   </channel>
-  <programme start="20260101000000 +0200" stop="20260101220000 +0200" channel="EnglandPremierLeagueBrentfordvsTottenhamHotspur">
-    <title lang="it">Inizia alle 22:00.</title>
-    <desc lang="it">England - Premier League : Brentford vs Tottenham Hotspur.</desc>
+  <programme start="20260102000000 +0200" stop="20260102214500 +0200" channel="ItalySerieACagliarivsMilan">
+    <title lang="it">Inizia alle 21:45.</title>
+    <desc lang="it">Italy - Serie A : Cagliari vs Milan.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260101220000 +0200" stop="20260102000000 +0200" channel="EnglandPremierLeagueBrentfordvsTottenhamHotspur">
+  <programme start="20260102214500 +0200" stop="20260102234500 +0200" channel="ItalySerieACagliarivsMilan">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Brentford vs Tottenham Hotspur</desc>
-    <category lang="it">All Soccer Events</category>
+    <desc lang="it">Italy - Serie A : Cagliari vs Milan</desc>
+    <category lang="it">Soccer</category>
   </programme>
-  <channel id="EnglandPremierLeagueSunderlandvsManchesterCity">
-    <display-name>England - Premier League : Sunderland vs Manchester City</display-name>
-  </channel>
-  <programme start="20260101000000 +0200" stop="20260101220000 +0200" channel="EnglandPremierLeagueSunderlandvsManchesterCity">
-    <title lang="it">Inizia alle 22:00.</title>
-    <desc lang="it">England - Premier League : Sunderland vs Manchester City.</desc>
+  <programme start="20260102000000 +0200" stop="20260102214500 +0200" channel="ItalySerieACagliarivsMilan">
+    <title lang="it">Inizia alle 21:45.</title>
+    <desc lang="it">Italy - Serie A : Cagliari vs Milan.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260101220000 +0200" stop="20260102000000 +0200" channel="EnglandPremierLeagueSunderlandvsManchesterCity">
+  <programme start="20260102214500 +0200" stop="20260102234500 +0200" channel="ItalySerieACagliarivsMilan">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Sunderland vs Manchester City</desc>
-    <category lang="it">All Soccer Events</category>
+    <desc lang="it">Italy - Serie A : Cagliari vs Milan</desc>
+    <category lang="it">Soccer</category>
   </programme>
-  <channel id="GarmischPartenkirchenHS142FourHillsTournament">
-    <display-name>Garmisch-Partenkirchen HS142 Four Hills Tournament</display-name>
-  </channel>
-  <programme start="20260102000000 +0200" stop="20260102004500 +0200" channel="GarmischPartenkirchenHS142FourHillsTournament">
-    <title lang="it">Inizia alle 00:45.</title>
-    <desc lang="it">Garmisch-Partenkirchen HS142 Four Hills Tournament.</desc>
+  <programme start="20260102000000 +0200" stop="20260102214500 +0200" channel="ItalySerieACagliarivsMilan">
+    <title lang="it">Inizia alle 21:45.</title>
+    <desc lang="it">Italy - Serie A : Cagliari vs Milan.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260102004500 +0200" stop="20260102024500 +0200" channel="GarmischPartenkirchenHS142FourHillsTournament">
+  <programme start="20260102214500 +0200" stop="20260102234500 +0200" channel="ItalySerieACagliarivsMilan">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Garmisch-Partenkirchen HS142 Four Hills Tournament</desc>
+    <desc lang="it">Italy - Serie A : Cagliari vs Milan</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ExactCrossMolWomen">
+    <display-name>Exact Cross | Mol Women</display-name>
+  </channel>
+  <programme start="20260102000000 +0200" stop="20260102124500 +0200" channel="ExactCrossMolWomen">
+    <title lang="it">Inizia alle 12:45.</title>
+    <desc lang="it">Exact Cross | Mol Women.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260102124500 +0200" stop="20260102144500 +0200" channel="ExactCrossMolWomen">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Exact Cross | Mol Women</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="FourHillsTournament20252026Garmisch">
+    <display-name>Four Hills Tournament 2025/2026 - Garmisch</display-name>
+  </channel>
+  <programme start="20260102000000 +0200" stop="20260102174000 +0200" channel="FourHillsTournament20252026Garmisch">
+    <title lang="it">Inizia alle 17:40.</title>
+    <desc lang="it">Four Hills Tournament 2025/2026 - Garmisch.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260102174000 +0200" stop="20260102194000 +0200" channel="FourHillsTournament20252026Garmisch">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Four Hills Tournament 2025/2026 - Garmisch</desc>
     <category lang="it">Ski Jumping</category>
+  </programme>
+  <channel id="WinterbergMenWorldCupHeat1">
+    <display-name>Winterberg | Men World Cup | Heat 1</display-name>
+  </channel>
+  <programme start="20260102000000 +0200" stop="20260102100000 +0200" channel="WinterbergMenWorldCupHeat1">
+    <title lang="it">Inizia alle 10:00.</title>
+    <desc lang="it">Winterberg | Men World Cup | Heat 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260102100000 +0200" stop="20260102120000 +0200" channel="WinterbergMenWorldCupHeat1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Winterberg | Men World Cup | Heat 1</desc>
+    <category lang="it">Winter Sports</category>
+  </programme>
+  <channel id="WinterbergWomenWorldCupHeat1">
+    <display-name>Winterberg | Women World Cup | Heat 1</display-name>
+  </channel>
+  <programme start="20260102000000 +0200" stop="20260102140000 +0200" channel="WinterbergWomenWorldCupHeat1">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">Winterberg | Women World Cup | Heat 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260102140000 +0200" stop="20260102160000 +0200" channel="WinterbergWomenWorldCupHeat1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Winterberg | Women World Cup | Heat 1</desc>
+    <category lang="it">Winter Sports</category>
+  </programme>
+  <channel id="WinterbergTeamWorldCup">
+    <display-name>Winterberg | Team World Cup</display-name>
+  </channel>
+  <programme start="20260102000000 +0200" stop="20260102190000 +0200" channel="WinterbergTeamWorldCup">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">Winterberg | Team World Cup.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260102190000 +0200" stop="20260102210000 +0200" channel="WinterbergTeamWorldCup">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Winterberg | Team World Cup</desc>
+    <category lang="it">Winter Sports</category>
   </programme>
 </tv>
