@@ -52,19 +52,6 @@
     <desc lang="it">England - Premier League : Sunderland vs Manchester City</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="TourdeSkiinToblachmens20kmclassicstylerace">
-    <display-name>Tour de Ski in Toblach men's 20 km classic style race</display-name>
-  </channel>
-  <programme start="20260101000000 +0200" stop="20260101111500 +0200" channel="TourdeSkiinToblachmens20kmclassicstylerace">
-    <title lang="it">Inizia alle 11:15.</title>
-    <desc lang="it">Tour de Ski in Toblach men's 20 km classic style race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260101111500 +0200" stop="20260101131500 +0200" channel="TourdeSkiinToblachmens20kmclassicstylerace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour de Ski in Toblach men's 20 km classic style race</desc>
-    <category lang="it">Cross Country</category>
-  </programme>
   <channel id="TourdeSkiinToblachwomens20kmclassicrace">
     <display-name>Tour de Ski in Toblach women's 20 km classic race</display-name>
   </channel>
@@ -139,18 +126,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Garmisch-Partenkirchen HS142 Four Hills Tournament</desc>
     <category lang="it">Ski Jumping</category>
-  </programme>
-  <channel id="TourdeSkiWorldCupToblachMens15kmClassicPursuit">
-    <display-name>Tour de Ski World Cup Toblach | Men's 15km Classic Pursuit</display-name>
-  </channel>
-  <programme start="20260101000000 +0200" stop="20260101111500 +0200" channel="TourdeSkiWorldCupToblachMens15kmClassicPursuit">
-    <title lang="it">Inizia alle 11:15.</title>
-    <desc lang="it">Tour de Ski World Cup Toblach | Men's 15km Classic Pursuit.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260101111500 +0200" stop="20260101131500 +0200" channel="TourdeSkiWorldCupToblachMens15kmClassicPursuit">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour de Ski World Cup Toblach | Men's 15km Classic Pursuit</desc>
-    <category lang="it">Winter Sports</category>
   </programme>
 </tv>
