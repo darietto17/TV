@@ -33,17 +33,4 @@
     <desc lang="it">Italy - Serie A : Cagliari vs Milan</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="WinterbergTeamWorldCup">
-    <display-name>Winterberg | Team World Cup</display-name>
-  </channel>
-  <programme start="20260102000000 +0200" stop="20260102190000 +0200" channel="WinterbergTeamWorldCup">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">Winterberg | Team World Cup.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260102190000 +0200" stop="20260102210000 +0200" channel="WinterbergTeamWorldCup">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Winterberg | Team World Cup</desc>
-    <category lang="it">Winter Sports</category>
-  </programme>
 </tv>
