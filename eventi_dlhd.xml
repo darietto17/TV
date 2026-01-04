@@ -1,64 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieALaziovsNapoli">
-    <display-name>Italy - Serie A : Lazio vs Napoli</display-name>
-  </channel>
-  <programme start="20260104000000 +0200" stop="20260104133000 +0200" channel="ItalySerieALaziovsNapoli">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie A : Lazio vs Napoli.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260104133000 +0200" stop="20260104153000 +0200" channel="ItalySerieALaziovsNapoli">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Lazio vs Napoli</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCFoggiavsCatania">
-    <display-name>Italy - Serie C : Foggia vs Catania</display-name>
-  </channel>
-  <programme start="20260104000000 +0200" stop="20260104133000 +0200" channel="ItalySerieCFoggiavsCatania">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie C : Foggia vs Catania.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260104133000 +0200" stop="20260104153000 +0200" channel="ItalySerieCFoggiavsCatania">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Foggia vs Catania</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260104000000 +0200" stop="20260104133000 +0200" channel="ItalySerieCFoggiavsCatania">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie C : Foggia vs Catania.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260104133000 +0200" stop="20260104153000 +0200" channel="ItalySerieCFoggiavsCatania">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Foggia vs Catania</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCAtalantaIIvsLatina">
-    <display-name>Italy - Serie C : Atalanta II vs Latina</display-name>
-  </channel>
-  <programme start="20260104000000 +0200" stop="20260104133000 +0200" channel="ItalySerieCAtalantaIIvsLatina">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie C : Atalanta II vs Latina.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260104133000 +0200" stop="20260104153000 +0200" channel="ItalySerieCAtalantaIIvsLatina">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Atalanta II vs Latina</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260104000000 +0200" stop="20260104133000 +0200" channel="ItalySerieCAtalantaIIvsLatina">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie C : Atalanta II vs Latina.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260104133000 +0200" stop="20260104153000 +0200" channel="ItalySerieCAtalantaIIvsLatina">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Atalanta II vs Latina</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="EnglandPremierLeagueLeedsUnitedvsManchesterUnited">
     <display-name>England - Premier League : Leeds United vs Manchester United</display-name>
   </channel>
@@ -356,19 +297,6 @@
     <desc lang="it">Italy - Serie A : Internazionale vs Bologna</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="KranjskaGoraWomensSlalomWorldCupRun2">
-    <display-name>Kranjska Gora | Women's Slalom World Cup | Run 2</display-name>
-  </channel>
-  <programme start="20260104000000 +0200" stop="20260104130000 +0200" channel="KranjskaGoraWomensSlalomWorldCupRun2">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Kranjska Gora | Women's Slalom World Cup | Run 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260104130000 +0200" stop="20260104150000 +0200" channel="KranjskaGoraWomensSlalomWorldCupRun2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Kranjska Gora | Women's Slalom World Cup | Run 2</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
   <channel id="WorldCupValdiFiemme10kmFreestyleMassStartWomens">
     <display-name>World Cup | Val di Fiemme 10km Freestyle Mass Start | Women's</display-name>
   </channel>
@@ -407,19 +335,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Top 14 : La Rochelle vs Toulon</desc>
     <category lang="it">Rugby Union</category>
-  </programme>
-  <channel id="SkiJumpingFourHillsTournamentinInnsbruckSeries1">
-    <display-name>Ski Jumping: Four Hills Tournament in Innsbruck Series 1</display-name>
-  </channel>
-  <programme start="20260104000000 +0200" stop="20260104140000 +0200" channel="SkiJumpingFourHillsTournamentinInnsbruckSeries1">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Ski Jumping: Four Hills Tournament in Innsbruck Series 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260104140000 +0200" stop="20260104160000 +0200" channel="SkiJumpingFourHillsTournamentinInnsbruckSeries1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Ski Jumping: Four Hills Tournament in Innsbruck Series 1</desc>
-    <category lang="it">Ski Jumping</category>
   </programme>
   <channel id="SerieA1WomenConeglianoWvsNovaraW">
     <display-name>Serie A1 Women : Conegliano W vs Novara W</display-name>
