@@ -109,8 +109,6 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
 https://vavoo.to/vavoo-iptv/play/3037871903561253a95659
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari",DISCOVERY NOVE
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="Film - Serie TV",DISNEY+ FILM
-https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 #EXTINF:-1 tvg-id="dmax.it" tvg-logo="https://cdn.cookielaw.org/logos/50417659-aa29-4f7f-b59d-f6e887deed53/a32be519-de41-40f4-abed-d2934ba6751b/9a44af24-5ca6-4098-aa95-594755bd7b2d/dmax_logo.png" group-title="Altro",DMAX
 https://vavoo.to/vavoo-iptv/play/3803638765756268d23edc
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/%C3%88_live_Brescia_logo.png" group-title="Altro",ELIVE TV BRESCIA
@@ -205,8 +203,6 @@ https://vavoo.to/vavoo-iptv/play/14256673753de6371f2c50
 #EXTINF:-1 tvg-id="la.5.it" tvg-name="LA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Altro",LA 5 (MPD)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
-https://vavoo.to/vavoo-iptv/play/7755300630832713e7adb
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="" group-title="Altro",LA7 (D)
 https://dlhd.dad/watch.php?id=855
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",LA7D HD+ (D)
@@ -231,8 +227,6 @@ https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
 https://vavoo.to/vavoo-iptv/play/3889279895a867a5410d74
 #EXTINF:-1 tvg-id="mtv.hd.it" tvg-logo="" group-title="Musica",MTV
 https://vavoo.to/vavoo-iptv/play/3212860676dcc8c28a2be1
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/mtv-hits-rs.png?raw=true" group-title="Musica",MTV HITS
-https://vavoo.to/vavoo-iptv/play/3446813098b031eef6dc22
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
 https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD
@@ -578,6 +572,10 @@ https://dlhd.dad/watch.php?id=881
 # RAI
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA
 https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA (BACKUP)
+https://vavoo.to/vavoo-iptv/play/3165086929ad0bcbc4fc19
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
+https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
 #EXTINF:-1 tvg-id="supertennis.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS
 https://vavoo.to/vavoo-iptv/play/300937751365646200d097
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFBXh88zZx4IvyQKyYd5Hu2yeytO42zNQ4zA&s" group-title="Altro",SUPER TV ARISTANIS
@@ -784,7 +782,7 @@ https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="italyseriecdolomitibellunesivsalbinoleffe" tvg-name="All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs AlbinoLeffe (18:30)" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/08/Leffe-Logo-Vector.svg-.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs AlbinoLeffe (18:30)
 https://dlhd.dad/watch.php?id=29
 
-#EXTINF:-1 tvg-id="italyseriecbravssambenedettese" tvg-name="All Soccer Events | Italy - Serie C : Bra vs Sambenedettese (18:30)" tvg-logo="https://www.brahotel.com/storage/2024/12/bra_logo-300x300.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Bra vs Sambenedettese (18:30)
+#EXTINF:-1 tvg-id="italyseriecbravssambenedettese" tvg-name="All Soccer Events | Italy - Serie C : Bra vs Sambenedettese (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bra_vs_Sambenedettese.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Bra vs Sambenedettese (18:30)
 https://dlhd.dad/watch.php?id=28
 
 #EXTINF:-1 tvg-id="italyseriecbravssambenedettese" tvg-name="All Soccer Events | Italy - Serie C : Bra vs Sambenedettese (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bra_vs_Sambenedettese.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Bra vs Sambenedettese (18:30)
@@ -844,10 +842,10 @@ https://dlhd.dad/watch.php?id=882
 #EXTINF:-1 tvg-id="siguldawomenssinglesworldcuprun2" tvg-name="Winter Sports | Sigulda | Women's Singles World Cup | Run 2 (11:15)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/sigulda-logo-black-and-white.png" group-title="Eventi Live DLHD",Winter Sports | Sigulda | Women's Singles World Cup | Run 2 (11:15)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="winterbergtwowomanbobsleighworldcupheat1" tvg-name="Winter Sports | Winterberg | Two-Woman Bobsleigh World Cup | Heat 1 (12:00)" tvg-logo="https://2.bp.blogspot.com/-mM-UANdE8lY/T0k6TUqZyNI/AAAAAAAAHIA/P7hYsBDO5SY/s1600/gruppo.png" group-title="Eventi Live DLHD",Winter Sports | Winterberg | Two-Woman Bobsleigh World Cup | Heat 1 (12:00)
+#EXTINF:-1 tvg-id="winterbergtwowomanbobsleighworldcupheat1" tvg-name="Winter Sports | Winterberg | Two-Woman Bobsleigh World Cup | Heat 1 (12:00)" tvg-logo="http://www.hausevani.de/wp-content/uploads/2022/11/logohausevanisite.png" group-title="Eventi Live DLHD",Winter Sports | Winterberg | Two-Woman Bobsleigh World Cup | Heat 1 (12:00)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="siguldamenssinglesworldcuprun2" tvg-name="Winter Sports | Sigulda | Men's Singles World Cup | Run 2 (12:25)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/sigulda-logo-black-and-white.png" group-title="Eventi Live DLHD",Winter Sports | Sigulda | Men's Singles World Cup | Run 2 (12:25)
+#EXTINF:-1 tvg-id="siguldamenssinglesworldcuprun2" tvg-name="Winter Sports | Sigulda | Men's Singles World Cup | Run 2 (12:25)" tvg-logo="https://izglitiba.sigulda.lv/wp-content/uploads/2022/04/cropped-Sigulda-aizrauj-icon.png" group-title="Eventi Live DLHD",Winter Sports | Sigulda | Men's Singles World Cup | Run 2 (12:25)
 https://dlhd.dad/watch.php?id=879
 
 
