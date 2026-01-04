@@ -369,19 +369,6 @@
     <desc lang="it">Kranjska Gora | Women's Slalom World Cup | Run 2</desc>
     <category lang="it">Alpine Ski</category>
   </programme>
-  <channel id="WorldCupValdiFiemme10kmFreestyleMassStartMale">
-    <display-name>World Cup | Val di Fiemme 10km Freestyle Mass Start | Male</display-name>
-  </channel>
-  <programme start="20260104000000 +0200" stop="20260104121500 +0200" channel="WorldCupValdiFiemme10kmFreestyleMassStartMale">
-    <title lang="it">Inizia alle 12:15.</title>
-    <desc lang="it">World Cup | Val di Fiemme 10km Freestyle Mass Start | Male.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260104121500 +0200" stop="20260104141500 +0200" channel="WorldCupValdiFiemme10kmFreestyleMassStartMale">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup | Val di Fiemme 10km Freestyle Mass Start | Male</desc>
-    <category lang="it">Cross Country</category>
-  </programme>
   <channel id="WorldCupValdiFiemme10kmFreestyleMassStartWomens">
     <display-name>World Cup | Val di Fiemme 10km Freestyle Mass Start | Women's</display-name>
   </channel>
@@ -446,44 +433,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Serie A1 Women : Conegliano W vs Novara W</desc>
     <category lang="it">Volleyball</category>
-  </programme>
-  <channel id="SiguldaWomensSinglesWorldCupRun2">
-    <display-name>Sigulda | Women's Singles World Cup | Run 2</display-name>
-  </channel>
-  <programme start="20260104000000 +0200" stop="20260104111500 +0200" channel="SiguldaWomensSinglesWorldCupRun2">
-    <title lang="it">Inizia alle 11:15.</title>
-    <desc lang="it">Sigulda | Women's Singles World Cup | Run 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260104111500 +0200" stop="20260104131500 +0200" channel="SiguldaWomensSinglesWorldCupRun2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Sigulda | Women's Singles World Cup | Run 2</desc>
-    <category lang="it">Winter Sports</category>
-  </programme>
-  <channel id="WinterbergTwoWomanBobsleighWorldCupHeat1">
-    <display-name>Winterberg | Two-Woman Bobsleigh World Cup | Heat 1</display-name>
-  </channel>
-  <programme start="20260104000000 +0200" stop="20260104120000 +0200" channel="WinterbergTwoWomanBobsleighWorldCupHeat1">
-    <title lang="it">Inizia alle 12:00.</title>
-    <desc lang="it">Winterberg | Two-Woman Bobsleigh World Cup | Heat 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260104120000 +0200" stop="20260104140000 +0200" channel="WinterbergTwoWomanBobsleighWorldCupHeat1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Winterberg | Two-Woman Bobsleigh World Cup | Heat 1</desc>
-    <category lang="it">Winter Sports</category>
-  </programme>
-  <channel id="SiguldaMensSinglesWorldCupRun2">
-    <display-name>Sigulda | Men's Singles World Cup | Run 2</display-name>
-  </channel>
-  <programme start="20260104000000 +0200" stop="20260104122500 +0200" channel="SiguldaMensSinglesWorldCupRun2">
-    <title lang="it">Inizia alle 12:25.</title>
-    <desc lang="it">Sigulda | Men's Singles World Cup | Run 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260104122500 +0200" stop="20260104142500 +0200" channel="SiguldaMensSinglesWorldCupRun2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Sigulda | Men's Singles World Cup | Run 2</desc>
-    <category lang="it">Winter Sports</category>
   </programme>
 </tv>
