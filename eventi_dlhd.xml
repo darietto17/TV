@@ -1,41 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieAVeronavsTorino">
-    <display-name>Italy - Serie A : Verona vs Torino</display-name>
-  </channel>
-  <programme start="20260104000000 +0200" stop="20260104190000 +0200" channel="ItalySerieAVeronavsTorino">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">Italy - Serie A : Verona vs Torino.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260104190000 +0200" stop="20260104210000 +0200" channel="ItalySerieAVeronavsTorino">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Verona vs Torino</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260104000000 +0200" stop="20260104190000 +0200" channel="ItalySerieAVeronavsTorino">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">Italy - Serie A : Verona vs Torino.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260104190000 +0200" stop="20260104210000 +0200" channel="ItalySerieAVeronavsTorino">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Verona vs Torino</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="EnglandPremierLeagueManchesterCityvsChelsea">
-    <display-name>England - Premier League : Manchester City vs Chelsea</display-name>
-  </channel>
-  <programme start="20260104000000 +0200" stop="20260104193000 +0200" channel="EnglandPremierLeagueManchesterCityvsChelsea">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">England - Premier League : Manchester City vs Chelsea.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260104193000 +0200" stop="20260104213000 +0200" channel="EnglandPremierLeagueManchesterCityvsChelsea">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Manchester City vs Chelsea</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalySerieCTernanavsLivorno">
     <display-name>Italy - Serie C : Ternana vs Livorno</display-name>
   </channel>
@@ -97,18 +61,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Top 14 : La Rochelle vs Toulon</desc>
     <category lang="it">Rugby Union</category>
-  </programme>
-  <channel id="SerieA1WomenConeglianoWvsNovaraW">
-    <display-name>Serie A1 Women : Conegliano W vs Novara W</display-name>
-  </channel>
-  <programme start="20260104000000 +0200" stop="20260104190000 +0200" channel="SerieA1WomenConeglianoWvsNovaraW">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">Serie A1 Women : Conegliano W vs Novara W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260104190000 +0200" stop="20260104210000 +0200" channel="SerieA1WomenConeglianoWvsNovaraW">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Serie A1 Women : Conegliano W vs Novara W</desc>
-    <category lang="it">Volleyball</category>
   </programme>
 </tv>
