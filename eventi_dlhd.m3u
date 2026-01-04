@@ -2,21 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriealaziovsnapoli" tvg-name="All Soccer Events | Italy - Serie A : Lazio vs Napoli (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lazio_vs_Napoli.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Lazio vs Napoli (13:30)
-https://dlhd.dad/watch.php?id=877
-
-#EXTINF:-1 tvg-id="italyseriecfoggiavscatania" tvg-name="All Soccer Events | Italy - Serie C : Foggia vs Catania (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Foggia_vs_Catania.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Foggia vs Catania (13:30)
-https://dlhd.dad/watch.php?id=6
-
-#EXTINF:-1 tvg-id="italyseriecfoggiavscatania" tvg-name="All Soccer Events | Italy - Serie C : Foggia vs Catania (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Foggia_vs_Catania.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Foggia vs Catania (13:30)
-https://dlhd.dad/watch.php?id=870
-
-#EXTINF:-1 tvg-id="italyseriecatalantaiivslatina" tvg-name="All Soccer Events | Italy - Serie C : Atalanta II vs Latina (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Atalanta II_vs_Latina.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Atalanta II vs Latina (13:30)
-https://dlhd.dad/watch.php?id=7
-
-#EXTINF:-1 tvg-id="italyseriecatalantaiivslatina" tvg-name="All Soccer Events | Italy - Serie C : Atalanta II vs Latina (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Atalanta II_vs_Latina.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Atalanta II vs Latina (13:30)
-https://dlhd.dad/watch.php?id=462
-
 #EXTINF:-1 tvg-id="englandpremierleagueleedsunitedvsmanchesterunited" tvg-name="All Soccer Events | England - Premier League : Leeds United vs Manchester United (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Leeds United_vs_Manchester United.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Leeds United vs Manchester United (14:30)
 https://dlhd.dad/watch.php?id=461
 
@@ -62,7 +47,7 @@ https://dlhd.dad/watch.php?id=28
 #EXTINF:-1 tvg-id="italyseriecbravssambenedettese" tvg-name="All Soccer Events | Italy - Serie C : Bra vs Sambenedettese (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bra_vs_Sambenedettese.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Bra vs Sambenedettese (18:30)
 https://dlhd.dad/watch.php?id=460
 
-#EXTINF:-1 tvg-id="italyseriecnuovamonterosivsperugia" tvg-name="All Soccer Events | Italy - Serie C : Nuova Monterosi vs Perugia (18:30)" tvg-logo="https://www.tuttocampo.it/Web/Images/Teams/Original/1008279.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Nuova Monterosi vs Perugia (18:30)
+#EXTINF:-1 tvg-id="italyseriecnuovamonterosivsperugia" tvg-name="All Soccer Events | Italy - Serie C : Nuova Monterosi vs Perugia (18:30)" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Nuova Monterosi vs Perugia (18:30)
 https://dlhd.dad/watch.php?id=30
 
 #EXTINF:-1 tvg-id="italyseriectrapani1905vsvirtuscasarano" tvg-name="All Soccer Events | Italy - Serie C : Trapani 1905 vs Virtus Casarano (18:30)" tvg-logo="https://www.pennantsmuseum.com/wp-content/uploads/2023/10/00000_Stemma-F.C.-Trapani-1905.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Trapani 1905 vs Virtus Casarano (18:30)
@@ -89,9 +74,6 @@ https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="italyserieainternazionalevsbologna" tvg-name="All Soccer Events | Italy - Serie A : Internazionale vs Bologna (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Internazionale_vs_Bologna.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Internazionale vs Bologna (21:45)
 https://dlhd.dad/watch.php?id=877
 
-#EXTINF:-1 tvg-id="kranjskagorawomensslalomworldcuprun2" tvg-name="Alpine Ski | Kranjska Gora | Women's Slalom World Cup | Run 2 (13:00)" tvg-logo="https://kosobrin.eu/sites/default/files/qualitiy_certificate.png" group-title="Eventi Live DLHD",Alpine Ski | Kranjska Gora | Women's Slalom World Cup | Run 2 (13:00)
-https://dlhd.dad/watch.php?id=878
-
 #EXTINF:-1 tvg-id="worldcupvaldifiemme10kmfreestylemassstartwomens" tvg-name="Cross Country | World Cup | Val di Fiemme 10km Freestyle Mass Start | Women's (16:15)" tvg-logo="https://www.footyrenders.com/render/lionel-messi-403.png" group-title="Eventi Live DLHD",Cross Country | World Cup | Val di Fiemme 10km Freestyle Mass Start | Women's (16:15)
 https://dlhd.dad/watch.php?id=879
 
@@ -101,12 +83,6 @@ https://dlhd.dad/watch.php?id=878
 #EXTINF:-1 tvg-id="top14larochellevstoulon" tvg-name="Rugby Union | Top 14 : La Rochelle vs Toulon (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/La Rochelle_vs_Toulon.png" group-title="Eventi Live DLHD",Rugby Union | Top 14 : La Rochelle vs Toulon (22:00)
 https://dlhd.dad/watch.php?id=462
 
-#EXTINF:-1 tvg-id="skijumpingfourhillstournamentininnsbruckseries1" tvg-name="Ski Jumping | Ski Jumping: Four Hills Tournament in Innsbruck Series 1 (14:00)" tvg-logo="https://usaskijumping.com/wp-content/uploads/2024/11/USASJlogo.png" group-title="Eventi Live DLHD",Ski Jumping | Ski Jumping: Four Hills Tournament in Innsbruck Series 1 (14:00)
-https://dlhd.dad/watch.php?id=878
-
 #EXTINF:-1 tvg-id="seriea1womenconeglianowvsnovaraw" tvg-name="Volleyball | Serie A1 Women : Conegliano W vs Novara W (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Conegliano W_vs_Novara W.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 Women : Conegliano W vs Novara W (19:00)
 https://dlhd.dad/watch.php?id=882
-
-#EXTINF:-1 tvg-id="siguldamenssinglesworldcuprun2" tvg-name="Winter Sports | Sigulda | Men's Singles World Cup | Run 2 (12:25)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/sigulda-logo-black-and-white.png" group-title="Eventi Live DLHD",Winter Sports | Sigulda | Men's Singles World Cup | Run 2 (12:25)
-https://dlhd.dad/watch.php?id=879
 
