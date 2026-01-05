@@ -207,8 +207,6 @@ https://vavoo.to/vavoo-iptv/play/14256673753de6371f2c50
 #EXTINF:-1 tvg-id="la.5.it" tvg-name="LA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Altro",LA 5 (MPD)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
-https://vavoo.to/vavoo-iptv/play/7755300630832713e7adb
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="" group-title="Altro",LA7 (D)
 https://dlhd.dad/watch.php?id=855
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",LA7D HD+ (D)
@@ -324,8 +322,6 @@ https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Rai",RAI ITALIA
-https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250
 #EXTINF:-1 tvg-id="raimovie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE
 https://vavoo.to/vavoo-iptv/play/1925964148b9cb23cc2bce
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Rai",RAI MOVIE (MPD)
@@ -533,6 +529,8 @@ https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",SKY SPORT BASKET (D)
 https://dlhd.dad/watch.php?id=875
+#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
+https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (D)
 https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1 (D)
@@ -747,16 +745,16 @@ https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="italyseriecteamaltamuravscasertana" tvg-name="Soccer | Italy - Serie C : Team Altamura vs Casertana (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Team Altamura_vs_Casertana.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Team Altamura vs Casertana (21:30)
 https://dlhd.dad/watch.php?id=4
 
-#EXTINF:-1 tvg-id="italyseriecbeneventovscrotone" tvg-name="Soccer | Italy - Serie C : Benevento vs Crotone (21:30)" tvg-logo="https://brandlogovector.com/wp-content/uploads/2022/03/FC-Crotone-Logo-Small.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Benevento vs Crotone (21:30)
+#EXTINF:-1 tvg-id="italyseriecbeneventovscrotone" tvg-name="Soccer | Italy - Serie C : Benevento vs Crotone (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Benevento_vs_Crotone.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Benevento vs Crotone (21:30)
 https://dlhd.dad/watch.php?id=5
 
-#EXTINF:-1 tvg-id="italyseriecbeneventovscrotone" tvg-name="Soccer | Italy - Serie C : Benevento vs Crotone (21:30)" tvg-logo="https://brandlogovector.com/wp-content/uploads/2022/03/FC-Crotone-Logo-Small.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Benevento vs Crotone (21:30)
+#EXTINF:-1 tvg-id="italyseriecbeneventovscrotone" tvg-name="Soccer | Italy - Serie C : Benevento vs Crotone (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Benevento_vs_Crotone.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Benevento vs Crotone (21:30)
 https://dlhd.dad/watch.php?id=882
 
-#EXTINF:-1 tvg-id="italyseriecbeneventovscrotone" tvg-name="Soccer | Italy - Serie C : Benevento vs Crotone (21:30)" tvg-logo="https://brandlogovector.com/wp-content/uploads/2022/03/FC-Crotone-Logo-Small.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Benevento vs Crotone (21:30)
+#EXTINF:-1 tvg-id="italyseriecbeneventovscrotone" tvg-name="Soccer | Italy - Serie C : Benevento vs Crotone (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Benevento_vs_Crotone.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Benevento vs Crotone (21:30)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="villachhs98ladieswomensskijumpingworldcupcompetitioninvillach" tvg-name="Ski Jumping | Villach HS98 Ladies Women's Ski Jumping: World Cup Competition in Villach (15:10)" tvg-logo="https://images.vexels.com/media/users/3/132157/isolated/preview/71e101b5869799c8a58887506a717d19-ski-jumping-sport-silhouette.png" group-title="Eventi Live DLHD",Ski Jumping | Villach HS98 Ladies Women's Ski Jumping: World Cup Competition in Villach (15:10)
+#EXTINF:-1 tvg-id="villachhs98ladieswomensskijumpingworldcupcompetitioninvillach" tvg-name="Ski Jumping | Villach HS98 Ladies Women's Ski Jumping: World Cup Competition in Villach (15:10)" tvg-logo="https://png.pngtree.com/png-vector/20231222/ourmid/pngtree-iconbuttonpictogram-ski-jumping-ski-skijumping-png-image_11057351.png" group-title="Eventi Live DLHD",Ski Jumping | Villach HS98 Ladies Women's Ski Jumping: World Cup Competition in Villach (15:10)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="bischofshofenhs142qualificationfourhillstournament" tvg-name="Ski Jumping | Bischofshofen | HS142 | Qualification Four Hills Tournament (17:15)" tvg-logo="https://bischofshofen.com/wp-content/uploads/2024/01/Bauernmusik-Bischofsofen.png" group-title="Eventi Live DLHD",Ski Jumping | Bischofshofen | HS142 | Qualification Four Hills Tournament (17:15)
