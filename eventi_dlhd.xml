@@ -1,3 +1,121 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ItalySerieCTriestinavsAlcione">
+    <display-name>Italy - Serie C : Triestina vs Alcione</display-name>
+  </channel>
+  <programme start="20260105000000 +0200" stop="20260105213000 +0200" channel="ItalySerieCTriestinavsAlcione">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Triestina vs Alcione.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260105213000 +0200" stop="20260105233000 +0200" channel="ItalySerieCTriestinavsAlcione">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Triestina vs Alcione</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20260105000000 +0200" stop="20260105213000 +0200" channel="ItalySerieCTriestinavsAlcione">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Triestina vs Alcione.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260105213000 +0200" stop="20260105233000 +0200" channel="ItalySerieCTriestinavsAlcione">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Triestina vs Alcione</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCCosenzavsMonopoli">
+    <display-name>Italy - Serie C : Cosenza vs Monopoli</display-name>
+  </channel>
+  <programme start="20260105000000 +0200" stop="20260105213000 +0200" channel="ItalySerieCCosenzavsMonopoli">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Cosenza vs Monopoli.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260105213000 +0200" stop="20260105233000 +0200" channel="ItalySerieCCosenzavsMonopoli">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Cosenza vs Monopoli</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20260105000000 +0200" stop="20260105213000 +0200" channel="ItalySerieCCosenzavsMonopoli">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Cosenza vs Monopoli.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260105213000 +0200" stop="20260105233000 +0200" channel="ItalySerieCCosenzavsMonopoli">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Cosenza vs Monopoli</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCTeamAltamuravsCasertana">
+    <display-name>Italy - Serie C : Team Altamura vs Casertana</display-name>
+  </channel>
+  <programme start="20260105000000 +0200" stop="20260105213000 +0200" channel="ItalySerieCTeamAltamuravsCasertana">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Team Altamura vs Casertana.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260105213000 +0200" stop="20260105233000 +0200" channel="ItalySerieCTeamAltamuravsCasertana">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Team Altamura vs Casertana</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCBeneventovsCrotone">
+    <display-name>Italy - Serie C : Benevento vs Crotone</display-name>
+  </channel>
+  <programme start="20260105000000 +0200" stop="20260105213000 +0200" channel="ItalySerieCBeneventovsCrotone">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Benevento vs Crotone.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260105213000 +0200" stop="20260105233000 +0200" channel="ItalySerieCBeneventovsCrotone">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Benevento vs Crotone</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20260105000000 +0200" stop="20260105213000 +0200" channel="ItalySerieCBeneventovsCrotone">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Benevento vs Crotone.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260105213000 +0200" stop="20260105233000 +0200" channel="ItalySerieCBeneventovsCrotone">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Benevento vs Crotone</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20260105000000 +0200" stop="20260105213000 +0200" channel="ItalySerieCBeneventovsCrotone">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Benevento vs Crotone.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260105213000 +0200" stop="20260105233000 +0200" channel="ItalySerieCBeneventovsCrotone">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Benevento vs Crotone</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="VillachHS98LadiesWomensSkiJumpingWorldCupCompetitioninVillach">
+    <display-name>Villach HS98 Ladies Women's Ski Jumping: World Cup Competition in Villach</display-name>
+  </channel>
+  <programme start="20260105000000 +0200" stop="20260105151000 +0200" channel="VillachHS98LadiesWomensSkiJumpingWorldCupCompetitioninVillach">
+    <title lang="it">Inizia alle 15:10.</title>
+    <desc lang="it">Villach HS98 Ladies Women's Ski Jumping: World Cup Competition in Villach.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260105151000 +0200" stop="20260105171000 +0200" channel="VillachHS98LadiesWomensSkiJumpingWorldCupCompetitioninVillach">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Villach HS98 Ladies Women's Ski Jumping: World Cup Competition in Villach</desc>
+    <category lang="it">Ski Jumping</category>
+  </programme>
+  <channel id="BischofshofenHS142QualificationFourHillsTournament">
+    <display-name>Bischofshofen | HS142 | Qualification Four Hills Tournament</display-name>
+  </channel>
+  <programme start="20260105000000 +0200" stop="20260105171500 +0200" channel="BischofshofenHS142QualificationFourHillsTournament">
+    <title lang="it">Inizia alle 17:15.</title>
+    <desc lang="it">Bischofshofen | HS142 | Qualification Four Hills Tournament.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260105171500 +0200" stop="20260105191500 +0200" channel="BischofshofenHS142QualificationFourHillsTournament">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Bischofshofen | HS142 | Qualification Four Hills Tournament</desc>
+    <category lang="it">Ski Jumping</category>
+  </programme>
 </tv>
