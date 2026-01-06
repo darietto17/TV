@@ -1,38 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieALeccevsRoma">
-    <display-name>Italy - Serie A : Lecce vs Roma</display-name>
-  </channel>
-  <programme start="20260106000000 +0200" stop="20260106190000 +0200" channel="ItalySerieALeccevsRoma">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Roma.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260106190000 +0200" stop="20260106210000 +0200" channel="ItalySerieALeccevsRoma">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Roma</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260106000000 +0200" stop="20260106190000 +0200" channel="ItalySerieALeccevsRoma">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Roma.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260106190000 +0200" stop="20260106210000 +0200" channel="ItalySerieALeccevsRoma">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Roma</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260106000000 +0200" stop="20260106190000 +0200" channel="ItalySerieALeccevsRoma">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Roma.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260106190000 +0200" stop="20260106210000 +0200" channel="ItalySerieALeccevsRoma">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Roma</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalySerieASassuolovsJuventus">
     <display-name>Italy - Serie A : Sassuolo vs Juventus</display-name>
   </channel>
@@ -58,19 +25,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">England - Premier League : West Ham United vs Nottingham Forest</desc>
     <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="FriendlyInternationalItalyvsRomania">
-    <display-name>Friendly International : Italy vs Romania</display-name>
-  </channel>
-  <programme start="20260106000000 +0200" stop="20260106190000 +0200" channel="FriendlyInternationalItalyvsRomania">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">Friendly International : Italy vs Romania.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260106190000 +0200" stop="20260106210000 +0200" channel="FriendlyInternationalItalyvsRomania">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Friendly International : Italy vs Romania</desc>
-    <category lang="it">Handball</category>
   </programme>
   <channel id="ChampionsLeagueToursvsTrentino">
     <display-name>Champions League : Tours vs Trentino</display-name>
