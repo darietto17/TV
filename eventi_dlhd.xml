@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieAPisavsComo">
-    <display-name>Italy - Serie A : Pisa vs Como</display-name>
-  </channel>
-  <programme start="20260106000000 +0200" stop="20260106160000 +0200" channel="ItalySerieAPisavsComo">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Italy - Serie A : Pisa vs Como.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260106160000 +0200" stop="20260106180000 +0200" channel="ItalySerieAPisavsComo">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Pisa vs Como</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalySerieALeccevsRoma">
     <display-name>Italy - Serie A : Lecce vs Roma</display-name>
   </channel>
@@ -84,19 +71,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Friendly International : Italy vs Romania</desc>
     <category lang="it">Handball</category>
-  </programme>
-  <channel id="QualificationVillachHS98Ladies">
-    <display-name>Qualification | Villach HS98 Ladies</display-name>
-  </channel>
-  <programme start="20260106000000 +0200" stop="20260106151000 +0200" channel="QualificationVillachHS98Ladies">
-    <title lang="it">Inizia alle 15:10.</title>
-    <desc lang="it">Qualification | Villach HS98 Ladies.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260106151000 +0200" stop="20260106171000 +0200" channel="QualificationVillachHS98Ladies">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Qualification | Villach HS98 Ladies</desc>
-    <category lang="it">Ski Jumping</category>
   </programme>
   <channel id="ChampionsLeagueToursvsTrentino">
     <display-name>Champions League : Tours vs Trentino</display-name>
