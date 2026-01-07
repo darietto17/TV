@@ -205,6 +205,8 @@ https://vavoo.to/vavoo-iptv/play/14256673753de6371f2c50
 #EXTINF:-1 tvg-id="la.5.it" tvg-name="LA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Altro",LA 5 (MPD)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 
+#EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
+https://vavoo.to/vavoo-iptv/play/7755300630832713e7adb
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="" group-title="Altro",LA7 (D)
 https://dlhd.dad/watch.php?id=855
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",LA7D HD+ (D)
@@ -553,6 +555,8 @@ https://dlhd.dad/watch.php?id=576
 https://vavoo.to/vavoo-iptv/play/3192996672d2c923be0346
 #EXTINF:-1 tvg-id="sky.sport.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO (D)
 https://dlhd.dad/watch.php?id=461
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORTS F1
+https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Sport_Golf_Logo_2022.svg/2560px-Sky_Sport_Golf_Logo_2022.svg.png" group-title="Sport",SKY SPORTS GOLF (D)
 https://dlhd.dad/watch.php?id=574
 
@@ -768,16 +772,13 @@ https://dlhd.dad/watch.php?id=157
 #EXTINF:-1 tvg-id="englandpremierleaguenewcastleunitedvsleedsunited" tvg-name="Soccer | England - Premier League : Newcastle United vs Leeds United (22:15)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Newcastle United_vs_Leeds United.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Newcastle United vs Leeds United (22:15)
 https://dlhd.dad/watch.php?id=20
 
-#EXTINF:-1 tvg-id="atp250brisbaneatp250hongkong" tvg-name="Tennis | ATP 250 Brisbane / ATP 250 Hong Kong (08:30)" tvg-logo="https://api.www.labxchange.org/api/v1/xblocks/lb:LabXchange:8ef89bac:html:1/storage/copy-of-lxc_ap1_p6_a4_adenosine-triphosphate-atp-and-its-role-in-cellular-energetics_figure-2150x1711463616402-437dcc1ef44c823f3d559eac0e77bdb1.png" group-title="Eventi Live DLHD",Tennis | ATP 250 Brisbane / ATP 250 Hong Kong (08:30)
+#EXTINF:-1 tvg-id="atp250brisbaneatp250hongkong" tvg-name="Tennis | ATP 250 Brisbane / ATP 250 Hong Kong (08:30)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/hong-kong-logo.png" group-title="Eventi Live DLHD",Tennis | ATP 250 Brisbane / ATP 250 Hong Kong (08:30)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="wta500atp250brisbaneampwta250auckland" tvg-name="Tennis | WTA 500 + ATP 250 Brisbane &amp; WTA 250 Auckland (03:00)" tvg-logo="https://hz-tennisliveranking.oss-cn-hangzhou.aliyuncs.com/assets/img/logo800.png?t=20241030" group-title="Eventi Live DLHD",Tennis | WTA 500 + ATP 250 Brisbane &amp; WTA 250 Auckland (03:00)
-https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="madonnadicampigliomensslalomworldcuprun1" tvg-name="Alpine Ski | Madonna di Campiglio | Men's Slalom World Cup | Run 1 (18:45)" tvg-logo="https://browvopetshop.com/wp-content/uploads/2024/08/Madonna.jpg" group-title="Eventi Live DLHD",Alpine Ski | Madonna di Campiglio | Men's Slalom World Cup | Run 1 (18:45)
+#EXTINF:-1 tvg-id="madonnadicampigliomensslalomworldcuprun1" tvg-name="Alpine Ski | Madonna di Campiglio | Men's Slalom World Cup | Run 1 (18:45)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwsna-q6Ns5SJmmSbDSjcwQCLZjZNdk100xCeqJHuFddmjhE3texPunEx9kELRZ1x0WF_XBFSAsLbkAUJRwHzU_pNuEACi0Xp00UvP9nghJif_PglSA9hAp8T8b0m7rQ44e10bFIzZrA8/w1200-h630-p-k-no-nu/Madonnaexpress.png" group-title="Eventi Live DLHD",Alpine Ski | Madonna di Campiglio | Men's Slalom World Cup | Run 1 (18:45)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="madonnadicampigliomensslalomworldcuprun2" tvg-name="Alpine Ski | Madonna di Campiglio | Men's Slalom World Cup | Run 2 (21:45)" tvg-logo="https://browvopetshop.com/wp-content/uploads/2024/08/Madonna.jpg" group-title="Eventi Live DLHD",Alpine Ski | Madonna di Campiglio | Men's Slalom World Cup | Run 2 (21:45)
+#EXTINF:-1 tvg-id="madonnadicampigliomensslalomworldcuprun2" tvg-name="Alpine Ski | Madonna di Campiglio | Men's Slalom World Cup | Run 2 (21:45)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwsna-q6Ns5SJmmSbDSjcwQCLZjZNdk100xCeqJHuFddmjhE3texPunEx9kELRZ1x0WF_XBFSAsLbkAUJRwHzU_pNuEACi0Xp00UvP9nghJif_PglSA9hAp8T8b0m7rQ44e10bFIzZrA8/w1200-h630-p-k-no-nu/Madonnaexpress.png" group-title="Eventi Live DLHD",Alpine Ski | Madonna di Campiglio | Men's Slalom World Cup | Run 2 (21:45)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="championsleaguewomeneczacibasiwvsmonzaw" tvg-name="Volleyball | Champions League Women : Eczacibasi W vs Monza W (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Eczacibasi W_vs_Monza W.png" group-title="Eventi Live DLHD",Volleyball | Champions League Women : Eczacibasi W vs Monza W (18:30)
@@ -786,7 +787,7 @@ https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="championsleagueguaguasvsperugia" tvg-name="Volleyball | Champions League : Guaguas vs Perugia (20:30)" tvg-logo="https://cdn-icons-png.freepik.com/512/17704/17704399.png" group-title="Eventi Live DLHD",Volleyball | Champions League : Guaguas vs Perugia (20:30)
 https://dlhd.dad/watch.php?id=460
 
-#EXTINF:-1 tvg-id="fisworldcuplacbeauportaerialsrace1" tvg-name="Winter Sports | FIS World Cup - Lac Beauport: Aerials - Race 1 (15:40)" tvg-logo="https://www.fsps.muni.cz/sdetmivpohode/kurzy/design/videofis.gif" group-title="Eventi Live DLHD",Winter Sports | FIS World Cup - Lac Beauport: Aerials - Race 1 (15:40)
+#EXTINF:-1 tvg-id="fisworldcuplacbeauportaerialsrace1" tvg-name="Winter Sports | FIS World Cup - Lac Beauport: Aerials - Race 1 (15:40)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/fis-world-cup-logo.png" group-title="Eventi Live DLHD",Winter Sports | FIS World Cup - Lac Beauport: Aerials - Race 1 (15:40)
 https://dlhd.dad/watch.php?id=882
 
 
