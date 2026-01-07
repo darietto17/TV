@@ -1,41 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieANapolivsVerona">
-    <display-name>Italy - Serie A : Napoli vs Verona</display-name>
-  </channel>
-  <programme start="20260107000000 +0200" stop="20260107193000 +0200" channel="ItalySerieANapolivsVerona">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">Italy - Serie A : Napoli vs Verona.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260107193000 +0200" stop="20260107213000 +0200" channel="ItalySerieANapolivsVerona">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Napoli vs Verona</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="ItalySerieABolognavsAtalanta">
-    <display-name>Italy - Serie A : Bologna vs Atalanta</display-name>
-  </channel>
-  <programme start="20260107000000 +0200" stop="20260107193000 +0200" channel="ItalySerieABolognavsAtalanta">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">Italy - Serie A : Bologna vs Atalanta.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260107193000 +0200" stop="20260107213000 +0200" channel="ItalySerieABolognavsAtalanta">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Bologna vs Atalanta</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260107000000 +0200" stop="20260107193000 +0200" channel="ItalySerieABolognavsAtalanta">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">Italy - Serie A : Bologna vs Atalanta.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260107193000 +0200" stop="20260107213000 +0200" channel="ItalySerieABolognavsAtalanta">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Bologna vs Atalanta</desc>
-    <category lang="it">Soccer</category>
-  </programme>
   <channel id="EnglandPremierLeagueManchesterCityvsBrightonampHoveAlbion">
     <display-name>England - Premier League : Manchester City vs Brighton &amp; Hove Albion</display-name>
   </channel>
@@ -172,19 +136,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">England - Premier League : Newcastle United vs Leeds United</desc>
     <category lang="it">Soccer</category>
-  </programme>
-  <channel id="MadonnadiCampiglioMensSlalomWorldCupRun1">
-    <display-name>Madonna di Campiglio | Men's Slalom World Cup | Run 1</display-name>
-  </channel>
-  <programme start="20260107000000 +0200" stop="20260107184500 +0200" channel="MadonnadiCampiglioMensSlalomWorldCupRun1">
-    <title lang="it">Inizia alle 18:45.</title>
-    <desc lang="it">Madonna di Campiglio | Men's Slalom World Cup | Run 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260107184500 +0200" stop="20260107204500 +0200" channel="MadonnadiCampiglioMensSlalomWorldCupRun1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Madonna di Campiglio | Men's Slalom World Cup | Run 1</desc>
-    <category lang="it">Alpine Ski</category>
   </programme>
   <channel id="MadonnadiCampiglioMensSlalomWorldCupRun2">
     <display-name>Madonna di Campiglio | Men's Slalom World Cup | Run 2</display-name>
