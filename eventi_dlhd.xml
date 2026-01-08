@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieACremonesevsCagliari">
-    <display-name>Italy - Serie A : Cremonese vs Cagliari</display-name>
-  </channel>
-  <programme start="20260108000000 +0200" stop="20260108193000 +0200" channel="ItalySerieACremonesevsCagliari">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">Italy - Serie A : Cremonese vs Cagliari.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260108193000 +0200" stop="20260108213000 +0200" channel="ItalySerieACremonesevsCagliari">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Cremonese vs Cagliari</desc>
-    <category lang="it">Soccer</category>
-  </programme>
   <channel id="ItalySerieAMilanvsGenoa">
     <display-name>Italy - Serie A : Milan vs Genoa</display-name>
   </channel>
