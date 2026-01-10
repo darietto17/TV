@@ -21,8 +21,6 @@ https://vavoo.to/vavoo-iptv/play/190887752614ef25f5e1fd
 https://vavoo.to/vavoo-iptv/play/30140012609b4bf5e8d3b7
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ANTENNA SICILIA
 https://vavoo.to/vavoo-iptv/play/3309975829c0cd274e96f4
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.antennasud.com/media/2022/08/cropped-LOGO_ANTENNA_SUD_ROSSO_FORATO.png" group-title="Altro",ANTENNA SUD
-https://vavoo.to/vavoo-iptv/play/4084059868fd82d62442e9
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="Documentari",ARTE NETWORK
 https://vavoo.to/vavoo-iptv/play/430570853d0b7479b224d
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.auroraarte.it/wp-content/uploads/2023/11/AURORA-ARTE-brand.png" group-title="Documentari",AURORA ARTE
@@ -684,8 +682,6 @@ https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5
 # MUSICA
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQpzqT0DLXv-md7VU-fTF5BeaEashocwHUdw&s" group-title="Altro",TT TELETUTTO
 https://vavoo.to/vavoo-iptv/play/3709706813e7a46de6436d
-#EXTINF:-1 tvg-id="tv8.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tv8-it.png" group-title="Altro",TV 8
-https://vavoo.to/vavoo-iptv/play/2706291008928411daf9bb
 #EXTINF:-1 tvg-id="tv8.hd.it" tvg-name="TV 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tv8-it.png" group-title="Altro",TV 8 (MPD)
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 
@@ -737,10 +733,10 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-id="italyserieclatinavstrapani" tvg-name="All Soccer Events | Italy - Serie C : Latina vs Trapani (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Latina_vs_Trapani.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Latina vs Trapani (15:30)
 https://dlhd.dad/watch.php?id=9
 
-#EXTINF:-1 tvg-id="italyseriecvicenzavsospitaletto" tvg-name="All Soccer Events | Italy - Serie C : Vicenza vs Ospitaletto (15:30)" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Vicenza vs Ospitaletto (15:30)
+#EXTINF:-1 tvg-id="italyseriecvicenzavsospitaletto" tvg-name="All Soccer Events | Italy - Serie C : Vicenza vs Ospitaletto (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Vicenza_vs_Ospitaletto.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Vicenza vs Ospitaletto (15:30)
 https://dlhd.dad/watch.php?id=10
 
-#EXTINF:-1 tvg-id="italyseriecvicenzavsospitaletto" tvg-name="All Soccer Events | Italy - Serie C : Vicenza vs Ospitaletto (15:30)" tvg-logo="https://logodix.com/logo/2035272.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Vicenza vs Ospitaletto (15:30)
+#EXTINF:-1 tvg-id="italyseriecvicenzavsospitaletto" tvg-name="All Soccer Events | Italy - Serie C : Vicenza vs Ospitaletto (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Vicenza_vs_Ospitaletto.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Vicenza vs Ospitaletto (15:30)
 https://dlhd.dad/watch.php?id=460
 
 #EXTINF:-1 tvg-id="italyseriecgianaerminiovsrenate" tvg-name="All Soccer Events | Italy - Serie C : Giana Erminio vs Renate (15:30)" tvg-logo="https://uploads.minesite.org/sites/119/uploads/151/general/644c3d00-388c-d790-087e-827f60e55ee9/default/renatelogo2.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Giana Erminio vs Renate (15:30)
@@ -794,16 +790,16 @@ https://dlhd.dad/watch.php?id=461
 #EXTINF:-1 tvg-id="italyserieaatalantavstorino" tvg-name="All Soccer Events | Italy - Serie A : Atalanta vs Torino (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Atalanta_vs_Torino.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Atalanta vs Torino (21:45)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="atpbrisbanewta500brisbane" tvg-name="Tennis | ATP Brisbane / WTA 500 Brisbane (07:00)" tvg-logo="https://do3z7e6uuakno.cloudfront.net/uploads/account/logo/1014148/display_db7280861f5896a39f3596e841d14df0.png" group-title="Eventi Live DLHD",Tennis | ATP Brisbane / WTA 500 Brisbane (07:00)
+#EXTINF:-1 tvg-id="atpbrisbanewta500brisbane" tvg-name="Tennis | ATP Brisbane / WTA 500 Brisbane (07:00)" tvg-logo="https://humanbiology.pressbooks.tru.ca/wp-content/uploads/sites/6/2019/06/ATP-for-energy-844x1024.png" group-title="Eventi Live DLHD",Tennis | ATP Brisbane / WTA 500 Brisbane (07:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="atpbrisbanewta500brisbanesemifinals" tvg-name="Tennis | ATP Brisbane / WTA500 Brisbane Semi-Finals (03:00)" tvg-logo="https://brisbanesportsphysio.com.au/wp-content/uploads/2025/04/Brisbane-Sports-Physio-Logo.png" group-title="Eventi Live DLHD",Tennis | ATP Brisbane / WTA500 Brisbane Semi-Finals (03:00)
+#EXTINF:-1 tvg-id="atpbrisbanewta500brisbanesemifinals" tvg-name="Tennis | ATP Brisbane / WTA500 Brisbane Semi-Finals (03:00)" tvg-logo="https://humanbiology.pressbooks.tru.ca/wp-content/uploads/sites/6/2019/06/ATP-for-energy-844x1024.png" group-title="Eventi Live DLHD",Tennis | ATP Brisbane / WTA500 Brisbane Semi-Finals (03:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="worldcupcompetitioninadelboden1strunofmensgiantslalom" tvg-name="Alpine Ski | World Cup Competition in Adelboden 1st run of men's giant slalom (11:00)" tvg-logo="https://iconape.com/wp-content/png_logo_vector/adelboden-fis-ski-world-cup-2006-logo.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup Competition in Adelboden 1st run of men's giant slalom (11:00)
+#EXTINF:-1 tvg-id="worldcupcompetitioninadelboden1strunofmensgiantslalom" tvg-name="Alpine Ski | World Cup Competition in Adelboden 1st run of men's giant slalom (11:00)" tvg-logo="https://sn00p.files.wordpress.com/2007/05/revworld.gif" group-title="Eventi Live DLHD",Alpine Ski | World Cup Competition in Adelboden 1st run of men's giant slalom (11:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="worldcupcompetitioninadelboden2ndrunofmensgiantslalom" tvg-name="Alpine Ski | World Cup Competition in Adelboden 2nd run of men's giant slalom (14:15)" tvg-logo="https://iconape.com/wp-content/png_logo_vector/adelboden-fis-ski-world-cup-2006-logo.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup Competition in Adelboden 2nd run of men's giant slalom (14:15)
+#EXTINF:-1 tvg-id="worldcupcompetitioninadelboden2ndrunofmensgiantslalom" tvg-name="Alpine Ski | World Cup Competition in Adelboden 2nd run of men's giant slalom (14:15)" tvg-logo="https://sn00p.files.wordpress.com/2007/05/revworld.gif" group-title="Eventi Live DLHD",Alpine Ski | World Cup Competition in Adelboden 2nd run of men's giant slalom (14:15)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="ibuworldcupoberhofwomen4x6kmrelaycompetition" tvg-name="Biathlon | IBU World Cup Oberhof Women 4x6 km Relay Competition (12:45)" tvg-logo="https://scope.ibu.at/IBUofficiallogo.svg.png" group-title="Eventi Live DLHD",Biathlon | IBU World Cup Oberhof Women 4x6 km Relay Competition (12:45)
