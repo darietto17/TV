@@ -380,6 +380,8 @@ https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN ACTION MOVIES
+https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN COMEDY MOVIES
 https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN DRAMA
@@ -521,6 +523,8 @@ https://dlhd.dad/watch.php?id=872
 https://dlhd.dad/watch.php?id=873
 #EXTINF:-1 tvg-id="sky.sport..254.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png" group-title="Sport",SKY SPORT 254 (D)
 https://dlhd.dad/watch.php?id=874
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
+https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",SKY SPORT BASKET (D)
@@ -752,10 +756,10 @@ https://dlhd.dad/watch.php?id=11
 #EXTINF:-1 tvg-id="italyseriecathleticcarpivspianese" tvg-name="Soccer | Italy - Serie C : Athletic Carpi vs Pianese (15:30)" tvg-logo="https://cmsv2-assets.apptegy.net/uploads/24469/logo/27282/Springfield_MS_Logo.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Athletic Carpi vs Pianese (15:30)
 https://dlhd.dad/watch.php?id=12
 
-#EXTINF:-1 tvg-id="italyserieccataniavscavese" tvg-name="Soccer | Italy - Serie C : Catania vs Cavese (15:30)" tvg-logo="https://www.shuttledirect.com/blog/wp-content/uploads/2017/12/Catania_Plaza-Principal.jpg" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Catania vs Cavese (15:30)
+#EXTINF:-1 tvg-id="italyserieccataniavscavese" tvg-name="Soccer | Italy - Serie C : Catania vs Cavese (15:30)" tvg-logo="https://a.cdn-hotels.com/gdcs/production131/d964/ccc88bec-c974-47d9-89aa-81053893c8fc.jpg" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Catania vs Cavese (15:30)
 https://dlhd.dad/watch.php?id=13
 
-#EXTINF:-1 tvg-id="italyserieccataniavscavese" tvg-name="Soccer | Italy - Serie C : Catania vs Cavese (15:30)" tvg-logo="https://www.shuttledirect.com/blog/wp-content/uploads/2017/12/Catania_Plaza-Principal.jpg" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Catania vs Cavese (15:30)
+#EXTINF:-1 tvg-id="italyserieccataniavscavese" tvg-name="Soccer | Italy - Serie C : Catania vs Cavese (15:30)" tvg-logo="https://a.cdn-hotels.com/gdcs/production131/d964/ccc88bec-c974-47d9-89aa-81053893c8fc.jpg" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Catania vs Cavese (15:30)
 https://dlhd.dad/watch.php?id=870
 
 #EXTINF:-1 tvg-id="italyseriecmonopolivssiracusa" tvg-name="Soccer | Italy - Serie C : Monopoli vs Siracusa (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Monopoli_vs_Siracusa.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Monopoli vs Siracusa (15:30)
@@ -806,7 +810,7 @@ https://dlhd.dad/watch.php?id=878
 #EXTINF:-1 tvg-id="worldcupcompetitioninadelboden1strunofmensslalom" tvg-name="Alpine Ski | World Cup Competition in Adelboden 1st run of men's slalom (11:15)" tvg-logo="https://cdn-icons-png.flaticon.com/512/3677/3677551.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup Competition in Adelboden 1st run of men's slalom (11:15)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="worldcupcompetitioninaltenmarktzauchenseewomenssuperg" tvg-name="Alpine Ski | World Cup Competition in Altenmarkt-Zauchensee women's super-G (12:45)" tvg-logo="https://static.wixstatic.com/media/ad3aa5_cb17e61b728b45cc928b3249edd1f6b4~mv2.png/v1/crop/x_18,y_0,w_977,h_1000/fill/w_957,h_980,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/ad3aa5_cb17e61b728b45cc928b3249edd1f6b4~mv2.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup Competition in Altenmarkt-Zauchensee women's super-G (12:45)
+#EXTINF:-1 tvg-id="worldcupcompetitioninaltenmarktzauchenseewomenssuperg" tvg-name="Alpine Ski | World Cup Competition in Altenmarkt-Zauchensee women's super-G (12:45)" tvg-logo="https://crystalpng.com/wp-content/uploads/2023/10/cricket-worlcup-logo-india-2023.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup Competition in Altenmarkt-Zauchensee women's super-G (12:45)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="worldcupcompetitioninadelboden2ndrunofthemensslalom" tvg-name="Alpine Ski | World Cup Competition in Adelboden 2nd run of the men's slalom (14:15)" tvg-logo="https://cdn-icons-png.flaticon.com/512/3677/3677551.png" group-title="Eventi Live DLHD",Alpine Ski | World Cup Competition in Adelboden 2nd run of the men's slalom (14:15)
