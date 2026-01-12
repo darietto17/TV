@@ -1,3 +1,156 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="GermanyBundesligaStuttgartvsEintrachtFrankfurt">
+    <display-name>Germany - Bundesliga : Stuttgart vs Eintracht Frankfurt</display-name>
+  </channel>
+  <programme start="20260113000000 +0200" stop="20260113193000 +0200" channel="GermanyBundesligaStuttgartvsEintrachtFrankfurt">
+    <title lang="it">Inizia alle 19:30.</title>
+    <desc lang="it">Germany - Bundesliga : Stuttgart vs Eintracht Frankfurt.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260113193000 +0200" stop="20260113213000 +0200" channel="GermanyBundesligaStuttgartvsEintrachtFrankfurt">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Germany - Bundesliga : Stuttgart vs Eintracht Frankfurt</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="GermanyBundesligaBorussiaDortmundvsWerderBremen">
+    <display-name>Germany - Bundesliga : Borussia Dortmund vs Werder Bremen</display-name>
+  </channel>
+  <programme start="20260113000000 +0200" stop="20260113213000 +0200" channel="GermanyBundesligaBorussiaDortmundvsWerderBremen">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Germany - Bundesliga : Borussia Dortmund vs Werder Bremen.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260113213000 +0200" stop="20260113233000 +0200" channel="GermanyBundesligaBorussiaDortmundvsWerderBremen">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Germany - Bundesliga : Borussia Dortmund vs Werder Bremen</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <programme start="20260113000000 +0200" stop="20260113213000 +0200" channel="GermanyBundesligaBorussiaDortmundvsWerderBremen">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Germany - Bundesliga : Borussia Dortmund vs Werder Bremen.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260113213000 +0200" stop="20260113233000 +0200" channel="GermanyBundesligaBorussiaDortmundvsWerderBremen">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Germany - Bundesliga : Borussia Dortmund vs Werder Bremen</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="ItalyCoppaItaliaRomavsTorino">
+    <display-name>Italy - Coppa Italia : Roma vs Torino</display-name>
+  </channel>
+  <programme start="20260113000000 +0200" stop="20260113220000 +0200" channel="ItalyCoppaItaliaRomavsTorino">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Italy - Coppa Italia : Roma vs Torino.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260113220000 +0200" stop="20260114000000 +0200" channel="ItalyCoppaItaliaRomavsTorino">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Coppa Italia : Roma vs Torino</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="AustralianOpenQualifyingDay2">
+    <display-name>Australian Open | Qualifying | Day 2</display-name>
+  </channel>
+  <programme start="20260113000000 +0200" stop="20260113070000 +0200" channel="AustralianOpenQualifyingDay2">
+    <title lang="it">Inizia alle 07:00.</title>
+    <desc lang="it">Australian Open | Qualifying | Day 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260113070000 +0200" stop="20260113090000 +0200" channel="AustralianOpenQualifyingDay2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Australian Open | Qualifying | Day 2</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="AustralianOpenQualifyingDay3">
+    <display-name>Australian Open | Qualifying | Day 3</display-name>
+  </channel>
+  <programme start="20260114000000 +0200" stop="20260114010000 +0200" channel="AustralianOpenQualifyingDay3">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">Australian Open | Qualifying | Day 3.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260114010000 +0200" stop="20260114030000 +0200" channel="AustralianOpenQualifyingDay3">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Australian Open | Qualifying | Day 3</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="LondonMastersKyrenWilsonvsSiJiahui">
+    <display-name>London Masters : Kyren Wilson vs Si Jiahui</display-name>
+  </channel>
+  <programme start="20260113000000 +0200" stop="20260113150000 +0200" channel="LondonMastersKyrenWilsonvsSiJiahui">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">London Masters : Kyren Wilson vs Si Jiahui.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260113150000 +0200" stop="20260113170000 +0200" channel="LondonMastersKyrenWilsonvsSiJiahui">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">London Masters : Kyren Wilson vs Si Jiahui</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <channel id="LondonMastersJohnHigginsvsBarryHawkins">
+    <display-name>London Masters : John Higgins vs Barry Hawkins</display-name>
+  </channel>
+  <programme start="20260113000000 +0200" stop="20260113210000 +0200" channel="LondonMastersJohnHigginsvsBarryHawkins">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">London Masters : John Higgins vs Barry Hawkins.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260113210000 +0200" stop="20260113230000 +0200" channel="LondonMastersJohnHigginsvsBarryHawkins">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">London Masters : John Higgins vs Barry Hawkins</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <channel id="FlachauWomensSlalomWorldCupRun1">
+    <display-name>Flachau | Women's Slalom World Cup | Run 1</display-name>
+  </channel>
+  <programme start="20260113000000 +0200" stop="20260113183000 +0200" channel="FlachauWomensSlalomWorldCupRun1">
+    <title lang="it">Inizia alle 18:30.</title>
+    <desc lang="it">Flachau | Women's Slalom World Cup | Run 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260113183000 +0200" stop="20260113203000 +0200" channel="FlachauWomensSlalomWorldCupRun1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Flachau | Women's Slalom World Cup | Run 1</desc>
+    <category lang="it">Alpine Ski</category>
+  </programme>
+  <channel id="FlachauWomensSlalomWorldCupRun2">
+    <display-name>Flachau | Women's Slalom World Cup | Run 2</display-name>
+  </channel>
+  <programme start="20260113000000 +0200" stop="20260113213000 +0200" channel="FlachauWomensSlalomWorldCupRun2">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Flachau | Women's Slalom World Cup | Run 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260113213000 +0200" stop="20260113233000 +0200" channel="FlachauWomensSlalomWorldCupRun2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Flachau | Women's Slalom World Cup | Run 2</desc>
+    <category lang="it">Alpine Ski</category>
+  </programme>
+  <channel id="ChampionsLeagueWomenFenerbahceWvsNovaraW">
+    <display-name>Champions League Women : Fenerbahce W vs Novara W</display-name>
+  </channel>
+  <programme start="20260113000000 +0200" stop="20260113180000 +0200" channel="ChampionsLeagueWomenFenerbahceWvsNovaraW">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">Champions League Women : Fenerbahce W vs Novara W.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260113180000 +0200" stop="20260113200000 +0200" channel="ChampionsLeagueWomenFenerbahceWvsNovaraW">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Champions League Women : Fenerbahce W vs Novara W</desc>
+    <category lang="it">Volleyball</category>
+  </programme>
+  <channel id="BadGasteinParallelSlalomWorldCupDay1">
+    <display-name>Bad Gastein | Parallel Slalom World Cup | Day 1</display-name>
+  </channel>
+  <programme start="20260113000000 +0200" stop="20260113193000 +0200" channel="BadGasteinParallelSlalomWorldCupDay1">
+    <title lang="it">Inizia alle 19:30.</title>
+    <desc lang="it">Bad Gastein | Parallel Slalom World Cup | Day 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260113193000 +0200" stop="20260113213000 +0200" channel="BadGasteinParallelSlalomWorldCupDay1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Bad Gastein | Parallel Slalom World Cup | Day 1</desc>
+    <category lang="it">Winter Sports</category>
+  </programme>
 </tv>
