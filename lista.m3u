@@ -168,8 +168,6 @@ https://vavoo.to/vavoo-iptv/play/40604994550f228d5b9b59
 https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV
 https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
-https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS
@@ -207,6 +205,8 @@ https://vavoo.to/vavoo-iptv/play/14256673753de6371f2c50
 #EXTINF:-1 tvg-id="la.5.it" tvg-name="LA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Altro",LA 5 (MPD)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 
+#EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
+https://vavoo.to/vavoo-iptv/play/7755300630832713e7adb
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="" group-title="Altro",LA7 (D)
 https://dlhd.dad/watch.php?id=855
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",LA7D HD+ (D)
@@ -300,6 +300,8 @@ https://dlhd.dad/watch.php?id=852
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
 
+#EXTINF:-1 tvg-id="rai4.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Rai",RAI 4
+https://vavoo.to/vavoo-iptv/play/2179822223e6f7fefa408e
 #EXTINF:-1 tvg-id="rai4.it" tvg-name="RAI 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Rai",RAI 4 (MPD)
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
@@ -572,6 +574,10 @@ https://vavoo.to/vavoo-iptv/play/32202484989ac14421915
 https://dlhd.dad/watch.php?id=881
 
 # RAI
+#EXTINF:-1 tvg-id="sportitalia.it" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA
+https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA (BACKUP)
+https://vavoo.to/vavoo-iptv/play/3165086929ad0bcbc4fc19
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
 #EXTINF:-1 tvg-id="supertennis.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS
@@ -726,7 +732,7 @@ https://vavoo.to/vavoo-iptv/play/2989824407cb0184041b08
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyserieagenoavscagliari" tvg-name="Soccer | Italy - Serie A : Genoa vs Cagliari (19:30)" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/08/cagliari_logo.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Genoa vs Cagliari (19:30)
+#EXTINF:-1 tvg-id="italyserieagenoavscagliari" tvg-name="Soccer | Italy - Serie A : Genoa vs Cagliari (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Genoa_vs_Cagliari.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Genoa vs Cagliari (19:30)
 https://dlhd.dad/watch.php?id=877
 
 #EXTINF:-1 tvg-id="italyseriecsalernitanavscosenza" tvg-name="Soccer | Italy - Serie C : Salernitana vs Cosenza (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Salernitana_vs_Cosenza.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Salernitana vs Cosenza (21:30)
@@ -751,9 +757,6 @@ https://dlhd.dad/watch.php?id=6
 https://dlhd.dad/watch.php?id=870
 
 #EXTINF:-1 tvg-id="australianopenqualifyingday1" tvg-name="Tennis | Australian Open | Qualifying | Day 1 (07:00)" tvg-logo="https://english-battle.com/images/page/line_white.png" group-title="Eventi Live DLHD",Tennis | Australian Open | Qualifying | Day 1 (07:00)
-https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="adelaideopenday2session1" tvg-name="Tennis | Adelaide Open - Day 2 Session 1 (02:30)" tvg-logo="https://www.airlinepros.com/wp-content/uploads/2023/11/19th-nov-w.png" group-title="Eventi Live DLHD",Tennis | Adelaide Open - Day 2 Session 1 (02:30)
 https://dlhd.dad/watch.php?id=576
 
 #EXTINF:-1 tvg-id="londonmastersmarkwilliamsvsmarkallen" tvg-name="Snooker | London Masters : Mark Williams vs Mark Allen (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Mark Williams_vs_Mark Allen.png" group-title="Eventi Live DLHD",Snooker | London Masters : Mark Williams vs Mark Allen (15:00)
