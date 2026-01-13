@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="GermanyBundesligaStuttgartvsEintrachtFrankfurt">
-    <display-name>Germany - Bundesliga : Stuttgart vs Eintracht Frankfurt</display-name>
-  </channel>
-  <programme start="20260113000000 +0200" stop="20260113193000 +0200" channel="GermanyBundesligaStuttgartvsEintrachtFrankfurt">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">Germany - Bundesliga : Stuttgart vs Eintracht Frankfurt.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260113193000 +0200" stop="20260113213000 +0200" channel="GermanyBundesligaStuttgartvsEintrachtFrankfurt">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga : Stuttgart vs Eintracht Frankfurt</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="GermanyBundesligaBorussiaDortmundvsWerderBremen">
     <display-name>Germany - Bundesliga : Borussia Dortmund vs Werder Bremen</display-name>
   </channel>
@@ -87,18 +74,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Flachau | Women's Slalom World Cup | Run 2</desc>
     <category lang="it">Alpine Ski</category>
-  </programme>
-  <channel id="BadGasteinParallelSlalomWorldCupDay1">
-    <display-name>Bad Gastein | Parallel Slalom World Cup | Day 1</display-name>
-  </channel>
-  <programme start="20260113000000 +0200" stop="20260113193000 +0200" channel="BadGasteinParallelSlalomWorldCupDay1">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">Bad Gastein | Parallel Slalom World Cup | Day 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260113193000 +0200" stop="20260113213000 +0200" channel="BadGasteinParallelSlalomWorldCupDay1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Bad Gastein | Parallel Slalom World Cup | Day 1</desc>
-    <category lang="it">Winter Sports</category>
   </programme>
 </tv>
