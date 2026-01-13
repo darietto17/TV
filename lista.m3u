@@ -100,8 +100,6 @@ https://vavoo.to/vavoo-iptv/play/4137427510ef362e6435fc
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
 #EXTINF:-1 tvg-id="dazn.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN
 https://vavoo.to/vavoo-iptv/play/2745635299ab0cc043a143
-#EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV
-https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319
 #EXTINF:-1 tvg-id="discovery.channel.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL
 https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 #EXTINF:-1 tvg-id="focus.it" tvg-name="DISCOVERY FOCUS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Documentari",DISCOVERY FOCUS (MPD)
@@ -561,6 +559,8 @@ https://dlhd.dad/watch.php?id=461
 https://dlhd.dad/watch.php?id=574
 
 # MEDIASET
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SUPER TENNIS
+https://vavoo.to/vavoo-iptv/play/55828211836e421b20575
 #EXTINF:-1 tvg-id="sky.tg24.it" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="News",SKY TG 24
 https://vavoo.to/vavoo-iptv/play/3180571288b987548e3fe
 #EXTINF:-1 tvg-id="sky.tg24.it" tvg-name="SKY TG 24" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="News",SKY TG 24 (MPD)
@@ -574,8 +574,6 @@ https://dlhd.dad/watch.php?id=881
 # RAI
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA
 https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82
-#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA (BACKUP)
-https://vavoo.to/vavoo-iptv/play/3165086929ad0bcbc4fc19
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
 #EXTINF:-1 tvg-id="supertennis.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS
@@ -742,10 +740,7 @@ https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="italycoppaitaliaromavstorino" tvg-name="All Soccer Events | Italy - Coppa Italia : Roma vs Torino (22:00)" tvg-logo="https://torino.wordcamp.org/2023/files/2022/12/WCTRN_color_palette.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Coppa Italia : Roma vs Torino (22:00)
 https://dlhd.dad/watch.php?id=854
 
-#EXTINF:-1 tvg-id="australianopenqualifyingday2" tvg-name="Tennis | Australian Open | Qualifying | Day 2 (07:00)" tvg-logo="https://flowersnameinfo.com/wp-content/uploads/2023/07/Kangaroo-Paws-Yellow-Australian.png" group-title="Eventi Live DLHD",Tennis | Australian Open | Qualifying | Day 2 (07:00)
-https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="australianopenqualifyingday3" tvg-name="Tennis | Australian Open | Qualifying | Day 3 (01:00)" tvg-logo="https://flowersnameinfo.com/wp-content/uploads/2023/07/Kangaroo-Paws-Yellow-Australian.png" group-title="Eventi Live DLHD",Tennis | Australian Open | Qualifying | Day 3 (01:00)
+#EXTINF:-1 tvg-id="australianopenqualifyingday2" tvg-name="Tennis | Australian Open | Qualifying | Day 2 (07:00)" tvg-logo="https://english-battle.com/images/page/x_white.png" group-title="Eventi Live DLHD",Tennis | Australian Open | Qualifying | Day 2 (07:00)
 https://dlhd.dad/watch.php?id=576
 
 #EXTINF:-1 tvg-id="londonmasterskyrenwilsonvssijiahui" tvg-name="Snooker | London Masters : Kyren Wilson vs Si Jiahui (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Kyren Wilson_vs_Si Jiahui.png" group-title="Eventi Live DLHD",Snooker | London Masters : Kyren Wilson vs Si Jiahui (15:00)
