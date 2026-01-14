@@ -118,19 +118,6 @@
     <desc lang="it">Italy - Serie A : Internazionale vs Lecce</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="WTA500AdelaideWTA250Hobart">
-    <display-name>WTA 500 Adelaide / WTA 250 Hobart</display-name>
-  </channel>
-  <programme start="20260114000000 +0200" stop="20260114083000 +0200" channel="WTA500AdelaideWTA250Hobart">
-    <title lang="it">Inizia alle 08:30.</title>
-    <desc lang="it">WTA 500 Adelaide / WTA 250 Hobart.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260114083000 +0200" stop="20260114103000 +0200" channel="WTA500AdelaideWTA250Hobart">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA 500 Adelaide / WTA 250 Hobart</desc>
-    <category lang="it">Tennis</category>
-  </programme>
   <channel id="ATP250AdelaideATP250Auckland">
     <display-name>ATP 250 Adelaide / ATP 250 Auckland</display-name>
   </channel>
