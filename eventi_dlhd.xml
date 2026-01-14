@@ -1,78 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="GermanyBundesligaKlnvsBayernMnchen">
-    <display-name>Germany - Bundesliga : Köln vs Bayern München</display-name>
+  <channel id="ItalySerieAVeronavsBologna">
+    <display-name>Italy - Serie A : Verona vs Bologna</display-name>
   </channel>
-  <programme start="20260114000000 +0200" stop="20260114213000 +0200" channel="GermanyBundesligaKlnvsBayernMnchen">
-    <title lang="it">Inizia alle 21:30.</title>
-    <desc lang="it">Germany - Bundesliga : Köln vs Bayern München.</desc>
+  <programme start="20260115000000 +0200" stop="20260115193000 +0200" channel="ItalySerieAVeronavsBologna">
+    <title lang="it">Inizia alle 19:30.</title>
+    <desc lang="it">Italy - Serie A : Verona vs Bologna.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260114213000 +0200" stop="20260114233000 +0200" channel="GermanyBundesligaKlnvsBayernMnchen">
+  <programme start="20260115193000 +0200" stop="20260115213000 +0200" channel="ItalySerieAVeronavsBologna">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga : Köln vs Bayern München</desc>
-    <category lang="it">All Soccer Events</category>
+    <desc lang="it">Italy - Serie A : Verona vs Bologna</desc>
+    <category lang="it">Soccer</category>
   </programme>
-  <programme start="20260114000000 +0200" stop="20260114213000 +0200" channel="GermanyBundesligaKlnvsBayernMnchen">
-    <title lang="it">Inizia alle 21:30.</title>
-    <desc lang="it">Germany - Bundesliga : Köln vs Bayern München.</desc>
+  <programme start="20260115000000 +0200" stop="20260115193000 +0200" channel="ItalySerieAVeronavsBologna">
+    <title lang="it">Inizia alle 19:30.</title>
+    <desc lang="it">Italy - Serie A : Verona vs Bologna.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260114213000 +0200" stop="20260114233000 +0200" channel="GermanyBundesligaKlnvsBayernMnchen">
+  <programme start="20260115193000 +0200" stop="20260115213000 +0200" channel="ItalySerieAVeronavsBologna">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga : Köln vs Bayern München</desc>
-    <category lang="it">All Soccer Events</category>
+    <desc lang="it">Italy - Serie A : Verona vs Bologna</desc>
+    <category lang="it">Soccer</category>
   </programme>
-  <channel id="ItalySerieAInternazionalevsLecce">
-    <display-name>Italy - Serie A : Internazionale vs Lecce</display-name>
+  <channel id="BundesligaAugsburgvsUnionBerlin">
+    <display-name>Bundesliga : Augsburg vs Union Berlin</display-name>
   </channel>
-  <programme start="20260114000000 +0200" stop="20260114214500 +0200" channel="ItalySerieAInternazionalevsLecce">
+  <programme start="20260115000000 +0200" stop="20260115213000 +0200" channel="BundesligaAugsburgvsUnionBerlin">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Bundesliga : Augsburg vs Union Berlin.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260115213000 +0200" stop="20260115233000 +0200" channel="BundesligaAugsburgvsUnionBerlin">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Bundesliga : Augsburg vs Union Berlin</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieAComovsMilan">
+    <display-name>Italy - Serie A : Como vs Milan</display-name>
+  </channel>
+  <programme start="20260115000000 +0200" stop="20260115214500 +0200" channel="ItalySerieAComovsMilan">
     <title lang="it">Inizia alle 21:45.</title>
-    <desc lang="it">Italy - Serie A : Internazionale vs Lecce.</desc>
+    <desc lang="it">Italy - Serie A : Como vs Milan.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260114214500 +0200" stop="20260114234500 +0200" channel="ItalySerieAInternazionalevsLecce">
+  <programme start="20260115214500 +0200" stop="20260115234500 +0200" channel="ItalySerieAComovsMilan">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Internazionale vs Lecce</desc>
-    <category lang="it">All Soccer Events</category>
+    <desc lang="it">Italy - Serie A : Como vs Milan</desc>
+    <category lang="it">Soccer</category>
   </programme>
-  <channel id="ATP250AdelaideATP250Auckland">
-    <display-name>ATP 250 Adelaide / ATP 250 Auckland</display-name>
+  <channel id="ATP250AucklandQuarterfinal">
+    <display-name>ATP 250 Auckland | Quarter-final</display-name>
   </channel>
-  <programme start="20260115000000 +0200" stop="20260115004500 +0200" channel="ATP250AdelaideATP250Auckland">
-    <title lang="it">Inizia alle 00:45.</title>
-    <desc lang="it">ATP 250 Adelaide / ATP 250 Auckland.</desc>
+  <programme start="20260115000000 +0200" stop="20260115043000 +0200" channel="ATP250AucklandQuarterfinal">
+    <title lang="it">Inizia alle 04:30.</title>
+    <desc lang="it">ATP 250 Auckland | Quarter-final.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260115004500 +0200" stop="20260115024500 +0200" channel="ATP250AdelaideATP250Auckland">
+  <programme start="20260115043000 +0200" stop="20260115063000 +0200" channel="ATP250AucklandQuarterfinal">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP 250 Adelaide / ATP 250 Auckland</desc>
+    <desc lang="it">ATP 250 Auckland | Quarter-final</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="LondonMastersNeilRobertsonvsRonnieOSullivan">
-    <display-name>London Masters : Neil Robertson vs Ronnie O'Sullivan</display-name>
+  <channel id="WTA500AdelaideWTA250Hobart">
+    <display-name>WTA 500 Adelaide / WTA 250 Hobart</display-name>
   </channel>
-  <programme start="20260114000000 +0200" stop="20260114210000 +0200" channel="LondonMastersNeilRobertsonvsRonnieOSullivan">
-    <title lang="it">Inizia alle 21:00.</title>
-    <desc lang="it">London Masters : Neil Robertson vs Ronnie O'Sullivan.</desc>
+  <programme start="20260115000000 +0200" stop="20260115083000 +0200" channel="WTA500AdelaideWTA250Hobart">
+    <title lang="it">Inizia alle 08:30.</title>
+    <desc lang="it">WTA 500 Adelaide / WTA 250 Hobart.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260114210000 +0200" stop="20260114230000 +0200" channel="LondonMastersNeilRobertsonvsRonnieOSullivan">
+  <programme start="20260115083000 +0200" stop="20260115103000 +0200" channel="WTA500AdelaideWTA250Hobart">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">London Masters : Neil Robertson vs Ronnie O'Sullivan</desc>
+    <desc lang="it">WTA 500 Adelaide / WTA 250 Hobart</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="LondonMastersQuarterFinalAfternoonSession">
+    <display-name>London Masters | Quarter-Final | Afternoon Session</display-name>
+  </channel>
+  <programme start="20260115000000 +0200" stop="20260115150000 +0200" channel="LondonMastersQuarterFinalAfternoonSession">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">London Masters | Quarter-Final | Afternoon Session.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260115150000 +0200" stop="20260115170000 +0200" channel="LondonMastersQuarterFinalAfternoonSession">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">London Masters | Quarter-Final | Afternoon Session</desc>
     <category lang="it">Snooker</category>
   </programme>
-  <channel id="SerieA1ModenavsTrentino">
-    <display-name>Serie A1 : Modena vs Trentino</display-name>
+  <channel id="LondonMastersQuarterFinalEveningSession">
+    <display-name>London Masters | Quarter-Final | Evening Session</display-name>
   </channel>
-  <programme start="20260114000000 +0200" stop="20260114213000 +0200" channel="SerieA1ModenavsTrentino">
-    <title lang="it">Inizia alle 21:30.</title>
-    <desc lang="it">Serie A1 : Modena vs Trentino.</desc>
+  <programme start="20260115000000 +0200" stop="20260115210000 +0200" channel="LondonMastersQuarterFinalEveningSession">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">London Masters | Quarter-Final | Evening Session.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260114213000 +0200" stop="20260114233000 +0200" channel="SerieA1ModenavsTrentino">
+  <programme start="20260115210000 +0200" stop="20260115230000 +0200" channel="LondonMastersQuarterFinalEveningSession">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Serie A1 : Modena vs Trentino</desc>
-    <category lang="it">Volleyball</category>
+    <desc lang="it">London Masters | Quarter-Final | Evening Session</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <channel id="RuhpoldingMensRelayWorldCup">
+    <display-name>Ruhpolding | Men's Relay World Cup</display-name>
+  </channel>
+  <programme start="20260115000000 +0200" stop="20260115151500 +0200" channel="RuhpoldingMensRelayWorldCup">
+    <title lang="it">Inizia alle 15:15.</title>
+    <desc lang="it">Ruhpolding | Men's Relay World Cup.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260115151500 +0200" stop="20260115171500 +0200" channel="RuhpoldingMensRelayWorldCup">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Ruhpolding | Men's Relay World Cup</desc>
+    <category lang="it">Biathlon</category>
+  </programme>
+  <channel id="EuropeanChampionshipMenShortProgramSheffield">
+    <display-name>European Championship | Men | Short Program Sheffield</display-name>
+  </channel>
+  <programme start="20260115000000 +0200" stop="20260115151500 +0200" channel="EuropeanChampionshipMenShortProgramSheffield">
+    <title lang="it">Inizia alle 15:15.</title>
+    <desc lang="it">European Championship | Men | Short Program Sheffield.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260115151500 +0200" stop="20260115171500 +0200" channel="EuropeanChampionshipMenShortProgramSheffield">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">European Championship | Men | Short Program Sheffield</desc>
+    <category lang="it">Ice Skating</category>
+  </programme>
+  <channel id="EuropeanChampionshipsWomenShortProgramSheffield">
+    <display-name>European Championships | Women | Short Program Sheffield</display-name>
+  </channel>
+  <programme start="20260115000000 +0200" stop="20260115164500 +0200" channel="EuropeanChampionshipsWomenShortProgramSheffield">
+    <title lang="it">Inizia alle 16:45.</title>
+    <desc lang="it">European Championships | Women | Short Program Sheffield.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260115164500 +0200" stop="20260115184500 +0200" channel="EuropeanChampionshipsWomenShortProgramSheffield">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">European Championships | Women | Short Program Sheffield</desc>
+    <category lang="it">Ice Skating</category>
+  </programme>
+  <channel id="EuropeanChampionshipsMixedPairsFreeProgramSheffield">
+    <display-name>European Championships | Mixed Pairs | Free Program Sheffield</display-name>
+  </channel>
+  <programme start="20260115000000 +0200" stop="20260115205500 +0200" channel="EuropeanChampionshipsMixedPairsFreeProgramSheffield">
+    <title lang="it">Inizia alle 20:55.</title>
+    <desc lang="it">European Championships | Mixed Pairs | Free Program Sheffield.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260115205500 +0200" stop="20260115225500 +0200" channel="EuropeanChampionshipsMixedPairsFreeProgramSheffield">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">European Championships | Mixed Pairs | Free Program Sheffield</desc>
+    <category lang="it">Ice Skating</category>
+  </programme>
+  <channel id="EuropeanWaterPoloChampionshipsRomaniavsItaly">
+    <display-name>European Water Polo Championships : Romania vs Italy</display-name>
+  </channel>
+  <programme start="20260115000000 +0200" stop="20260115161500 +0200" channel="EuropeanWaterPoloChampionshipsRomaniavsItaly">
+    <title lang="it">Inizia alle 16:15.</title>
+    <desc lang="it">European Water Polo Championships : Romania vs Italy.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260115161500 +0200" stop="20260115181500 +0200" channel="EuropeanWaterPoloChampionshipsRomaniavsItaly">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">European Water Polo Championships : Romania vs Italy</desc>
+    <category lang="it">Water polo</category>
+  </programme>
+  <channel id="WorldCupCourchevelSprintRace">
+    <display-name>World Cup Courchevel | Sprint Race</display-name>
+  </channel>
+  <programme start="20260115000000 +0200" stop="20260115140000 +0200" channel="WorldCupCourchevelSprintRace">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">World Cup Courchevel | Sprint Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260115140000 +0200" stop="20260115160000 +0200" channel="WorldCupCourchevelSprintRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Cup Courchevel | Sprint Race</desc>
+    <category lang="it">Winter Sports</category>
   </programme>
 </tv>

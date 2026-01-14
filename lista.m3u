@@ -164,6 +164,8 @@ https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6
 https://vavoo.to/vavoo-iptv/play/130018905764f20a1f9289
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV
 https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
+https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS
@@ -706,18 +708,6 @@ https://vavoo.to/vavoo-iptv/play/28498110272b8770fe20cb
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italycoppaitaliaseriecternanavspotenzacalcio" tvg-name="All Soccer Events | Italy - Coppa Italia Serie C : Ternana vs Potenza Calcio (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ternana_vs_Potenza Calcio.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Coppa Italia Serie C : Ternana vs Potenza Calcio (19:00)
-https://dlhd.dad/watch.php?id=3
-
-#EXTINF:-1 tvg-id="italycoppaitaliaseriecternanavspotenzacalcio" tvg-name="All Soccer Events | Italy - Coppa Italia Serie C : Ternana vs Potenza Calcio (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ternana_vs_Potenza Calcio.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Coppa Italia Serie C : Ternana vs Potenza Calcio (19:00)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="italyserieanapolivsparma" tvg-name="All Soccer Events | Italy - Serie A : Napoli vs Parma (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Napoli_vs_Parma.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Napoli vs Parma (19:30)
-https://dlhd.dad/watch.php?id=877
-
-#EXTINF:-1 tvg-id="germanybundesligawolfsburgvsstpauli" tvg-name="All Soccer Events | Germany - Bundesliga : Wolfsburg vs St. Pauli (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Wolfsburg_vs_St. Pauli.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Wolfsburg vs St. Pauli (19:30)
-https://dlhd.dad/watch.php?id=870
-
 #EXTINF:-1 tvg-id="germanybundesligakölnvsbayernmünchen" tvg-name="All Soccer Events | Germany - Bundesliga : Köln vs Bayern München (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Köln_vs_Bayern München.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Köln vs Bayern München (21:30)
 https://dlhd.dad/watch.php?id=460
 
@@ -729,9 +719,6 @@ https://dlhd.dad/watch.php?id=877
 
 #EXTINF:-1 tvg-id="londonmastersneilrobertsonvsronnieosullivan" tvg-name="Snooker | London Masters : Neil Robertson vs Ronnie O'Sullivan (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Neil Robertson_vs_Ronnie O'Sullivan.png" group-title="Eventi Live DLHD",Snooker | London Masters : Neil Robertson vs Ronnie O'Sullivan (21:00)
 https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="figureskatingeuropeanchampionshipsshortprogramofsoloists" tvg-name="Ice Skating | Figure Skating: European Championships - short program of soloists (19:00)" tvg-logo="https://www.usfigureskating.org/sites/default/files/styles/person_image_large/public/media-library/USFig-V-box.png?itok=4IGGx5AI" group-title="Eventi Live DLHD",Ice Skating | Figure Skating: European Championships - short program of soloists (19:00)
-https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="seriea1modenavstrentino" tvg-name="Volleyball | Serie A1 : Modena vs Trentino (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Modena_vs_Trentino.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 : Modena vs Trentino (21:30)
 https://dlhd.dad/watch.php?id=882
