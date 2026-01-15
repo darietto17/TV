@@ -140,17 +140,4 @@
     <desc lang="it">European Water Polo Championships : Romania vs Italy</desc>
     <category lang="it">Water polo</category>
   </programme>
-  <channel id="WorldCupCourchevelSprintRace">
-    <display-name>World Cup Courchevel | Sprint Race</display-name>
-  </channel>
-  <programme start="20260115000000 +0200" stop="20260115140000 +0200" channel="WorldCupCourchevelSprintRace">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">World Cup Courchevel | Sprint Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260115140000 +0200" stop="20260115160000 +0200" channel="WorldCupCourchevelSprintRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Courchevel | Sprint Race</desc>
-    <category lang="it">Winter Sports</category>
-  </programme>
 </tv>
