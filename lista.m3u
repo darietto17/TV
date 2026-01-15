@@ -96,6 +96,8 @@ https://vavoo.to/vavoo-iptv/play/4137427510ef362e6435fc
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",DAZN (MATCH TIME)
 https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439
+#EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV
+https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319
 #EXTINF:-1 tvg-id="discovery.channel.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL
 https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 #EXTINF:-1 tvg-id="focus.it" tvg-name="DISCOVERY FOCUS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Documentari",DISCOVERY FOCUS (MPD)
@@ -489,6 +491,8 @@ https://vavoo.to/vavoo-iptv/play/17532606771304e2497369
 # SPORT
 #EXTINF:-1 tvg-id="sky.serie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film - Serie TV",SKY SERIE (D)
 https://dlhd.dad/watch.php?id=880
+#EXTINF:-1 tvg-id="skysport.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport",SKY SPORT
+https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20
 #EXTINF:-1 tvg-id="sky.sport.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 (D)
 https://dlhd.dad/watch.php?id=869
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY]
@@ -708,20 +712,47 @@ https://vavoo.to/vavoo-iptv/play/28498110272b8770fe20cb
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="germanybundesligakölnvsbayernmünchen" tvg-name="All Soccer Events | Germany - Bundesliga : Köln vs Bayern München (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Köln_vs_Bayern München.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Köln vs Bayern München (21:30)
-https://dlhd.dad/watch.php?id=460
-
-#EXTINF:-1 tvg-id="germanybundesligakölnvsbayernmünchen" tvg-name="All Soccer Events | Germany - Bundesliga : Köln vs Bayern München (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Köln_vs_Bayern München.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Köln vs Bayern München (21:30)
-https://dlhd.dad/watch.php?id=870
-
-#EXTINF:-1 tvg-id="italyserieainternazionalevslecce" tvg-name="All Soccer Events | Italy - Serie A : Internazionale vs Lecce (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Internazionale_vs_Lecce.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Internazionale vs Lecce (21:45)
+#EXTINF:-1 tvg-id="italyserieaveronavsbologna" tvg-name="Soccer | Italy - Serie A : Verona vs Bologna (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Verona_vs_Bologna.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Verona vs Bologna (19:30)
 https://dlhd.dad/watch.php?id=877
 
-#EXTINF:-1 tvg-id="londonmastersneilrobertsonvsronnieosullivan" tvg-name="Snooker | London Masters : Neil Robertson vs Ronnie O'Sullivan (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Neil Robertson_vs_Ronnie O'Sullivan.png" group-title="Eventi Live DLHD",Snooker | London Masters : Neil Robertson vs Ronnie O'Sullivan (21:00)
+#EXTINF:-1 tvg-id="italyserieaveronavsbologna" tvg-name="Soccer | Italy - Serie A : Verona vs Bologna (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Verona_vs_Bologna.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Verona vs Bologna (19:30)
+https://dlhd.dad/watch.php?id=870
+
+#EXTINF:-1 tvg-id="bundesligaaugsburgvsunionberlin" tvg-name="Soccer | Bundesliga : Augsburg vs Union Berlin (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Augsburg_vs_Union Berlin.png" group-title="Eventi Live DLHD",Soccer | Bundesliga : Augsburg vs Union Berlin (21:30)
+https://dlhd.dad/watch.php?id=870
+
+#EXTINF:-1 tvg-id="italyserieacomovsmilan" tvg-name="Soccer | Italy - Serie A : Como vs Milan (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Como_vs_Milan.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Como vs Milan (21:45)
+https://dlhd.dad/watch.php?id=877
+
+#EXTINF:-1 tvg-id="atp250aucklandquarterfinal" tvg-name="Tennis | ATP 250 Auckland | Quarter-final (04:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Tennis | ATP 250 Auckland | Quarter-final (04:30)
+https://dlhd.dad/watch.php?id=576
+
+#EXTINF:-1 tvg-id="wta500adelaidewta250hobart" tvg-name="Tennis | WTA 500 Adelaide / WTA 250 Hobart (08:30)" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/wta-logo.png" group-title="Eventi Live DLHD",Tennis | WTA 500 Adelaide / WTA 250 Hobart (08:30)
+https://dlhd.dad/watch.php?id=576
+
+#EXTINF:-1 tvg-id="londonmastersquarterfinalafternoonsession" tvg-name="Snooker | London Masters | Quarter-Final | Afternoon Session (15:00)" tvg-logo="https://www.worldteamscrabble.com/wtsc.png" group-title="Eventi Live DLHD",Snooker | London Masters | Quarter-Final | Afternoon Session (15:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="seriea1modenavstrentino" tvg-name="Volleyball | Serie A1 : Modena vs Trentino (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Modena_vs_Trentino.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 : Modena vs Trentino (21:30)
+#EXTINF:-1 tvg-id="londonmastersquarterfinaleveningsession" tvg-name="Snooker | London Masters | Quarter-Final | Evening Session (21:00)" tvg-logo="https://www.worldteamscrabble.com/wtsc.png" group-title="Eventi Live DLHD",Snooker | London Masters | Quarter-Final | Evening Session (21:00)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="ruhpoldingmensrelayworldcup" tvg-name="Biathlon | Ruhpolding | Men's Relay World Cup (15:15)" tvg-logo="https://assets.website-files.com/5b46eb3876d89c1dc05d5cc8/5fc114bbb30cf953127b00af_Bachmann_tiny.png" group-title="Eventi Live DLHD",Biathlon | Ruhpolding | Men's Relay World Cup (15:15)
+https://dlhd.dad/watch.php?id=879
+
+#EXTINF:-1 tvg-id="europeanchampionshipmenshortprogramsheffield" tvg-name="Ice Skating | European Championship | Men | Short Program Sheffield (15:15)" tvg-logo="https://assets.unileversolutions.com/v1/795685.png" group-title="Eventi Live DLHD",Ice Skating | European Championship | Men | Short Program Sheffield (15:15)
+https://dlhd.dad/watch.php?id=879
+
+#EXTINF:-1 tvg-id="europeanchampionshipswomenshortprogramsheffield" tvg-name="Ice Skating | European Championships | Women | Short Program Sheffield (16:45)" tvg-logo="https://amillionwomen.org/wp-content/uploads/logo-1.png" group-title="Eventi Live DLHD",Ice Skating | European Championships | Women | Short Program Sheffield (16:45)
+https://dlhd.dad/watch.php?id=879
+
+#EXTINF:-1 tvg-id="europeanchampionshipsmixedpairsfreeprogramsheffield" tvg-name="Ice Skating | European Championships | Mixed Pairs | Free Program Sheffield (20:55)" tvg-logo="https://bowlseurope.com/wp-content/uploads/European-Championships-2024-Logo-300-Png-1.png" group-title="Eventi Live DLHD",Ice Skating | European Championships | Mixed Pairs | Free Program Sheffield (20:55)
+https://dlhd.dad/watch.php?id=879
+
+#EXTINF:-1 tvg-id="europeanwaterpolochampionshipsromaniavsitaly" tvg-name="Water polo | European Water Polo Championships : Romania vs Italy (16:15)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Romania_vs_Italy.png" group-title="Eventi Live DLHD",Water polo | European Water Polo Championships : Romania vs Italy (16:15)
 https://dlhd.dad/watch.php?id=882
+
+#EXTINF:-1 tvg-id="worldcupcourchevelsprintrace" tvg-name="Winter Sports | World Cup Courchevel | Sprint Race (14:00)" tvg-logo="https://static.sky.it/images/skysport/it/motori/formula-1/piloti/max-verstappen.png.transform/original/1761314400000/img.jpg" group-title="Eventi Live DLHD",Winter Sports | World Cup Courchevel | Sprint Race (14:00)
+https://dlhd.dad/watch.php?id=879
 
 
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",YeÅil Yalova x Gaziantep FK 11:00
