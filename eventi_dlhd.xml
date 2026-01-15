@@ -49,19 +49,6 @@
     <desc lang="it">Italy - Serie A : Como vs Milan</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="ATP250AucklandQuarterfinal">
-    <display-name>ATP 250 Auckland | Quarter-final</display-name>
-  </channel>
-  <programme start="20260115000000 +0200" stop="20260115043000 +0200" channel="ATP250AucklandQuarterfinal">
-    <title lang="it">Inizia alle 04:30.</title>
-    <desc lang="it">ATP 250 Auckland | Quarter-final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260115043000 +0200" stop="20260115063000 +0200" channel="ATP250AucklandQuarterfinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP 250 Auckland | Quarter-final</desc>
-    <category lang="it">Tennis</category>
-  </programme>
   <channel id="WTA500AdelaideWTA250Hobart">
     <display-name>WTA 500 Adelaide / WTA 250 Hobart</display-name>
   </channel>
