@@ -1,3 +1,212 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="GermanyBundesligaWerderBremenvsEintrachtFrankfurt">
+    <display-name>Germany - Bundesliga : Werder Bremen vs Eintracht Frankfurt</display-name>
+  </channel>
+  <programme start="20260116000000 +0200" stop="20260116213000 +0200" channel="GermanyBundesligaWerderBremenvsEintrachtFrankfurt">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Germany - Bundesliga : Werder Bremen vs Eintracht Frankfurt.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260116213000 +0200" stop="20260116233000 +0200" channel="GermanyBundesligaWerderBremenvsEintrachtFrankfurt">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Germany - Bundesliga : Werder Bremen vs Eintracht Frankfurt</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCVisPesarovsArezzo">
+    <display-name>Italy - Serie C : Vis Pesaro vs Arezzo</display-name>
+  </channel>
+  <programme start="20260116000000 +0200" stop="20260116213000 +0200" channel="ItalySerieCVisPesarovsArezzo">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Vis Pesaro vs Arezzo.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260116213000 +0200" stop="20260116233000 +0200" channel="ItalySerieCVisPesarovsArezzo">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Vis Pesaro vs Arezzo</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20260116000000 +0200" stop="20260116213000 +0200" channel="ItalySerieCVisPesarovsArezzo">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Vis Pesaro vs Arezzo.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260116213000 +0200" stop="20260116233000 +0200" channel="ItalySerieCVisPesarovsArezzo">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Vis Pesaro vs Arezzo</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCCavesevsTeamAltamura">
+    <display-name>Italy - Serie C : Cavese vs Team Altamura</display-name>
+  </channel>
+  <programme start="20260116000000 +0200" stop="20260116213000 +0200" channel="ItalySerieCCavesevsTeamAltamura">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Cavese vs Team Altamura.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260116213000 +0200" stop="20260116233000 +0200" channel="ItalySerieCCavesevsTeamAltamura">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Cavese vs Team Altamura</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieAPisavsAtalanta">
+    <display-name>Italy - Serie A : Pisa vs Atalanta</display-name>
+  </channel>
+  <programme start="20260116000000 +0200" stop="20260116214500 +0200" channel="ItalySerieAPisavsAtalanta">
+    <title lang="it">Inizia alle 21:45.</title>
+    <desc lang="it">Italy - Serie A : Pisa vs Atalanta.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260116214500 +0200" stop="20260116234500 +0200" channel="ItalySerieAPisavsAtalanta">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie A : Pisa vs Atalanta</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20260116000000 +0200" stop="20260116214500 +0200" channel="ItalySerieAPisavsAtalanta">
+    <title lang="it">Inizia alle 21:45.</title>
+    <desc lang="it">Italy - Serie A : Pisa vs Atalanta.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260116214500 +0200" stop="20260116234500 +0200" channel="ItalySerieAPisavsAtalanta">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie A : Pisa vs Atalanta</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="FranceLigue1PSGvsLille">
+    <display-name>France - Ligue 1 : PSG vs Lille</display-name>
+  </channel>
+  <programme start="20260116000000 +0200" stop="20260116220000 +0200" channel="FranceLigue1PSGvsLille">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">France - Ligue 1 : PSG vs Lille.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260116220000 +0200" stop="20260117000000 +0200" channel="FranceLigue1PSGvsLille">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">France - Ligue 1 : PSG vs Lille</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="WTATournamentinAdelaidesinglesfinalmatch">
+    <display-name>WTA Tournament in Adelaide singles final match</display-name>
+  </channel>
+  <programme start="20260116000000 +0200" stop="20260116040000 +0200" channel="WTATournamentinAdelaidesinglesfinalmatch">
+    <title lang="it">Inizia alle 04:00.</title>
+    <desc lang="it">WTA Tournament in Adelaide singles final match.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260116040000 +0200" stop="20260116060000 +0200" channel="WTATournamentinAdelaidesinglesfinalmatch">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">WTA Tournament in Adelaide singles final match</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="WTAHobartTournament2026">
+    <display-name>WTA Hobart Tournament 2026</display-name>
+  </channel>
+  <programme start="20260116000000 +0200" stop="20260116053000 +0200" channel="WTAHobartTournament2026">
+    <title lang="it">Inizia alle 05:30.</title>
+    <desc lang="it">WTA Hobart Tournament 2026.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260116053000 +0200" stop="20260116073000 +0200" channel="WTAHobartTournament2026">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">WTA Hobart Tournament 2026</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="LondonMastersQuarterFinalAfternoonSession">
+    <display-name>London Masters | Quarter-Final | Afternoon Session</display-name>
+  </channel>
+  <programme start="20260116000000 +0200" stop="20260116150000 +0200" channel="LondonMastersQuarterFinalAfternoonSession">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">London Masters | Quarter-Final | Afternoon Session.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260116150000 +0200" stop="20260116170000 +0200" channel="LondonMastersQuarterFinalAfternoonSession">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">London Masters | Quarter-Final | Afternoon Session</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <channel id="LondonMastersQuarterFinalEveningSession">
+    <display-name>London Masters | Quarter-Final | Evening Session</display-name>
+  </channel>
+  <programme start="20260116000000 +0200" stop="20260116210000 +0200" channel="LondonMastersQuarterFinalEveningSession">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">London Masters | Quarter-Final | Evening Session.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260116210000 +0200" stop="20260116230000 +0200" channel="LondonMastersQuarterFinalEveningSession">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">London Masters | Quarter-Final | Evening Session</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <channel id="WorldCupCompetitioninWengenmenssuperG">
+    <display-name>World Cup Competition in Wengen men's super-G</display-name>
+  </channel>
+  <programme start="20260116000000 +0200" stop="20260116130000 +0200" channel="WorldCupCompetitioninWengenmenssuperG">
+    <title lang="it">Inizia alle 13:00.</title>
+    <desc lang="it">World Cup Competition in Wengen men's super-G.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260116130000 +0200" stop="20260116150000 +0200" channel="WorldCupCompetitioninWengenmenssuperG">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Cup Competition in Wengen men's super-G</desc>
+    <category lang="it">Alpine Ski</category>
+  </programme>
+  <channel id="IBUWorldCupRuhpoldingWomen75kmSprintCompetition">
+    <display-name>IBU World Cup Ruhpolding Women 7.5 km Sprint Competition</display-name>
+  </channel>
+  <programme start="20260116000000 +0200" stop="20260116143500 +0200" channel="IBUWorldCupRuhpoldingWomen75kmSprintCompetition">
+    <title lang="it">Inizia alle 14:35.</title>
+    <desc lang="it">IBU World Cup Ruhpolding Women 7.5 km Sprint Competition.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260116143500 +0200" stop="20260116163500 +0200" channel="IBUWorldCupRuhpoldingWomen75kmSprintCompetition">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">IBU World Cup Ruhpolding Women 7.5 km Sprint Competition</desc>
+    <category lang="it">Biathlon</category>
+  </programme>
+  <channel id="FigureSkatingEuropeanChampionshipsSheffield2026rhythmicdance">
+    <display-name>Figure Skating: European Championships - Sheffield 2026 rhythmic dance</display-name>
+  </channel>
+  <programme start="20260116000000 +0200" stop="20260116143000 +0200" channel="FigureSkatingEuropeanChampionshipsSheffield2026rhythmicdance">
+    <title lang="it">Inizia alle 14:30.</title>
+    <desc lang="it">Figure Skating: European Championships - Sheffield 2026 rhythmic dance.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260116143000 +0200" stop="20260116163000 +0200" channel="FigureSkatingEuropeanChampionshipsSheffield2026rhythmicdance">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Figure Skating: European Championships - Sheffield 2026 rhythmic dance</desc>
+    <category lang="it">Ice Skating</category>
+  </programme>
+  <programme start="20260116163000 +0200" stop="20260116164500 +0200" channel="FigureSkatingEuropeanChampionshipsSheffield2026rhythmicdance">
+    <title lang="it">Inizia alle 16:45.</title>
+    <desc lang="it">Figure Skating: European Championships - Sheffield 2026 rhythmic dance.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260116164500 +0200" stop="20260116184500 +0200" channel="FigureSkatingEuropeanChampionshipsSheffield2026rhythmicdance">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Figure Skating: European Championships - Sheffield 2026 rhythmic dance</desc>
+    <category lang="it">Ice Skating</category>
+  </programme>
+  <programme start="20260116000000 +0200" stop="20260116183000 +0200" channel="FigureSkatingEuropeanChampionshipsSheffield2026rhythmicdance">
+    <title lang="it">Inizia alle 18:30.</title>
+    <desc lang="it">Figure Skating: European Championships - Sheffield 2026 rhythmic dance.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260116183000 +0200" stop="20260116203000 +0200" channel="FigureSkatingEuropeanChampionshipsSheffield2026rhythmicdance">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Figure Skating: European Championships - Sheffield 2026 rhythmic dance</desc>
+    <category lang="it">Ice Skating</category>
+  </programme>
+  <channel id="SapporoMensHS137WorldCupQualifying">
+    <display-name>Sapporo | Men's HS 137 World Cup | Qualifying</display-name>
+  </channel>
+  <programme start="20260116000000 +0200" stop="20260116090000 +0200" channel="SapporoMensHS137WorldCupQualifying">
+    <title lang="it">Inizia alle 09:00.</title>
+    <desc lang="it">Sapporo | Men's HS 137 World Cup | Qualifying.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260116090000 +0200" stop="20260116110000 +0200" channel="SapporoMensHS137WorldCupQualifying">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Sapporo | Men's HS 137 World Cup | Qualifying</desc>
+    <category lang="it">Ski Jumping</category>
+  </programme>
 </tv>
