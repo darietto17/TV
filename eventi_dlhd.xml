@@ -85,19 +85,6 @@
     <desc lang="it">France - Ligue 1 : PSG vs Lille</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="LondonMastersQuarterFinalAfternoonSession">
-    <display-name>London Masters | Quarter-Final | Afternoon Session</display-name>
-  </channel>
-  <programme start="20260116000000 +0200" stop="20260116150000 +0200" channel="LondonMastersQuarterFinalAfternoonSession">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">London Masters | Quarter-Final | Afternoon Session.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260116150000 +0200" stop="20260116170000 +0200" channel="LondonMastersQuarterFinalAfternoonSession">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">London Masters | Quarter-Final | Afternoon Session</desc>
-    <category lang="it">Snooker</category>
-  </programme>
   <channel id="LondonMastersQuarterFinalEveningSession">
     <display-name>London Masters | Quarter-Final | Evening Session</display-name>
   </channel>
@@ -111,33 +98,10 @@
     <desc lang="it">London Masters | Quarter-Final | Evening Session</desc>
     <category lang="it">Snooker</category>
   </programme>
-  <channel id="IBUWorldCupRuhpoldingWomen75kmSprintCompetition">
-    <display-name>IBU World Cup Ruhpolding Women 7.5 km Sprint Competition</display-name>
-  </channel>
-  <programme start="20260116000000 +0200" stop="20260116143500 +0200" channel="IBUWorldCupRuhpoldingWomen75kmSprintCompetition">
-    <title lang="it">Inizia alle 14:35.</title>
-    <desc lang="it">IBU World Cup Ruhpolding Women 7.5 km Sprint Competition.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260116143500 +0200" stop="20260116163500 +0200" channel="IBUWorldCupRuhpoldingWomen75kmSprintCompetition">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">IBU World Cup Ruhpolding Women 7.5 km Sprint Competition</desc>
-    <category lang="it">Biathlon</category>
-  </programme>
   <channel id="FigureSkatingEuropeanChampionshipsSheffield2026rhythmicdance">
     <display-name>Figure Skating: European Championships - Sheffield 2026 rhythmic dance</display-name>
   </channel>
-  <programme start="20260116000000 +0200" stop="20260116143000 +0200" channel="FigureSkatingEuropeanChampionshipsSheffield2026rhythmicdance">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">Figure Skating: European Championships - Sheffield 2026 rhythmic dance.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260116143000 +0200" stop="20260116163000 +0200" channel="FigureSkatingEuropeanChampionshipsSheffield2026rhythmicdance">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Figure Skating: European Championships - Sheffield 2026 rhythmic dance</desc>
-    <category lang="it">Ice Skating</category>
-  </programme>
-  <programme start="20260116163000 +0200" stop="20260116164500 +0200" channel="FigureSkatingEuropeanChampionshipsSheffield2026rhythmicdance">
+  <programme start="20260116000000 +0200" stop="20260116164500 +0200" channel="FigureSkatingEuropeanChampionshipsSheffield2026rhythmicdance">
     <title lang="it">Inizia alle 16:45.</title>
     <desc lang="it">Figure Skating: European Championships - Sheffield 2026 rhythmic dance.</desc>
     <category lang="it">Annuncio</category>
