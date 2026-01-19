@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieACremonesevsVerona">
-    <display-name>Italy - Serie A : Cremonese vs Verona</display-name>
-  </channel>
-  <programme start="20260119000000 +0200" stop="20260119193000 +0200" channel="ItalySerieACremonesevsVerona">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">Italy - Serie A : Cremonese vs Verona.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260119193000 +0200" stop="20260119213000 +0200" channel="ItalySerieACremonesevsVerona">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Cremonese vs Verona</desc>
-    <category lang="it">Soccer</category>
-  </programme>
   <channel id="ItalySerieCCosenzavsCrotone">
     <display-name>Italy - Serie C : Cosenza vs Crotone</display-name>
   </channel>
