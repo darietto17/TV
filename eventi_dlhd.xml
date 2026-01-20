@@ -1,3 +1,245 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="EuropeUEFAChampionsLeagueKairatvsClubBrugge">
+    <display-name>Europe - UEFA Champions League : Kairat vs Club Brugge</display-name>
+  </channel>
+  <programme start="20260120000000 +0200" stop="20260120173000 +0200" channel="EuropeUEFAChampionsLeagueKairatvsClubBrugge">
+    <title lang="it">Inizia alle 17:30.</title>
+    <desc lang="it">Europe - UEFA Champions League : Kairat vs Club Brugge.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260120173000 +0200" stop="20260120193000 +0200" channel="EuropeUEFAChampionsLeagueKairatvsClubBrugge">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Champions League : Kairat vs Club Brugge</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="ItalyCoppaItaliaFemminileMilanvsFiorentina">
+    <display-name>Italy - Coppa Italia Femminile : Milan vs Fiorentina</display-name>
+  </channel>
+  <programme start="20260120000000 +0200" stop="20260120190000 +0200" channel="ItalyCoppaItaliaFemminileMilanvsFiorentina">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">Italy - Coppa Italia Femminile : Milan vs Fiorentina.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260120190000 +0200" stop="20260120210000 +0200" channel="ItalyCoppaItaliaFemminileMilanvsFiorentina">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Coppa Italia Femminile : Milan vs Fiorentina</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="EuropeUEFAChampionsLeagueBodGlimtvsManchesterCity">
+    <display-name>Europe - UEFA Champions League : Bodø / Glimt vs Manchester City</display-name>
+  </channel>
+  <programme start="20260120000000 +0200" stop="20260120194500 +0200" channel="EuropeUEFAChampionsLeagueBodGlimtvsManchesterCity">
+    <title lang="it">Inizia alle 19:45.</title>
+    <desc lang="it">Europe - UEFA Champions League : Bodø / Glimt vs Manchester City.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260120194500 +0200" stop="20260120214500 +0200" channel="EuropeUEFAChampionsLeagueBodGlimtvsManchesterCity">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Champions League : Bodø / Glimt vs Manchester City</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <programme start="20260120000000 +0200" stop="20260120194500 +0200" channel="EuropeUEFAChampionsLeagueBodGlimtvsManchesterCity">
+    <title lang="it">Inizia alle 19:45.</title>
+    <desc lang="it">Europe - UEFA Champions League : Bodø / Glimt vs Manchester City.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260120194500 +0200" stop="20260120214500 +0200" channel="EuropeUEFAChampionsLeagueBodGlimtvsManchesterCity">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Champions League : Bodø / Glimt vs Manchester City</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="EuropeUEFAChampionsLeagueRealMadridvsMonaco">
+    <display-name>Europe - UEFA Champions League : Real Madrid vs Monaco</display-name>
+  </channel>
+  <programme start="20260120000000 +0200" stop="20260120220000 +0200" channel="EuropeUEFAChampionsLeagueRealMadridvsMonaco">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Europe - UEFA Champions League : Real Madrid vs Monaco.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260120220000 +0200" stop="20260121000000 +0200" channel="EuropeUEFAChampionsLeagueRealMadridvsMonaco">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Champions League : Real Madrid vs Monaco</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <programme start="20260120000000 +0200" stop="20260120220000 +0200" channel="EuropeUEFAChampionsLeagueRealMadridvsMonaco">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Europe - UEFA Champions League : Real Madrid vs Monaco.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260120220000 +0200" stop="20260121000000 +0200" channel="EuropeUEFAChampionsLeagueRealMadridvsMonaco">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Champions League : Real Madrid vs Monaco</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="EuropeUEFAChampionsLeagueSportingCPvsPSG">
+    <display-name>Europe - UEFA Champions League : Sporting CP vs PSG</display-name>
+  </channel>
+  <programme start="20260120000000 +0200" stop="20260120220000 +0200" channel="EuropeUEFAChampionsLeagueSportingCPvsPSG">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Europe - UEFA Champions League : Sporting CP vs PSG.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260120220000 +0200" stop="20260121000000 +0200" channel="EuropeUEFAChampionsLeagueSportingCPvsPSG">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Champions League : Sporting CP vs PSG</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="EuropeUEFAChampionsLeagueKbenhavnvsNapoli">
+    <display-name>Europe - UEFA Champions League : København vs Napoli</display-name>
+  </channel>
+  <programme start="20260120000000 +0200" stop="20260120220000 +0200" channel="EuropeUEFAChampionsLeagueKbenhavnvsNapoli">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Europe - UEFA Champions League : København vs Napoli.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260120220000 +0200" stop="20260121000000 +0200" channel="EuropeUEFAChampionsLeagueKbenhavnvsNapoli">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Champions League : København vs Napoli</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <programme start="20260120000000 +0200" stop="20260120220000 +0200" channel="EuropeUEFAChampionsLeagueKbenhavnvsNapoli">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Europe - UEFA Champions League : København vs Napoli.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260120220000 +0200" stop="20260121000000 +0200" channel="EuropeUEFAChampionsLeagueKbenhavnvsNapoli">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Champions League : København vs Napoli</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="EuropeUEFAChampionsLeagueVillarrealvsAjax">
+    <display-name>Europe - UEFA Champions League : Villarreal vs Ajax</display-name>
+  </channel>
+  <programme start="20260120000000 +0200" stop="20260120220000 +0200" channel="EuropeUEFAChampionsLeagueVillarrealvsAjax">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Europe - UEFA Champions League : Villarreal vs Ajax.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260120220000 +0200" stop="20260121000000 +0200" channel="EuropeUEFAChampionsLeagueVillarrealvsAjax">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Champions League : Villarreal vs Ajax</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="EuropeUEFAChampionsLeagueOlympiakosPiraeusvsBayerLeverkusen">
+    <display-name>Europe - UEFA Champions League : Olympiakos Piraeus vs Bayer Leverkusen</display-name>
+  </channel>
+  <programme start="20260120000000 +0200" stop="20260120220000 +0200" channel="EuropeUEFAChampionsLeagueOlympiakosPiraeusvsBayerLeverkusen">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Europe - UEFA Champions League : Olympiakos Piraeus vs Bayer Leverkusen.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260120220000 +0200" stop="20260121000000 +0200" channel="EuropeUEFAChampionsLeagueOlympiakosPiraeusvsBayerLeverkusen">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Champions League : Olympiakos Piraeus vs Bayer Leverkusen</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="EuropeUEFAChampionsLeagueTottenhamHotspurvsBorussiaDortmund">
+    <display-name>Europe - UEFA Champions League : Tottenham Hotspur vs Borussia Dortmund</display-name>
+  </channel>
+  <programme start="20260120000000 +0200" stop="20260120220000 +0200" channel="EuropeUEFAChampionsLeagueTottenhamHotspurvsBorussiaDortmund">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Europe - UEFA Champions League : Tottenham Hotspur vs Borussia Dortmund.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260120220000 +0200" stop="20260121000000 +0200" channel="EuropeUEFAChampionsLeagueTottenhamHotspurvsBorussiaDortmund">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Champions League : Tottenham Hotspur vs Borussia Dortmund</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="EuropeUEFAChampionsLeagueInternazionalevsArsenal">
+    <display-name>Europe - UEFA Champions League : Internazionale vs Arsenal</display-name>
+  </channel>
+  <programme start="20260120000000 +0200" stop="20260120220000 +0200" channel="EuropeUEFAChampionsLeagueInternazionalevsArsenal">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Europe - UEFA Champions League : Internazionale vs Arsenal.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260120220000 +0200" stop="20260121000000 +0200" channel="EuropeUEFAChampionsLeagueInternazionalevsArsenal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Champions League : Internazionale vs Arsenal</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <programme start="20260120000000 +0200" stop="20260120220000 +0200" channel="EuropeUEFAChampionsLeagueInternazionalevsArsenal">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Europe - UEFA Champions League : Internazionale vs Arsenal.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260120220000 +0200" stop="20260121000000 +0200" channel="EuropeUEFAChampionsLeagueInternazionalevsArsenal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Champions League : Internazionale vs Arsenal</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="AustralianOpenRound2Day4">
+    <display-name>Australian Open Round 2 | Day 4</display-name>
+  </channel>
+  <programme start="20260120000000 +0200" stop="20260120020000 +0200" channel="AustralianOpenRound2Day4">
+    <title lang="it">Inizia alle 02:00.</title>
+    <desc lang="it">Australian Open Round 2 | Day 4.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260120020000 +0200" stop="20260120040000 +0200" channel="AustralianOpenRound2Day4">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Australian Open Round 2 | Day 4</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20260120000000 +0200" stop="20260120020000 +0200" channel="AustralianOpenRound2Day4">
+    <title lang="it">Inizia alle 02:00.</title>
+    <desc lang="it">Australian Open Round 2 | Day 4.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260120020000 +0200" stop="20260120040000 +0200" channel="AustralianOpenRound2Day4">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Australian Open Round 2 | Day 4</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="GiantSlalomKronplatzLadies">
+    <display-name>Giant Slalom | Kronplatz Ladies</display-name>
+  </channel>
+  <programme start="20260120000000 +0200" stop="20260120121500 +0200" channel="GiantSlalomKronplatzLadies">
+    <title lang="it">Inizia alle 12:15.</title>
+    <desc lang="it">Giant Slalom | Kronplatz Ladies.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260120121500 +0200" stop="20260120141500 +0200" channel="GiantSlalomKronplatzLadies">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Giant Slalom | Kronplatz Ladies</desc>
+    <category lang="it">Alpine Ski</category>
+  </programme>
+  <programme start="20260120000000 +0200" stop="20260120141500 +0200" channel="GiantSlalomKronplatzLadies">
+    <title lang="it">Inizia alle 14:15.</title>
+    <desc lang="it">Giant Slalom | Kronplatz Ladies.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260120141500 +0200" stop="20260120161500 +0200" channel="GiantSlalomKronplatzLadies">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Giant Slalom | Kronplatz Ladies</desc>
+    <category lang="it">Alpine Ski</category>
+  </programme>
+  <channel id="SerieA1WomenBergamoWvsScandicciW">
+    <display-name>Serie A1 Women : Bergamo W vs Scandicci W</display-name>
+  </channel>
+  <programme start="20260120000000 +0200" stop="20260120213000 +0200" channel="SerieA1WomenBergamoWvsScandicciW">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Serie A1 Women : Bergamo W vs Scandicci W.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260120213000 +0200" stop="20260120233000 +0200" channel="SerieA1WomenBergamoWvsScandicciW">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Serie A1 Women : Bergamo W vs Scandicci W</desc>
+    <category lang="it">Volleyball</category>
+  </programme>
+  <channel id="SerieA1WomenVallefogliaWvsConeglianoW">
+    <display-name>Serie A1 Women : Vallefoglia W vs Conegliano W</display-name>
+  </channel>
+  <programme start="20260120000000 +0200" stop="20260120213000 +0200" channel="SerieA1WomenVallefogliaWvsConeglianoW">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Serie A1 Women : Vallefoglia W vs Conegliano W.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260120213000 +0200" stop="20260120233000 +0200" channel="SerieA1WomenVallefogliaWvsConeglianoW">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Serie A1 Women : Vallefoglia W vs Conegliano W</desc>
+    <category lang="it">Volleyball</category>
+  </programme>
 </tv>
