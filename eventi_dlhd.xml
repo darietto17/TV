@@ -170,6 +170,16 @@
     <desc lang="it">Europe - UEFA Europa League : Celta de Vigo vs Lille</desc>
     <category lang="it">Soccer</category>
   </programme>
+  <programme start="20260122000000 +0200" stop="20260122220000 +0200" channel="EuropeUEFAEuropaLeagueCeltadeVigovsLille">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Europe - UEFA Europa League : Celta de Vigo vs Lille.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260122220000 +0200" stop="20260123000000 +0200" channel="EuropeUEFAEuropaLeagueCeltadeVigovsLille">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Europa League : Celta de Vigo vs Lille</desc>
+    <category lang="it">Soccer</category>
+  </programme>
   <channel id="EuroleagueWomenVeneziaWvsFenerbahceW">
     <display-name>Euroleague Women : Venezia W vs Fenerbahce W</display-name>
   </channel>
@@ -182,18 +192,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Euroleague Women : Venezia W vs Fenerbahce W</desc>
     <category lang="it">Basketball</category>
-  </programme>
-  <channel id="Men15kmIndividualCompetitionNoveMesto">
-    <display-name>Men 15 km Individual Competition | Nove Mesto</display-name>
-  </channel>
-  <programme start="20260122000000 +0200" stop="20260122181500 +0200" channel="Men15kmIndividualCompetitionNoveMesto">
-    <title lang="it">Inizia alle 18:15.</title>
-    <desc lang="it">Men 15 km Individual Competition | Nove Mesto.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260122181500 +0200" stop="20260122201500 +0200" channel="Men15kmIndividualCompetitionNoveMesto">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Men 15 km Individual Competition | Nove Mesto</desc>
-    <category lang="it">Biathlon</category>
   </programme>
 </tv>
