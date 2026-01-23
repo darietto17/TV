@@ -75,30 +75,4 @@
     <desc lang="it">Italy - Serie A : Internazionale vs Pisa</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="Women125kmIndividualCompetitionNoveMesto">
-    <display-name>Women 12.5 km Individual Competition | Nove Mesto</display-name>
-  </channel>
-  <programme start="20260123000000 +0200" stop="20260123181500 +0200" channel="Women125kmIndividualCompetitionNoveMesto">
-    <title lang="it">Inizia alle 18:15.</title>
-    <desc lang="it">Women 12.5 km Individual Competition | Nove Mesto.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260123181500 +0200" stop="20260123201500 +0200" channel="Women125kmIndividualCompetitionNoveMesto">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Women 12.5 km Individual Competition | Nove Mesto</desc>
-    <category lang="it">Biathlon</category>
-  </programme>
-  <channel id="OberstdorfMensHS235SkiFlyingWorldChampionshipsDay1">
-    <display-name>Oberstdorf | Men's HS235 Ski Flying World Championships | Day 1</display-name>
-  </channel>
-  <programme start="20260123000000 +0200" stop="20260123164500 +0200" channel="OberstdorfMensHS235SkiFlyingWorldChampionshipsDay1">
-    <title lang="it">Inizia alle 16:45.</title>
-    <desc lang="it">Oberstdorf | Men's HS235 Ski Flying World Championships | Day 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260123164500 +0200" stop="20260123184500 +0200" channel="OberstdorfMensHS235SkiFlyingWorldChampionshipsDay1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Oberstdorf | Men's HS235 Ski Flying World Championships | Day 1</desc>
-    <category lang="it">Ski Jumping</category>
-  </programme>
 </tv>
