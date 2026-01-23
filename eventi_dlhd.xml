@@ -1,3 +1,166 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="FranceLigue1AuxerrevsPSG">
+    <display-name>France - Ligue 1 : Auxerre vs PSG</display-name>
+  </channel>
+  <programme start="20260123000000 +0200" stop="20260123210000 +0200" channel="FranceLigue1AuxerrevsPSG">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">France - Ligue 1 : Auxerre vs PSG.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260123210000 +0200" stop="20260123230000 +0200" channel="FranceLigue1AuxerrevsPSG">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">France - Ligue 1 : Auxerre vs PSG</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="GermanyBundesligaStPaulivsHamburgerSV">
+    <display-name>Germany - Bundesliga : St. Pauli vs Hamburger SV</display-name>
+  </channel>
+  <programme start="20260123000000 +0200" stop="20260123213000 +0200" channel="GermanyBundesligaStPaulivsHamburgerSV">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Germany - Bundesliga : St. Pauli vs Hamburger SV.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260123213000 +0200" stop="20260123233000 +0200" channel="GermanyBundesligaStPaulivsHamburgerSV">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Germany - Bundesliga : St. Pauli vs Hamburger SV</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCTriestinavsLumezzane">
+    <display-name>Italy - Serie C : Triestina vs Lumezzane</display-name>
+  </channel>
+  <programme start="20260123000000 +0200" stop="20260123213000 +0200" channel="ItalySerieCTriestinavsLumezzane">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Triestina vs Lumezzane.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260123213000 +0200" stop="20260123233000 +0200" channel="ItalySerieCTriestinavsLumezzane">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Triestina vs Lumezzane</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20260123000000 +0200" stop="20260123213000 +0200" channel="ItalySerieCTriestinavsLumezzane">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Triestina vs Lumezzane.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260123213000 +0200" stop="20260123233000 +0200" channel="ItalySerieCTriestinavsLumezzane">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Triestina vs Lumezzane</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCGiuglianovsCavese">
+    <display-name>Italy - Serie C : Giugliano vs Cavese</display-name>
+  </channel>
+  <programme start="20260123000000 +0200" stop="20260123213000 +0200" channel="ItalySerieCGiuglianovsCavese">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Giugliano vs Cavese.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260123213000 +0200" stop="20260123233000 +0200" channel="ItalySerieCGiuglianovsCavese">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Giugliano vs Cavese</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieAInternazionalevsPisa">
+    <display-name>Italy - Serie A : Internazionale vs Pisa</display-name>
+  </channel>
+  <programme start="20260123000000 +0200" stop="20260123214500 +0200" channel="ItalySerieAInternazionalevsPisa">
+    <title lang="it">Inizia alle 21:45.</title>
+    <desc lang="it">Italy - Serie A : Internazionale vs Pisa.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260123214500 +0200" stop="20260123234500 +0200" channel="ItalySerieAInternazionalevsPisa">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie A : Internazionale vs Pisa</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="AustralianOpenRound3Day7">
+    <display-name>Australian Open Round 3 | Day 7</display-name>
+  </channel>
+  <programme start="20260123000000 +0200" stop="20260123020000 +0200" channel="AustralianOpenRound3Day7">
+    <title lang="it">Inizia alle 02:00.</title>
+    <desc lang="it">Australian Open Round 3 | Day 7.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260123020000 +0200" stop="20260123040000 +0200" channel="AustralianOpenRound3Day7">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Australian Open Round 3 | Day 7</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20260123000000 +0200" stop="20260123020000 +0200" channel="AustralianOpenRound3Day7">
+    <title lang="it">Inizia alle 02:00.</title>
+    <desc lang="it">Australian Open Round 3 | Day 7.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260123020000 +0200" stop="20260123040000 +0200" channel="AustralianOpenRound3Day7">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Australian Open Round 3 | Day 7</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="WorldCupKitzbuhelMensSuperG">
+    <display-name>World Cup Kitzbuhel | Men's Super-G</display-name>
+  </channel>
+  <programme start="20260123000000 +0200" stop="20260123123000 +0200" channel="WorldCupKitzbuhelMensSuperG">
+    <title lang="it">Inizia alle 12:30.</title>
+    <desc lang="it">World Cup Kitzbuhel | Men's Super-G.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260123123000 +0200" stop="20260123143000 +0200" channel="WorldCupKitzbuhelMensSuperG">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Cup Kitzbuhel | Men's Super-G</desc>
+    <category lang="it">Alpine Ski</category>
+  </programme>
+  <channel id="Women125kmIndividualCompetitionNoveMesto">
+    <display-name>Women 12.5 km Individual Competition | Nove Mesto</display-name>
+  </channel>
+  <programme start="20260123000000 +0200" stop="20260123181500 +0200" channel="Women125kmIndividualCompetitionNoveMesto">
+    <title lang="it">Inizia alle 18:15.</title>
+    <desc lang="it">Women 12.5 km Individual Competition | Nove Mesto.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260123181500 +0200" stop="20260123201500 +0200" channel="Women125kmIndividualCompetitionNoveMesto">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Women 12.5 km Individual Competition | Nove Mesto</desc>
+    <category lang="it">Biathlon</category>
+  </programme>
+  <channel id="WorldCupGomsMixedTeamSprintFreestyle">
+    <display-name>World Cup Goms | Mixed Team Sprint Freestyle</display-name>
+  </channel>
+  <programme start="20260123000000 +0200" stop="20260123152000 +0200" channel="WorldCupGomsMixedTeamSprintFreestyle">
+    <title lang="it">Inizia alle 15:20.</title>
+    <desc lang="it">World Cup Goms | Mixed Team Sprint Freestyle.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260123152000 +0200" stop="20260123172000 +0200" channel="WorldCupGomsMixedTeamSprintFreestyle">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Cup Goms | Mixed Team Sprint Freestyle</desc>
+    <category lang="it">Cross Country</category>
+  </programme>
+  <channel id="OberstdorfMensHS235SkiFlyingWorldChampionshipsDay1">
+    <display-name>Oberstdorf | Men's HS235 Ski Flying World Championships | Day 1</display-name>
+  </channel>
+  <programme start="20260123000000 +0200" stop="20260123164500 +0200" channel="OberstdorfMensHS235SkiFlyingWorldChampionshipsDay1">
+    <title lang="it">Inizia alle 16:45.</title>
+    <desc lang="it">Oberstdorf | Men's HS235 Ski Flying World Championships | Day 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260123164500 +0200" stop="20260123184500 +0200" channel="OberstdorfMensHS235SkiFlyingWorldChampionshipsDay1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Oberstdorf | Men's HS235 Ski Flying World Championships | Day 1</desc>
+    <category lang="it">Ski Jumping</category>
+  </programme>
+  <channel id="VeysonnazSkicrossWorldCupWomenMen">
+    <display-name>Veysonnaz | Ski cross World Cup | Women Men</display-name>
+  </channel>
+  <programme start="20260123000000 +0200" stop="20260123135000 +0200" channel="VeysonnazSkicrossWorldCupWomenMen">
+    <title lang="it">Inizia alle 13:50.</title>
+    <desc lang="it">Veysonnaz | Ski cross World Cup | Women Men.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260123135000 +0200" stop="20260123155000 +0200" channel="VeysonnazSkicrossWorldCupWomenMen">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Veysonnaz | Ski cross World Cup | Women Men</desc>
+    <category lang="it">Winter Sports</category>
+  </programme>
 </tv>
