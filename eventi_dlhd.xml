@@ -1,119 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="EnglandPremierLeagueWestHamUnitedvsSunderland">
-    <display-name>England - Premier League : West Ham United vs Sunderland</display-name>
-  </channel>
-  <programme start="20260124000000 +0200" stop="20260124143000 +0200" channel="EnglandPremierLeagueWestHamUnitedvsSunderland">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">England - Premier League : West Ham United vs Sunderland.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260124143000 +0200" stop="20260124163000 +0200" channel="EnglandPremierLeagueWestHamUnitedvsSunderland">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : West Ham United vs Sunderland</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="ItalySerieCAlbinoLeffevsTrento">
-    <display-name>Italy - Serie C : AlbinoLeffe vs Trento</display-name>
-  </channel>
-  <programme start="20260124000000 +0200" stop="20260124153000 +0200" channel="ItalySerieCAlbinoLeffevsTrento">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : AlbinoLeffe vs Trento.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260124153000 +0200" stop="20260124173000 +0200" channel="ItalySerieCAlbinoLeffevsTrento">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : AlbinoLeffe vs Trento</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="ItalySerieCAthleticCarpivsTernana">
-    <display-name>Italy - Serie C : Athletic Carpi vs Ternana</display-name>
-  </channel>
-  <programme start="20260124000000 +0200" stop="20260124153000 +0200" channel="ItalySerieCAthleticCarpivsTernana">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Athletic Carpi vs Ternana.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260124153000 +0200" stop="20260124173000 +0200" channel="ItalySerieCAthleticCarpivsTernana">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Athletic Carpi vs Ternana</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="ItalySerieCSassariTorresvsBra">
-    <display-name>Italy - Serie C : Sassari Torres vs Bra</display-name>
-  </channel>
-  <programme start="20260124000000 +0200" stop="20260124153000 +0200" channel="ItalySerieCSassariTorresvsBra">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Sassari Torres vs Bra.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260124153000 +0200" stop="20260124173000 +0200" channel="ItalySerieCSassariTorresvsBra">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Sassari Torres vs Bra</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="ItalySerieCLatinavsFoggia">
-    <display-name>Italy - Serie C : Latina vs Foggia</display-name>
-  </channel>
-  <programme start="20260124000000 +0200" stop="20260124153000 +0200" channel="ItalySerieCLatinavsFoggia">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Latina vs Foggia.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260124153000 +0200" stop="20260124173000 +0200" channel="ItalySerieCLatinavsFoggia">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Latina vs Foggia</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="ItalySerieCBeneventovsSiracusa">
-    <display-name>Italy - Serie C : Benevento vs Siracusa</display-name>
-  </channel>
-  <programme start="20260124000000 +0200" stop="20260124153000 +0200" channel="ItalySerieCBeneventovsSiracusa">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Benevento vs Siracusa.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260124153000 +0200" stop="20260124173000 +0200" channel="ItalySerieCBeneventovsSiracusa">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Benevento vs Siracusa</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260124000000 +0200" stop="20260124153000 +0200" channel="ItalySerieCBeneventovsSiracusa">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Benevento vs Siracusa.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260124153000 +0200" stop="20260124173000 +0200" channel="ItalySerieCBeneventovsSiracusa">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Benevento vs Siracusa</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="ItalySerieCUnionBresciavsRenate">
-    <display-name>Italy - Serie C : Union Brescia vs Renate</display-name>
-  </channel>
-  <programme start="20260124000000 +0200" stop="20260124153000 +0200" channel="ItalySerieCUnionBresciavsRenate">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Union Brescia vs Renate.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260124153000 +0200" stop="20260124173000 +0200" channel="ItalySerieCUnionBresciavsRenate">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Union Brescia vs Renate</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="ItalySerieAComovsTorino">
-    <display-name>Italy - Serie A : Como vs Torino</display-name>
-  </channel>
-  <programme start="20260124000000 +0200" stop="20260124160000 +0200" channel="ItalySerieAComovsTorino">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Italy - Serie A : Como vs Torino.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260124160000 +0200" stop="20260124180000 +0200" channel="ItalySerieAComovsTorino">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Como vs Torino</desc>
-    <category lang="it">Soccer</category>
-  </programme>
   <channel id="GermanyBundesligaBayernMnchenvsAugsburg">
     <display-name>Germany - Bundesliga : Bayern München vs Augsburg</display-name>
   </channel>
@@ -300,32 +186,6 @@
     <desc lang="it">Italy - Serie A : Lecce vs Lazio</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="MaasmechelenUCICycloCrossWorldCupWomen">
-    <display-name>Maasmechelen UCI Cyclo-Cross World Cup Women</display-name>
-  </channel>
-  <programme start="20260124000000 +0200" stop="20260124143000 +0200" channel="MaasmechelenUCICycloCrossWorldCupWomen">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">Maasmechelen UCI Cyclo-Cross World Cup Women.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260124143000 +0200" stop="20260124163000 +0200" channel="MaasmechelenUCICycloCrossWorldCupWomen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Maasmechelen UCI Cyclo-Cross World Cup Women</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <channel id="WorldCupMaasmechelenMasculine">
-    <display-name>World Cup | Maasmechelen Masculine</display-name>
-  </channel>
-  <programme start="20260124000000 +0200" stop="20260124161500 +0200" channel="WorldCupMaasmechelenMasculine">
-    <title lang="it">Inizia alle 16:15.</title>
-    <desc lang="it">World Cup | Maasmechelen Masculine.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260124161500 +0200" stop="20260124181500 +0200" channel="WorldCupMaasmechelenMasculine">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup | Maasmechelen Masculine</desc>
-    <category lang="it">Cycling</category>
-  </programme>
   <channel id="OberstdorfMensHS235SkiFlyingWorldChampionshipsDay2">
     <display-name>Oberstdorf | Men's HS 235 Ski Flying World Championships | Day 2</display-name>
   </channel>
@@ -338,18 +198,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Oberstdorf | Men's HS 235 Ski Flying World Championships | Day 2</desc>
     <category lang="it">Ski Jumping</category>
-  </programme>
-  <channel id="VeysonnazSkiCrossWorldCupDay2">
-    <display-name>Veysonnaz | Ski Cross World Cup | Day 2</display-name>
-  </channel>
-  <programme start="20260124000000 +0200" stop="20260124153000 +0200" channel="VeysonnazSkiCrossWorldCupDay2">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Veysonnaz | Ski Cross World Cup | Day 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260124153000 +0200" stop="20260124173000 +0200" channel="VeysonnazSkiCrossWorldCupDay2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Veysonnaz | Ski Cross World Cup | Day 2</desc>
-    <category lang="it">Winter Sports</category>
   </programme>
 </tv>
