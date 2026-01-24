@@ -1,44 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieAFiorentinavsCagliari">
-    <display-name>Italy - Serie A : Fiorentina vs Cagliari</display-name>
-  </channel>
-  <programme start="20260124000000 +0200" stop="20260124190000 +0200" channel="ItalySerieAFiorentinavsCagliari">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">Italy - Serie A : Fiorentina vs Cagliari.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260124190000 +0200" stop="20260124210000 +0200" channel="ItalySerieAFiorentinavsCagliari">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Fiorentina vs Cagliari</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="EnglandPremierLeagueAFCBournemouthvsLiverpool">
-    <display-name>England - Premier League : AFC Bournemouth vs Liverpool</display-name>
-  </channel>
-  <programme start="20260124000000 +0200" stop="20260124193000 +0200" channel="EnglandPremierLeagueAFCBournemouthvsLiverpool">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">England - Premier League : AFC Bournemouth vs Liverpool.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260124193000 +0200" stop="20260124213000 +0200" channel="EnglandPremierLeagueAFCBournemouthvsLiverpool">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : AFC Bournemouth vs Liverpool</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="GermanyBundesligaUnionBerlinvsBorussiaDortmund">
-    <display-name>Germany - Bundesliga : Union Berlin vs Borussia Dortmund</display-name>
-  </channel>
-  <programme start="20260124000000 +0200" stop="20260124193000 +0200" channel="GermanyBundesligaUnionBerlinvsBorussiaDortmund">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">Germany - Bundesliga : Union Berlin vs Borussia Dortmund.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260124193000 +0200" stop="20260124213000 +0200" channel="GermanyBundesligaUnionBerlinvsBorussiaDortmund">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga : Union Berlin vs Borussia Dortmund</desc>
-    <category lang="it">Soccer</category>
-  </programme>
   <channel id="ItalySerieALeccevsLazio">
     <display-name>Italy - Serie A : Lecce vs Lazio</display-name>
   </channel>
