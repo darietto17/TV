@@ -94,6 +94,8 @@ https://vavoo.to/vavoo-iptv/play/12254846645cb5a95a1f30
 https://vavoo.to/vavoo-iptv/play/4137427510ef362e6435fc
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",CRIME + INV
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",DAZN (MATCH TIME)
+https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439
 #EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV
 https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319
 #EXTINF:-1 tvg-id="discovery.channel.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL
@@ -408,7 +410,7 @@ https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc
 #EXTINF:-1 tvg-id="rtl.102.5.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rtl-1025-it.png" group-title="Musica",RTL 102.5
 https://vavoo.to/vavoo-iptv/play/1729811452a70dafd8f6ba
 
-# SPORT
+# RAI
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",RTP (RETE TELEVISIVA)
 https://vavoo.to/vavoo-iptv/play/4136045815a19e851236a3
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tvdream.net/img/rtr99-cover.jpg" group-title="Altro",RTR 99 TV
@@ -484,7 +486,7 @@ https://vavoo.to/vavoo-iptv/play/14407790614bc8041c450d
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 9
 https://vavoo.to/vavoo-iptv/play/17532606771304e2497369
 
-# MUSICA
+# SPORT
 #EXTINF:-1 tvg-id="sky.serie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film - Serie TV",SKY SERIE (D)
 https://dlhd.dad/watch.php?id=880
 #EXTINF:-1 tvg-id="skysport.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport",SKY SPORT
@@ -659,7 +661,7 @@ https://vavoo.to/vavoo-iptv/play/27978570454e40f7218cf4
 #EXTINF:-1 tvg-id="" tvg-logo="https://teleromagna.it/Images/logo-tr-sport.jpg" group-title="Sport",TRSPORT
 https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5
 
-# RAI
+# MUSICA
 #EXTINF:-1 tvg-id="tv8.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tv8-it.png" group-title="Altro",TV 8
 https://vavoo.to/vavoo-iptv/play/2706291008928411daf9bb
 #EXTINF:-1 tvg-id="tv8.hd.it" tvg-name="TV 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tv8-it.png" group-title="Altro",TV 8 (MPD)
@@ -732,7 +734,7 @@ https://dlhd.dad/watch.php?id=16
 #EXTINF:-1 tvg-id="italyseriecascolivsperugia" tvg-name="Soccer | Italy - Serie C : Ascoli vs Perugia (15:30)" tvg-logo="https://www.fhs.it/wp-content/uploads/2023/06/ABITIAMO-INSIEME-ASCOLI-logo-orig.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Ascoli vs Perugia (15:30)
 https://dlhd.dad/watch.php?id=17
 
-#EXTINF:-1 tvg-id="italyseriecsorrentovssalernitana" tvg-name="Soccer | Italy - Serie C : Sorrento vs Salernitana (15:30)" tvg-logo="https://salernitana.b-cdn.net/wp-content/uploads/2024/07/spezia-2023-nb-750x752.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Sorrento vs Salernitana (15:30)
+#EXTINF:-1 tvg-id="italyseriecsorrentovssalernitana" tvg-name="Soccer | Italy - Serie C : Sorrento vs Salernitana (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sorrento_vs_Salernitana.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Sorrento vs Salernitana (15:30)
 https://dlhd.dad/watch.php?id=18
 
 #EXTINF:-1 tvg-id="italyseriecsorrentovssalernitana" tvg-name="Soccer | Italy - Serie C : Sorrento vs Salernitana (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sorrento_vs_Salernitana.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Sorrento vs Salernitana (15:30)
@@ -806,12 +808,6 @@ https://dlhd.dad/watch.php?id=870
 
 #EXTINF:-1 tvg-id="italyseriearomavsmilan" tvg-name="Soccer | Italy - Serie A : Roma vs Milan (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Roma_vs_Milan.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Roma vs Milan (21:45)
 https://dlhd.dad/watch.php?id=877
-
-#EXTINF:-1 tvg-id="australianopenround4day9" tvg-name="Tennis | Australian Open Round 4 | Day 9 (02:00)" tvg-logo="https://cdn2.steamgriddb.com/file/sgdb-cdn/icon_thumb/16db0f01adf864f5cd063e1f02371910.png" group-title="Eventi Live DLHD",Tennis | Australian Open Round 4 | Day 9 (02:00)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="australianopenround4day9" tvg-name="Tennis | Australian Open Round 4 | Day 9 (02:00)" tvg-logo="https://cdn2.steamgriddb.com/file/sgdb-cdn/icon_thumb/16db0f01adf864f5cd063e1f02371910.png" group-title="Eventi Live DLHD",Tennis | Australian Open Round 4 | Day 9 (02:00)
-https://dlhd.dad/watch.php?id=576
 
 #EXTINF:-1 tvg-id="slalomkitzbuehel" tvg-name="Alpine Ski | Slalom | Kitzbuehel (14:15)" tvg-logo="https://images.seeklogo.com/logo-png/12/2/slalom-logo-png_seeklogo-127846.png" group-title="Eventi Live DLHD",Alpine Ski | Slalom | Kitzbuehel (14:15)
 https://dlhd.dad/watch.php?id=879
