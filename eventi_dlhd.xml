@@ -1,108 +1,143 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieCVicenzavsCittadella">
-    <display-name>Italy - Serie C : Vicenza vs Cittadella</display-name>
+  <channel id="GermanyBundesligaStPaulivsRBLeipzig">
+    <display-name>Germany - Bundesliga : St. Pauli vs RB Leipzig</display-name>
   </channel>
-  <programme start="20260126000000 +0200" stop="20260126213000 +0200" channel="ItalySerieCVicenzavsCittadella">
+  <programme start="20260127000000 +0200" stop="20260127213000 +0200" channel="GermanyBundesligaStPaulivsRBLeipzig">
     <title lang="it">Inizia alle 21:30.</title>
-    <desc lang="it">Italy - Serie C : Vicenza vs Cittadella.</desc>
+    <desc lang="it">Germany - Bundesliga : St. Pauli vs RB Leipzig.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260126213000 +0200" stop="20260126233000 +0200" channel="ItalySerieCVicenzavsCittadella">
+  <programme start="20260127213000 +0200" stop="20260127233000 +0200" channel="GermanyBundesligaStPaulivsRBLeipzig">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Vicenza vs Cittadella</desc>
+    <desc lang="it">Germany - Bundesliga : St. Pauli vs RB Leipzig</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <programme start="20260126000000 +0200" stop="20260126213000 +0200" channel="ItalySerieCVicenzavsCittadella">
-    <title lang="it">Inizia alle 21:30.</title>
-    <desc lang="it">Italy - Serie C : Vicenza vs Cittadella.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260126213000 +0200" stop="20260126233000 +0200" channel="ItalySerieCVicenzavsCittadella">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Vicenza vs Cittadella</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260126000000 +0200" stop="20260126213000 +0200" channel="ItalySerieCVicenzavsCittadella">
-    <title lang="it">Inizia alle 21:30.</title>
-    <desc lang="it">Italy - Serie C : Vicenza vs Cittadella.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260126213000 +0200" stop="20260126233000 +0200" channel="ItalySerieCVicenzavsCittadella">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Vicenza vs Cittadella</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="ItalySerieCLeccovsInterII">
-    <display-name>Italy - Serie C : Lecco vs Inter II</display-name>
+  <channel id="ItalyCoppaItaliaFiorentinavsComo">
+    <display-name>Italy - Coppa Italia : Fiorentina vs Como</display-name>
   </channel>
-  <programme start="20260126000000 +0200" stop="20260126213000 +0200" channel="ItalySerieCLeccovsInterII">
-    <title lang="it">Inizia alle 21:30.</title>
-    <desc lang="it">Italy - Serie C : Lecco vs Inter II.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260126213000 +0200" stop="20260126233000 +0200" channel="ItalySerieCLeccovsInterII">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Lecco vs Inter II</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260126000000 +0200" stop="20260126213000 +0200" channel="ItalySerieCLeccovsInterII">
-    <title lang="it">Inizia alle 21:30.</title>
-    <desc lang="it">Italy - Serie C : Lecco vs Inter II.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260126213000 +0200" stop="20260126233000 +0200" channel="ItalySerieCLeccovsInterII">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Lecco vs Inter II</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="ItalySerieAVeronavsUdinese">
-    <display-name>Italy - Serie A : Verona vs Udinese</display-name>
-  </channel>
-  <programme start="20260126000000 +0200" stop="20260126214500 +0200" channel="ItalySerieAVeronavsUdinese">
-    <title lang="it">Inizia alle 21:45.</title>
-    <desc lang="it">Italy - Serie A : Verona vs Udinese.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260126214500 +0200" stop="20260126234500 +0200" channel="ItalySerieAVeronavsUdinese">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Verona vs Udinese</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260126000000 +0200" stop="20260126214500 +0200" channel="ItalySerieAVeronavsUdinese">
-    <title lang="it">Inizia alle 21:45.</title>
-    <desc lang="it">Italy - Serie A : Verona vs Udinese.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260126214500 +0200" stop="20260126234500 +0200" channel="ItalySerieAVeronavsUdinese">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Verona vs Udinese</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="EnglandPremierLeagueEvertonvsLeedsUnited">
-    <display-name>England - Premier League : Everton vs Leeds United</display-name>
-  </channel>
-  <programme start="20260126000000 +0200" stop="20260126220000 +0200" channel="EnglandPremierLeagueEvertonvsLeedsUnited">
+  <programme start="20260127000000 +0200" stop="20260127220000 +0200" channel="ItalyCoppaItaliaFiorentinavsComo">
     <title lang="it">Inizia alle 22:00.</title>
-    <desc lang="it">England - Premier League : Everton vs Leeds United.</desc>
+    <desc lang="it">Italy - Coppa Italia : Fiorentina vs Como.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260126220000 +0200" stop="20260127000000 +0200" channel="EnglandPremierLeagueEvertonvsLeedsUnited">
+  <programme start="20260127220000 +0200" stop="20260128000000 +0200" channel="ItalyCoppaItaliaFiorentinavsComo">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Everton vs Leeds United</desc>
+    <desc lang="it">Italy - Coppa Italia : Fiorentina vs Como</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="SnookerGermanMastersRound1Session2">
-    <display-name>Snooker: German Masters Round 1, Session 2</display-name>
+  <channel id="AustralianOpenQuarterfinals">
+    <display-name>Australian Open Quarter finals</display-name>
   </channel>
-  <programme start="20260126000000 +0200" stop="20260126210000 +0200" channel="SnookerGermanMastersRound1Session2">
-    <title lang="it">Inizia alle 21:00.</title>
-    <desc lang="it">Snooker: German Masters Round 1, Session 2.</desc>
+  <programme start="20260127000000 +0200" stop="20260127020000 +0200" channel="AustralianOpenQuarterfinals">
+    <title lang="it">Inizia alle 02:00.</title>
+    <desc lang="it">Australian Open Quarter finals.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260126210000 +0200" stop="20260126230000 +0200" channel="SnookerGermanMastersRound1Session2">
+  <programme start="20260127020000 +0200" stop="20260127040000 +0200" channel="AustralianOpenQuarterfinals">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Snooker: German Masters Round 1, Session 2</desc>
+    <desc lang="it">Australian Open Quarter finals</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20260127000000 +0200" stop="20260127020000 +0200" channel="AustralianOpenQuarterfinals">
+    <title lang="it">Inizia alle 02:00.</title>
+    <desc lang="it">Australian Open Quarter finals.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260127020000 +0200" stop="20260127040000 +0200" channel="AustralianOpenQuarterfinals">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Australian Open Quarter finals</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="GermanMastersTournamentDay2">
+    <display-name>German Masters Tournament Day 2</display-name>
+  </channel>
+  <programme start="20260127000000 +0200" stop="20260127160000 +0200" channel="GermanMastersTournamentDay2">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">German Masters Tournament Day 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260127160000 +0200" stop="20260127180000 +0200" channel="GermanMastersTournamentDay2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">German Masters Tournament Day 2</desc>
     <category lang="it">Snooker</category>
+  </programme>
+  <channel id="SchladmingMensGiantSlalomWorldCupRun1">
+    <display-name>Schladming | Men's Giant Slalom World Cup | Run 1</display-name>
+  </channel>
+  <programme start="20260127000000 +0200" stop="20260127183000 +0200" channel="SchladmingMensGiantSlalomWorldCupRun1">
+    <title lang="it">Inizia alle 18:30.</title>
+    <desc lang="it">Schladming | Men's Giant Slalom World Cup | Run 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260127183000 +0200" stop="20260127203000 +0200" channel="SchladmingMensGiantSlalomWorldCupRun1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Schladming | Men's Giant Slalom World Cup | Run 1</desc>
+    <category lang="it">Alpine Ski</category>
+  </programme>
+  <channel id="SchladmingMensGiantSlalomWorldCupRun2">
+    <display-name>Schladming | Men's Giant Slalom World Cup | Run 2</display-name>
+  </channel>
+  <programme start="20260127000000 +0200" stop="20260127213000 +0200" channel="SchladmingMensGiantSlalomWorldCupRun2">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Schladming | Men's Giant Slalom World Cup | Run 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260127213000 +0200" stop="20260127233000 +0200" channel="SchladmingMensGiantSlalomWorldCupRun2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Schladming | Men's Giant Slalom World Cup | Run 2</desc>
+    <category lang="it">Alpine Ski</category>
+  </programme>
+  <channel id="AlUlaTour26Stage1Flat158km">
+    <display-name>AlUla Tour '26: Stage 1 Flat | 158 km</display-name>
+  </channel>
+  <programme start="20260127000000 +0200" stop="20260127133000 +0200" channel="AlUlaTour26Stage1Flat158km">
+    <title lang="it">Inizia alle 13:30.</title>
+    <desc lang="it">AlUla Tour '26: Stage 1 Flat | 158 km.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260127133000 +0200" stop="20260127153000 +0200" channel="AlUlaTour26Stage1Flat158km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">AlUla Tour '26: Stage 1 Flat | 158 km</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="ChampionsLeagueWomenZerenSporWvsConeglianoW">
+    <display-name>Champions League Women : Zeren Spor W vs Conegliano W</display-name>
+  </channel>
+  <programme start="20260127000000 +0200" stop="20260127170000 +0200" channel="ChampionsLeagueWomenZerenSporWvsConeglianoW">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">Champions League Women : Zeren Spor W vs Conegliano W.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260127170000 +0200" stop="20260127190000 +0200" channel="ChampionsLeagueWomenZerenSporWvsConeglianoW">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Champions League Women : Zeren Spor W vs Conegliano W</desc>
+    <category lang="it">Volleyball</category>
+  </programme>
+  <channel id="ChampionsLeagueWomenOlympiakosPiraeusWvsMonzaW">
+    <display-name>Champions League Women : Olympiakos Piraeus W vs Monza W</display-name>
+  </channel>
+  <programme start="20260127000000 +0200" stop="20260127190000 +0200" channel="ChampionsLeagueWomenOlympiakosPiraeusWvsMonzaW">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">Champions League Women : Olympiakos Piraeus W vs Monza W.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260127190000 +0200" stop="20260127210000 +0200" channel="ChampionsLeagueWomenOlympiakosPiraeusWvsMonzaW">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Champions League Women : Olympiakos Piraeus W vs Monza W</desc>
+    <category lang="it">Volleyball</category>
+  </programme>
+  <channel id="ChampionsLeagueLubeCivitanovavsHaasrodeLeuven">
+    <display-name>Champions League : Lube Civitanova vs Haasrode Leuven</display-name>
+  </channel>
+  <programme start="20260127000000 +0200" stop="20260127213000 +0200" channel="ChampionsLeagueLubeCivitanovavsHaasrodeLeuven">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Champions League : Lube Civitanova vs Haasrode Leuven.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260127213000 +0200" stop="20260127233000 +0200" channel="ChampionsLeagueLubeCivitanovavsHaasrodeLeuven">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Champions League : Lube Civitanova vs Haasrode Leuven</desc>
+    <category lang="it">Volleyball</category>
   </programme>
 </tv>
