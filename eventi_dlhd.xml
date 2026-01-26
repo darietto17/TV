@@ -92,19 +92,6 @@
     <desc lang="it">England - Premier League : Everton vs Leeds United</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="SnookerGermanMastersRound1Session1">
-    <display-name>Snooker: German Masters Round 1, Session 1</display-name>
-  </channel>
-  <programme start="20260126000000 +0200" stop="20260126160000 +0200" channel="SnookerGermanMastersRound1Session1">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Snooker: German Masters Round 1, Session 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260126160000 +0200" stop="20260126180000 +0200" channel="SnookerGermanMastersRound1Session1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Snooker: German Masters Round 1, Session 1</desc>
-    <category lang="it">Snooker</category>
-  </programme>
   <channel id="SnookerGermanMastersRound1Session2">
     <display-name>Snooker: German Masters Round 1, Session 2</display-name>
   </channel>
@@ -117,18 +104,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Snooker: German Masters Round 1, Session 2</desc>
     <category lang="it">Snooker</category>
-  </programme>
-  <channel id="WomensCyclingChallengeMallorca">
-    <display-name>Women's Cycling: Challenge Mallorca</display-name>
-  </channel>
-  <programme start="20260126000000 +0200" stop="20260126160000 +0200" channel="WomensCyclingChallengeMallorca">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Women's Cycling: Challenge Mallorca.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260126160000 +0200" stop="20260126180000 +0200" channel="WomensCyclingChallengeMallorca">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Women's Cycling: Challenge Mallorca</desc>
-    <category lang="it">Cycling</category>
   </programme>
 </tv>
