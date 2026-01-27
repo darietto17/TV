@@ -11,7 +11,7 @@
   <programme start="20260127213000 +0200" stop="20260127233000 +0200" channel="GermanyBundesligaStPaulivsRBLeipzig">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Germany - Bundesliga : St. Pauli vs RB Leipzig</desc>
-    <category lang="it">Soccer</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="ItalyCoppaItaliaFiorentinavsComo">
     <display-name>Italy - Coppa Italia : Fiorentina vs Como</display-name>
@@ -24,30 +24,7 @@
   <programme start="20260127220000 +0200" stop="20260128000000 +0200" channel="ItalyCoppaItaliaFiorentinavsComo">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Coppa Italia : Fiorentina vs Como</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="AustralianOpenQuarterfinals">
-    <display-name>Australian Open Quarter finals</display-name>
-  </channel>
-  <programme start="20260127000000 +0200" stop="20260127020000 +0200" channel="AustralianOpenQuarterfinals">
-    <title lang="it">Inizia alle 02:00.</title>
-    <desc lang="it">Australian Open Quarter finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260127020000 +0200" stop="20260127040000 +0200" channel="AustralianOpenQuarterfinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Australian Open Quarter finals</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20260127000000 +0200" stop="20260127020000 +0200" channel="AustralianOpenQuarterfinals">
-    <title lang="it">Inizia alle 02:00.</title>
-    <desc lang="it">Australian Open Quarter finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260127020000 +0200" stop="20260127040000 +0200" channel="AustralianOpenQuarterfinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Australian Open Quarter finals</desc>
-    <category lang="it">Tennis</category>
+    <category lang="it">All Soccer Events</category>
   </programme>
   <channel id="GermanMastersTournamentDay2">
     <display-name>German Masters Tournament Day 2</display-name>

@@ -96,6 +96,8 @@ https://vavoo.to/vavoo-iptv/play/4137427510ef362e6435fc
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",DAZN (MATCH TIME)
 https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439
+#EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV
+https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319
 #EXTINF:-1 tvg-id="discovery.channel.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL
 https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 #EXTINF:-1 tvg-id="focus.it" tvg-name="DISCOVERY FOCUS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Documentari",DISCOVERY FOCUS (MPD)
@@ -507,6 +509,8 @@ https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",SKY SPORT BASKET (D)
 https://dlhd.dad/watch.php?id=875
+#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
+https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (D)
 https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1 (D)
@@ -706,10 +710,10 @@ https://vavoo.to/vavoo-iptv/play/28498110272b8770fe20cb
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="germanybundesligastpaulivsrbleipzig" tvg-name="Soccer | Germany - Bundesliga : St. Pauli vs RB Leipzig (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/St. Pauli_vs_RB Leipzig.png" group-title="Eventi Live DLHD",Soccer | Germany - Bundesliga : St. Pauli vs RB Leipzig (21:30)
+#EXTINF:-1 tvg-id="germanybundesligastpaulivsrbleipzig" tvg-name="All Soccer Events | Germany - Bundesliga : St. Pauli vs RB Leipzig (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/St. Pauli_vs_RB Leipzig.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : St. Pauli vs RB Leipzig (21:30)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="italycoppaitaliafiorentinavscomo" tvg-name="Soccer | Italy - Coppa Italia : Fiorentina vs Como (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fiorentina_vs_Como.png" group-title="Eventi Live DLHD",Soccer | Italy - Coppa Italia : Fiorentina vs Como (22:00)
+#EXTINF:-1 tvg-id="italycoppaitaliafiorentinavscomo" tvg-name="All Soccer Events | Italy - Coppa Italia : Fiorentina vs Como (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fiorentina_vs_Como.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Coppa Italia : Fiorentina vs Como (22:00)
 https://dlhd.dad/watch.php?id=854
 
 #EXTINF:-1 tvg-id="australianopenquarterfinals" tvg-name="Tennis | Australian Open Quarter finals (02:00)" tvg-logo="https://www.aimfoe.com/wp-content/uploads/2023/03/the_finals__v2_2.png" group-title="Eventi Live DLHD",Tennis | Australian Open Quarter finals (02:00)
