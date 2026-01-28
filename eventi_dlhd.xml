@@ -1,3 +1,251 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ItalyCoppaItaliaSerieCLatinavsRenate">
+    <display-name>Italy - Coppa Italia Serie C : Latina vs Renate</display-name>
+  </channel>
+  <programme start="20260128000000 +0200" stop="20260128153000 +0200" channel="ItalyCoppaItaliaSerieCLatinavsRenate">
+    <title lang="it">Inizia alle 15:30.</title>
+    <desc lang="it">Italy - Coppa Italia Serie C : Latina vs Renate.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260128153000 +0200" stop="20260128173000 +0200" channel="ItalyCoppaItaliaSerieCLatinavsRenate">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Coppa Italia Serie C : Latina vs Renate</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalyCoppaItaliaFemminileRomavsLazio">
+    <display-name>Italy - Coppa Italia Femminile : Roma vs Lazio</display-name>
+  </channel>
+  <programme start="20260128000000 +0200" stop="20260128190000 +0200" channel="ItalyCoppaItaliaFemminileRomavsLazio">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">Italy - Coppa Italia Femminile : Roma vs Lazio.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260128190000 +0200" stop="20260128210000 +0200" channel="ItalyCoppaItaliaFemminileRomavsLazio">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Coppa Italia Femminile : Roma vs Lazio</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalyCoppaItaliaSerieCPotenzaCalciovsTernana">
+    <display-name>Italy - Coppa Italia Serie C : Potenza Calcio vs Ternana</display-name>
+  </channel>
+  <programme start="20260128000000 +0200" stop="20260128190000 +0200" channel="ItalyCoppaItaliaSerieCPotenzaCalciovsTernana">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">Italy - Coppa Italia Serie C : Potenza Calcio vs Ternana.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260128190000 +0200" stop="20260128210000 +0200" channel="ItalyCoppaItaliaSerieCPotenzaCalciovsTernana">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Coppa Italia Serie C : Potenza Calcio vs Ternana</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20260128000000 +0200" stop="20260128190000 +0200" channel="ItalyCoppaItaliaSerieCPotenzaCalciovsTernana">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">Italy - Coppa Italia Serie C : Potenza Calcio vs Ternana.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260128190000 +0200" stop="20260128210000 +0200" channel="ItalyCoppaItaliaSerieCPotenzaCalciovsTernana">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Coppa Italia Serie C : Potenza Calcio vs Ternana</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="EuropeUEFAChampionsLeagueBenficavsRealMadrid">
+    <display-name>Europe - UEFA Champions League : Benfica vs Real Madrid</display-name>
+  </channel>
+  <programme start="20260128000000 +0200" stop="20260128220000 +0200" channel="EuropeUEFAChampionsLeagueBenficavsRealMadrid">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Europe - UEFA Champions League : Benfica vs Real Madrid.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260128220000 +0200" stop="20260129000000 +0200" channel="EuropeUEFAChampionsLeagueBenficavsRealMadrid">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Champions League : Benfica vs Real Madrid</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="EuropeUEFAChampionsLeaguePSGvsNewcastleUnited">
+    <display-name>Europe - UEFA Champions League : PSG vs Newcastle United</display-name>
+  </channel>
+  <programme start="20260128000000 +0200" stop="20260128220000 +0200" channel="EuropeUEFAChampionsLeaguePSGvsNewcastleUnited">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Europe - UEFA Champions League : PSG vs Newcastle United.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260128220000 +0200" stop="20260129000000 +0200" channel="EuropeUEFAChampionsLeaguePSGvsNewcastleUnited">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Champions League : PSG vs Newcastle United</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="EuropeUEFAChampionsLeagueMonacovsJuventus">
+    <display-name>Europe - UEFA Champions League : Monaco vs Juventus</display-name>
+  </channel>
+  <programme start="20260128000000 +0200" stop="20260128220000 +0200" channel="EuropeUEFAChampionsLeagueMonacovsJuventus">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Europe - UEFA Champions League : Monaco vs Juventus.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260128220000 +0200" stop="20260129000000 +0200" channel="EuropeUEFAChampionsLeagueMonacovsJuventus">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Champions League : Monaco vs Juventus</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20260128000000 +0200" stop="20260128220000 +0200" channel="EuropeUEFAChampionsLeagueMonacovsJuventus">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Europe - UEFA Champions League : Monaco vs Juventus.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260128220000 +0200" stop="20260129000000 +0200" channel="EuropeUEFAChampionsLeagueMonacovsJuventus">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Champions League : Monaco vs Juventus</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="EuropeUEFAChampionsLeagueBorussiaDortmundvsInternazionale">
+    <display-name>Europe - UEFA Champions League : Borussia Dortmund vs Internazionale</display-name>
+  </channel>
+  <programme start="20260128000000 +0200" stop="20260128220000 +0200" channel="EuropeUEFAChampionsLeagueBorussiaDortmundvsInternazionale">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Europe - UEFA Champions League : Borussia Dortmund vs Internazionale.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260128220000 +0200" stop="20260129000000 +0200" channel="EuropeUEFAChampionsLeagueBorussiaDortmundvsInternazionale">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Champions League : Borussia Dortmund vs Internazionale</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="AustralianOpenQuarterfinals">
+    <display-name>Australian Open Quarter finals</display-name>
+  </channel>
+  <programme start="20260128000000 +0200" stop="20260128020000 +0200" channel="AustralianOpenQuarterfinals">
+    <title lang="it">Inizia alle 02:00.</title>
+    <desc lang="it">Australian Open Quarter finals.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260128020000 +0200" stop="20260128040000 +0200" channel="AustralianOpenQuarterfinals">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Australian Open Quarter finals</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20260128000000 +0200" stop="20260128020000 +0200" channel="AustralianOpenQuarterfinals">
+    <title lang="it">Inizia alle 02:00.</title>
+    <desc lang="it">Australian Open Quarter finals.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260128020000 +0200" stop="20260128040000 +0200" channel="AustralianOpenQuarterfinals">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Australian Open Quarter finals</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="GermanMastersRound2">
+    <display-name>German Masters | Round 2</display-name>
+  </channel>
+  <programme start="20260128000000 +0200" stop="20260128160000 +0200" channel="GermanMastersRound2">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">German Masters | Round 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260128160000 +0200" stop="20260128180000 +0200" channel="GermanMastersRound2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">German Masters | Round 2</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <programme start="20260128180000 +0200" stop="20260128210000 +0200" channel="GermanMastersRound2">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">German Masters | Round 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260128210000 +0200" stop="20260128230000 +0200" channel="GermanMastersRound2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">German Masters | Round 2</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <channel id="WorldCupCompetitioninSchladming1strunofthemensslalom">
+    <display-name>World Cup Competition in Schladming 1st run of the men's slalom</display-name>
+  </channel>
+  <programme start="20260128000000 +0200" stop="20260128183000 +0200" channel="WorldCupCompetitioninSchladming1strunofthemensslalom">
+    <title lang="it">Inizia alle 18:30.</title>
+    <desc lang="it">World Cup Competition in Schladming 1st run of the men's slalom.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260128183000 +0200" stop="20260128203000 +0200" channel="WorldCupCompetitioninSchladming1strunofthemensslalom">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Cup Competition in Schladming 1st run of the men's slalom</desc>
+    <category lang="it">Alpine Ski</category>
+  </programme>
+  <channel id="WorldCupCompetitioninSchladming2ndrunofthemensslalom">
+    <display-name>World Cup Competition in Schladming 2nd run of the men's slalom</display-name>
+  </channel>
+  <programme start="20260128000000 +0200" stop="20260128211500 +0200" channel="WorldCupCompetitioninSchladming2ndrunofthemensslalom">
+    <title lang="it">Inizia alle 21:15.</title>
+    <desc lang="it">World Cup Competition in Schladming 2nd run of the men's slalom.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260128211500 +0200" stop="20260128231500 +0200" channel="WorldCupCompetitioninSchladming2ndrunofthemensslalom">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Cup Competition in Schladming 2nd run of the men's slalom</desc>
+    <category lang="it">Alpine Ski</category>
+  </programme>
+  <channel id="SjusjenSingleEuropeanChampionshipMen">
+    <display-name>Sjusjöen | Single European Championship | Men</display-name>
+  </channel>
+  <programme start="20260128000000 +0200" stop="20260128111000 +0200" channel="SjusjenSingleEuropeanChampionshipMen">
+    <title lang="it">Inizia alle 11:10.</title>
+    <desc lang="it">Sjusjöen | Single European Championship | Men.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260128111000 +0200" stop="20260128131000 +0200" channel="SjusjenSingleEuropeanChampionshipMen">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Sjusjöen | Single European Championship | Men</desc>
+    <category lang="it">Biathlon</category>
+  </programme>
+  <channel id="AlUlaTour26Stage2Flat152km">
+    <display-name>AlUla Tour '26: Stage 2 Flat | 152 km</display-name>
+  </channel>
+  <programme start="20260128000000 +0200" stop="20260128133000 +0200" channel="AlUlaTour26Stage2Flat152km">
+    <title lang="it">Inizia alle 13:30.</title>
+    <desc lang="it">AlUla Tour '26: Stage 2 Flat | 152 km.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260128133000 +0200" stop="20260128153000 +0200" channel="AlUlaTour26Stage2Flat152km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">AlUla Tour '26: Stage 2 Flat | 152 km</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="TrofeoCalvia150km2800m">
+    <display-name>Trofeo Calvia | 150 km | 2800 m</display-name>
+  </channel>
+  <programme start="20260128000000 +0200" stop="20260128153000 +0200" channel="TrofeoCalvia150km2800m">
+    <title lang="it">Inizia alle 15:30.</title>
+    <desc lang="it">Trofeo Calvia | 150 km | 2800 m.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260128153000 +0200" stop="20260128173000 +0200" channel="TrofeoCalvia150km2800m">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Trofeo Calvia | 150 km | 2800 m</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="ChampionsLeagueWomenAlbaBlajWvsScandicciW">
+    <display-name>Champions League Women : Alba Blaj W vs Scandicci W</display-name>
+  </channel>
+  <programme start="20260128000000 +0200" stop="20260128190000 +0200" channel="ChampionsLeagueWomenAlbaBlajWvsScandicciW">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">Champions League Women : Alba Blaj W vs Scandicci W.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260128190000 +0200" stop="20260128210000 +0200" channel="ChampionsLeagueWomenAlbaBlajWvsScandicciW">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Champions League Women : Alba Blaj W vs Scandicci W</desc>
+    <category lang="it">Volleyball</category>
+  </programme>
+  <channel id="ChampionsLeaguePerugiavsGuaguas">
+    <display-name>Champions League : Perugia vs Guaguas</display-name>
+  </channel>
+  <programme start="20260128000000 +0200" stop="20260128213000 +0200" channel="ChampionsLeaguePerugiavsGuaguas">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Champions League : Perugia vs Guaguas.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260128213000 +0200" stop="20260128233000 +0200" channel="ChampionsLeaguePerugiavsGuaguas">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Champions League : Perugia vs Guaguas</desc>
+    <category lang="it">Volleyball</category>
+  </programme>
 </tv>
