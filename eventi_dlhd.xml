@@ -91,19 +91,6 @@
     <desc lang="it">Serie A2 : Pesaro vs Brindisi</desc>
     <category lang="it">Basketball</category>
   </programme>
-  <channel id="EuropeanChampionshipSemifinal1GermanyvsCroatia">
-    <display-name>European Championship Semi-final 1 : Germany vs Croatia</display-name>
-  </channel>
-  <programme start="20260130000000 +0200" stop="20260130184500 +0200" channel="EuropeanChampionshipSemifinal1GermanyvsCroatia">
-    <title lang="it">Inizia alle 18:45.</title>
-    <desc lang="it">European Championship Semi-final 1 : Germany vs Croatia.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260130184500 +0200" stop="20260130204500 +0200" channel="EuropeanChampionshipSemifinal1GermanyvsCroatia">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">European Championship Semi-final 1 : Germany vs Croatia</desc>
-    <category lang="it">Handball</category>
-  </programme>
   <channel id="EuropeanChampionshipSemifinal2DenmarkvsIceland">
     <display-name>European Championship Semi-final 2 : Denmark vs Iceland</display-name>
   </channel>
@@ -116,18 +103,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">European Championship Semi-final 2 : Denmark vs Iceland</desc>
     <category lang="it">Handball</category>
-  </programme>
-  <channel id="WillingenMixedTeamHS147WorldCup">
-    <display-name>Willingen | Mixed Team HS 147 World Cup</display-name>
-  </channel>
-  <programme start="20260130000000 +0200" stop="20260130170000 +0200" channel="WillingenMixedTeamHS147WorldCup">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">Willingen | Mixed Team HS 147 World Cup.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260130170000 +0200" stop="20260130190000 +0200" channel="WillingenMixedTeamHS147WorldCup">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Willingen | Mixed Team HS 147 World Cup</desc>
-    <category lang="it">Ski Jumping</category>
   </programme>
 </tv>
