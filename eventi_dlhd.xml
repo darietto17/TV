@@ -1,3 +1,182 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ItalySerieCPerugiavsRavenna">
+    <display-name>Italy - Serie C : Perugia vs Ravenna</display-name>
+  </channel>
+  <programme start="20260130000000 +0200" stop="20260130213000 +0200" channel="ItalySerieCPerugiavsRavenna">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Perugia vs Ravenna.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260130213000 +0200" stop="20260130233000 +0200" channel="ItalySerieCPerugiavsRavenna">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Perugia vs Ravenna</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCNuovaMonterosivsArezzo">
+    <display-name>Italy - Serie C : Nuova Monterosi vs Arezzo</display-name>
+  </channel>
+  <programme start="20260130000000 +0200" stop="20260130213000 +0200" channel="ItalySerieCNuovaMonterosivsArezzo">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Nuova Monterosi vs Arezzo.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260130213000 +0200" stop="20260130233000 +0200" channel="ItalySerieCNuovaMonterosivsArezzo">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Nuova Monterosi vs Arezzo</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCAscolivsLivorno">
+    <display-name>Italy - Serie C : Ascoli vs Livorno</display-name>
+  </channel>
+  <programme start="20260130000000 +0200" stop="20260130213000 +0200" channel="ItalySerieCAscolivsLivorno">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Ascoli vs Livorno.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260130213000 +0200" stop="20260130233000 +0200" channel="ItalySerieCAscolivsLivorno">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Ascoli vs Livorno</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="FranceLigue1LensvsLeHavre">
+    <display-name>France - Ligue 1 : Lens vs Le Havre</display-name>
+  </channel>
+  <programme start="20260130000000 +0200" stop="20260130214500 +0200" channel="FranceLigue1LensvsLeHavre">
+    <title lang="it">Inizia alle 21:45.</title>
+    <desc lang="it">France - Ligue 1 : Lens vs Le Havre.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260130214500 +0200" stop="20260130234500 +0200" channel="FranceLigue1LensvsLeHavre">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">France - Ligue 1 : Lens vs Le Havre</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieALaziovsGenoa">
+    <display-name>Italy - Serie A : Lazio vs Genoa</display-name>
+  </channel>
+  <programme start="20260130000000 +0200" stop="20260130214500 +0200" channel="ItalySerieALaziovsGenoa">
+    <title lang="it">Inizia alle 21:45.</title>
+    <desc lang="it">Italy - Serie A : Lazio vs Genoa.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260130214500 +0200" stop="20260130234500 +0200" channel="ItalySerieALaziovsGenoa">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie A : Lazio vs Genoa</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="GermanMastersQuarterFinal">
+    <display-name>German Masters Quarter-Final</display-name>
+  </channel>
+  <programme start="20260130000000 +0200" stop="20260130150000 +0200" channel="GermanMastersQuarterFinal">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">German Masters Quarter-Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260130150000 +0200" stop="20260130170000 +0200" channel="GermanMastersQuarterFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">German Masters Quarter-Final</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <programme start="20260130170000 +0200" stop="20260130210000 +0200" channel="GermanMastersQuarterFinal">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">German Masters Quarter-Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260130210000 +0200" stop="20260130230000 +0200" channel="GermanMastersQuarterFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">German Masters Quarter-Final</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <channel id="WorldCupCompetitioninCransMontanaWomensdownhill">
+    <display-name>World Cup Competition in Crans-Montana Women's downhill</display-name>
+  </channel>
+  <programme start="20260130000000 +0200" stop="20260130104500 +0200" channel="WorldCupCompetitioninCransMontanaWomensdownhill">
+    <title lang="it">Inizia alle 10:45.</title>
+    <desc lang="it">World Cup Competition in Crans-Montana Women's downhill.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260130104500 +0200" stop="20260130124500 +0200" channel="WorldCupCompetitioninCransMontanaWomensdownhill">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Cup Competition in Crans-Montana Women's downhill</desc>
+    <category lang="it">Alpine Ski</category>
+  </programme>
+  <channel id="SerieA2PesarovsBrindisi">
+    <display-name>Serie A2 : Pesaro vs Brindisi</display-name>
+  </channel>
+  <programme start="20260130000000 +0200" stop="20260130214500 +0200" channel="SerieA2PesarovsBrindisi">
+    <title lang="it">Inizia alle 21:45.</title>
+    <desc lang="it">Serie A2 : Pesaro vs Brindisi.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260130214500 +0200" stop="20260130234500 +0200" channel="SerieA2PesarovsBrindisi">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Serie A2 : Pesaro vs Brindisi</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <channel id="AlUlaTour26Stage4Flat184km">
+    <display-name>AlUla Tour '26: Stage 4 Flat | 184 km</display-name>
+  </channel>
+  <programme start="20260130000000 +0200" stop="20260130133000 +0200" channel="AlUlaTour26Stage4Flat184km">
+    <title lang="it">Inizia alle 13:30.</title>
+    <desc lang="it">AlUla Tour '26: Stage 4 Flat | 184 km.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260130133000 +0200" stop="20260130153000 +0200" channel="AlUlaTour26Stage4Flat184km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">AlUla Tour '26: Stage 4 Flat | 184 km</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="EuropeanChampionshipSemifinal1GermanyvsCroatia">
+    <display-name>European Championship Semi-final 1 : Germany vs Croatia</display-name>
+  </channel>
+  <programme start="20260130000000 +0200" stop="20260130184500 +0200" channel="EuropeanChampionshipSemifinal1GermanyvsCroatia">
+    <title lang="it">Inizia alle 18:45.</title>
+    <desc lang="it">European Championship Semi-final 1 : Germany vs Croatia.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260130184500 +0200" stop="20260130204500 +0200" channel="EuropeanChampionshipSemifinal1GermanyvsCroatia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">European Championship Semi-final 1 : Germany vs Croatia</desc>
+    <category lang="it">Handball</category>
+  </programme>
+  <channel id="EuropeanChampionshipSemifinal2DenmarkvsIceland">
+    <display-name>European Championship Semi-final 2 : Denmark vs Iceland</display-name>
+  </channel>
+  <programme start="20260130000000 +0200" stop="20260130212000 +0200" channel="EuropeanChampionshipSemifinal2DenmarkvsIceland">
+    <title lang="it">Inizia alle 21:20.</title>
+    <desc lang="it">European Championship Semi-final 2 : Denmark vs Iceland.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260130212000 +0200" stop="20260130232000 +0200" channel="EuropeanChampionshipSemifinal2DenmarkvsIceland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">European Championship Semi-final 2 : Denmark vs Iceland</desc>
+    <category lang="it">Handball</category>
+  </programme>
+  <channel id="WillingenMixedTeamHS147WorldCup">
+    <display-name>Willingen | Mixed Team HS 147 World Cup</display-name>
+  </channel>
+  <programme start="20260130000000 +0200" stop="20260130170000 +0200" channel="WillingenMixedTeamHS147WorldCup">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">Willingen | Mixed Team HS 147 World Cup.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260130170000 +0200" stop="20260130190000 +0200" channel="WillingenMixedTeamHS147WorldCup">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Willingen | Mixed Team HS 147 World Cup</desc>
+    <category lang="it">Ski Jumping</category>
+  </programme>
+  <channel id="SeefeldWomensHS109WorldCupDay1">
+    <display-name>Seefeld | Women's HS 109 World Cup | Day 1</display-name>
+  </channel>
+  <programme start="20260130000000 +0200" stop="20260130150000 +0200" channel="SeefeldWomensHS109WorldCupDay1">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">Seefeld | Women's HS 109 World Cup | Day 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260130150000 +0200" stop="20260130170000 +0200" channel="SeefeldWomensHS109WorldCupDay1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Seefeld | Women's HS 109 World Cup | Day 1</desc>
+    <category lang="it">Winter Sports</category>
+  </programme>
 </tv>
