@@ -68,17 +68,7 @@
   <channel id="GermanMastersQuarterFinal">
     <display-name>German Masters Quarter-Final</display-name>
   </channel>
-  <programme start="20260130000000 +0200" stop="20260130150000 +0200" channel="GermanMastersQuarterFinal">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">German Masters Quarter-Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260130150000 +0200" stop="20260130170000 +0200" channel="GermanMastersQuarterFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">German Masters Quarter-Final</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20260130170000 +0200" stop="20260130210000 +0200" channel="GermanMastersQuarterFinal">
+  <programme start="20260130000000 +0200" stop="20260130210000 +0200" channel="GermanMastersQuarterFinal">
     <title lang="it">Inizia alle 21:00.</title>
     <desc lang="it">German Masters Quarter-Final.</desc>
     <category lang="it">Annuncio</category>
@@ -139,18 +129,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Willingen | Mixed Team HS 147 World Cup</desc>
     <category lang="it">Ski Jumping</category>
-  </programme>
-  <channel id="SeefeldWomensHS109WorldCupDay1">
-    <display-name>Seefeld | Women's HS 109 World Cup | Day 1</display-name>
-  </channel>
-  <programme start="20260130000000 +0200" stop="20260130150000 +0200" channel="SeefeldWomensHS109WorldCupDay1">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">Seefeld | Women's HS 109 World Cup | Day 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260130150000 +0200" stop="20260130170000 +0200" channel="SeefeldWomensHS109WorldCupDay1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Seefeld | Women's HS 109 World Cup | Day 1</desc>
-    <category lang="it">Winter Sports</category>
   </programme>
 </tv>
