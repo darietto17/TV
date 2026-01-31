@@ -94,8 +94,6 @@ https://vavoo.to/vavoo-iptv/play/12254846645cb5a95a1f30
 https://vavoo.to/vavoo-iptv/play/4137427510ef362e6435fc
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",CRIME + INV
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",DAZN (MATCH TIME)
-https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439
 #EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV
 https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319
 #EXTINF:-1 tvg-id="discovery.channel.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL
@@ -408,7 +406,7 @@ https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc
 #EXTINF:-1 tvg-id="rtl.102.5.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rtl-1025-it.png" group-title="Musica",RTL 102.5
 https://vavoo.to/vavoo-iptv/play/1729811452a70dafd8f6ba
 
-# RAI
+# SPORT
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",RTP (RETE TELEVISIVA)
 https://vavoo.to/vavoo-iptv/play/4136045815a19e851236a3
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tvdream.net/img/rtr99-cover.jpg" group-title="Altro",RTR 99 TV
@@ -447,6 +445,8 @@ https://dlhd.dad/watch.php?id=862
 https://dlhd.dad/watch.php?id=867
 #EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film - Serie TV",SKY CINEMA DUE
 https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
+#EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY
+https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY (D)
 https://dlhd.dad/watch.php?id=865
 #EXTINF:-1 tvg-id="sky.cinema.romance.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film - Serie TV",SKY CINEMA ROMANCE
@@ -455,6 +455,8 @@ https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f
 https://dlhd.dad/watch.php?id=864
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE
 https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
+#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO
+https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
 #EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (D)
 https://dlhd.dad/watch.php?id=860
 #EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24
@@ -482,7 +484,7 @@ https://vavoo.to/vavoo-iptv/play/14407790614bc8041c450d
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 9
 https://vavoo.to/vavoo-iptv/play/17532606771304e2497369
 
-# SPORT
+# MUSICA
 #EXTINF:-1 tvg-id="sky.serie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film - Serie TV",SKY SERIE (D)
 https://dlhd.dad/watch.php?id=880
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport",SKY SPORT
@@ -657,7 +659,7 @@ https://vavoo.to/vavoo-iptv/play/27978570454e40f7218cf4
 #EXTINF:-1 tvg-id="" tvg-logo="https://teleromagna.it/Images/logo-tr-sport.jpg" group-title="Sport",TRSPORT
 https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5
 
-# MUSICA
+# RAI
 #EXTINF:-1 tvg-id="tv8.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tv8-it.png" group-title="Altro",TV 8
 https://vavoo.to/vavoo-iptv/play/2706291008928411daf9bb
 #EXTINF:-1 tvg-id="tv8.hd.it" tvg-name="TV 8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tv8-it.png" group-title="Altro",TV 8 (MPD)
@@ -730,7 +732,7 @@ https://dlhd.dad/watch.php?id=25
 #EXTINF:-1 tvg-id="italyseriecsorrentovscatania" tvg-name="All Soccer Events | Italy - Serie C : Sorrento vs Catania (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sorrento_vs_Catania.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Sorrento vs Catania (15:30)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="italyserieapisavssassuolo" tvg-name="All Soccer Events | Italy - Serie A : Pisa vs Sassuolo (16:00)" tvg-logo="https://bootflare.com/wp-content/uploads/2023/03/Sassuolo-Logo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Pisa vs Sassuolo (16:00)
+#EXTINF:-1 tvg-id="italyserieapisavssassuolo" tvg-name="All Soccer Events | Italy - Serie A : Pisa vs Sassuolo (16:00)" tvg-logo="https://www.lfootball.it/wp-content/uploads/2021/06/Logo-Sassuolo-768x842.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Pisa vs Sassuolo (16:00)
 https://dlhd.dad/watch.php?id=877
 
 #EXTINF:-1 tvg-id="germanybundesligaeintrachtfrankfurtvsbayerleverkusen" tvg-name="All Soccer Events | Germany - Bundesliga : Eintracht Frankfurt vs Bayer Leverkusen (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Eintracht Frankfurt_vs_Bayer Leverkusen.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Eintracht Frankfurt vs Bayer Leverkusen (16:30)
@@ -784,10 +786,10 @@ https://dlhd.dad/watch.php?id=879
 #EXTINF:-1 tvg-id="formulasequalificationsmiami" tvg-name="Motorsport | Formulas E Qualifications, Miami (19:30)" tvg-logo="https://logocreator.io/wp-content/uploads/2023/12/Miami.png" group-title="Eventi Live DLHD",Motorsport | Formulas E Qualifications, Miami (19:30)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="germanmasterstournamentsemifinalmatch" tvg-name="Snooker | German Masters Tournament semi-final match (15:00)" tvg-logo="https://images.seeklogo.com/logo-png/53/2/masters-tournament-logo-png_seeklogo-537753.png" group-title="Eventi Live DLHD",Snooker | German Masters Tournament semi-final match (15:00)
+#EXTINF:-1 tvg-id="germanmasterstournamentsemifinalmatch" tvg-name="Snooker | German Masters Tournament semi-final match (15:00)" tvg-logo="https://lirp.cdn-website.com/0ae2714b/dms3rep/multi/opt/OPEN-masters-tournament-logo-updated-1920w.png" group-title="Eventi Live DLHD",Snooker | German Masters Tournament semi-final match (15:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="germanmasterstournamentsemifinalmatch" tvg-name="Snooker | German Masters Tournament semi-final match (21:00)" tvg-logo="https://images.seeklogo.com/logo-png/53/2/masters-tournament-logo-png_seeklogo-537753.png" group-title="Eventi Live DLHD",Snooker | German Masters Tournament semi-final match (21:00)
+#EXTINF:-1 tvg-id="germanmasterstournamentsemifinalmatch" tvg-name="Snooker | German Masters Tournament semi-final match (21:00)" tvg-logo="https://lirp.cdn-website.com/0ae2714b/dms3rep/multi/opt/OPEN-masters-tournament-logo-updated-1920w.png" group-title="Eventi Live DLHD",Snooker | German Masters Tournament semi-final match (21:00)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="cransmontanawomenssupergworldcup" tvg-name="Alpine Ski | Crans Montana | Women's Super-G World Cup (11:45)" tvg-logo="https://www.crans-montana.ch/images/footer/export__Family.png" group-title="Eventi Live DLHD",Alpine Ski | Crans Montana | Women's Super-G World Cup (11:45)
