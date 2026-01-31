@@ -1,44 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieANapolivsFiorentina">
-    <display-name>Italy - Serie A : Napoli vs Fiorentina</display-name>
-  </channel>
-  <programme start="20260131000000 +0200" stop="20260131190000 +0200" channel="ItalySerieANapolivsFiorentina">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">Italy - Serie A : Napoli vs Fiorentina.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260131190000 +0200" stop="20260131210000 +0200" channel="ItalySerieANapolivsFiorentina">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Napoli vs Fiorentina</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="EnglandPremierLeagueChelseavsWestHamUnited">
-    <display-name>England - Premier League : Chelsea vs West Ham United</display-name>
-  </channel>
-  <programme start="20260131000000 +0200" stop="20260131193000 +0200" channel="EnglandPremierLeagueChelseavsWestHamUnited">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">England - Premier League : Chelsea vs West Ham United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260131193000 +0200" stop="20260131213000 +0200" channel="EnglandPremierLeagueChelseavsWestHamUnited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Chelsea vs West Ham United</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="GermanyBundesligaHamburgerSVvsBayernMnchen">
-    <display-name>Germany - Bundesliga : Hamburger SV vs Bayern München</display-name>
-  </channel>
-  <programme start="20260131000000 +0200" stop="20260131193000 +0200" channel="GermanyBundesligaHamburgerSVvsBayernMnchen">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">Germany - Bundesliga : Hamburger SV vs Bayern München.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260131193000 +0200" stop="20260131213000 +0200" channel="GermanyBundesligaHamburgerSVvsBayernMnchen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga : Hamburger SV vs Bayern München</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalySerieACagliarivsVerona">
     <display-name>Italy - Serie A : Cagliari vs Verona</display-name>
   </channel>
@@ -97,19 +58,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Australian Open | Doubles – Final</desc>
     <category lang="it">Tennis</category>
-  </programme>
-  <channel id="FormulasEQualificationsMiami">
-    <display-name>Formulas E Qualifications, Miami</display-name>
-  </channel>
-  <programme start="20260131000000 +0200" stop="20260131193000 +0200" channel="FormulasEQualificationsMiami">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">Formulas E Qualifications, Miami.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260131193000 +0200" stop="20260131213000 +0200" channel="FormulasEQualificationsMiami">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formulas E Qualifications, Miami</desc>
-    <category lang="it">Motorsport</category>
   </programme>
   <channel id="GermanMastersTournamentsemifinalmatch">
     <display-name>German Masters Tournament semi-final match</display-name>
