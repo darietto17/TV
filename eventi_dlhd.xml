@@ -1,3 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ItalySerieCGianaErminiovsUnionBrescia">
+    <display-name>Italy - Serie C : Giana Erminio vs Union Brescia</display-name>
+  </channel>
+  <programme start="20260202000000 +0200" stop="20260202213000 +0200" channel="ItalySerieCGianaErminiovsUnionBrescia">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Giana Erminio vs Union Brescia.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260202213000 +0200" stop="20260202233000 +0200" channel="ItalySerieCGianaErminiovsUnionBrescia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Giana Erminio vs Union Brescia</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20260202000000 +0200" stop="20260202213000 +0200" channel="ItalySerieCGianaErminiovsUnionBrescia">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Giana Erminio vs Union Brescia.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260202213000 +0200" stop="20260202233000 +0200" channel="ItalySerieCGianaErminiovsUnionBrescia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Giana Erminio vs Union Brescia</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieCRenatevsAlcione">
+    <display-name>Italy - Serie C : Renate vs Alcione</display-name>
+  </channel>
+  <programme start="20260202000000 +0200" stop="20260202213000 +0200" channel="ItalySerieCRenatevsAlcione">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Renate vs Alcione.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260202213000 +0200" stop="20260202233000 +0200" channel="ItalySerieCRenatevsAlcione">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Renate vs Alcione</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieAUdinesevsRoma">
+    <display-name>Italy - Serie A : Udinese vs Roma</display-name>
+  </channel>
+  <programme start="20260202000000 +0200" stop="20260202214500 +0200" channel="ItalySerieAUdinesevsRoma">
+    <title lang="it">Inizia alle 21:45.</title>
+    <desc lang="it">Italy - Serie A : Udinese vs Roma.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260202214500 +0200" stop="20260202234500 +0200" channel="ItalySerieAUdinesevsRoma">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie A : Udinese vs Roma</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20260202000000 +0200" stop="20260202214500 +0200" channel="ItalySerieAUdinesevsRoma">
+    <title lang="it">Inizia alle 21:45.</title>
+    <desc lang="it">Italy - Serie A : Udinese vs Roma.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260202214500 +0200" stop="20260202234500 +0200" channel="ItalySerieAUdinesevsRoma">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie A : Udinese vs Roma</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="EnglandPremierLeagueSunderlandvsBurnley">
+    <display-name>England - Premier League : Sunderland vs Burnley</display-name>
+  </channel>
+  <programme start="20260202000000 +0200" stop="20260202220000 +0200" channel="EnglandPremierLeagueSunderlandvsBurnley">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">England - Premier League : Sunderland vs Burnley.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260202220000 +0200" stop="20260203000000 +0200" channel="EnglandPremierLeagueSunderlandvsBurnley">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">England - Premier League : Sunderland vs Burnley</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ATP250MontpellierampWTA250FrozenampWTA250ClujampWTA500AbuDhabi">
+    <display-name>ATP 250 Montpellier &amp; WTA 250 Frozen &amp; WTA 250 Cluj &amp; WTA 500 Abu Dhabi</display-name>
+  </channel>
+  <programme start="20260202000000 +0200" stop="20260202090000 +0200" channel="ATP250MontpellierampWTA250FrozenampWTA250ClujampWTA500AbuDhabi">
+    <title lang="it">Inizia alle 09:00.</title>
+    <desc lang="it">ATP 250 Montpellier &amp; WTA 250 Frozen &amp; WTA 250 Cluj &amp; WTA 500 Abu Dhabi.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260202090000 +0200" stop="20260202110000 +0200" channel="ATP250MontpellierampWTA250FrozenampWTA250ClujampWTA500AbuDhabi">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">ATP 250 Montpellier &amp; WTA 250 Frozen &amp; WTA 250 Cluj &amp; WTA 500 Abu Dhabi</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="UCITrackEuropeanChampionshipsKonyaDay2">
+    <display-name>UCI Track European Championships | Konya Day 2</display-name>
+  </channel>
+  <programme start="20260202000000 +0200" stop="20260202171500 +0200" channel="UCITrackEuropeanChampionshipsKonyaDay2">
+    <title lang="it">Inizia alle 17:15.</title>
+    <desc lang="it">UCI Track European Championships | Konya Day 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260202171500 +0200" stop="20260202191500 +0200" channel="UCITrackEuropeanChampionshipsKonyaDay2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UCI Track European Championships | Konya Day 2</desc>
+    <category lang="it">Cycling</category>
+  </programme>
 </tv>
