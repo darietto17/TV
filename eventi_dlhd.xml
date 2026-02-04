@@ -1,3 +1,169 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="EuropeUEFAYouthLeagueKolnU19vsInterU19">
+    <display-name>Europe - UEFA Youth League : Koln U19 vs Inter U19</display-name>
+  </channel>
+  <programme start="20260204000000 +0200" stop="20260204190000 +0200" channel="EuropeUEFAYouthLeagueKolnU19vsInterU19">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">Europe - UEFA Youth League : Koln U19 vs Inter U19.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260204190000 +0200" stop="20260204210000 +0200" channel="EuropeUEFAYouthLeagueKolnU19vsInterU19">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Youth League : Koln U19 vs Inter U19</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <programme start="20260204000000 +0200" stop="20260204190000 +0200" channel="EuropeUEFAYouthLeagueKolnU19vsInterU19">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">Europe - UEFA Youth League : Koln U19 vs Inter U19.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260204190000 +0200" stop="20260204210000 +0200" channel="EuropeUEFAYouthLeagueKolnU19vsInterU19">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Youth League : Koln U19 vs Inter U19</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="ItalyCoppaItaliaInternazionalevsTorino">
+    <display-name>Italy - Coppa Italia : Internazionale vs Torino</display-name>
+  </channel>
+  <programme start="20260204000000 +0200" stop="20260204220000 +0200" channel="ItalyCoppaItaliaInternazionalevsTorino">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Italy - Coppa Italia : Internazionale vs Torino.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260204220000 +0200" stop="20260205000000 +0200" channel="ItalyCoppaItaliaInternazionalevsTorino">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Coppa Italia : Internazionale vs Torino</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="MontpellierATPAbuDhabiWTAClujNapocaWTAampOstravaWTAEarlyRounds">
+    <display-name>Montpellier-ATP, Abu Dhabi-WTA, Cluj-Napoca-WTA &amp; Ostrava-WTA Early Rounds</display-name>
+  </channel>
+  <programme start="20260204000000 +0200" stop="20260204090000 +0200" channel="MontpellierATPAbuDhabiWTAClujNapocaWTAampOstravaWTAEarlyRounds">
+    <title lang="it">Inizia alle 09:00.</title>
+    <desc lang="it">Montpellier-ATP, Abu Dhabi-WTA, Cluj-Napoca-WTA &amp; Ostrava-WTA Early Rounds.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260204090000 +0200" stop="20260204110000 +0200" channel="MontpellierATPAbuDhabiWTAClujNapocaWTAampOstravaWTAEarlyRounds">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Montpellier-ATP, Abu Dhabi-WTA, Cluj-Napoca-WTA &amp; Ostrava-WTA Early Rounds</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="WorldGrandPrixTournamentDay2">
+    <display-name>World Grand Prix Tournament Day 2</display-name>
+  </channel>
+  <programme start="20260204000000 +0200" stop="20260204070000 +0200" channel="WorldGrandPrixTournamentDay2">
+    <title lang="it">Inizia alle 07:00.</title>
+    <desc lang="it">World Grand Prix Tournament Day 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260204070000 +0200" stop="20260204090000 +0200" channel="WorldGrandPrixTournamentDay2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Grand Prix Tournament Day 2</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <channel id="WorldGrandPrixRound1Day2EveningSession">
+    <display-name>World Grand Prix Round 1 | Day 2 | Evening Session</display-name>
+  </channel>
+  <programme start="20260204000000 +0200" stop="20260204133000 +0200" channel="WorldGrandPrixRound1Day2EveningSession">
+    <title lang="it">Inizia alle 13:30.</title>
+    <desc lang="it">World Grand Prix Round 1 | Day 2 | Evening Session.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260204133000 +0200" stop="20260204153000 +0200" channel="WorldGrandPrixRound1Day2EveningSession">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Grand Prix Round 1 | Day 2 | Evening Session</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <channel id="AlpineSkiingMenDownhillTraining">
+    <display-name>Alpine Skiing Men | Downhill | Training</display-name>
+  </channel>
+  <programme start="20260204000000 +0200" stop="20260204122000 +0200" channel="AlpineSkiingMenDownhillTraining">
+    <title lang="it">Inizia alle 12:20.</title>
+    <desc lang="it">Alpine Skiing Men | Downhill | Training.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260204122000 +0200" stop="20260204142000 +0200" channel="AlpineSkiingMenDownhillTraining">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Alpine Skiing Men | Downhill | Training</desc>
+    <category lang="it">Alpine Ski</category>
+  </programme>
+  <channel id="WomensIndividualMilanCortina2026">
+    <display-name>Women's Individual Milan Cortina 2026</display-name>
+  </channel>
+  <programme start="20260204000000 +0200" stop="20260204144500 +0200" channel="WomensIndividualMilanCortina2026">
+    <title lang="it">Inizia alle 14:45.</title>
+    <desc lang="it">Women's Individual Milan Cortina 2026.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260204144500 +0200" stop="20260204164500 +0200" channel="WomensIndividualMilanCortina2026">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Women's Individual Milan Cortina 2026</desc>
+    <category lang="it">Biathlon</category>
+  </programme>
+  <channel id="ExactCrossMaldegem">
+    <display-name>Exact Cross | Maldegem</display-name>
+  </channel>
+  <programme start="20260204000000 +0200" stop="20260204143000 +0200" channel="ExactCrossMaldegem">
+    <title lang="it">Inizia alle 14:30.</title>
+    <desc lang="it">Exact Cross | Maldegem.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260204143000 +0200" stop="20260204163000 +0200" channel="ExactCrossMaldegem">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Exact Cross | Maldegem</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="TouroftheValencianCommunityStage1ISegorreTorreblanca1622km">
+    <display-name>Tour of the Valencian Community | Stage 1 I | Segorre – Torreblanca (162.2km)</display-name>
+  </channel>
+  <programme start="20260204000000 +0200" stop="20260204163000 +0200" channel="TouroftheValencianCommunityStage1ISegorreTorreblanca1622km">
+    <title lang="it">Inizia alle 16:30.</title>
+    <desc lang="it">Tour of the Valencian Community | Stage 1 I | Segorre – Torreblanca (162.2km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260204163000 +0200" stop="20260204183000 +0200" channel="TouroftheValencianCommunityStage1ISegorreTorreblanca1622km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Tour of the Valencian Community | Stage 1 I | Segorre – Torreblanca (162.2km)</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="UCITrackEuropeanChampionshipsKonyaDay4">
+    <display-name>UCI Track European Championships | Konya Day 4</display-name>
+  </channel>
+  <programme start="20260204000000 +0200" stop="20260204173000 +0200" channel="UCITrackEuropeanChampionshipsKonyaDay4">
+    <title lang="it">Inizia alle 17:30.</title>
+    <desc lang="it">UCI Track European Championships | Konya Day 4.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260204173000 +0200" stop="20260204193000 +0200" channel="UCITrackEuropeanChampionshipsKonyaDay4">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UCI Track European Championships | Konya Day 4</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="ChampionsLeagueWomenConeglianoWvsLKSLodzW">
+    <display-name>Champions League Women : Conegliano W vs LKS Lodz W</display-name>
+  </channel>
+  <programme start="20260204000000 +0200" stop="20260204211500 +0200" channel="ChampionsLeagueWomenConeglianoWvsLKSLodzW">
+    <title lang="it">Inizia alle 21:15.</title>
+    <desc lang="it">Champions League Women : Conegliano W vs LKS Lodz W.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260204211500 +0200" stop="20260204231500 +0200" channel="ChampionsLeagueWomenConeglianoWvsLKSLodzW">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Champions League Women : Conegliano W vs LKS Lodz W</desc>
+    <category lang="it">Volleyball</category>
+  </programme>
+  <channel id="MilanCortina2026WinterOlympicsCurlingMixeddoublesmatchGreatBritainvsNorway">
+    <display-name>Milan-Cortina 2026 Winter Olympics: Curling Mixed doubles match : Great Britain vs Norway</display-name>
+  </channel>
+  <programme start="20260204000000 +0200" stop="20260204200000 +0200" channel="MilanCortina2026WinterOlympicsCurlingMixeddoublesmatchGreatBritainvsNorway">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">Milan-Cortina 2026 Winter Olympics: Curling Mixed doubles match : Great Britain vs Norway.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260204200000 +0200" stop="20260204220000 +0200" channel="MilanCortina2026WinterOlympicsCurlingMixeddoublesmatchGreatBritainvsNorway">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Milan-Cortina 2026 Winter Olympics: Curling Mixed doubles match : Great Britain vs Norway</desc>
+    <category lang="it">Winter Sports</category>
+  </programme>
 </tv>
