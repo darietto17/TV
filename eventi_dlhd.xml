@@ -36,19 +36,6 @@
     <desc lang="it">Italy - Coppa Italia : Internazionale vs Torino</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="WorldGrandPrixRound1Day2EveningSession">
-    <display-name>World Grand Prix Round 1 | Day 2 | Evening Session</display-name>
-  </channel>
-  <programme start="20260204000000 +0200" stop="20260204133000 +0200" channel="WorldGrandPrixRound1Day2EveningSession">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">World Grand Prix Round 1 | Day 2 | Evening Session.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260204133000 +0200" stop="20260204153000 +0200" channel="WorldGrandPrixRound1Day2EveningSession">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Grand Prix Round 1 | Day 2 | Evening Session</desc>
-    <category lang="it">Snooker</category>
-  </programme>
   <channel id="WomensIndividualMilanCortina2026">
     <display-name>Women's Individual Milan Cortina 2026</display-name>
   </channel>
@@ -61,19 +48,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Women's Individual Milan Cortina 2026</desc>
     <category lang="it">Biathlon</category>
-  </programme>
-  <channel id="ExactCrossMaldegem">
-    <display-name>Exact Cross | Maldegem</display-name>
-  </channel>
-  <programme start="20260204000000 +0200" stop="20260204143000 +0200" channel="ExactCrossMaldegem">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">Exact Cross | Maldegem.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260204143000 +0200" stop="20260204163000 +0200" channel="ExactCrossMaldegem">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Exact Cross | Maldegem</desc>
-    <category lang="it">Cycling</category>
   </programme>
   <channel id="TouroftheValencianCommunityStage1ISegorreTorreblanca1622km">
     <display-name>Tour of the Valencian Community | Stage 1 I | Segorre – Torreblanca (162.2km)</display-name>
