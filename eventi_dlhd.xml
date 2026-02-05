@@ -26,19 +26,6 @@
     <desc lang="it">World Grand Prix Round 1 | Day 3 | Evening Session</desc>
     <category lang="it">Snooker</category>
   </programme>
-  <channel id="UAETourStage1WomenAlMirfaMadinatZyed111km">
-    <display-name>UAE Tour | Stage 1 Women | Al Mirfa - Madinat Zyed (111km)</display-name>
-  </channel>
-  <programme start="20260205000000 +0200" stop="20260205124500 +0200" channel="UAETourStage1WomenAlMirfaMadinatZyed111km">
-    <title lang="it">Inizia alle 12:45.</title>
-    <desc lang="it">UAE Tour | Stage 1 Women | Al Mirfa - Madinat Zyed (111km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260205124500 +0200" stop="20260205144500 +0200" channel="UAETourStage1WomenAlMirfaMadinatZyed111km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UAE Tour | Stage 1 Women | Al Mirfa - Madinat Zyed (111km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
   <channel id="IceHockeyFinlandvsCanada">
     <display-name>Ice Hockey : Finland vs Canada</display-name>
   </channel>
@@ -51,19 +38,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Ice Hockey : Finland vs Canada</desc>
     <category lang="it">Floorball</category>
-  </programme>
-  <channel id="OlympicGamesWomenSwedenvsGermany">
-    <display-name>Olympic Games Women : Sweden vs Germany</display-name>
-  </channel>
-  <programme start="20260205000000 +0200" stop="20260205130500 +0200" channel="OlympicGamesWomenSwedenvsGermany">
-    <title lang="it">Inizia alle 13:05.</title>
-    <desc lang="it">Olympic Games Women : Sweden vs Germany.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260205130500 +0200" stop="20260205150500 +0200" channel="OlympicGamesWomenSwedenvsGermany">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Olympic Games Women : Sweden vs Germany</desc>
-    <category lang="it">Olympic Games Women Ice Hockey</category>
   </programme>
   <channel id="OlympicGamesWomenItalyvsFrance">
     <display-name>Olympic Games Women : Italy vs France</display-name>
