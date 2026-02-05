@@ -276,10 +276,8 @@ https://vavoo.to/vavoo-iptv/play/9421530140b5164a467be
 https://vavoo.to/vavoo-iptv/play/28977827817ceeecfaf662
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV (2)
 https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY (1)
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
 https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY (2)
-https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV (1)
 https://vavoo.to/vavoo-iptv/play/24880174054972ad3227fa
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV (2)
@@ -844,8 +842,10 @@ https://vavoo.to/vavoo-iptv/play/3180571288b987548e3fe
 #EXTINF:-1 tvg-id="sky.tg24.it" tvg-name="SKY TG 24" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="News",SKY TG 24 (MPD)
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 
-#EXTINF:-1 tvg-id="sky.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro",SKY UNO
+#EXTINF:-1 tvg-id="sky.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro",SKY UNO (1)
 https://vavoo.to/vavoo-iptv/play/2130523218823893ad0255
+#EXTINF:-1 tvg-id="sky.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro",SKY UNO (2)
+https://vavoo.to/vavoo-iptv/play/32202484989ac14421915
 #EXTINF:-1 tvg-id="sky.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro",SKY UNO (D)
 https://dlhd.dad/watch.php?id=881
 
@@ -1052,11 +1052,38 @@ https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italycoppaitaliainternazionalevstorino" tvg-name="All Soccer Events | Italy - Coppa Italia : Internazionale vs Torino (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Internazionale_vs_Torino.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Coppa Italia : Internazionale vs Torino (22:00)
+#EXTINF:-1 tvg-id="italycoppaitaliaatalantavsjuventus" tvg-name="Soccer | Italy - Coppa Italia : Atalanta vs Juventus (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Atalanta_vs_Juventus.png" group-title="Eventi Live DLHD",Soccer | Italy - Coppa Italia : Atalanta vs Juventus (22:00)
 https://dlhd.dad/watch.php?id=854
 
-#EXTINF:-1 tvg-id="championsleaguewomenconeglianowvslkslodzw" tvg-name="Volleyball | Champions League Women : Conegliano W vs LKS Lodz W (21:15)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Conegliano W_vs_LKS Lodz W.png" group-title="Eventi Live DLHD",Volleyball | Champions League Women : Conegliano W vs LKS Lodz W (21:15)
-https://dlhd.dad/watch.php?id=877
+#EXTINF:-1 tvg-id="montpellieratpabudhabiwtaclujnapocawtaampostravawtaearlyrounds" tvg-name="Tennis | Montpellier-ATP, Abu Dhabi-WTA, Cluj-Napoca-WTA &amp; Ostrava-WTA Early Rounds (09:00)" tvg-logo="https://styles.redditmedia.com/t5_3w9c7h/styles/communityIcon_npdtli3kcgrc1.png" group-title="Eventi Live DLHD",Tennis | Montpellier-ATP, Abu Dhabi-WTA, Cluj-Napoca-WTA &amp; Ostrava-WTA Early Rounds (09:00)
+https://dlhd.dad/watch.php?id=576
+
+#EXTINF:-1 tvg-id="worldgrandprixtournamentday3" tvg-name="Snooker | World Grand Prix Tournament Day 3 (07:00)" tvg-logo="https://static.flashscore.com/res/image/data/MmHm5MSp-hOJ9gysk.png" group-title="Eventi Live DLHD",Snooker | World Grand Prix Tournament Day 3 (07:00)
+https://dlhd.dad/watch.php?id=879
+
+#EXTINF:-1 tvg-id="worldgrandprixround1day3eveningsession" tvg-name="Snooker | World Grand Prix Round 1 | Day 3 | Evening Session (13:30)" tvg-logo="https://frame.twibbonize.com/159591b3-c1f1-4f5f-abe8-92b86409dbe5.png" group-title="Eventi Live DLHD",Snooker | World Grand Prix Round 1 | Day 3 | Evening Session (13:30)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="uaetourstage1womenalmirfamadinatzyed111km" tvg-name="Cycling | UAE Tour | Stage 1 Women | Al Mirfa - Madinat Zyed (111km) (12:45)" tvg-logo="https://files.onlycycling.com/onlycycling-files/media/CACHE/images/logos/2025/uae-tour/1ff992ecb7f17342c5df9e0368b5f72d.png" group-title="Eventi Live DLHD",Cycling | UAE Tour | Stage 1 Women | Al Mirfa - Madinat Zyed (111km) (12:45)
+https://dlhd.dad/watch.php?id=879
+
+#EXTINF:-1 tvg-id="icehockeyfinlandvscanada" tvg-name="Floorball | Ice Hockey : Finland vs Canada (22:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Finland_vs_Canada.png" group-title="Eventi Live DLHD",Floorball | Ice Hockey : Finland vs Canada (22:05)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="olympicgameswomenswedenvsgermany" tvg-name="Olympic Games Women Ice Hockey | Olympic Games Women : Sweden vs Germany (13:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sweden_vs_Germany.png" group-title="Eventi Live DLHD",Olympic Games Women Ice Hockey | Olympic Games Women : Sweden vs Germany (13:05)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="olympicgameswomenitalyvsfrance" tvg-name="Olympic Games Women Ice Hockey | Olympic Games Women : Italy vs France (15:40)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy_vs_France.png" group-title="Eventi Live DLHD",Olympic Games Women Ice Hockey | Olympic Games Women : Italy vs France (15:40)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="olympicgameswomenunitedstatesvsczechrepublic" tvg-name="Olympic Games Women Ice Hockey | Olympic Games Women : United States vs Czech Republic (18:10)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/United States_vs_Czech Republic.png" group-title="Eventi Live DLHD",Olympic Games Women Ice Hockey | Olympic Games Women : United States vs Czech Republic (18:10)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="sixnationsfrancevsireland" tvg-name="Rugby Union | Six Nations : France vs Ireland (22:10)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/France_vs_Ireland.png" group-title="Eventi Live DLHD",Rugby Union | Six Nations : France vs Ireland (22:10)
+https://dlhd.dad/watch.php?id=462
+
+#EXTINF:-1 tvg-id="snowboardingmenbigairqualifying" tvg-name="Winter Sports | Snowboarding Men | Big Air | Qualifying (20:15)" tvg-logo="https://bigairfoods.com/cdn/shop/collections/bigair_Mockup_Straw06_1200x1200.png?v=1734650303" group-title="Eventi Live DLHD",Winter Sports | Snowboarding Men | Big Air | Qualifying (20:15)
+https://dlhd.dad/watch.php?id=879
 
 
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",YeÅil Yalova x Gaziantep FK 11:00
