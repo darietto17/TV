@@ -117,19 +117,6 @@
     <desc lang="it">Etoile de Besseges | Stage 3 Men | Bessèges - Bessèges (162.3km)</desc>
     <category lang="it">Cycling</category>
   </programme>
-  <channel id="OlympicGamesWomenFranceWvsJapanW">
-    <display-name>Olympic Games Women : France W vs Japan W</display-name>
-  </channel>
-  <programme start="20260206000000 +0200" stop="20260206130000 +0200" channel="OlympicGamesWomenFranceWvsJapanW">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Olympic Games Women : France W vs Japan W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260206130000 +0200" stop="20260206150000 +0200" channel="OlympicGamesWomenFranceWvsJapanW">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Olympic Games Women : France W vs Japan W</desc>
-    <category lang="it">Olympic Games Women Ice Hockey</category>
-  </programme>
   <channel id="OlympicGamesWomenCzechRepublicWvsSwitzerlandW">
     <display-name>Olympic Games Women : Czech Republic W vs Switzerland W</display-name>
   </channel>
@@ -155,18 +142,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Six Nations U20 : Italy U20 vs Scotland U20</desc>
     <category lang="it">Rugby Union</category>
-  </programme>
-  <channel id="WinterOlympicsWinterGamesfromItaly">
-    <display-name>Winter Olympics Winter Games from Italy</display-name>
-  </channel>
-  <programme start="20260206000000 +0200" stop="20260206110000 +0200" channel="WinterOlympicsWinterGamesfromItaly">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">Winter Olympics Winter Games from Italy.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260206110000 +0200" stop="20260206130000 +0200" channel="WinterOlympicsWinterGamesfromItaly">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Winter Olympics Winter Games from Italy</desc>
-    <category lang="it">Winter Sports</category>
   </programme>
 </tv>
