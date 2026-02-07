@@ -45,10 +45,8 @@ https://vavoo.to/vavoo-iptv/play/430570853d0b7479b224d
 https://vavoo.to/vavoo-iptv/play/3267376899f976b1a231c0
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN8by3YXjCGJQaxT6b-cgZ872BjY_NLIrALA&s" group-title="Altro",AVENGERS GRIMM CHANNEL
 https://vavoo.to/vavoo-iptv/play/1506307932300e27c2fd43
-#EXTINF:-1 tvg-id="babytv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/baby-tv-es.png?raw=true" group-title="Bambini",BABY TV (1)
+#EXTINF:-1 tvg-id="babytv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/baby-tv-es.png?raw=true" group-title="Bambini",BABY TV
 https://vavoo.to/vavoo-iptv/play/39385011257cd02ab803dc
-#EXTINF:-1 tvg-id="babytv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/baby-tv-es.png?raw=true" group-title="Bambini",BABY TV (2)
-https://vavoo.to/vavoo-iptv/play/226572794257a18add58e4
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",BBC TOP GEAR ITALY
 https://vavoo.to/vavoo-iptv/play/2330946937dd53b634ff71
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/bellaradio.it/wp-content/uploads/2020/01/Bella-2020-3.png?fit=3000%2C3000&ssl=1" group-title="Musica",BELLA RADIO TV
@@ -158,6 +156,8 @@ https://vavoo.to/vavoo-iptv/play/4137427510ef362e6435fc
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",CUSANO NEWS7
 https://vavoo.to/vavoo-iptv/play/861948627bb3b2465ad5a
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",DAZN (MATCH TIME)
+https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
 #EXTINF:-1 tvg-id="dazn.2.it.it" tvg-logo="" group-title="Sport",DAZN 2
@@ -381,8 +381,6 @@ https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
 https://vavoo.to/vavoo-iptv/play/3889279895a867a5410d74
 #EXTINF:-1 tvg-id="mtv.hd.it" tvg-logo="" group-title="Musica",MTV
 https://vavoo.to/vavoo-iptv/play/3212860676dcc8c28a2be1
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/mtv-hits-rs.png?raw=true" group-title="Musica",MTV HITS
-https://vavoo.to/vavoo-iptv/play/3446813098b031eef6dc22
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (1)
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (2)
@@ -1129,9 +1127,6 @@ https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="worldgrandprixsemifinal" tvg-name="Snooker | World Grand Prix | Semi-Final (13:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Snooker | World Grand Prix | Semi-Final (13:00)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="winterolympicgamesmilancortina2026alpineskiingwomensmeeting" tvg-name="Alpine Ski | Winter Olympic Games Milan-Cortina 2026: Alpine Skiing women's meeting (12:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2025/03/NBC-Milan-Cortina-2026-Logo-2025.png" group-title="Eventi Live DLHD",Alpine Ski | Winter Olympic Games Milan-Cortina 2026: Alpine Skiing women's meeting (12:00)
-https://dlhd.dad/watch.php?id=878
-
 #EXTINF:-1 tvg-id="winterolympicsmilancortina2026crosscountryskiingwomenscombinedrace" tvg-name="Cross Country | Winter Olympics Milan-Cortina 2026: Cross-country skiing women's combined race (13:45)" tvg-logo="https://brandlogo.org/wp-content/uploads/2025/03/NBC-Milan-Cortina-2026-Logo-2025.png" group-title="Eventi Live DLHD",Cross Country | Winter Olympics Milan-Cortina 2026: Cross-country skiing women's combined race (13:45)
 https://dlhd.dad/watch.php?id=878
 
@@ -1141,7 +1136,7 @@ https://dlhd.dad/watch.php?id=879
 #EXTINF:-1 tvg-id="middlekerketelenetsuperprestige" tvg-name="Cycling | Middlekerke Telenet Superprestige (14:37)" tvg-logo="https://companieslogo.com/img/orig/TNET.BR-f6958bf4.png?download=true" group-title="Eventi Live DLHD",Cycling | Middlekerke Telenet Superprestige (14:37)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="tourofthevalenciancommunitystage4ilanucíateuladamoraira1722km" tvg-name="Cycling | Tour of the Valencian Community | Stage 4 I | La Nucía - Teulada Moraira (172.2km) (16:30)" tvg-logo="https://static.wixstatic.com/media/0d27fd_0330705a74ad4d47bc1bc35454acc7b3~mv2.png/v1/fit/w_2500,h_1330,al_c/0d27fd_0330705a74ad4d47bc1bc35454acc7b3~mv2.png" group-title="Eventi Live DLHD",Cycling | Tour of the Valencian Community | Stage 4 I | La Nucía - Teulada Moraira (172.2km) (16:30)
+#EXTINF:-1 tvg-id="tourofthevalenciancommunitystage4ilanucíateuladamoraira1722km" tvg-name="Cycling | Tour of the Valencian Community | Stage 4 I | La Nucía - Teulada Moraira (172.2km) (16:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | Tour of the Valencian Community | Stage 4 I | La Nucía - Teulada Moraira (172.2km) (16:30)
 https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="fencinggrandprixfoil180min" tvg-name="Fencing | Fencing Grand Prix Foil | 180 min (19:00)" tvg-logo="https://ladispensavegana.com/images/logo-color.png" group-title="Eventi Live DLHD",Fencing | Fencing Grand Prix Foil | 180 min (19:00)
@@ -1169,9 +1164,6 @@ https://dlhd.dad/watch.php?id=155
 https://dlhd.dad/watch.php?id=462
 
 #EXTINF:-1 tvg-id="individualcompetitionskijumpingwomenolympicgames" tvg-name="Ski Jumping | Individual competition | Ski Jumping Women - Olympic Games (18:40)" tvg-logo="https://cdn2.iconfinder.com/data/icons/sport-competition-linear-outline/4000/21-08-26-Paralympic-games-editable-stroke-31-512.png" group-title="Eventi Live DLHD",Ski Jumping | Individual competition | Ski Jumping Women - Olympic Games (18:40)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="freestyleskiingwomenslopestylequalifying" tvg-name="Winter Sports | Freestyle Skiing Women | Slopestyle | Qualifying (11:25)" tvg-logo="http://www.teambuller.com/uploads/2/0/9/2/20927662/out-of-logo_orig.png" group-title="Eventi Live DLHD",Winter Sports | Freestyle Skiing Women | Slopestyle | Qualifying (11:25)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="lugewomensinglestraining" tvg-name="Winter Sports | Luge Women | Singles | Training (14:30)" tvg-logo="https://api.qeenatha.com/images/q_logo.png" group-title="Eventi Live DLHD",Winter Sports | Luge Women | Singles | Training (14:30)
