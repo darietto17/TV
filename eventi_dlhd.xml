@@ -299,17 +299,7 @@
   <channel id="WorldGrandPrixSemiFinal">
     <display-name>World Grand Prix | Semi-Final</display-name>
   </channel>
-  <programme start="20260207000000 +0200" stop="20260207070000 +0200" channel="WorldGrandPrixSemiFinal">
-    <title lang="it">Inizia alle 07:00.</title>
-    <desc lang="it">World Grand Prix | Semi-Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260207070000 +0200" stop="20260207090000 +0200" channel="WorldGrandPrixSemiFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Grand Prix | Semi-Final</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20260207090000 +0200" stop="20260207130000 +0200" channel="WorldGrandPrixSemiFinal">
+  <programme start="20260207000000 +0200" stop="20260207130000 +0200" channel="WorldGrandPrixSemiFinal">
     <title lang="it">Inizia alle 13:00.</title>
     <desc lang="it">World Grand Prix | Semi-Final.</desc>
     <category lang="it">Annuncio</category>
