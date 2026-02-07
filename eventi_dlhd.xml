@@ -1,109 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="EnglandPremierLeagueManchesterUnitedvsTottenhamHotspur">
-    <display-name>England - Premier League : Manchester United vs Tottenham Hotspur</display-name>
-  </channel>
-  <programme start="20260207000000 +0200" stop="20260207143000 +0200" channel="EnglandPremierLeagueManchesterUnitedvsTottenhamHotspur">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">England - Premier League : Manchester United vs Tottenham Hotspur.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260207143000 +0200" stop="20260207163000 +0200" channel="EnglandPremierLeagueManchesterUnitedvsTottenhamHotspur">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Manchester United vs Tottenham Hotspur</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCLumezzanevsCittadella">
-    <display-name>Italy - Serie C : Lumezzane vs Cittadella</display-name>
-  </channel>
-  <programme start="20260207000000 +0200" stop="20260207153000 +0200" channel="ItalySerieCLumezzanevsCittadella">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Lumezzane vs Cittadella.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260207153000 +0200" stop="20260207173000 +0200" channel="ItalySerieCLumezzanevsCittadella">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Lumezzane vs Cittadella</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCVirtusCasaranovsSorrento">
-    <display-name>Italy - Serie C : Virtus Casarano vs Sorrento</display-name>
-  </channel>
-  <programme start="20260207000000 +0200" stop="20260207153000 +0200" channel="ItalySerieCVirtusCasaranovsSorrento">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Virtus Casarano vs Sorrento.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260207153000 +0200" stop="20260207173000 +0200" channel="ItalySerieCVirtusCasaranovsSorrento">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Virtus Casarano vs Sorrento</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCGiuglianovsCosenza">
-    <display-name>Italy - Serie C : Giugliano vs Cosenza</display-name>
-  </channel>
-  <programme start="20260207000000 +0200" stop="20260207153000 +0200" channel="ItalySerieCGiuglianovsCosenza">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Giugliano vs Cosenza.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260207153000 +0200" stop="20260207173000 +0200" channel="ItalySerieCGiuglianovsCosenza">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Giugliano vs Cosenza</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCCrotonevsAtalantaII">
-    <display-name>Italy - Serie C : Crotone vs Atalanta II</display-name>
-  </channel>
-  <programme start="20260207000000 +0200" stop="20260207153000 +0200" channel="ItalySerieCCrotonevsAtalantaII">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Crotone vs Atalanta II.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260207153000 +0200" stop="20260207173000 +0200" channel="ItalySerieCCrotonevsAtalantaII">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Crotone vs Atalanta II</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCCasertanavsFoggia">
-    <display-name>Italy - Serie C : Casertana vs Foggia</display-name>
-  </channel>
-  <programme start="20260207000000 +0200" stop="20260207153000 +0200" channel="ItalySerieCCasertanavsFoggia">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Casertana vs Foggia.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260207153000 +0200" stop="20260207173000 +0200" channel="ItalySerieCCasertanavsFoggia">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Casertana vs Foggia</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCNovaravsUnionBrescia">
-    <display-name>Italy - Serie C : Novara vs Union Brescia</display-name>
-  </channel>
-  <programme start="20260207000000 +0200" stop="20260207153000 +0200" channel="ItalySerieCNovaravsUnionBrescia">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Novara vs Union Brescia.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260207153000 +0200" stop="20260207173000 +0200" channel="ItalySerieCNovaravsUnionBrescia">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Novara vs Union Brescia</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="GermanyBundesligaWolfsburgvsBorussiaDortmund">
-    <display-name>Germany - Bundesliga : Wolfsburg vs Borussia Dortmund</display-name>
-  </channel>
-  <programme start="20260207000000 +0200" stop="20260207163000 +0200" channel="GermanyBundesligaWolfsburgvsBorussiaDortmund">
-    <title lang="it">Inizia alle 16:30.</title>
-    <desc lang="it">Germany - Bundesliga : Wolfsburg vs Borussia Dortmund.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260207163000 +0200" stop="20260207183000 +0200" channel="GermanyBundesligaWolfsburgvsBorussiaDortmund">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga : Wolfsburg vs Borussia Dortmund</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="EnglandPremierLeagueArsenalvsSunderland">
     <display-name>England - Premier League : Arsenal vs Sunderland</display-name>
   </channel>
@@ -257,32 +153,6 @@
     <desc lang="it">Judo Grand Slam of Paris 2026</desc>
     <category lang="it">Combat sports</category>
   </programme>
-  <channel id="MiddlekerkeTelenetSuperprestige">
-    <display-name>Middlekerke Telenet Superprestige</display-name>
-  </channel>
-  <programme start="20260207000000 +0200" stop="20260207143700 +0200" channel="MiddlekerkeTelenetSuperprestige">
-    <title lang="it">Inizia alle 14:37.</title>
-    <desc lang="it">Middlekerke Telenet Superprestige.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260207143700 +0200" stop="20260207163700 +0200" channel="MiddlekerkeTelenetSuperprestige">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Middlekerke Telenet Superprestige</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <channel id="TouroftheValencianCommunityStage4ILaNucaTeuladaMoraira1722km">
-    <display-name>Tour of the Valencian Community | Stage 4 I | La Nucía - Teulada Moraira (172.2km)</display-name>
-  </channel>
-  <programme start="20260207000000 +0200" stop="20260207163000 +0200" channel="TouroftheValencianCommunityStage4ILaNucaTeuladaMoraira1722km">
-    <title lang="it">Inizia alle 16:30.</title>
-    <desc lang="it">Tour of the Valencian Community | Stage 4 I | La Nucía - Teulada Moraira (172.2km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260207163000 +0200" stop="20260207183000 +0200" channel="TouroftheValencianCommunityStage4ILaNucaTeuladaMoraira1722km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of the Valencian Community | Stage 4 I | La Nucía - Teulada Moraira (172.2km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
   <channel id="FencingGrandPrixFoil180min">
     <display-name>Fencing Grand Prix Foil | 180 min</display-name>
   </channel>
@@ -361,19 +231,6 @@
     <desc lang="it">Figure skating Team Competition | Ice Dancing | Freestyle</desc>
     <category lang="it">Ice Skating</category>
   </programme>
-  <channel id="SixNationsItalyvsScotland">
-    <display-name>Six Nations : Italy vs Scotland</display-name>
-  </channel>
-  <programme start="20260207000000 +0200" stop="20260207161000 +0200" channel="SixNationsItalyvsScotland">
-    <title lang="it">Inizia alle 16:10.</title>
-    <desc lang="it">Six Nations : Italy vs Scotland.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260207161000 +0200" stop="20260207181000 +0200" channel="SixNationsItalyvsScotland">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Six Nations : Italy vs Scotland</desc>
-    <category lang="it">Rugby Union</category>
-  </programme>
   <channel id="SixNationsU20FranceU20vsIrelandU20">
     <display-name>Six Nations U20 : France U20 vs Ireland U20</display-name>
   </channel>
@@ -399,19 +256,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Individual competition | Ski Jumping Women - Olympic Games</desc>
     <category lang="it">Ski Jumping</category>
-  </programme>
-  <channel id="LugeWomenSinglesTraining">
-    <display-name>Luge Women | Singles | Training</display-name>
-  </channel>
-  <programme start="20260207000000 +0200" stop="20260207143000 +0200" channel="LugeWomenSinglesTraining">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">Luge Women | Singles | Training.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260207143000 +0200" stop="20260207163000 +0200" channel="LugeWomenSinglesTraining">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Luge Women | Singles | Training</desc>
-    <category lang="it">Winter Sports</category>
   </programme>
   <channel id="LugeMenSinglesRun1">
     <display-name>Luge Men | Singles | Run 1</display-name>
