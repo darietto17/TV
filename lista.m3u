@@ -53,8 +53,6 @@ https://vavoo.to/vavoo-iptv/play/226572794257a18add58e4
 https://vavoo.to/vavoo-iptv/play/2330946937dd53b634ff71
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/bellaradio.it/wp-content/uploads/2020/01/Bella-2020-3.png?fit=3000%2C3000&ssl=1" group-title="Musica",BELLA RADIO TV
 https://vavoo.to/vavoo-iptv/play/15850058604ed339a2ed20
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Logo_Ufficiale_Radio_Bellla_%26_Monella.png" group-title="Altro",BELLLA & MONELLA TV
-https://vavoo.to/vavoo-iptv/play/1611446752ef81feae9ae
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.opq.it/wp-content/uploads/BergamoTV.png" group-title="Altro",BERGAMO TV
 https://vavoo.to/vavoo-iptv/play/2476433040575c4662d870
 #EXTINF:-1 tvg-id="blaze.it" tvg-logo="" group-title="Altro",BLAZE
@@ -156,8 +154,6 @@ https://vavoo.to/vavoo-iptv/play/4137427510ef362e6435fc
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",CUSANO NEWS7
 https://vavoo.to/vavoo-iptv/play/861948627bb3b2465ad5a
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",DAZN (MATCH TIME)
-https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
 #EXTINF:-1 tvg-id="dazn.2.it.it" tvg-logo="" group-title="Sport",DAZN 2
@@ -331,10 +327,8 @@ https://vavoo.to/vavoo-iptv/play/14256673753de6371f2c50
 #EXTINF:-1 tvg-id="la.5.it" tvg-name="LA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Altro",LA 5 (MPD)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7 (1)
+#EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
 https://vavoo.to/vavoo-iptv/play/2143522071cfa887e2feb3
-#EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7 (2)
-https://vavoo.to/vavoo-iptv/play/7755300630832713e7adb
 #EXTINF:-1 tvg-id="la7d.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7d-it.png" group-title="Altro",LA 7 D
 https://vavoo.to/vavoo-iptv/play/881846038948178d71a68
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",LA C ONAIR
@@ -440,6 +434,8 @@ https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 https://vavoo.to/vavoo-iptv/play/12325656817eefaf17ef24
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvtvtv.ru/icons/51_tv.png" group-title="Musica",RADIO 51
 https://vavoo.to/vavoo-iptv/play/233974719353ecd6eb8de1
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Radio_Capital_-_Logo_2019.svg.png/revision/latest?cb=20190815181629" group-title="Musica",RADIO CAPITAL
+https://vavoo.to/vavoo-iptv/play/4214417458dc0729ae47d
 #EXTINF:-1 tvg-id="radiofreccia.hd.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/radio-freccia-it.png?raw=true" group-title="Musica",RADIO FRECCIA
 https://vavoo.to/vavoo-iptv/play/1711134994a4ab3e165de3
 #EXTINF:-1 tvg-id="radionorba.tv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/radio-norba-tv-it.png?raw=true" group-title="Altro",RADIONORBA TV
@@ -779,8 +775,10 @@ https://dlhd.dad/watch.php?id=872
 https://dlhd.dad/watch.php?id=873
 #EXTINF:-1 tvg-id="sky.sport..254.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png" group-title="Sport",SKY SPORT 254 (D)
 https://dlhd.dad/watch.php?id=874
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (1)
 https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (2)
+https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",SKY SPORT BASKET (D)
@@ -1050,35 +1048,11 @@ https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="winterolympics2026livestream" tvg-name="Winter Olympics 2026 | Winter Olympics 2026 Live Stream (13:55)" tvg-logo="https://junipertours.com/wp-content/uploads/2022/12/new-png-logo.png" group-title="Eventi Live DLHD",Winter Olympics 2026 | Winter Olympics 2026 Live Stream (13:55)
+#EXTINF:-1 tvg-id="winterolympics2026livestream" tvg-name="Winter Olympics 2026 | Winter Olympics 2026 Live Stream (18:05)" tvg-logo="https://junipertours.com/wp-content/uploads/2022/12/new-png-logo.png" group-title="Eventi Live DLHD",Winter Olympics 2026 | Winter Olympics 2026 Live Stream (18:05)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="winterolympics2026livestream" tvg-name="Winter Olympics 2026 | Winter Olympics 2026 Live Stream (13:55)" tvg-logo="https://junipertours.com/wp-content/uploads/2022/12/new-png-logo.png" group-title="Eventi Live DLHD",Winter Olympics 2026 | Winter Olympics 2026 Live Stream (13:55)
+#EXTINF:-1 tvg-id="winterolympics2026livestream" tvg-name="Winter Olympics 2026 | Winter Olympics 2026 Live Stream (18:05)" tvg-logo="https://junipertours.com/wp-content/uploads/2022/12/new-png-logo.png" group-title="Eventi Live DLHD",Winter Olympics 2026 | Winter Olympics 2026 Live Stream (18:05)
 https://dlhd.dad/watch.php?id=879
-
-#EXTINF:-1 tvg-id="winterolympics2026" tvg-name="Winter Olympics 2026 | Winter Olympics 2026 (13:55)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2026_Winter_Olympics_logo.svg/1200px-2026_Winter_Olympics_logo.svg.png" group-title="Eventi Live DLHD",Winter Olympics 2026 | Winter Olympics 2026 (13:55)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="winterolympics2026" tvg-name="Winter Olympics 2026 | Winter Olympics 2026 (13:55)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2026_Winter_Olympics_logo.svg/1200px-2026_Winter_Olympics_logo.svg.png" group-title="Eventi Live DLHD",Winter Olympics 2026 | Winter Olympics 2026 (13:55)
-https://dlhd.dad/watch.php?id=879
-
-#EXTINF:-1 tvg-id="italyserieabolognavsparma" tvg-name="Soccer | Italy - Serie A : Bologna vs Parma (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bologna_vs_Parma.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Bologna vs Parma (13:30)
-https://dlhd.dad/watch.php?id=877
-
-#EXTINF:-1 tvg-id="italyseriecsassaritorresvsjuventusii" tvg-name="Soccer | Italy - Serie C : Sassari Torres vs Juventus II (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sassari Torres_vs_Juventus II.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Sassari Torres vs Juventus II (13:30)
-https://dlhd.dad/watch.php?id=4
-
-#EXTINF:-1 tvg-id="italyseriecsassaritorresvsjuventusii" tvg-name="Soccer | Italy - Serie C : Sassari Torres vs Juventus II (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sassari Torres_vs_Juventus II.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Sassari Torres vs Juventus II (13:30)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="italyseriecpontederavsternana" tvg-name="Soccer | Italy - Serie C : Pontedera vs Ternana (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pontedera_vs_Ternana.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Pontedera vs Ternana (13:30)
-https://dlhd.dad/watch.php?id=5
-
-#EXTINF:-1 tvg-id="italyseriecpontederavsternana" tvg-name="Soccer | Italy - Serie C : Pontedera vs Ternana (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pontedera_vs_Ternana.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Pontedera vs Ternana (13:30)
-https://dlhd.dad/watch.php?id=870
-
-#EXTINF:-1 tvg-id="englandwomenssuperleaguelondoncitylionessesvseverton" tvg-name="Soccer | England - Women's Super League : London City Lionesses vs Everton (14:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/London City Lionesses_vs_Everton.png" group-title="Eventi Live DLHD",Soccer | England - Women's Super League : London City Lionesses vs Everton (14:00)
-https://dlhd.dad/watch.php?id=462
 
 #EXTINF:-1 tvg-id="italyseriecleccovsprovercelli" tvg-name="Soccer | Italy - Serie C : Lecco vs Pro Vercelli (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lecco_vs_Pro Vercelli.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Lecco vs Pro Vercelli (15:30)
 https://dlhd.dad/watch.php?id=16
@@ -1119,7 +1093,7 @@ https://dlhd.dad/watch.php?id=461
 #EXTINF:-1 tvg-id="italyseriecvicenzavsdolomitibellunesi" tvg-name="Soccer | Italy - Serie C : Vicenza vs Dolomiti Bellunesi (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Vicenza_vs_Dolomiti Bellunesi.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Vicenza vs Dolomiti Bellunesi (18:30)
 https://dlhd.dad/watch.php?id=16
 
-#EXTINF:-1 tvg-id="italyseriecarezzovspianese" tvg-name="Soccer | Italy - Serie C : Arezzo vs Pianese (18:30)" tvg-logo="https://images.seeklogo.com/logo-png/33/3/ss-arezzo-1923-logo-png_seeklogo-338364.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Arezzo vs Pianese (18:30)
+#EXTINF:-1 tvg-id="italyseriecarezzovspianese" tvg-name="Soccer | Italy - Serie C : Arezzo vs Pianese (18:30)" tvg-logo="https://logospng.org/download/arezzo/logo-arezzo-1536.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Arezzo vs Pianese (18:30)
 https://dlhd.dad/watch.php?id=21
 
 #EXTINF:-1 tvg-id="italyseriecpinetovsascoli" tvg-name="Soccer | Italy - Serie C : Pineto vs Ascoli (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pineto_vs_Ascoli.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Pineto vs Ascoli (18:30)
@@ -1149,25 +1123,16 @@ https://dlhd.dad/watch.php?id=877
 #EXTINF:-1 tvg-id="judoparisgrandslamday2finalphase" tvg-name="Combat sports | Judo: Paris Grand Slam. Day 2. Final phase. (18:00)" tvg-logo="http://vx-3.com/cdn/shop/collections/Worcester_Judo_Club_-_BADGE_2.png?v=1730205699" group-title="Eventi Live DLHD",Combat sports | Judo: Paris Grand Slam. Day 2. Final phase. (18:00)
 https://dlhd.dad/watch.php?id=460
 
-#EXTINF:-1 tvg-id="worldgrandprixfinal" tvg-name="Snooker | World Grand Prix | Final (13:00)" tvg-logo="https://static.wikia.nocookie.net/the-world-grand-prix/images/e/e6/Site-logo.png/revision/latest?cb=20220102021838" group-title="Eventi Live DLHD",Snooker | World Grand Prix | Final (13:00)
-https://dlhd.dad/watch.php?id=879
-
-#EXTINF:-1 tvg-id="downhillalpineskiingwomenolympicgames" tvg-name="Alpine Ski | Downhill | Alpine skiing Women - Olympic Games (14:20)" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/downhilldevil-profile_image-42bb5d92b1461c43-300x300.png" group-title="Eventi Live DLHD",Alpine Ski | Downhill | Alpine skiing Women - Olympic Games (14:20)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="worldathleticsindoortourgold2026ep5" tvg-name="Athletics | World Athletics Indoor Tour Gold 2026 - Ep. 5 (19:00)" tvg-logo="https://sportsafrica.net/wp-content/uploads/2023/11/cropped-sportsafrica-favi-2.png" group-title="Eventi Live DLHD",Athletics | World Athletics Indoor Tour Gold 2026 - Ep. 5 (19:00)
+#EXTINF:-1 tvg-id="worldathleticsindoortourgold2026ep5" tvg-name="Athletics | World Athletics Indoor Tour Gold 2026 - Ep. 5 (19:00)" tvg-logo="https://www.udinjump.it/wp-content/uploads/2023/10/24WA_Indoor_Tour_Challenger_Logo_RGB_FC.png" group-title="Eventi Live DLHD",Athletics | World Athletics Indoor Tour Gold 2026 - Ep. 5 (19:00)
 https://dlhd.dad/watch.php?id=462
 
 #EXTINF:-1 tvg-id="winterolympicgamesmilancortina2026biathlonmixedrelay" tvg-name="Biathlon | Winter Olympic Games Milan-Cortina 2026: Biathlon mixed relay (14:35)" tvg-logo="https://brandlogo.org/wp-content/uploads/2025/03/NBC-Milan-Cortina-2026-Logo-2025.png" group-title="Eventi Live DLHD",Biathlon | Winter Olympic Games Milan-Cortina 2026: Biathlon mixed relay (14:35)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="uaetourstage4womenalainhazzabinzayedstadiumjebelhafeet156km" tvg-name="Cycling | UAE Tour | Stage 4 Women | Al Ain Hazza Bin Zayed Stadium – Jebel Hafeet (156km) (12:45)" tvg-logo="https://files.onlycycling.com/onlycycling-files/media/CACHE/images/logos/2025/uae-tour/1ff992ecb7f17342c5df9e0368b5f72d.png" group-title="Eventi Live DLHD",Cycling | UAE Tour | Stage 4 Women | Al Ain Hazza Bin Zayed Stadium – Jebel Hafeet (156km) (12:45)
-https://dlhd.dad/watch.php?id=879
-
 #EXTINF:-1 tvg-id="cyclocrosstrophylillewomensrace" tvg-name="Cycling | Cyclo-cross: Trophy Lille women's race (14:45)" tvg-logo="https://s1.static-clubeo.com/uploads/challenge-mosellan-cyclo-cross/logo__sae6va.png" group-title="Eventi Live DLHD",Cycling | Cyclo-cross: Trophy Lille women's race (14:45)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="tourofthevalenciancommunitystage5menbéteravalencia938km" tvg-name="Cycling | Tour of the Valencian Community | Stage 5 Men | Bétera - Valencia (93.8km) (16:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | Tour of the Valencian Community | Stage 5 Men | Bétera - Valencia (93.8km) (16:30)
+#EXTINF:-1 tvg-id="tourofthevalenciancommunitystage5menbéteravalencia938km" tvg-name="Cycling | Tour of the Valencian Community | Stage 5 Men | Bétera - Valencia (93.8km) (16:30)" tvg-logo="https://vote.motogp.com/media/dorna/ror/riders/680cde7689798.png" group-title="Eventi Live DLHD",Cycling | Tour of the Valencian Community | Stage 5 Men | Bétera - Valencia (93.8km) (16:30)
 https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="olympicgameswomenicehockeyfrancewvsswedenw" tvg-name="Olympic Games Women Ice Hockey | Olympic Games Women Ice Hockey : France W vs Sweden W (17:40)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/France W_vs_Sweden W.png" group-title="Eventi Live DLHD",Olympic Games Women Ice Hockey | Olympic Games Women Ice Hockey : France W vs Sweden W (17:40)
@@ -1181,9 +1146,6 @@ https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="seriea1womenscandicciwvsconeglianow" tvg-name="Volleyball | Serie A1 Women : Scandicci W vs Conegliano W (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Scandicci W_vs_Conegliano W.png" group-title="Eventi Live DLHD",Volleyball | Serie A1 Women : Scandicci W vs Conegliano W (18:00)
 https://dlhd.dad/watch.php?id=877
-
-#EXTINF:-1 tvg-id="snowboardingmixedparallelgiantslalomfinal" tvg-name="Winter Sports | Snowboarding Mixed | Parallel Giant Slalom | Final (13:45)" tvg-logo="https://static.vecteezy.com/system/resources/previews/019/766/237/original/adidas-logo-adidas-icon-transparent-free-png.png" group-title="Eventi Live DLHD",Winter Sports | Snowboarding Mixed | Parallel Giant Slalom | Final (13:45)
-https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="lugemensinglesrun3" tvg-name="Winter Sports | Luge Men | Singles | Run 3 (18:00)" tvg-logo="https://api.qeenatha.com/images/q_logo.png" group-title="Eventi Live DLHD",Winter Sports | Luge Men | Singles | Run 3 (18:00)
 https://dlhd.dad/watch.php?id=878
