@@ -378,17 +378,7 @@
   <channel id="WorldGrandPrixFinal">
     <display-name>World Grand Prix | Final</display-name>
   </channel>
-  <programme start="20260208000000 +0200" stop="20260208070000 +0200" channel="WorldGrandPrixFinal">
-    <title lang="it">Inizia alle 07:00.</title>
-    <desc lang="it">World Grand Prix | Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260208070000 +0200" stop="20260208090000 +0200" channel="WorldGrandPrixFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Grand Prix | Final</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20260208090000 +0200" stop="20260208130000 +0200" channel="WorldGrandPrixFinal">
+  <programme start="20260208000000 +0200" stop="20260208130000 +0200" channel="WorldGrandPrixFinal">
     <title lang="it">Inizia alle 13:00.</title>
     <desc lang="it">World Grand Prix | Final.</desc>
     <category lang="it">Annuncio</category>
