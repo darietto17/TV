@@ -1,28 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieASassuolovsInternazionale">
-    <display-name>Italy - Serie A : Sassuolo vs Internazionale</display-name>
-  </channel>
-  <programme start="20260208000000 +0200" stop="20260208190000 +0200" channel="ItalySerieASassuolovsInternazionale">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">Italy - Serie A : Sassuolo vs Internazionale.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260208190000 +0200" stop="20260208210000 +0200" channel="ItalySerieASassuolovsInternazionale">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Sassuolo vs Internazionale</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260208000000 +0200" stop="20260208190000 +0200" channel="ItalySerieASassuolovsInternazionale">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">Italy - Serie A : Sassuolo vs Internazionale.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260208190000 +0200" stop="20260208210000 +0200" channel="ItalySerieASassuolovsInternazionale">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Sassuolo vs Internazionale</desc>
-    <category lang="it">Soccer</category>
-  </programme>
   <channel id="ItalySerieCVisPesarovsForl">
     <display-name>Italy - Serie C : Vis Pesaro vs Forlì</display-name>
   </channel>
@@ -72,19 +49,6 @@
     <desc lang="it">Italy - Serie A : Juventus vs Lazio</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="WorldAthleticsIndoorTourGold2026Ep5">
-    <display-name>World Athletics Indoor Tour Gold 2026 - Ep. 5</display-name>
-  </channel>
-  <programme start="20260208000000 +0200" stop="20260208190000 +0200" channel="WorldAthleticsIndoorTourGold2026Ep5">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">World Athletics Indoor Tour Gold 2026 - Ep. 5.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260208190000 +0200" stop="20260208210000 +0200" channel="WorldAthleticsIndoorTourGold2026Ep5">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Athletics Indoor Tour Gold 2026 - Ep. 5</desc>
-    <category lang="it">Athletics</category>
-  </programme>
   <channel id="OlympicGamesWomenIceHockeyCzechRepublicWvsFinlandW">
     <display-name>Olympic Games Women Ice Hockey : Czech Republic W vs Finland W</display-name>
   </channel>
@@ -97,18 +61,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Olympic Games Women Ice Hockey : Czech Republic W vs Finland W</desc>
     <category lang="it">Olympic Games Women Ice Hockey</category>
-  </programme>
-  <channel id="SnowboardingWomenBigAirQualifying">
-    <display-name>Snowboarding Women | Big Air | Qualifying</display-name>
-  </channel>
-  <programme start="20260208000000 +0200" stop="20260208202500 +0200" channel="SnowboardingWomenBigAirQualifying">
-    <title lang="it">Inizia alle 20:25.</title>
-    <desc lang="it">Snowboarding Women | Big Air | Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260208202500 +0200" stop="20260208222500 +0200" channel="SnowboardingWomenBigAirQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Snowboarding Women | Big Air | Qualifying</desc>
-    <category lang="it">Winter Sports</category>
   </programme>
 </tv>
