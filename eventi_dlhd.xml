@@ -1,77 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieCTeamAltamuravsLatina">
-    <display-name>Italy - Serie C : Team Altamura vs Latina</display-name>
-  </channel>
-  <programme start="20260210000000 +0200" stop="20260210190000 +0200" channel="ItalySerieCTeamAltamuravsLatina">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">Italy - Serie C : Team Altamura vs Latina.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260210190000 +0200" stop="20260210210000 +0200" channel="ItalySerieCTeamAltamuravsLatina">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Team Altamura vs Latina</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCSorrentovsGiugliano">
-    <display-name>Italy - Serie C : Sorrento vs Giugliano</display-name>
-  </channel>
-  <programme start="20260210000000 +0200" stop="20260210190000 +0200" channel="ItalySerieCSorrentovsGiugliano">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">Italy - Serie C : Sorrento vs Giugliano.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260210190000 +0200" stop="20260210210000 +0200" channel="ItalySerieCSorrentovsGiugliano">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Sorrento vs Giugliano</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260210000000 +0200" stop="20260210190000 +0200" channel="ItalySerieCSorrentovsGiugliano">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">Italy - Serie C : Sorrento vs Giugliano.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260210190000 +0200" stop="20260210210000 +0200" channel="ItalySerieCSorrentovsGiugliano">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Sorrento vs Giugliano</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCTrapani1905vsBenevento">
-    <display-name>Italy - Serie C : Trapani 1905 vs Benevento</display-name>
-  </channel>
-  <programme start="20260210000000 +0200" stop="20260210190000 +0200" channel="ItalySerieCTrapani1905vsBenevento">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">Italy - Serie C : Trapani 1905 vs Benevento.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260210190000 +0200" stop="20260210210000 +0200" channel="ItalySerieCTrapani1905vsBenevento">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Trapani 1905 vs Benevento</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCCavesevsMonopoli">
-    <display-name>Italy - Serie C : Cavese vs Monopoli</display-name>
-  </channel>
-  <programme start="20260210000000 +0200" stop="20260210190000 +0200" channel="ItalySerieCCavesevsMonopoli">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">Italy - Serie C : Cavese vs Monopoli.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260210190000 +0200" stop="20260210210000 +0200" channel="ItalySerieCCavesevsMonopoli">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Cavese vs Monopoli</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260210000000 +0200" stop="20260210190000 +0200" channel="ItalySerieCCavesevsMonopoli">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">Italy - Serie C : Cavese vs Monopoli.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260210190000 +0200" stop="20260210210000 +0200" channel="ItalySerieCCavesevsMonopoli">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Cavese vs Monopoli</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="EnglandPremierLeagueTottenhamHotspurvsNewcastleUnited">
     <display-name>England - Premier League : Tottenham Hotspur vs Newcastle United</display-name>
   </channel>
@@ -225,19 +153,6 @@
     <desc lang="it">England - Premier League : West Ham United vs Manchester United</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="OlympicGamesWomenItalyWvsGermanyW">
-    <display-name>Olympic Games Women : Italy W vs Germany W</display-name>
-  </channel>
-  <programme start="20260210000000 +0200" stop="20260210174000 +0200" channel="OlympicGamesWomenItalyWvsGermanyW">
-    <title lang="it">Inizia alle 17:40.</title>
-    <desc lang="it">Olympic Games Women : Italy W vs Germany W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260210174000 +0200" stop="20260210194000 +0200" channel="OlympicGamesWomenItalyWvsGermanyW">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Olympic Games Women : Italy W vs Germany W</desc>
-    <category lang="it">Olympic Games Women</category>
-  </programme>
   <channel id="OlympicGamesWomenCanadaWvsUSAW">
     <display-name>Olympic Games Women : Canada W vs USA W</display-name>
   </channel>
@@ -312,19 +227,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Champions League : Montpellier vs Lube Civitanova</desc>
     <category lang="it">Volleyball</category>
-  </programme>
-  <channel id="OlympicWinterGamesMilanoCortina2026Day4">
-    <display-name>Olympic Winter Games Milano Cortina 2026 Day 4</display-name>
-  </channel>
-  <programme start="20260210000000 +0200" stop="20260210171500 +0200" channel="OlympicWinterGamesMilanoCortina2026Day4">
-    <title lang="it">Inizia alle 17:15.</title>
-    <desc lang="it">Olympic Winter Games Milano Cortina 2026 Day 4.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260210171500 +0200" stop="20260210191500 +0200" channel="OlympicWinterGamesMilanoCortina2026Day4">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Olympic Winter Games Milano Cortina 2026 Day 4</desc>
-    <category lang="it">Winter Sports</category>
   </programme>
   <channel id="MilanCortina2026WinterOlympicsCrosscountryskiingfreestyleskiing">
     <display-name>Milan Cortina 2026 Winter Olympics Cross-country skiing, freestyle skiing</display-name>
