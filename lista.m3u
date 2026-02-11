@@ -53,6 +53,8 @@ https://vavoo.to/vavoo-iptv/play/226572794257a18add58e4
 https://vavoo.to/vavoo-iptv/play/2330946937dd53b634ff71
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/bellaradio.it/wp-content/uploads/2020/01/Bella-2020-3.png?fit=3000%2C3000&ssl=1" group-title="Musica",BELLA RADIO TV
 https://vavoo.to/vavoo-iptv/play/15850058604ed339a2ed20
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Logo_Ufficiale_Radio_Bellla_%26_Monella.png" group-title="Altro",BELLLA & MONELLA TV
+https://vavoo.to/vavoo-iptv/play/1611446752ef81feae9ae
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.opq.it/wp-content/uploads/BergamoTV.png" group-title="Altro",BERGAMO TV
 https://vavoo.to/vavoo-iptv/play/2476433040575c4662d870
 #EXTINF:-1 tvg-id="blaze.it" tvg-logo="" group-title="Altro",BLAZE
@@ -150,8 +152,6 @@ https://vavoo.to/vavoo-iptv/play/1322483308506652cfc631
 https://vavoo.to/vavoo-iptv/play/12254846645cb5a95a1f30
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.arvedi.it/fileadmin/user_upload/istituzionale/gruppo-arvedi-e-informazione-logo-Cremona1.png" group-title="Altro",CREMONA 1
 https://vavoo.to/vavoo-iptv/play/4137427510ef362e6435fc
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",CRIME + INV
-https://vavoo.to/vavoo-iptv/play/196833914960066715a573
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",CUSANO NEWS7
 https://vavoo.to/vavoo-iptv/play/861948627bb3b2465ad5a
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1
@@ -173,6 +173,8 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
 https://vavoo.to/vavoo-iptv/play/3037871903561253a95659
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari",DISCOVERY NOVE
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
+#EXTINF:-1 tvg-id="discoverysciencehd.it" tvg-logo="" group-title="Documentari",DISCOVERY SCIENCE
+https://vavoo.to/vavoo-iptv/play/5284308415938593b2e15
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="Film - Serie TV",DISNEY+ FILM
 https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 #EXTINF:-1 tvg-id="dmax.it" tvg-logo="https://cdn.cookielaw.org/logos/50417659-aa29-4f7f-b59d-f6e887deed53/a32be519-de41-40f4-abed-d2934ba6751b/9a44af24-5ca6-4098-aa95-594755bd7b2d/dmax_logo.png" group-title="Altro",DMAX (1)
@@ -387,13 +389,17 @@ https://vavoo.to/vavoo-iptv/play/3428501495a9ec2ff7bc8e
 https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
 #EXTINF:-1 tvg-id="nick.jr.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini",NICK JR
 https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065
+#EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Altro",NICKELODEON
+https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c
 #EXTINF:-1 tvg-id="nove.it" tvg-logo="" group-title="Altro",NOVE
 https://vavoo.to/vavoo-iptv/play/867216452ba4d42b41ada
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/570326948497195008/Wf6DPfFP_400x400.jpeg" group-title="Musica",OL3 RADIO
 https://vavoo.to/vavoo-iptv/play/681027341f93934e0bc5
 #EXTINF:-1 tvg-id="" tvg-logo="https://gag-fondazionedeagostini.s3.amazonaws.com/wp-content/uploads/2023/03/logo-Onda-Novara-TV-Ufficiale-1.png" group-title="Altro",ONDA NOVARA TV
 https://vavoo.to/vavoo-iptv/play/3134124967ad7ac6cb62f9
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Og_2yYQhg-ersjEG5xZ99bri_Di4l5dlyw&s" group-title="Altro",ONDA TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Og_2yYQhg-ersjEG5xZ99bri_Di4l5dlyw&s" group-title="Altro",ONDA TV (1)
+https://vavoo.to/vavoo-iptv/play/20313077935c332de29e9
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Og_2yYQhg-ersjEG5xZ99bri_Di4l5dlyw&s" group-title="Altro",ONDA TV (2)
 https://vavoo.to/vavoo-iptv/play/1641481816a8a66ad9baf6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tvdream.net/img/orlertv.png" group-title="Altro",ORLER TV
 https://vavoo.to/vavoo-iptv/play/3471319012d308ec0dc636
@@ -630,7 +636,7 @@ https://vavoo.to/vavoo-iptv/play/2002360508ebbced695f3c
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/senato-tv-it.png?raw=true" group-title="Altro",SENATO TV (2)
 https://vavoo.to/vavoo-iptv/play/28955495519a6e882c3db3
 #EXTINF:-1 tvg-id="sky.arte.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari",SKY ARTE
-https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0
+https://vavoo.to/vavoo-iptv/play/18068154966d18d1d58a9c
 #EXTINF:-1 tvg-id="sky.atlantic.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film - Serie TV",SKY ATLANTIC (1)
 https://vavoo.to/vavoo-iptv/play/1421393119c33a45327918
 #EXTINF:-1 tvg-id="sky.atlantic.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-atlantic-it.png" group-title="Film - Serie TV",SKY ATLANTIC (2)
@@ -769,8 +775,10 @@ https://dlhd.dad/watch.php?id=872
 https://dlhd.dad/watch.php?id=873
 #EXTINF:-1 tvg-id="sky.sport..254.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png" group-title="Sport",SKY SPORT 254 (D)
 https://dlhd.dad/watch.php?id=874
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (1)
 https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (2)
+https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",SKY SPORT BASKET (D)
@@ -866,8 +874,10 @@ https://vavoo.to/vavoo-iptv/play/300937751365646200d097
 https://vavoo.to/vavoo-iptv/play/11653719d8ef305a8c92
 #EXTINF:-1 tvg-id="" tvg-logo="https://bresciasat.it/assets/front/img/logo3.png" group-title="Altro",SUPER TV BRESCIA
 https://vavoo.to/vavoo-iptv/play/2061826034c5ac3b5d7306
-#EXTINF:-1 tvg-id="super!.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/1024px-Super%21_logo_2021.svg.png" group-title="Bambini",SUPER!
+#EXTINF:-1 tvg-id="super!.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/1024px-Super%21_logo_2021.svg.png" group-title="Bambini",SUPER! (1)
 https://vavoo.to/vavoo-iptv/play/3550030443fb56cbe586ef
+#EXTINF:-1 tvg-id="super!.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/1024px-Super%21_logo_2021.svg.png" group-title="Bambini",SUPER! (2)
+https://vavoo.to/vavoo-iptv/play/2900362153b8a056cb86c0
 
 # FILM - SERIE TV
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_ebhZMV4eYibx6UpVDOt1KOlmhOPYBh0gKw&s" group-title="Altro",SUPERSIX LOMBARDIA
@@ -1038,58 +1048,100 @@ https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="englandpremierleaguetottenhamhotspurvsnewcastleunited" tvg-name="All Soccer Events | England - Premier League : Tottenham Hotspur vs Newcastle United (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Tottenham Hotspur_vs_Newcastle United.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Tottenham Hotspur vs Newcastle United (21:30)
-https://dlhd.dad/watch.php?id=12
-
-#EXTINF:-1 tvg-id="englandpremierleaguechelseavsleedsunited" tvg-name="All Soccer Events | England - Premier League : Chelsea vs Leeds United (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Chelsea_vs_Leeds United.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Chelsea vs Leeds United (21:30)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="englandpremierleagueevertonvsafcbournemouth" tvg-name="All Soccer Events | England - Premier League : Everton vs AFC Bournemouth (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Everton_vs_AFC Bournemouth.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Everton vs AFC Bournemouth (21:30)
-https://dlhd.dad/watch.php?id=17
-
-#EXTINF:-1 tvg-id="italyserieccataniavsaudacecerignola" tvg-name="All Soccer Events | Italy - Serie C : Catania vs Audace Cerignola (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Catania_vs_Audace Cerignola.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Catania vs Audace Cerignola (21:30)
-https://dlhd.dad/watch.php?id=4
-
-#EXTINF:-1 tvg-id="italyserieccataniavsaudacecerignola" tvg-name="All Soccer Events | Italy - Serie C : Catania vs Audace Cerignola (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Catania_vs_Audace Cerignola.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Catania vs Audace Cerignola (21:30)
-https://dlhd.dad/watch.php?id=870
-
-#EXTINF:-1 tvg-id="italyseriecfoggiavspicerno" tvg-name="All Soccer Events | Italy - Serie C : Foggia vs Picerno (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Foggia_vs_Picerno.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Foggia vs Picerno (21:30)
-https://dlhd.dad/watch.php?id=18
-
-#EXTINF:-1 tvg-id="italyseriecsalernitanavsvirtuscasarano" tvg-name="All Soccer Events | Italy - Serie C : Salernitana vs Virtus Casarano (21:30)" tvg-logo="https://salernitana.b-cdn.net/wp-content/uploads/2023/06/cropped-logo-salernitana-300x300.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Salernitana vs Virtus Casarano (21:30)
-https://dlhd.dad/watch.php?id=5
-
-#EXTINF:-1 tvg-id="italyserieccosenzavssiracusa" tvg-name="All Soccer Events | Italy - Serie C : Cosenza vs Siracusa (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cosenza_vs_Siracusa.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Cosenza vs Siracusa (21:30)
-https://dlhd.dad/watch.php?id=19
-
-#EXTINF:-1 tvg-id="italyserieccasertanavscrotone" tvg-name="All Soccer Events | Italy - Serie C : Casertana vs Crotone (21:30)" tvg-logo="https://brandlogovector.com/wp-content/uploads/2022/03/FC-Crotone-Logo-Small-120x120.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Casertana vs Crotone (21:30)
-https://dlhd.dad/watch.php?id=2
-
-#EXTINF:-1 tvg-id="italyseriecatalantaiivspotenzacalcio" tvg-name="All Soccer Events | Italy - Serie C : Atalanta II vs Potenza Calcio (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Atalanta II_vs_Potenza Calcio.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Atalanta II vs Potenza Calcio (21:30)
-https://dlhd.dad/watch.php?id=3
-
-#EXTINF:-1 tvg-id="italycoppaitalianapolivscomo" tvg-name="All Soccer Events | Italy - Coppa Italia : Napoli vs Como (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Napoli_vs_Como.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Coppa Italia : Napoli vs Como (22:00)
-https://dlhd.dad/watch.php?id=854
-
-#EXTINF:-1 tvg-id="englandpremierleaguewesthamunitedvsmanchesterunited" tvg-name="All Soccer Events | England - Premier League : West Ham United vs Manchester United (22:15)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/West Ham United_vs_Manchester United.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : West Ham United vs Manchester United (22:15)
-https://dlhd.dad/watch.php?id=460
-
-#EXTINF:-1 tvg-id="olympicgameswomencanadawvsusaw" tvg-name="Olympic Games Women | Olympic Games Women : Canada W vs USA W (21:10)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Canada W_vs_USA W.png" group-title="Eventi Live DLHD",Olympic Games Women | Olympic Games Women : Canada W vs USA W (21:10)
-https://dlhd.dad/watch.php?id=879
-
-#EXTINF:-1 tvg-id="olympicgameswomenfinlandwvsswitzerlandw" tvg-name="Olympic Games Women | Olympic Games Women : Finland W vs Switzerland W (22:10)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Finland W_vs_Switzerland W.png" group-title="Eventi Live DLHD",Olympic Games Women | Olympic Games Women : Finland W vs Switzerland W (22:10)
+#EXTINF:-1 tvg-id="winterolympics2026livestream" tvg-name="Winter Olympics 2026 | Winter Olympics 2026 Live Stream (02:42)" tvg-logo="https://junipertours.com/wp-content/uploads/2022/12/new-png-logo.png" group-title="Eventi Live DLHD",Winter Olympics 2026 | Winter Olympics 2026 Live Stream (02:42)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="milancortina2026figureskatingshortprogramofsoloists" tvg-name="Ice Skating | Milan-Cortina 2026: Figure Skating short program of soloists (22:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2025/03/NBC-Milan-Cortina-2026-Logo-2025.png" group-title="Eventi Live DLHD",Ice Skating | Milan-Cortina 2026: Figure Skating short program of soloists (22:00)
+#EXTINF:-1 tvg-id="winterolympics2026livestream" tvg-name="Winter Olympics 2026 | Winter Olympics 2026 Live Stream (02:42)" tvg-logo="https://junipertours.com/wp-content/uploads/2022/12/new-png-logo.png" group-title="Eventi Live DLHD",Winter Olympics 2026 | Winter Olympics 2026 Live Stream (02:42)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="championsleaguemontpelliervslubecivitanova" tvg-name="Volleyball | Champions League : Montpellier vs Lube Civitanova (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Montpellier_vs_Lube Civitanova.png" group-title="Eventi Live DLHD",Volleyball | Champions League : Montpellier vs Lube Civitanova (21:00)
-https://dlhd.dad/watch.php?id=877
+#EXTINF:-1 tvg-id="italyseriecalcionevsospitaletto" tvg-name="All Soccer Events | Italy - Serie C : Alcione vs Ospitaletto (19:00)" tvg-logo="https://www.alcionemilano.it/wp-content/uploads/2020/03/Senza-titolo-2.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Alcione vs Ospitaletto (19:00)
+https://dlhd.dad/watch.php?id=3
 
-#EXTINF:-1 tvg-id="championsleaguemontpelliervslubecivitanova" tvg-name="Volleyball | Champions League : Montpellier vs Lube Civitanova (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Montpellier_vs_Lube Civitanova.png" group-title="Eventi Live DLHD",Volleyball | Champions League : Montpellier vs Lube Civitanova (21:00)
+#EXTINF:-1 tvg-id="italyseriecnovaravsalbinoleffe" tvg-name="All Soccer Events | Italy - Serie C : Novara vs AlbinoLeffe (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Novara_vs_AlbinoLeffe.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Novara vs AlbinoLeffe (19:00)
+https://dlhd.dad/watch.php?id=4
+
+#EXTINF:-1 tvg-id="italyseriecnovaravsalbinoleffe" tvg-name="All Soccer Events | Italy - Serie C : Novara vs AlbinoLeffe (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Novara_vs_AlbinoLeffe.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Novara vs AlbinoLeffe (19:00)
+https://dlhd.dad/watch.php?id=460
+
+#EXTINF:-1 tvg-id="italyseriecrenatevstriestina" tvg-name="All Soccer Events | Italy - Serie C : Renate vs Triestina (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Renate_vs_Triestina.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Renate vs Triestina (19:00)
+https://dlhd.dad/watch.php?id=5
+
+#EXTINF:-1 tvg-id="italyseriecrenatevstriestina" tvg-name="All Soccer Events | Italy - Serie C : Renate vs Triestina (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Renate_vs_Triestina.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Renate vs Triestina (19:00)
+https://dlhd.dad/watch.php?id=870
+
+#EXTINF:-1 tvg-id="italyseriecdolomitibellunesivspergolettese" tvg-name="All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs Pergolettese (19:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Logo_Dolomiti_Bellunesi_Calcio_2024.svg/120px-Logo_Dolomiti_Bellunesi_Calcio_2024.svg.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs Pergolettese (19:00)
+https://dlhd.dad/watch.php?id=6
+
+#EXTINF:-1 tvg-id="italyseriecgianaerminiovslecco" tvg-name="All Soccer Events | Italy - Serie C : Giana Erminio vs Lecco (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Giana Erminio_vs_Lecco.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Giana Erminio vs Lecco (21:30)
+https://dlhd.dad/watch.php?id=6
+
+#EXTINF:-1 tvg-id="italyseriecpropatriavscittadella" tvg-name="All Soccer Events | Italy - Serie C : Pro Patria vs Cittadella (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pro Patria_vs_Cittadella.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pro Patria vs Cittadella (21:30)
+https://dlhd.dad/watch.php?id=2
+
+#EXTINF:-1 tvg-id="italyseriecunionarzignanochiampovstrento" tvg-name="All Soccer Events | Italy - Serie C : Union ArzignanoChiampo vs Trento (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Union ArzignanoChiampo_vs_Trento.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Union ArzignanoChiampo vs Trento (21:30)
+https://dlhd.dad/watch.php?id=7
+
+#EXTINF:-1 tvg-id="italyseriecprovercellivsvicenza" tvg-name="All Soccer Events | Italy - Serie C : Pro Vercelli vs Vicenza (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pro Vercelli_vs_Vicenza.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pro Vercelli vs Vicenza (21:30)
+https://dlhd.dad/watch.php?id=3
+
+#EXTINF:-1 tvg-id="italyseriecprovercellivsvicenza" tvg-name="All Soccer Events | Italy - Serie C : Pro Vercelli vs Vicenza (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pro Vercelli_vs_Vicenza.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pro Vercelli vs Vicenza (21:30)
+https://dlhd.dad/watch.php?id=870
+
+#EXTINF:-1 tvg-id="italyseriecinteriivslumezzane" tvg-name="All Soccer Events | Italy - Serie C : Inter II vs Lumezzane (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Inter II_vs_Lumezzane.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Inter II vs Lumezzane (21:30)
+https://dlhd.dad/watch.php?id=4
+
+#EXTINF:-1 tvg-id="italyseriecunionbresciavsvirtusverona" tvg-name="All Soccer Events | Italy - Serie C : Union Brescia vs Virtus Verona (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Union Brescia_vs_Virtus Verona.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Union Brescia vs Virtus Verona (21:30)
+https://dlhd.dad/watch.php?id=5
+
+#EXTINF:-1 tvg-id="englandpremierleagueastonvillavsbrightonamphovealbion" tvg-name="All Soccer Events | England - Premier League : Aston Villa vs Brighton &amp; Hove Albion (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Aston Villa_vs_Brighton &amp; Hove Albion.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Aston Villa vs Brighton &amp; Hove Albion (21:30)
+https://dlhd.dad/watch.php?id=107
+
+#EXTINF:-1 tvg-id="germanydfbpokalbayernmünchenvsrbleipzig" tvg-name="All Soccer Events | Germany - DFB Pokal : Bayern München vs RB Leipzig (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bayern München_vs_RB Leipzig.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - DFB Pokal : Bayern München vs RB Leipzig (21:45)
+https://dlhd.dad/watch.php?id=108
+
+#EXTINF:-1 tvg-id="italycoppaitaliabolognavslazio" tvg-name="All Soccer Events | Italy - Coppa Italia : Bologna vs Lazio (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bologna_vs_Lazio.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Coppa Italia : Bologna vs Lazio (22:00)
+https://dlhd.dad/watch.php?id=854
+
+#EXTINF:-1 tvg-id="wta1000dohaatp500rotterdamabnamroopenatp250buenosairesatp500dallas" tvg-name="Tennis | WTA 1000: Doha | ATP 500 Rotterdam | ABN AMRO Open | ATP 250 Buenos Aires | ATP 500 Dallas (12:00)" tvg-logo="https://tennisliveranking.oss-ap-southeast-1.aliyuncs.com/assets/img/logo800.png?t=20241030" group-title="Eventi Live DLHD",Tennis | WTA 1000: Doha | ATP 500 Rotterdam | ABN AMRO Open | ATP 250 Buenos Aires | ATP 500 Dallas (12:00)
+https://dlhd.dad/watch.php?id=576
+
+#EXTINF:-1 tvg-id="f12026seasonpreseasontesting" tvg-name="Motorsport | F1 2026 season Pre-Season Testing (17:00)" tvg-logo="https://liquipedia.net/commons/images/thumb/a/a9/Mercedes_1933_darkmode.png/255px-Mercedes_1933_darkmode.png" group-title="Eventi Live DLHD",Motorsport | F1 2026 season Pre-Season Testing (17:00)
+https://dlhd.dad/watch.php?id=577
+
+#EXTINF:-1 tvg-id="winterolympicsmilancortina2026alpineskiingmenssuperg" tvg-name="Alpine Ski | Winter Olympics Milan-Cortina 2026: Alpine Skiing men's super-G (12:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2025/03/NBC-Milan-Cortina-2026-Logo-2025.png" group-title="Eventi Live DLHD",Alpine Ski | Winter Olympics Milan-Cortina 2026: Alpine Skiing men's super-G (12:00)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="worldathleticsindoortourgold2026beogradep6" tvg-name="Athletics | World Athletics Indoor Tour Gold 2026 Beograd - Ep. 6 (18:00)" tvg-logo="https://sportsafrica.net/wp-content/uploads/2023/11/cropped-sportsafrica-favi-2.png" group-title="Eventi Live DLHD",Athletics | World Athletics Indoor Tour Gold 2026 Beograd - Ep. 6 (18:00)
 https://dlhd.dad/watch.php?id=462
 
-#EXTINF:-1 tvg-id="milancortina2026winterolympicscrosscountryskiingfreestyleskiing" tvg-name="Winter Sports | Milan Cortina 2026 Winter Olympics Cross-country skiing, freestyle skiing (22:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2025/03/NBC-Milan-Cortina-2026-Logo-2025.png" group-title="Eventi Live DLHD",Winter Sports | Milan Cortina 2026 Winter Olympics Cross-country skiing, freestyle skiing (22:00)
+#EXTINF:-1 tvg-id="women15kmindividualcompetitionolympicgames" tvg-name="Biathlon | Women 15 km Individual Competition | Olympic Games (14:45)" tvg-logo="https://cdn-icons-png.flaticon.com/512/28/28650.png" group-title="Eventi Live DLHD",Biathlon | Women 15 km Individual Competition | Olympic Games (14:45)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="olympicgamesslovakiavsfinland" tvg-name="Ice Hockey | Olympic Games : Slovakia vs Finland (17:40)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Slovakia_vs_Finland.png" group-title="Eventi Live DLHD",Ice Hockey | Olympic Games : Slovakia vs Finland (17:40)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="olympicgamesswedenvsitaly" tvg-name="Ice Hockey | Olympic Games : Sweden vs Italy (21:55)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sweden_vs_Italy.png" group-title="Eventi Live DLHD",Ice Hockey | Olympic Games : Sweden vs Italy (21:55)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="speedskatingmen1000m" tvg-name="Ice Skating | Speed Skating Men | 1000m (19:15)" tvg-logo="http://kidneydart.sensetime.com/img/logo.png" group-title="Eventi Live DLHD",Ice Skating | Speed Skating Men | 1000m (19:15)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="mixedteamcompetitionskijumpingolympicgames" tvg-name="Ski Jumping | Mixed team competition | Ski Jumping - Olympic Games (19:20)" tvg-logo="https://cyber-atlas.caecommunity.org/_app/immutable/assets/logo.DLqbGD-i.png" group-title="Eventi Live DLHD",Ski Jumping | Mixed team competition | Ski Jumping - Olympic Games (19:20)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="winterolympicsnordiccombinedqualifying" tvg-name="Winter Sports | Winter Olympics - Nordic Combined: Qualifying (10:00)" tvg-logo="https://www.nordiccombinedusa.org/images/logo_circle.png" group-title="Eventi Live DLHD",Winter Sports | Winter Olympics - Nordic Combined: Qualifying (10:00)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="freestyleskiingwomenmogulsqualifying" tvg-name="Winter Sports | Freestyle Skiing Women | Moguls | Qualifying (11:55)" tvg-logo="https://www.marinemoguls.com/static/40904d7cc812fcbddc3805f910b6fd97/c0d5f/mm_logo_img.png" group-title="Eventi Live DLHD",Winter Sports | Freestyle Skiing Women | Moguls | Qualifying (11:55)
+https://dlhd.dad/watch.php?id=879
+
+#EXTINF:-1 tvg-id="gundersenmens10kmday1milancortina2026" tvg-name="Winter Sports | Gundersen Men's 10km | Day 1 Milan Cortina 2026 (14:40)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Winter Sports | Gundersen Men's 10km | Day 1 Milan Cortina 2026 (14:40)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="lugewomendoublesrun1" tvg-name="Winter Sports | Luge Women | Doubles | Run 1 (17:55)" tvg-logo="https://images.squarespace-cdn.com/content/v1/671cf798c5e75702c14e5634/917aa920-bcdf-496e-aebf-6e0d87b127f0/Doubles_Logo_Circle_Blue+(2).png?format=1500w" group-title="Eventi Live DLHD",Winter Sports | Luge Women | Doubles | Run 1 (17:55)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="winterolympicgamesmilancortina2026lugetwomen" tvg-name="Winter Sports | Winter Olympic Games Milan-Cortina 2026: Luge two men (20:45)" tvg-logo="https://brandlogo.org/wp-content/uploads/2025/03/NBC-Milan-Cortina-2026-Logo-2025.png" group-title="Eventi Live DLHD",Winter Sports | Winter Olympic Games Milan-Cortina 2026: Luge two men (20:45)
 https://dlhd.dad/watch.php?id=878
 
 
