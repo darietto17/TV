@@ -199,19 +199,6 @@
     <desc lang="it">Italy - Coppa Italia : Bologna vs Lazio</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="WTA1000DohaATP500RotterdamABNAMROOpenATP250BuenosAiresATP500Dallas">
-    <display-name>WTA 1000: Doha | ATP 500 Rotterdam | ABN AMRO Open | ATP 250 Buenos Aires | ATP 500 Dallas</display-name>
-  </channel>
-  <programme start="20260211000000 +0200" stop="20260211120000 +0200" channel="WTA1000DohaATP500RotterdamABNAMROOpenATP250BuenosAiresATP500Dallas">
-    <title lang="it">Inizia alle 12:00.</title>
-    <desc lang="it">WTA 1000: Doha | ATP 500 Rotterdam | ABN AMRO Open | ATP 250 Buenos Aires | ATP 500 Dallas.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260211120000 +0200" stop="20260211140000 +0200" channel="WTA1000DohaATP500RotterdamABNAMROOpenATP250BuenosAiresATP500Dallas">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA 1000: Doha | ATP 500 Rotterdam | ABN AMRO Open | ATP 250 Buenos Aires | ATP 500 Dallas</desc>
-    <category lang="it">Tennis</category>
-  </programme>
   <channel id="F12026seasonPreSeasonTesting">
     <display-name>F1 2026 season Pre-Season Testing</display-name>
   </channel>
@@ -224,19 +211,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">F1 2026 season Pre-Season Testing</desc>
     <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="WinterOlympicsMilanCortina2026AlpineSkiingmenssuperG">
-    <display-name>Winter Olympics Milan-Cortina 2026: Alpine Skiing men's super-G</display-name>
-  </channel>
-  <programme start="20260211000000 +0200" stop="20260211120000 +0200" channel="WinterOlympicsMilanCortina2026AlpineSkiingmenssuperG">
-    <title lang="it">Inizia alle 12:00.</title>
-    <desc lang="it">Winter Olympics Milan-Cortina 2026: Alpine Skiing men's super-G.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260211120000 +0200" stop="20260211140000 +0200" channel="WinterOlympicsMilanCortina2026AlpineSkiingmenssuperG">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Winter Olympics Milan-Cortina 2026: Alpine Skiing men's super-G</desc>
-    <category lang="it">Alpine Ski</category>
   </programme>
   <channel id="WorldAthleticsIndoorTourGold2026BeogradEp6">
     <display-name>World Athletics Indoor Tour Gold 2026 Beograd - Ep. 6</display-name>
@@ -315,19 +289,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Mixed team competition | Ski Jumping - Olympic Games</desc>
     <category lang="it">Ski Jumping</category>
-  </programme>
-  <channel id="FreestyleSkiingWomenMogulsQualifying">
-    <display-name>Freestyle Skiing Women | Moguls | Qualifying</display-name>
-  </channel>
-  <programme start="20260211000000 +0200" stop="20260211115500 +0200" channel="FreestyleSkiingWomenMogulsQualifying">
-    <title lang="it">Inizia alle 11:55.</title>
-    <desc lang="it">Freestyle Skiing Women | Moguls | Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260211115500 +0200" stop="20260211135500 +0200" channel="FreestyleSkiingWomenMogulsQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Freestyle Skiing Women | Moguls | Qualifying</desc>
-    <category lang="it">Winter Sports</category>
   </programme>
   <channel id="GundersenMens10kmDay1MilanCortina2026">
     <display-name>Gundersen Men's 10km | Day 1 Milan Cortina 2026</display-name>
