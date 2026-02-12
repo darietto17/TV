@@ -176,19 +176,6 @@
     <desc lang="it">F1 2026 Jeddah | Round 4 Free Practice 1</desc>
     <category lang="it">Motorsport (F1)</category>
   </programme>
-  <channel id="CrosscountrySkiingWomen10kmFreestyle">
-    <display-name>Cross-country Skiing Women | 10km Freestyle</display-name>
-  </channel>
-  <programme start="20260212000000 +0200" stop="20260212140000 +0200" channel="CrosscountrySkiingWomen10kmFreestyle">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Cross-country Skiing Women | 10km Freestyle.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260212140000 +0200" stop="20260212160000 +0200" channel="CrosscountrySkiingWomen10kmFreestyle">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Cross-country Skiing Women | 10km Freestyle</desc>
-    <category lang="it">Cross Country</category>
-  </programme>
   <channel id="OlympicGamesWomenFinlandWvsCanadaW">
     <display-name>Olympic Games Women : Finland W vs Canada W</display-name>
   </channel>
@@ -302,19 +289,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Champions League : ACH Ljubljana vs Trentino</desc>
     <category lang="it">Volleyball</category>
-  </programme>
-  <channel id="SBXMensFinalMilanCortina2026">
-    <display-name>SBX Men's | Final Milan Cortina 2026</display-name>
-  </channel>
-  <programme start="20260212000000 +0200" stop="20260212144500 +0200" channel="SBXMensFinalMilanCortina2026">
-    <title lang="it">Inizia alle 14:45.</title>
-    <desc lang="it">SBX Men's | Final Milan Cortina 2026.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260212144500 +0200" stop="20260212164500 +0200" channel="SBXMensFinalMilanCortina2026">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">SBX Men's | Final Milan Cortina 2026</desc>
-    <category lang="it">Winter Sports</category>
   </programme>
   <channel id="LugeTeamrelayMilanCortina2026">
     <display-name>Luge Team relay Milan Cortina 2026</display-name>
