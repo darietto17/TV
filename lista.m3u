@@ -179,6 +179,8 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
 https://vavoo.to/vavoo-iptv/play/3037871903561253a95659
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nove-it.png" group-title="Documentari",DISCOVERY NOVE
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
+#EXTINF:-1 tvg-id="discoverysciencehd.it" tvg-logo="" group-title="Documentari",DISCOVERY SCIENCE
+https://vavoo.to/vavoo-iptv/play/5284308415938593b2e15
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="Film - Serie TV",DISNEY+ FILM
 https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 #EXTINF:-1 tvg-id="dmax.it" tvg-logo="https://cdn.cookielaw.org/logos/50417659-aa29-4f7f-b59d-f6e887deed53/a32be519-de41-40f4-abed-d2934ba6751b/9a44af24-5ca6-4098-aa95-594755bd7b2d/dmax_logo.png" group-title="Altro",DMAX (1)
@@ -749,9 +751,7 @@ https://vavoo.to/vavoo-iptv/play/39395136840a7593b75855
 https://vavoo.to/vavoo-iptv/play/39395136840a7593b75855
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 7 (1)
 https://vavoo.to/vavoo-iptv/play/4238969402e69feff53112
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 7 (1)
-https://vavoo.to/vavoo-iptv/play/4238969402e69feff53112
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 7 (3)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 7 (2)
 https://vavoo.to/vavoo-iptv/play/3618643172a26b31eba4b4
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 8 (1)
 https://vavoo.to/vavoo-iptv/play/213025533947852942a90f
@@ -1064,16 +1064,10 @@ https://dlhd.dad/watch.php?id=882
 #EXTINF:-1 tvg-id="franceligue1monacovsnantes" tvg-name="All Soccer Events | France - Ligue 1 : Monaco vs Nantes (22:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Monaco_vs_Nantes.png" group-title="Eventi Live DLHD",All Soccer Events | France - Ligue 1 : Monaco vs Nantes (22:05)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="wta1000dohaatp500rotterdamabnamroopenatp250buenosairesatp500dallas" tvg-name="Tennis | WTA 1000: Doha | ATP 500 Rotterdam | ABN AMRO Open | ATP 250 Buenos Aires | ATP 500 Dallas (12:00)" tvg-logo="https://tennisliveranking.oss-ap-southeast-1.aliyuncs.com/assets/img/logo800.png?t=20241030" group-title="Eventi Live DLHD",Tennis | WTA 1000: Doha | ATP 500 Rotterdam | ABN AMRO Open | ATP 250 Buenos Aires | ATP 500 Dallas (12:00)
-https://dlhd.dad/watch.php?id=576
-
 #EXTINF:-1 tvg-id="f12026seasonpreseasontesting" tvg-name="Motorsport | F1 2026 season Pre-Season Testing (17:00)" tvg-logo="https://austinvincentracing.com/wp-content/uploads/2023/01/26E92EFA-3908-4793-9EAF-CC262EF8B253.png" group-title="Eventi Live DLHD",Motorsport | F1 2026 season Pre-Season Testing (17:00)
 https://dlhd.dad/watch.php?id=577
 
 #EXTINF:-1 tvg-id="2026milancortinaolympicsmens10kmsprint" tvg-name="Biathlon | 2026 Milan Cortina Olympics : Men's 10km Sprint (14:30)" tvg-logo="https://gstatic.olympics.com/s3/mc2026/emblems/mico2026-emblem-oly.png" group-title="Eventi Live DLHD",Biathlon | 2026 Milan Cortina Olympics : Men's 10km Sprint (14:30)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="crosscountryskiingmen10kmfreestyle" tvg-name="Cross Country | Cross-country Skiing Men | 10km Freestyle (12:40)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cross Country | Cross-country Skiing Men | 10km Freestyle (12:40)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="tourofmurciastage1mencartagenayecla1782km" tvg-name="Cycling | Tour of Murcia | Stage 1 Men | Cartagena - Yecla (178.2km) (15:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | Tour of Murcia | Stage 1 Men | Cartagena - Yecla (178.2km) (15:00)

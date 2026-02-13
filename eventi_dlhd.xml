@@ -62,19 +62,6 @@
     <desc lang="it">F1 2026 season Pre-Season Testing</desc>
     <category lang="it">Motorsport</category>
   </programme>
-  <channel id="2026MilanCortinaOlympicsMens10kmSprint">
-    <display-name>2026 Milan Cortina Olympics : Men's 10km Sprint</display-name>
-  </channel>
-  <programme start="20260213000000 +0200" stop="20260213143000 +0200" channel="2026MilanCortinaOlympicsMens10kmSprint">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">2026 Milan Cortina Olympics : Men's 10km Sprint.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260213143000 +0200" stop="20260213163000 +0200" channel="2026MilanCortinaOlympicsMens10kmSprint">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2026 Milan Cortina Olympics : Men's 10km Sprint</desc>
-    <category lang="it">Biathlon</category>
-  </programme>
   <channel id="TourofMurciaStage1MenCartagenaYecla1782km">
     <display-name>Tour of Murcia | Stage 1 Men | Cartagena - Yecla (178.2km)</display-name>
   </channel>
@@ -87,32 +74,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Tour of Murcia | Stage 1 Men | Cartagena - Yecla (178.2km)</desc>
     <category lang="it">Cycling</category>
-  </programme>
-  <channel id="OlympicGamesItalyvsSlovakia">
-    <display-name>Olympic Games : Italy vs Slovakia</display-name>
-  </channel>
-  <programme start="20260213000000 +0200" stop="20260213131000 +0200" channel="OlympicGamesItalyvsSlovakia">
-    <title lang="it">Inizia alle 13:10.</title>
-    <desc lang="it">Olympic Games : Italy vs Slovakia.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260213131000 +0200" stop="20260213151000 +0200" channel="OlympicGamesItalyvsSlovakia">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Olympic Games : Italy vs Slovakia</desc>
-    <category lang="it">Ice Hockey</category>
-  </programme>
-  <channel id="OlympicGamesFinlandvsSweden">
-    <display-name>Olympic Games : Finland vs Sweden</display-name>
-  </channel>
-  <programme start="20260213000000 +0200" stop="20260213131000 +0200" channel="OlympicGamesFinlandvsSweden">
-    <title lang="it">Inizia alle 13:10.</title>
-    <desc lang="it">Olympic Games : Finland vs Sweden.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260213131000 +0200" stop="20260213151000 +0200" channel="OlympicGamesFinlandvsSweden">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Olympic Games : Finland vs Sweden</desc>
-    <category lang="it">Ice Hockey</category>
   </programme>
   <channel id="OlympicGamesFrancevsCzechRepublic">
     <display-name>Olympic Games : France vs Czech Republic</display-name>
@@ -214,19 +175,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Ski Jumping Men | HS 140 | large hill training</desc>
     <category lang="it">Ski Jumping</category>
-  </programme>
-  <channel id="PremierPadelRiyadhT2026WomensSemifinal1">
-    <display-name>Premier Padel Riyadh (T2026): Women’s Semifinal 1</display-name>
-  </channel>
-  <programme start="20260213000000 +0200" stop="20260213140000 +0200" channel="PremierPadelRiyadhT2026WomensSemifinal1">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Premier Padel Riyadh (T2026): Women’s Semifinal 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260213140000 +0200" stop="20260213160000 +0200" channel="PremierPadelRiyadhT2026WomensSemifinal1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Premier Padel Riyadh (T2026): Women’s Semifinal 1</desc>
-    <category lang="it">Squash</category>
   </programme>
   <channel id="PremierPadelRiyadhT2026WomensSemifinal2">
     <display-name>Premier Padel Riyadh (T2026): Women’s Semifinal 2</display-name>
