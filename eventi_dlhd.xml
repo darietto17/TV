@@ -62,19 +62,6 @@
     <desc lang="it">F1 2026 season Pre-Season Testing</desc>
     <category lang="it">Motorsport</category>
   </programme>
-  <channel id="TourofMurciaStage1MenCartagenaYecla1782km">
-    <display-name>Tour of Murcia | Stage 1 Men | Cartagena - Yecla (178.2km)</display-name>
-  </channel>
-  <programme start="20260213000000 +0200" stop="20260213150000 +0200" channel="TourofMurciaStage1MenCartagenaYecla1782km">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">Tour of Murcia | Stage 1 Men | Cartagena - Yecla (178.2km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260213150000 +0200" stop="20260213170000 +0200" channel="TourofMurciaStage1MenCartagenaYecla1782km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Murcia | Stage 1 Men | Cartagena - Yecla (178.2km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
   <channel id="OlympicGamesFrancevsCzechRepublic">
     <display-name>Olympic Games : France vs Czech Republic</display-name>
   </channel>
@@ -175,19 +162,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Ski Jumping Men | HS 140 | large hill training</desc>
     <category lang="it">Ski Jumping</category>
-  </programme>
-  <channel id="PremierPadelRiyadhT2026WomensSemifinal2">
-    <display-name>Premier Padel Riyadh (T2026): Women’s Semifinal 2</display-name>
-  </channel>
-  <programme start="20260213000000 +0200" stop="20260213160000 +0200" channel="PremierPadelRiyadhT2026WomensSemifinal2">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Premier Padel Riyadh (T2026): Women’s Semifinal 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260213160000 +0200" stop="20260213180000 +0200" channel="PremierPadelRiyadhT2026WomensSemifinal2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Premier Padel Riyadh (T2026): Women’s Semifinal 2</desc>
-    <category lang="it">Squash</category>
   </programme>
   <channel id="PremierPadelRiyadhT2026MensSemifinal1">
     <display-name>Premier Padel Riyadh (T2026): Men's Semifinal 1</display-name>
