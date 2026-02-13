@@ -49,19 +49,6 @@
     <desc lang="it">France - Ligue 1 : Monaco vs Nantes</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="WTA1000DohaATP500RotterdamABNAMROOpenATP250BuenosAiresATP500Dallas">
-    <display-name>WTA 1000: Doha | ATP 500 Rotterdam | ABN AMRO Open | ATP 250 Buenos Aires | ATP 500 Dallas</display-name>
-  </channel>
-  <programme start="20260213000000 +0200" stop="20260213120000 +0200" channel="WTA1000DohaATP500RotterdamABNAMROOpenATP250BuenosAiresATP500Dallas">
-    <title lang="it">Inizia alle 12:00.</title>
-    <desc lang="it">WTA 1000: Doha | ATP 500 Rotterdam | ABN AMRO Open | ATP 250 Buenos Aires | ATP 500 Dallas.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260213120000 +0200" stop="20260213140000 +0200" channel="WTA1000DohaATP500RotterdamABNAMROOpenATP250BuenosAiresATP500Dallas">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA 1000: Doha | ATP 500 Rotterdam | ABN AMRO Open | ATP 250 Buenos Aires | ATP 500 Dallas</desc>
-    <category lang="it">Tennis</category>
-  </programme>
   <channel id="F12026seasonPreSeasonTesting">
     <display-name>F1 2026 season Pre-Season Testing</display-name>
   </channel>
@@ -75,19 +62,6 @@
     <desc lang="it">F1 2026 season Pre-Season Testing</desc>
     <category lang="it">Motorsport</category>
   </programme>
-  <channel id="GiantSlalomAlpineskiingOlympicGames">
-    <display-name>Giant Slalom Alpine skiing - Olympic Games</display-name>
-  </channel>
-  <programme start="20260213000000 +0200" stop="20260213110000 +0200" channel="GiantSlalomAlpineskiingOlympicGames">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">Giant Slalom Alpine skiing - Olympic Games.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260213110000 +0200" stop="20260213130000 +0200" channel="GiantSlalomAlpineskiingOlympicGames">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Giant Slalom Alpine skiing - Olympic Games</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
   <channel id="2026MilanCortinaOlympicsMens10kmSprint">
     <display-name>2026 Milan Cortina Olympics : Men's 10km Sprint</display-name>
   </channel>
@@ -100,19 +74,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">2026 Milan Cortina Olympics : Men's 10km Sprint</desc>
     <category lang="it">Biathlon</category>
-  </programme>
-  <channel id="CrosscountrySkiingMen10kmFreestyle">
-    <display-name>Cross-country Skiing Men | 10km Freestyle</display-name>
-  </channel>
-  <programme start="20260213000000 +0200" stop="20260213124000 +0200" channel="CrosscountrySkiingMen10kmFreestyle">
-    <title lang="it">Inizia alle 12:40.</title>
-    <desc lang="it">Cross-country Skiing Men | 10km Freestyle.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260213124000 +0200" stop="20260213144000 +0200" channel="CrosscountrySkiingMen10kmFreestyle">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Cross-country Skiing Men | 10km Freestyle</desc>
-    <category lang="it">Cross Country</category>
   </programme>
   <channel id="TourofMurciaStage1MenCartagenaYecla1782km">
     <display-name>Tour of Murcia | Stage 1 Men | Cartagena - Yecla (178.2km)</display-name>
@@ -292,19 +253,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Premier Padel Riyadh (T2026): Men's Semifinal 1</desc>
     <category lang="it">Squash</category>
-  </programme>
-  <channel id="LongdistanceskiingMen10kmfreestyle">
-    <display-name>Long distance skiing Men | 10km freestyle</display-name>
-  </channel>
-  <programme start="20260213000000 +0200" stop="20260213124500 +0200" channel="LongdistanceskiingMen10kmfreestyle">
-    <title lang="it">Inizia alle 12:45.</title>
-    <desc lang="it">Long distance skiing Men | 10km freestyle.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260213124500 +0200" stop="20260213144500 +0200" channel="LongdistanceskiingMen10kmfreestyle">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Long distance skiing Men | 10km freestyle</desc>
-    <category lang="it">Winter Sports</category>
   </programme>
   <channel id="SnowboardingMenHalfPipeFinal">
     <display-name>Snowboarding Men | Half Pipe | Final</display-name>

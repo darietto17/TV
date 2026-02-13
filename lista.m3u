@@ -745,9 +745,13 @@ https://vavoo.to/vavoo-iptv/play/29098187562943fdca9002
 https://vavoo.to/vavoo-iptv/play/325121729090a7b71fb865
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 6 (2)
 https://vavoo.to/vavoo-iptv/play/39395136840a7593b75855
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 6 (2)
+https://vavoo.to/vavoo-iptv/play/39395136840a7593b75855
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 7 (1)
 https://vavoo.to/vavoo-iptv/play/4238969402e69feff53112
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 7 (2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 7 (1)
+https://vavoo.to/vavoo-iptv/play/4238969402e69feff53112
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 7 (3)
 https://vavoo.to/vavoo-iptv/play/3618643172a26b31eba4b4
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 8 (1)
 https://vavoo.to/vavoo-iptv/play/213025533947852942a90f
@@ -817,7 +821,9 @@ https://vavoo.to/vavoo-iptv/play/210077178262e76f204fa6
 https://vavoo.to/vavoo-iptv/play/78546677680f40b76841
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (D)
 https://dlhd.dad/watch.php?id=576
-#EXTINF:-1 tvg-id="sky.sport.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO
+#EXTINF:-1 tvg-id="sky.sport.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO (1)
+https://vavoo.to/vavoo-iptv/play/210669162201ec2365574
+#EXTINF:-1 tvg-id="sky.sport.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO (2)
 https://vavoo.to/vavoo-iptv/play/3192996672d2c923be0346
 #EXTINF:-1 tvg-id="sky.sport.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO (D)
 https://dlhd.dad/watch.php?id=461
@@ -1046,12 +1052,6 @@ https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="winterolympics2026livestream" tvg-name="Winter Olympics 2026 | Winter Olympics 2026 Live Stream (09:43)" tvg-logo="https://junipertours.com/wp-content/uploads/2022/12/new-png-logo.png" group-title="Eventi Live DLHD",Winter Olympics 2026 | Winter Olympics 2026 Live Stream (09:43)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="winterolympics2026livestream" tvg-name="Winter Olympics 2026 | Winter Olympics 2026 Live Stream (09:43)" tvg-logo="https://junipertours.com/wp-content/uploads/2022/12/new-png-logo.png" group-title="Eventi Live DLHD",Winter Olympics 2026 | Winter Olympics 2026 Live Stream (09:43)
-https://dlhd.dad/watch.php?id=879
-
 #EXTINF:-1 tvg-id="franceligue1rennesvspsg" tvg-name="All Soccer Events | France - Ligue 1 : Rennes vs PSG (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Rennes_vs_PSG.png" group-title="Eventi Live DLHD",All Soccer Events | France - Ligue 1 : Rennes vs PSG (20:00)
 https://dlhd.dad/watch.php?id=870
 
@@ -1067,11 +1067,8 @@ https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="wta1000dohaatp500rotterdamabnamroopenatp250buenosairesatp500dallas" tvg-name="Tennis | WTA 1000: Doha | ATP 500 Rotterdam | ABN AMRO Open | ATP 250 Buenos Aires | ATP 500 Dallas (12:00)" tvg-logo="https://tennisliveranking.oss-ap-southeast-1.aliyuncs.com/assets/img/logo800.png?t=20241030" group-title="Eventi Live DLHD",Tennis | WTA 1000: Doha | ATP 500 Rotterdam | ABN AMRO Open | ATP 250 Buenos Aires | ATP 500 Dallas (12:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="f12026seasonpreseasontesting" tvg-name="Motorsport | F1 2026 season Pre-Season Testing (17:00)" tvg-logo="https://liquipedia.net/commons/images/thumb/a/a9/Mercedes_1933_darkmode.png/255px-Mercedes_1933_darkmode.png" group-title="Eventi Live DLHD",Motorsport | F1 2026 season Pre-Season Testing (17:00)
+#EXTINF:-1 tvg-id="f12026seasonpreseasontesting" tvg-name="Motorsport | F1 2026 season Pre-Season Testing (17:00)" tvg-logo="https://austinvincentracing.com/wp-content/uploads/2023/01/26E92EFA-3908-4793-9EAF-CC262EF8B253.png" group-title="Eventi Live DLHD",Motorsport | F1 2026 season Pre-Season Testing (17:00)
 https://dlhd.dad/watch.php?id=577
-
-#EXTINF:-1 tvg-id="giantslalomalpineskiingolympicgames" tvg-name="Alpine Ski | Giant Slalom Alpine skiing - Olympic Games (11:00)" tvg-logo="https://i.sport/uploads/ski/logo.png" group-title="Eventi Live DLHD",Alpine Ski | Giant Slalom Alpine skiing - Olympic Games (11:00)
-https://dlhd.dad/watch.php?id=882
 
 #EXTINF:-1 tvg-id="2026milancortinaolympicsmens10kmsprint" tvg-name="Biathlon | 2026 Milan Cortina Olympics : Men's 10km Sprint (14:30)" tvg-logo="https://gstatic.olympics.com/s3/mc2026/emblems/mico2026-emblem-oly.png" group-title="Eventi Live DLHD",Biathlon | 2026 Milan Cortina Olympics : Men's 10km Sprint (14:30)
 https://dlhd.dad/watch.php?id=878
@@ -1120,9 +1117,6 @@ https://dlhd.dad/watch.php?id=460
 
 #EXTINF:-1 tvg-id="premierpadelriyadht2026menssemifinal1" tvg-name="Squash | Premier Padel Riyadh (T2026): Men's Semifinal 1 (18:00)" tvg-logo="https://thumbor.prod.vidiocdn.com/qFyTiTNfIoLRu-9avia4BwOkODE=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/616/premier-padel-119e53.png" group-title="Eventi Live DLHD",Squash | Premier Padel Riyadh (T2026): Men's Semifinal 1 (18:00)
 https://dlhd.dad/watch.php?id=460
-
-#EXTINF:-1 tvg-id="curlingswitzerlandczechiamenroundrobin" tvg-name="Winter Sports | Curling | Switzerland - Czechia Men | Round Robin (10:00)" tvg-logo="https://cdn.inksoft.com/images/publishers/11192/stores/cornwall_curling/img/logo.png" group-title="Eventi Live DLHD",Winter Sports | Curling | Switzerland - Czechia Men | Round Robin (10:00)
-https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="longdistanceskiingmen10kmfreestyle" tvg-name="Winter Sports | Long distance skiing Men | 10km freestyle (12:45)" tvg-logo="https://static.wixstatic.com/media/2b8b4e_e5553556cac04d798551f6dcb2750bb9~mv2.png/v1/crop/x_2,y_0,w_1772,h_2124/fill/w_980,h_1175,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/LOGO 10KM CHAMPS ELYSEES 2025 FULFIL (1).png" group-title="Eventi Live DLHD",Winter Sports | Long distance skiing Men | 10km freestyle (12:45)
 https://dlhd.dad/watch.php?id=878
