@@ -49,32 +49,6 @@
     <desc lang="it">France - Ligue 1 : Monaco vs Nantes</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="F12026seasonPreSeasonTesting">
-    <display-name>F1 2026 season Pre-Season Testing</display-name>
-  </channel>
-  <programme start="20260213000000 +0200" stop="20260213170000 +0200" channel="F12026seasonPreSeasonTesting">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">F1 2026 season Pre-Season Testing.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260213170000 +0200" stop="20260213190000 +0200" channel="F12026seasonPreSeasonTesting">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">F1 2026 season Pre-Season Testing</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="OlympicGamesFrancevsCzechRepublic">
-    <display-name>Olympic Games : France vs Czech Republic</display-name>
-  </channel>
-  <programme start="20260213000000 +0200" stop="20260213174000 +0200" channel="OlympicGamesFrancevsCzechRepublic">
-    <title lang="it">Inizia alle 17:40.</title>
-    <desc lang="it">Olympic Games : France vs Czech Republic.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260213174000 +0200" stop="20260213194000 +0200" channel="OlympicGamesFrancevsCzechRepublic">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Olympic Games : France vs Czech Republic</desc>
-    <category lang="it">Ice Hockey</category>
-  </programme>
   <channel id="OlympicGamesCanadavsSwitzerland">
     <display-name>Olympic Games : Canada vs Switzerland</display-name>
   </channel>
@@ -110,19 +84,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Olympic Games Women : USA W vs Italy W</desc>
     <category lang="it">Ice Hockey</category>
-  </programme>
-  <channel id="SpeedSkatingMen10000m">
-    <display-name>Speed Skating Men | 10000m</display-name>
-  </channel>
-  <programme start="20260213000000 +0200" stop="20260213170000 +0200" channel="SpeedSkatingMen10000m">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">Speed Skating Men | 10000m.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260213170000 +0200" stop="20260213190000 +0200" channel="SpeedSkatingMen10000m">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Speed Skating Men | 10000m</desc>
-    <category lang="it">Ice Skating</category>
   </programme>
   <channel id="FigureSkatingMenShorttrackwomens1000mracequalifying">
     <display-name>Figure Skating Men | Short track women's 1000 m race - qualifying</display-name>
@@ -162,19 +123,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Ski Jumping Men | HS 140 | large hill training</desc>
     <category lang="it">Ski Jumping</category>
-  </programme>
-  <channel id="PremierPadelRiyadhT2026MensSemifinal1">
-    <display-name>Premier Padel Riyadh (T2026): Men's Semifinal 1</display-name>
-  </channel>
-  <programme start="20260213000000 +0200" stop="20260213180000 +0200" channel="PremierPadelRiyadhT2026MensSemifinal1">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">Premier Padel Riyadh (T2026): Men's Semifinal 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260213180000 +0200" stop="20260213200000 +0200" channel="PremierPadelRiyadhT2026MensSemifinal1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Premier Padel Riyadh (T2026): Men's Semifinal 1</desc>
-    <category lang="it">Squash</category>
   </programme>
   <channel id="SnowboardingMenHalfPipeFinal">
     <display-name>Snowboarding Men | Half Pipe | Final</display-name>
