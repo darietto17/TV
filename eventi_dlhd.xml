@@ -23,32 +23,6 @@
     <desc lang="it">Winter Olympics 2026 Live Stream</desc>
     <category lang="it">Winter Olympics 2026</category>
   </programme>
-  <channel id="ItalySerieAwomenComovsSassuolo">
-    <display-name>Italy - Serie A (women) : Como vs Sassuolo</display-name>
-  </channel>
-  <programme start="20260214000000 +0200" stop="20260214133000 +0200" channel="ItalySerieAwomenComovsSassuolo">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie A (women) : Como vs Sassuolo.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260214133000 +0200" stop="20260214153000 +0200" channel="ItalySerieAwomenComovsSassuolo">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A (women) : Como vs Sassuolo</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="GermanyBundesliga2HerthaBSCvsHannover96">
-    <display-name>Germany - Bundesliga 2 : Hertha BSC vs Hannover 96</display-name>
-  </channel>
-  <programme start="20260214000000 +0200" stop="20260214140000 +0200" channel="GermanyBundesliga2HerthaBSCvsHannover96">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Hertha BSC vs Hannover 96.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260214140000 +0200" stop="20260214160000 +0200" channel="GermanyBundesliga2HerthaBSCvsHannover96">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Hertha BSC vs Hannover 96</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalySerieCGiuglianovsTrapani1905">
     <display-name>Italy - Serie C : Giugliano vs Trapani 1905</display-name>
   </channel>
@@ -287,19 +261,6 @@
     <desc lang="it">F1 2026 Bahrain Test: Day 3</desc>
     <category lang="it">Motorsport</category>
   </programme>
-  <channel id="AlpineSkiingMenGiantSlalomRun2">
-    <display-name>Alpine Skiing Men | Giant Slalom | Run 2</display-name>
-  </channel>
-  <programme start="20260214000000 +0200" stop="20260214140000 +0200" channel="AlpineSkiingMenGiantSlalomRun2">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Alpine Skiing Men | Giant Slalom | Run 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260214140000 +0200" stop="20260214160000 +0200" channel="AlpineSkiingMenGiantSlalomRun2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Alpine Skiing Men | Giant Slalom | Run 2</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
   <channel id="Women75kmSprintCompetitionOlympicGames">
     <display-name>Women 7.5 km Sprint Competition | Olympic Games</display-name>
   </channel>
@@ -374,19 +335,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Olympic Games Women : Finland W vs Switzerland W</desc>
     <category lang="it">Olympic Games Women</category>
-  </programme>
-  <channel id="OlympicGamesGermanyvsLatvia">
-    <display-name>Olympic Games : Germany vs Latvia</display-name>
-  </channel>
-  <programme start="20260214000000 +0200" stop="20260214131000 +0200" channel="OlympicGamesGermanyvsLatvia">
-    <title lang="it">Inizia alle 13:10.</title>
-    <desc lang="it">Olympic Games : Germany vs Latvia.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260214131000 +0200" stop="20260214151000 +0200" channel="OlympicGamesGermanyvsLatvia">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Olympic Games : Germany vs Latvia</desc>
-    <category lang="it">Olympic Games Men</category>
   </programme>
   <channel id="OlympicGamesFinlandvsItaly">
     <display-name>Olympic Games : Finland vs Italy</display-name>
@@ -488,19 +436,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Individual competition | Ski Jumping - Olympic Games</desc>
     <category lang="it">Ski Jumping</category>
-  </programme>
-  <channel id="LongdistanceskiingWomen4x7Relay5km">
-    <display-name>Long distance skiing Women | 4x7 Relay, 5km</display-name>
-  </channel>
-  <programme start="20260214000000 +0200" stop="20260214130000 +0200" channel="LongdistanceskiingWomen4x7Relay5km">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Long distance skiing Women | 4x7 Relay, 5km.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260214130000 +0200" stop="20260214150000 +0200" channel="LongdistanceskiingWomen4x7Relay5km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Long distance skiing Women | 4x7 Relay, 5km</desc>
-    <category lang="it">Winter Sports</category>
   </programme>
   <channel id="WinterGamesofCurlingMensCzechRepublicvsGreatBritain">
     <display-name>Winter Games of Curling Men’s : Czech Republic vs Great Britain</display-name>
