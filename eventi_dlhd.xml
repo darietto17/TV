@@ -1,44 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieCSiracusavsCatania">
-    <display-name>Italy - Serie C : Siracusa vs Catania</display-name>
-  </channel>
-  <programme start="20260214000000 +0200" stop="20260214183000 +0200" channel="ItalySerieCSiracusavsCatania">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Italy - Serie C : Siracusa vs Catania.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260214183000 +0200" stop="20260214203000 +0200" channel="ItalySerieCSiracusavsCatania">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Siracusa vs Catania</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCFoggiavsAtalantaII">
-    <display-name>Italy - Serie C : Foggia vs Atalanta II</display-name>
-  </channel>
-  <programme start="20260214000000 +0200" stop="20260214183000 +0200" channel="ItalySerieCFoggiavsAtalantaII">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Italy - Serie C : Foggia vs Atalanta II.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260214183000 +0200" stop="20260214203000 +0200" channel="ItalySerieCFoggiavsAtalantaII">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Foggia vs Atalanta II</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCPicernovsCrotone">
-    <display-name>Italy - Serie C : Picerno vs Crotone</display-name>
-  </channel>
-  <programme start="20260214000000 +0200" stop="20260214183000 +0200" channel="ItalySerieCPicernovsCrotone">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Italy - Serie C : Picerno vs Crotone.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260214183000 +0200" stop="20260214203000 +0200" channel="ItalySerieCPicernovsCrotone">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Picerno vs Crotone</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalySerieALaziovsAtalanta">
     <display-name>Italy - Serie A : Lazio vs Atalanta</display-name>
   </channel>
@@ -98,42 +59,6 @@
     <desc lang="it">Italy - Serie A : Internazionale vs Juventus</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="FigueiraChampionsClassicMenFigueiradaFoz1927km">
-    <display-name>Figueira Champions Classic Men | Figueira da Foz (192.7km)</display-name>
-  </channel>
-  <programme start="20260214000000 +0200" stop="20260214170000 +0200" channel="FigueiraChampionsClassicMenFigueiradaFoz1927km">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">Figueira Champions Classic Men | Figueira da Foz (192.7km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260214170000 +0200" stop="20260214190000 +0200" channel="FigueiraChampionsClassicMenFigueiradaFoz1927km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Figueira Champions Classic Men | Figueira da Foz (192.7km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <channel id="OlympicGamesWomenCanadaWvsGermanyW">
-    <display-name>Olympic Games Women : Canada W vs Germany W</display-name>
-  </channel>
-  <programme start="20260214000000 +0200" stop="20260214174000 +0200" channel="OlympicGamesWomenCanadaWvsGermanyW">
-    <title lang="it">Inizia alle 17:40.</title>
-    <desc lang="it">Olympic Games Women : Canada W vs Germany W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260214174000 +0200" stop="20260214194000 +0200" channel="OlympicGamesWomenCanadaWvsGermanyW">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Olympic Games Women : Canada W vs Germany W</desc>
-    <category lang="it">Olympic Games Women</category>
-  </programme>
-  <programme start="20260214000000 +0200" stop="20260214174000 +0200" channel="OlympicGamesWomenCanadaWvsGermanyW">
-    <title lang="it">Inizia alle 17:40.</title>
-    <desc lang="it">Olympic Games Women : Canada W vs Germany W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260214174000 +0200" stop="20260214194000 +0200" channel="OlympicGamesWomenCanadaWvsGermanyW">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Olympic Games Women : Canada W vs Germany W</desc>
-    <category lang="it">Olympic Games Women</category>
-  </programme>
   <channel id="OlympicGamesWomenFinlandWvsSwitzerlandW">
     <display-name>Olympic Games Women : Finland W vs Switzerland W</display-name>
   </channel>
@@ -147,29 +72,6 @@
     <desc lang="it">Olympic Games Women : Finland W vs Switzerland W</desc>
     <category lang="it">Olympic Games Women</category>
   </programme>
-  <channel id="OlympicGamesFinlandvsItaly">
-    <display-name>Olympic Games : Finland vs Italy</display-name>
-  </channel>
-  <programme start="20260214000000 +0200" stop="20260214174000 +0200" channel="OlympicGamesFinlandvsItaly">
-    <title lang="it">Inizia alle 17:40.</title>
-    <desc lang="it">Olympic Games : Finland vs Italy.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260214174000 +0200" stop="20260214194000 +0200" channel="OlympicGamesFinlandvsItaly">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Olympic Games : Finland vs Italy</desc>
-    <category lang="it">Olympic Games Men</category>
-  </programme>
-  <programme start="20260214000000 +0200" stop="20260214174000 +0200" channel="OlympicGamesFinlandvsItaly">
-    <title lang="it">Inizia alle 17:40.</title>
-    <desc lang="it">Olympic Games : Finland vs Italy.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260214174000 +0200" stop="20260214194000 +0200" channel="OlympicGamesFinlandvsItaly">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Olympic Games : Finland vs Italy</desc>
-    <category lang="it">Olympic Games Men</category>
-  </programme>
   <channel id="OlympicGamesUSAvsDenmark">
     <display-name>Olympic Games : USA vs Denmark</display-name>
   </channel>
@@ -182,19 +84,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Olympic Games : USA vs Denmark</desc>
     <category lang="it">Olympic Games Men</category>
-  </programme>
-  <channel id="SpeedSkatingOlympicGamesMens500m">
-    <display-name>Speed Skating - Olympic Games Men's 500m</display-name>
-  </channel>
-  <programme start="20260214000000 +0200" stop="20260214180000 +0200" channel="SpeedSkatingOlympicGamesMens500m">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">Speed Skating - Olympic Games Men's 500m.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260214180000 +0200" stop="20260214200000 +0200" channel="SpeedSkatingOlympicGamesMens500m">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Speed Skating - Olympic Games Men's 500m</desc>
-    <category lang="it">Ice Skating</category>
   </programme>
   <channel id="ShortTrackSpeedSkatingDay3">
     <display-name>Short Track Speed Skating Day 3</display-name>
@@ -221,19 +110,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Six Nations U20 : Wales U20 vs France U20</desc>
     <category lang="it">Rugby Union</category>
-  </programme>
-  <channel id="IndividualcompetitionSkiJumpingOlympicGames">
-    <display-name>Individual competition | Ski Jumping - Olympic Games</display-name>
-  </channel>
-  <programme start="20260214000000 +0200" stop="20260214182500 +0200" channel="IndividualcompetitionSkiJumpingOlympicGames">
-    <title lang="it">Inizia alle 18:25.</title>
-    <desc lang="it">Individual competition | Ski Jumping - Olympic Games.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260214182500 +0200" stop="20260214202500 +0200" channel="IndividualcompetitionSkiJumpingOlympicGames">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Individual competition | Ski Jumping - Olympic Games</desc>
-    <category lang="it">Ski Jumping</category>
   </programme>
   <channel id="SnowboardOlympicGames">
     <display-name>Snowboard - Olympic Games</display-name>
