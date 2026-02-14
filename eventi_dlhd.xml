@@ -1,155 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="WinterOlympics2026LiveStream">
-    <display-name>Winter Olympics 2026 Live Stream</display-name>
-  </channel>
-  <programme start="20260214000000 +0200" stop="20260214145200 +0200" channel="WinterOlympics2026LiveStream">
-    <title lang="it">Inizia alle 14:52.</title>
-    <desc lang="it">Winter Olympics 2026 Live Stream.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260214145200 +0200" stop="20260214165200 +0200" channel="WinterOlympics2026LiveStream">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Winter Olympics 2026 Live Stream</desc>
-    <category lang="it">Winter Olympics 2026</category>
-  </programme>
-  <programme start="20260214000000 +0200" stop="20260214145200 +0200" channel="WinterOlympics2026LiveStream">
-    <title lang="it">Inizia alle 14:52.</title>
-    <desc lang="it">Winter Olympics 2026 Live Stream.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260214145200 +0200" stop="20260214165200 +0200" channel="WinterOlympics2026LiveStream">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Winter Olympics 2026 Live Stream</desc>
-    <category lang="it">Winter Olympics 2026</category>
-  </programme>
-  <channel id="ItalySerieCGiuglianovsTrapani1905">
-    <display-name>Italy - Serie C : Giugliano vs Trapani 1905</display-name>
-  </channel>
-  <programme start="20260214000000 +0200" stop="20260214153000 +0200" channel="ItalySerieCGiuglianovsTrapani1905">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Giugliano vs Trapani 1905.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260214153000 +0200" stop="20260214173000 +0200" channel="ItalySerieCGiuglianovsTrapani1905">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Giugliano vs Trapani 1905</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCVirtusCasaranovsCasertana">
-    <display-name>Italy - Serie C : Virtus Casarano vs Casertana</display-name>
-  </channel>
-  <programme start="20260214000000 +0200" stop="20260214153000 +0200" channel="ItalySerieCVirtusCasaranovsCasertana">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Virtus Casarano vs Casertana.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260214153000 +0200" stop="20260214173000 +0200" channel="ItalySerieCVirtusCasaranovsCasertana">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Virtus Casarano vs Casertana</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCBeneventovsLatina">
-    <display-name>Italy - Serie C : Benevento vs Latina</display-name>
-  </channel>
-  <programme start="20260214000000 +0200" stop="20260214153000 +0200" channel="ItalySerieCBeneventovsLatina">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Benevento vs Latina.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260214153000 +0200" stop="20260214173000 +0200" channel="ItalySerieCBeneventovsLatina">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Benevento vs Latina</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCCosenzavsAudaceCerignola">
-    <display-name>Italy - Serie C : Cosenza vs Audace Cerignola</display-name>
-  </channel>
-  <programme start="20260214000000 +0200" stop="20260214153000 +0200" channel="ItalySerieCCosenzavsAudaceCerignola">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Cosenza vs Audace Cerignola.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260214153000 +0200" stop="20260214173000 +0200" channel="ItalySerieCCosenzavsAudaceCerignola">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Cosenza vs Audace Cerignola</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCCavesevsSalernitana">
-    <display-name>Italy - Serie C : Cavese vs Salernitana</display-name>
-  </channel>
-  <programme start="20260214000000 +0200" stop="20260214153000 +0200" channel="ItalySerieCCavesevsSalernitana">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Cavese vs Salernitana.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260214153000 +0200" stop="20260214173000 +0200" channel="ItalySerieCCavesevsSalernitana">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Cavese vs Salernitana</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260214000000 +0200" stop="20260214153000 +0200" channel="ItalySerieCCavesevsSalernitana">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Cavese vs Salernitana.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260214153000 +0200" stop="20260214173000 +0200" channel="ItalySerieCCavesevsSalernitana">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Cavese vs Salernitana</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCMonopolivsSorrento">
-    <display-name>Italy - Serie C : Monopoli vs Sorrento</display-name>
-  </channel>
-  <programme start="20260214000000 +0200" stop="20260214153000 +0200" channel="ItalySerieCMonopolivsSorrento">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Monopoli vs Sorrento.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260214153000 +0200" stop="20260214173000 +0200" channel="ItalySerieCMonopolivsSorrento">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Monopoli vs Sorrento</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieAwomenMilanvsFiorentina">
-    <display-name>Italy - Serie A (women) : Milan vs Fiorentina</display-name>
-  </channel>
-  <programme start="20260214000000 +0200" stop="20260214154500 +0200" channel="ItalySerieAwomenMilanvsFiorentina">
-    <title lang="it">Inizia alle 15:45.</title>
-    <desc lang="it">Italy - Serie A (women) : Milan vs Fiorentina.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260214154500 +0200" stop="20260214174500 +0200" channel="ItalySerieAwomenMilanvsFiorentina">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A (women) : Milan vs Fiorentina</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieAComovsFiorentina">
-    <display-name>Italy - Serie A : Como vs Fiorentina</display-name>
-  </channel>
-  <programme start="20260214000000 +0200" stop="20260214160000 +0200" channel="ItalySerieAComovsFiorentina">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Italy - Serie A : Como vs Fiorentina.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260214160000 +0200" stop="20260214180000 +0200" channel="ItalySerieAComovsFiorentina">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Como vs Fiorentina</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="GermanyBundesligaWerderBremenvsBayernMnchen">
-    <display-name>Germany - Bundesliga : Werder Bremen vs Bayern München</display-name>
-  </channel>
-  <programme start="20260214000000 +0200" stop="20260214163000 +0200" channel="GermanyBundesligaWerderBremenvsBayernMnchen">
-    <title lang="it">Inizia alle 16:30.</title>
-    <desc lang="it">Germany - Bundesliga : Werder Bremen vs Bayern München.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260214163000 +0200" stop="20260214183000 +0200" channel="GermanyBundesligaWerderBremenvsBayernMnchen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga : Werder Bremen vs Bayern München</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalySerieCSiracusavsCatania">
     <display-name>Italy - Serie C : Siracusa vs Catania</display-name>
   </channel>
@@ -247,45 +97,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Serie A : Internazionale vs Juventus</desc>
     <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="F12026BahrainTestDay3">
-    <display-name>F1 2026 Bahrain Test: Day 3</display-name>
-  </channel>
-  <programme start="20260214000000 +0200" stop="20260214151500 +0200" channel="F12026BahrainTestDay3">
-    <title lang="it">Inizia alle 15:15.</title>
-    <desc lang="it">F1 2026 Bahrain Test: Day 3.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260214151500 +0200" stop="20260214171500 +0200" channel="F12026BahrainTestDay3">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">F1 2026 Bahrain Test: Day 3</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Women75kmSprintCompetitionOlympicGames">
-    <display-name>Women 7.5 km Sprint Competition | Olympic Games</display-name>
-  </channel>
-  <programme start="20260214000000 +0200" stop="20260214151500 +0200" channel="Women75kmSprintCompetitionOlympicGames">
-    <title lang="it">Inizia alle 15:15.</title>
-    <desc lang="it">Women 7.5 km Sprint Competition | Olympic Games.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260214151500 +0200" stop="20260214171500 +0200" channel="Women75kmSprintCompetitionOlympicGames">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Women 7.5 km Sprint Competition | Olympic Games</desc>
-    <category lang="it">Biathlon</category>
-  </programme>
-  <channel id="TouroftheRegionofMurciaStage2MenMurciaSantomera179km">
-    <display-name>Tour of the Region of Murcia | Stage 2 Men | Murcia – Santomera (179km)</display-name>
-  </channel>
-  <programme start="20260214000000 +0200" stop="20260214143000 +0200" channel="TouroftheRegionofMurciaStage2MenMurciaSantomera179km">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">Tour of the Region of Murcia | Stage 2 Men | Murcia – Santomera (179km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260214143000 +0200" stop="20260214163000 +0200" channel="TouroftheRegionofMurciaStage2MenMurciaSantomera179km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of the Region of Murcia | Stage 2 Men | Murcia – Santomera (179km)</desc>
-    <category lang="it">Cycling</category>
   </programme>
   <channel id="FigueiraChampionsClassicMenFigueiradaFoz1927km">
     <display-name>Figueira Champions Classic Men | Figueira da Foz (192.7km)</display-name>
@@ -398,19 +209,6 @@
     <desc lang="it">Short Track Speed Skating Day 3</desc>
     <category lang="it">Ice Skating</category>
   </programme>
-  <channel id="SixNationsIrelandvsItaly">
-    <display-name>Six Nations : Ireland vs Italy</display-name>
-  </channel>
-  <programme start="20260214000000 +0200" stop="20260214161000 +0200" channel="SixNationsIrelandvsItaly">
-    <title lang="it">Inizia alle 16:10.</title>
-    <desc lang="it">Six Nations : Ireland vs Italy.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260214161000 +0200" stop="20260214181000 +0200" channel="SixNationsIrelandvsItaly">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Six Nations : Ireland vs Italy</desc>
-    <category lang="it">Rugby Union</category>
-  </programme>
   <channel id="SixNationsU20WalesU20vsFranceU20">
     <display-name>Six Nations U20 : Wales U20 vs France U20</display-name>
   </channel>
@@ -436,19 +234,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Individual competition | Ski Jumping - Olympic Games</desc>
     <category lang="it">Ski Jumping</category>
-  </programme>
-  <channel id="WinterGamesofCurlingMensCzechRepublicvsGreatBritain">
-    <display-name>Winter Games of Curling Men’s : Czech Republic vs Great Britain</display-name>
-  </channel>
-  <programme start="20260214000000 +0200" stop="20260214161500 +0200" channel="WinterGamesofCurlingMensCzechRepublicvsGreatBritain">
-    <title lang="it">Inizia alle 16:15.</title>
-    <desc lang="it">Winter Games of Curling Men’s : Czech Republic vs Great Britain.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260214161500 +0200" stop="20260214181500 +0200" channel="WinterGamesofCurlingMensCzechRepublicvsGreatBritain">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Winter Games of Curling Men’s : Czech Republic vs Great Britain</desc>
-    <category lang="it">Winter Sports</category>
   </programme>
   <channel id="SnowboardOlympicGames">
     <display-name>Snowboard - Olympic Games</display-name>
