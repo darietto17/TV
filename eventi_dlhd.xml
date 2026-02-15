@@ -1,64 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieCVicenzavsAlcione">
-    <display-name>Italy - Serie C : Vicenza vs Alcione</display-name>
-  </channel>
-  <programme start="20260215000000 +0200" stop="20260215133000 +0200" channel="ItalySerieCVicenzavsAlcione">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie C : Vicenza vs Alcione.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260215133000 +0200" stop="20260215153000 +0200" channel="ItalySerieCVicenzavsAlcione">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Vicenza vs Alcione</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260215000000 +0200" stop="20260215133000 +0200" channel="ItalySerieCVicenzavsAlcione">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie C : Vicenza vs Alcione.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260215133000 +0200" stop="20260215153000 +0200" channel="ItalySerieCVicenzavsAlcione">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Vicenza vs Alcione</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="ItalySerieCTriestinavsNovara">
-    <display-name>Italy - Serie C : Triestina vs Novara</display-name>
-  </channel>
-  <programme start="20260215000000 +0200" stop="20260215133000 +0200" channel="ItalySerieCTriestinavsNovara">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie C : Triestina vs Novara.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260215133000 +0200" stop="20260215153000 +0200" channel="ItalySerieCTriestinavsNovara">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Triestina vs Novara</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260215000000 +0200" stop="20260215133000 +0200" channel="ItalySerieCTriestinavsNovara">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie C : Triestina vs Novara.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260215133000 +0200" stop="20260215153000 +0200" channel="ItalySerieCTriestinavsNovara">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Triestina vs Novara</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="ItalySerieAUdinesevsSassuolo">
-    <display-name>Italy - Serie A : Udinese vs Sassuolo</display-name>
-  </channel>
-  <programme start="20260215000000 +0200" stop="20260215133000 +0200" channel="ItalySerieAUdinesevsSassuolo">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Italy - Serie A : Udinese vs Sassuolo.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260215133000 +0200" stop="20260215153000 +0200" channel="ItalySerieAUdinesevsSassuolo">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Udinese vs Sassuolo</desc>
-    <category lang="it">Soccer</category>
-  </programme>
   <channel id="GermanyBundesliga2HolsteinKielvsSchalke04">
     <display-name>Germany - Bundesliga 2 : Holstein Kiel vs Schalke 04</display-name>
   </channel>
@@ -355,19 +296,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Serie A : Napoli vs Roma</desc>
     <category lang="it">Soccer</category>
-  </programme>
-  <channel id="GiantSlalomAlpineskiingWomenOlympicGames">
-    <display-name>Giant Slalom | Alpine skiing Women - Olympic Games</display-name>
-  </channel>
-  <programme start="20260215000000 +0200" stop="20260215140000 +0200" channel="GiantSlalomAlpineskiingWomenOlympicGames">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Giant Slalom | Alpine skiing Women - Olympic Games.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260215140000 +0200" stop="20260215160000 +0200" channel="GiantSlalomAlpineskiingWomenOlympicGames">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Giant Slalom | Alpine skiing Women - Olympic Games</desc>
-    <category lang="it">lpine Ski</category>
   </programme>
   <channel id="Women10kmPursuitCompetitionwomenspursuitrace">
     <display-name>Women 10 km Pursuit Competition | women's pursuit race</display-name>
