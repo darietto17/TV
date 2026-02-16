@@ -381,6 +381,8 @@ https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
 https://vavoo.to/vavoo-iptv/play/3889279895a867a5410d74
 #EXTINF:-1 tvg-id="mtv.hd.it" tvg-logo="" group-title="Musica",MTV
 https://vavoo.to/vavoo-iptv/play/3212860676dcc8c28a2be1
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/mtv-hits-rs.png?raw=true" group-title="Musica",MTV HITS
+https://vavoo.to/vavoo-iptv/play/3446813098b031eef6dc22
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (1)
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (2)
@@ -747,8 +749,6 @@ https://vavoo.to/vavoo-iptv/play/29098187562943fdca9002
 https://vavoo.to/vavoo-iptv/play/325121729090a7b71fb865
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 6 (2)
 https://vavoo.to/vavoo-iptv/play/39395136840a7593b75855
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 6 (2)
-https://vavoo.to/vavoo-iptv/play/39395136840a7593b75855
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 7 (1)
 https://vavoo.to/vavoo-iptv/play/4238969402e69feff53112
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 7 (2)
@@ -779,16 +779,16 @@ https://dlhd.dad/watch.php?id=872
 https://dlhd.dad/watch.php?id=873
 #EXTINF:-1 tvg-id="sky.sport..254.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/2560px-Sky_Sport_-_Logo_2020.svg.png" group-title="Sport",SKY SPORT 254 (D)
 https://dlhd.dad/watch.php?id=874
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (1)
 https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (2)
+https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (D)
 https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",SKY SPORT BASKET (D)
 https://dlhd.dad/watch.php?id=875
-#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (1)
+#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
 https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
-#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (2)
-https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (D)
 https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1
@@ -1050,6 +1050,12 @@ https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
+#EXTINF:-1 tvg-id="winterolympics2026livestream" tvg-name="Winter Olympics 2026 | Winter Olympics 2026 Live Stream (19:41)" tvg-logo="https://gstatic.olympics.com/s3/mc2026/emblems/mico2026-emblem-oly.png" group-title="Eventi Live DLHD",Winter Olympics 2026 | Winter Olympics 2026 Live Stream (19:41)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="winterolympics2026livestream" tvg-name="Winter Olympics 2026 | Winter Olympics 2026 Live Stream (19:41)" tvg-logo="https://gstatic.olympics.com/s3/mc2026/emblems/mico2026-emblem-oly.png" group-title="Eventi Live DLHD",Winter Olympics 2026 | Winter Olympics 2026 Live Stream (19:41)
+https://dlhd.dad/watch.php?id=879
+
 #EXTINF:-1 tvg-id="italyserieacagliarivslecce" tvg-name="Soccer | Italy - Serie A : Cagliari vs Lecce (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cagliari_vs_Lecce.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Cagliari vs Lecce (21:45)
 https://dlhd.dad/watch.php?id=2
 
@@ -1099,12 +1105,6 @@ https://dlhd.dad/watch.php?id=878
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="winterolympicsmilancortina2026skijumpingseries1oftheduetcompetition" tvg-name="Ski Jumping | Winter Olympics Milan-Cortina 2026: Ski Jumping Series 1 of the duet competition (20:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2025/03/NBC-Milan-Cortina-2026-Logo-2025.png" group-title="Eventi Live DLHD",Ski Jumping | Winter Olympics Milan-Cortina 2026: Ski Jumping Series 1 of the duet competition (20:00)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="curlingczechiacanadamenroundrobin" tvg-name="Winter Sports | Curling | Czechia - Canada Men | Round Robin (15:00)" tvg-logo="https://cdn.inksoft.com/images/publishers/11192/stores/cornwall_curling/img/logo.png" group-title="Eventi Live DLHD",Winter Sports | Curling | Czechia - Canada Men | Round Robin (15:00)
-https://dlhd.dad/watch.php?id=882
-
-#EXTINF:-1 tvg-id="snowboardingmenslopestylequalifying" tvg-name="Winter Sports | Snowboarding Men | Slopestyle | Qualifying (15:00)" tvg-logo="https://www.teambuller.com/uploads/2/0/9/2/20927662/tribe-gozo-mono_orig.png" group-title="Eventi Live DLHD",Winter Sports | Snowboarding Men | Slopestyle | Qualifying (15:00)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="curlinggreatbritainnorwaymenroundrobin" tvg-name="Winter Sports | Curling | Great Britain - Norway Men | Round Robin (17:15)" tvg-logo="https://cdn.inksoft.com/images/publishers/11192/stores/cornwall_curling/img/logo.png" group-title="Eventi Live DLHD",Winter Sports | Curling | Great Britain - Norway Men | Round Robin (17:15)
