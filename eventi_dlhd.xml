@@ -1,28 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="EuropeUEFAChampionsLeagueGalatasarayvsJuventus">
-    <display-name>Europe - UEFA Champions League : Galatasaray vs Juventus</display-name>
-  </channel>
-  <programme start="20260217000000 +0200" stop="20260217194500 +0200" channel="EuropeUEFAChampionsLeagueGalatasarayvsJuventus">
-    <title lang="it">Inizia alle 19:45.</title>
-    <desc lang="it">Europe - UEFA Champions League : Galatasaray vs Juventus.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260217194500 +0200" stop="20260217214500 +0200" channel="EuropeUEFAChampionsLeagueGalatasarayvsJuventus">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Europe - UEFA Champions League : Galatasaray vs Juventus</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260217000000 +0200" stop="20260217194500 +0200" channel="EuropeUEFAChampionsLeagueGalatasarayvsJuventus">
-    <title lang="it">Inizia alle 19:45.</title>
-    <desc lang="it">Europe - UEFA Champions League : Galatasaray vs Juventus.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260217194500 +0200" stop="20260217214500 +0200" channel="EuropeUEFAChampionsLeagueGalatasarayvsJuventus">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Europe - UEFA Champions League : Galatasaray vs Juventus</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="EuropeUEFAChampionsLeagueBorussiaDortmundvsAtalanta">
     <display-name>Europe - UEFA Champions League : Borussia Dortmund vs Atalanta</display-name>
   </channel>
@@ -82,19 +59,6 @@
     <desc lang="it">Europe - UEFA Champions League : Benfica vs Real Madrid</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="ThePlayersChampionshipRound1Day1EveningSession">
-    <display-name>The Players Championship Round 1 | Day 1 | Evening Session</display-name>
-  </channel>
-  <programme start="20260217000000 +0200" stop="20260217190000 +0200" channel="ThePlayersChampionshipRound1Day1EveningSession">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">The Players Championship Round 1 | Day 1 | Evening Session.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260217190000 +0200" stop="20260217210000 +0200" channel="ThePlayersChampionshipRound1Day1EveningSession">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">The Players Championship Round 1 | Day 1 | Evening Session</desc>
-    <category lang="it">Snooker</category>
-  </programme>
   <channel id="OlympicGamesSwedenvsLatvia">
     <display-name>Olympic Games : Sweden vs Latvia</display-name>
   </channel>
@@ -117,45 +81,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Olympic Games : Sweden vs Latvia</desc>
     <category lang="it">Olympics Ice Hockey</category>
-  </programme>
-  <channel id="ChampionsLeagueWomenOlympiacosvsNumiaVeroVolleyMilano">
-    <display-name>Champions League Women : Olympiacos vs Numia Vero Volley Milano</display-name>
-  </channel>
-  <programme start="20260217000000 +0200" stop="20260217190000 +0200" channel="ChampionsLeagueWomenOlympiacosvsNumiaVeroVolleyMilano">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">Champions League Women : Olympiacos vs Numia Vero Volley Milano.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260217190000 +0200" stop="20260217210000 +0200" channel="ChampionsLeagueWomenOlympiacosvsNumiaVeroVolleyMilano">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Champions League Women : Olympiacos vs Numia Vero Volley Milano</desc>
-    <category lang="it">Volleyball</category>
-  </programme>
-  <channel id="BobsleighTwoManBobsleighHeat3">
-    <display-name>Bobsleigh | Two-Man Bobsleigh | Heat 3</display-name>
-  </channel>
-  <programme start="20260217000000 +0200" stop="20260217195500 +0200" channel="BobsleighTwoManBobsleighHeat3">
-    <title lang="it">Inizia alle 19:55.</title>
-    <desc lang="it">Bobsleigh | Two-Man Bobsleigh | Heat 3.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260217195500 +0200" stop="20260217215500 +0200" channel="BobsleighTwoManBobsleighHeat3">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Bobsleigh | Two-Man Bobsleigh | Heat 3</desc>
-    <category lang="it">Winter Sports</category>
-  </programme>
-  <channel id="BobsleighMen2manHeat3">
-    <display-name>Bobsleigh Men | 2-man | Heat 3</display-name>
-  </channel>
-  <programme start="20260217000000 +0200" stop="20260217200000 +0200" channel="BobsleighMen2manHeat3">
-    <title lang="it">Inizia alle 20:00.</title>
-    <desc lang="it">Bobsleigh Men | 2-man | Heat 3.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260217200000 +0200" stop="20260217220000 +0200" channel="BobsleighMen2manHeat3">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Bobsleigh Men | 2-man | Heat 3</desc>
-    <category lang="it">Winter Sports</category>
   </programme>
   <channel id="BobsleighTwoManBobsleighHeat4">
     <display-name>Bobsleigh | Two-Man Bobsleigh | Heat 4</display-name>
