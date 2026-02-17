@@ -82,19 +82,6 @@
     <desc lang="it">Europe - UEFA Champions League : Benfica vs Real Madrid</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="ThePlayersChampionshipRound1Day1AfternoonSession">
-    <display-name>The Players Championship Round 1 | Day 1 | Afternoon Session</display-name>
-  </channel>
-  <programme start="20260217000000 +0200" stop="20260217150000 +0200" channel="ThePlayersChampionshipRound1Day1AfternoonSession">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">The Players Championship Round 1 | Day 1 | Afternoon Session.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260217150000 +0200" stop="20260217170000 +0200" channel="ThePlayersChampionshipRound1Day1AfternoonSession">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">The Players Championship Round 1 | Day 1 | Afternoon Session</desc>
-    <category lang="it">Snooker</category>
-  </programme>
   <channel id="ThePlayersChampionshipRound1Day1EveningSession">
     <display-name>The Players Championship Round 1 | Day 1 | Evening Session</display-name>
   </channel>
@@ -107,19 +94,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">The Players Championship Round 1 | Day 1 | Evening Session</desc>
     <category lang="it">Snooker</category>
-  </programme>
-  <channel id="Men4x75kmRelayCompetitionOlympicGames">
-    <display-name>Men 4x7.5 km Relay Competition | Olympic Games</display-name>
-  </channel>
-  <programme start="20260217000000 +0200" stop="20260217150000 +0200" channel="Men4x75kmRelayCompetitionOlympicGames">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">Men 4x7.5 km Relay Competition | Olympic Games.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260217150000 +0200" stop="20260217170000 +0200" channel="Men4x75kmRelayCompetitionOlympicGames">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Men 4x7.5 km Relay Competition | Olympic Games</desc>
-    <category lang="it">Biathlon</category>
   </programme>
   <channel id="OlympicGamesCzechRepublicvsDenmark">
     <display-name>Olympic Games : Czech Republic vs Denmark</display-name>
@@ -166,19 +140,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Olympic Games : Sweden vs Latvia</desc>
     <category lang="it">Olympics Ice Hockey</category>
-  </programme>
-  <channel id="SpeedSkatingMenandWomenTeamPursuitFinal">
-    <display-name>Speed Skating Men and Women | Team Pursuit | Final</display-name>
-  </channel>
-  <programme start="20260217000000 +0200" stop="20260217151500 +0200" channel="SpeedSkatingMenandWomenTeamPursuitFinal">
-    <title lang="it">Inizia alle 15:15.</title>
-    <desc lang="it">Speed Skating Men and Women | Team Pursuit | Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260217151500 +0200" stop="20260217171500 +0200" channel="SpeedSkatingMenandWomenTeamPursuitFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Speed Skating Men and Women | Team Pursuit | Final</desc>
-    <category lang="it">Ice Skating</category>
   </programme>
   <channel id="ChampionsLeagueWomenOlympiacosvsNumiaVeroVolleyMilano">
     <display-name>Champions League Women : Olympiacos vs Numia Vero Volley Milano</display-name>
