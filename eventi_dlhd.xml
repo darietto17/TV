@@ -108,32 +108,6 @@
     <desc lang="it">Europe - UEFA Champions League : Olympiakos Piraeus vs Bayer Leverkusen</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="F12026seasonPreSeasonTesting">
-    <display-name>F1 2026 season Pre-Season Testing</display-name>
-  </channel>
-  <programme start="20260218000000 +0200" stop="20260218140000 +0200" channel="F12026seasonPreSeasonTesting">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">F1 2026 season Pre-Season Testing.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260218140000 +0200" stop="20260218160000 +0200" channel="F12026seasonPreSeasonTesting">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">F1 2026 season Pre-Season Testing</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="AlpineskiingWomenSlalomRun2">
-    <display-name>Alpine skiing Women | Slalom | Run 2</display-name>
-  </channel>
-  <programme start="20260218000000 +0200" stop="20260218140000 +0200" channel="AlpineskiingWomenSlalomRun2">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Alpine skiing Women | Slalom | Run 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260218140000 +0200" stop="20260218160000 +0200" channel="AlpineskiingWomenSlalomRun2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Alpine skiing Women | Slalom | Run 2</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
   <channel id="Women4x6kmRelayCompetitionOlympicGames">
     <display-name>Women 4x6 km Relay Competition | Olympic Games</display-name>
   </channel>
@@ -147,19 +121,6 @@
     <desc lang="it">Women 4x6 km Relay Competition | Olympic Games</desc>
     <category lang="it">Biathlon</category>
   </programme>
-  <channel id="UAETourStage3MenMadinatZayedMajlisLiwaPalace144km">
-    <display-name>UAE Tour | Stage 3 Men | Madinat Zayed Majlis - Liwa Palace (144km)</display-name>
-  </channel>
-  <programme start="20260218000000 +0200" stop="20260218133000 +0200" channel="UAETourStage3MenMadinatZayedMajlisLiwaPalace144km">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">UAE Tour | Stage 3 Men | Madinat Zayed Majlis - Liwa Palace (144km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260218133000 +0200" stop="20260218153000 +0200" channel="UAETourStage3MenMadinatZayedMajlisLiwaPalace144km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UAE Tour | Stage 3 Men | Madinat Zayed Majlis - Liwa Palace (144km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
   <channel id="VoltaaoAlgarveStage1MenVilaRealdeSantoAntnioTavira1856km">
     <display-name>Volta ao Algarve | Stage 1 Men | Vila Real de Santo António - Tavira (185.6km)</display-name>
   </channel>
@@ -172,29 +133,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Volta ao Algarve | Stage 1 Men | Vila Real de Santo António - Tavira (185.6km)</desc>
     <category lang="it">Cycling</category>
-  </programme>
-  <channel id="OlympicGamesSlovakiavsGermany">
-    <display-name>Olympic Games : Slovakia vs Germany</display-name>
-  </channel>
-  <programme start="20260218000000 +0200" stop="20260218131000 +0200" channel="OlympicGamesSlovakiavsGermany">
-    <title lang="it">Inizia alle 13:10.</title>
-    <desc lang="it">Olympic Games : Slovakia vs Germany.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260218131000 +0200" stop="20260218151000 +0200" channel="OlympicGamesSlovakiavsGermany">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Olympic Games : Slovakia vs Germany</desc>
-    <category lang="it">Olympics Ice Hockey</category>
-  </programme>
-  <programme start="20260218000000 +0200" stop="20260218131000 +0200" channel="OlympicGamesSlovakiavsGermany">
-    <title lang="it">Inizia alle 13:10.</title>
-    <desc lang="it">Olympic Games : Slovakia vs Germany.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260218131000 +0200" stop="20260218151000 +0200" channel="OlympicGamesSlovakiavsGermany">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Olympic Games : Slovakia vs Germany</desc>
-    <category lang="it">Olympics Ice Hockey</category>
   </programme>
   <channel id="OlympicGamesCanadavsCzechRepublic">
     <display-name>Olympic Games : Canada vs Czech Republic</display-name>
