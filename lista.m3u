@@ -248,10 +248,8 @@ https://vavoo.to/vavoo-iptv/play/21132730647ae733a10331
 https://vavoo.to/vavoo-iptv/play/3439223610a4fec93d907a
 #EXTINF:-1 tvg-id="focus.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Mediaset",FOCUS (3)
 https://vavoo.to/vavoo-iptv/play/29825504332b9997336c1e
-#EXTINF:-1 tvg-id="food.network.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Altro",FOOD NETWORK (1)
+#EXTINF:-1 tvg-id="food.network.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Altro",FOOD NETWORK
 https://vavoo.to/vavoo-iptv/play/2820683351b557bc63df61
-#EXTINF:-1 tvg-id="food.network.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Altro",FOOD NETWORK (2)
-https://vavoo.to/vavoo-iptv/play/276786104991c55564696b
 #EXTINF:-1 tvg-id="foxhd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-it.png" group-title="Film - Serie TV",FOX
 https://vavoo.to/vavoo-iptv/play/56316060941df205a0842
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",FRANCE 24 (EN)
@@ -379,8 +377,6 @@ https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
 https://vavoo.to/vavoo-iptv/play/3889279895a867a5410d74
 #EXTINF:-1 tvg-id="mtv.hd.it" tvg-logo="" group-title="Musica",MTV
 https://vavoo.to/vavoo-iptv/play/3212860676dcc8c28a2be1
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/mtv-hits-rs.png?raw=true" group-title="Musica",MTV HITS
-https://vavoo.to/vavoo-iptv/play/3446813098b031eef6dc22
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (1)
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (2)
@@ -512,8 +508,10 @@ https://vavoo.to/vavoo-iptv/play/1925964148b9cb23cc2bce
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="rainews24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai",RAI NEWS 24
+#EXTINF:-1 tvg-id="rainews24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai",RAI NEWS 24 (1)
 https://vavoo.to/vavoo-iptv/play/22729239721838600694f7
+#EXTINF:-1 tvg-id="rainews24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai",RAI NEWS 24 (2)
+https://vavoo.to/vavoo-iptv/play/2239645272d37ede79369f
 #EXTINF:-1 tvg-id="rainews24.it" tvg-name="RAI NEWS 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-news-24-it.png" group-title="Rai",RAI NEWS 24 (MPD)
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv
@@ -665,8 +663,10 @@ https://dlhd.dad/watch.php?id=862
 https://vavoo.to/vavoo-iptv/play/123553017707540030adf9
 #EXTINF:-1 tvg-id="sky.cinema.drama.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film - Serie TV",SKY CINEMA DRAMA (D)
 https://dlhd.dad/watch.php?id=867
-#EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film - Serie TV",SKY CINEMA DUE
+#EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film - Serie TV",SKY CINEMA DUE (1)
 https://vavoo.to/vavoo-iptv/play/1228534500ffff855fff55
+#EXTINF:-1 tvg-id="sky.cinema.due.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film - Serie TV",SKY CINEMA DUE (2)
+https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY (1)
 https://vavoo.to/vavoo-iptv/play/41579514488d1c92affa7
 #EXTINF:-1 tvg-id="sky.cinema.family.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film - Serie TV",SKY CINEMA FAMILY (2)
@@ -834,10 +834,8 @@ https://vavoo.to/vavoo-iptv/play/3180571288b987548e3fe
 #EXTINF:-1 tvg-id="sky.tg24.it" tvg-name="SKY TG 24" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="News",SKY TG 24 (MPD)
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 
-#EXTINF:-1 tvg-id="sky.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro",SKY UNO (1)
+#EXTINF:-1 tvg-id="sky.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro",SKY UNO
 https://vavoo.to/vavoo-iptv/play/2130523218823893ad0255
-#EXTINF:-1 tvg-id="sky.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro",SKY UNO (2)
-https://vavoo.to/vavoo-iptv/play/32202484989ac14421915
 #EXTINF:-1 tvg-id="sky.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro",SKY UNO (D)
 https://dlhd.dad/watch.php?id=881
 
@@ -1071,25 +1069,10 @@ https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="europeuefachampionsleagueolympiakospiraeusvsbayerleverkusen" tvg-name="All Soccer Events | Europe - UEFA Champions League : Olympiakos Piraeus vs Bayer Leverkusen (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Olympiakos Piraeus_vs_Bayer Leverkusen.png" group-title="Eventi Live DLHD",All Soccer Events | Europe - UEFA Champions League : Olympiakos Piraeus vs Bayer Leverkusen (22:00)
 https://dlhd.dad/watch.php?id=17
 
-#EXTINF:-1 tvg-id="f12026seasonpreseasontesting" tvg-name="Motorsport | F1 2026 season Pre-Season Testing (14:00)" tvg-logo="https://austinvincentracing.com/wp-content/uploads/2023/01/26E92EFA-3908-4793-9EAF-CC262EF8B253.png" group-title="Eventi Live DLHD",Motorsport | F1 2026 season Pre-Season Testing (14:00)
-https://dlhd.dad/watch.php?id=577
-
-#EXTINF:-1 tvg-id="alpineskiingwomenslalomrun2" tvg-name="Alpine Ski | Alpine skiing Women | Slalom | Run 2 (14:00)" tvg-logo="https://static.flashscore.com/res/image/data/Yo1soYkd-C254YAUP.png" group-title="Eventi Live DLHD",Alpine Ski | Alpine skiing Women | Slalom | Run 2 (14:00)
-https://dlhd.dad/watch.php?id=878
-
 #EXTINF:-1 tvg-id="women4x6kmrelaycompetitionolympicgames" tvg-name="Biathlon | Women 4x6 km Relay Competition | Olympic Games (15:15)" tvg-logo="https://cdn-icons-png.flaticon.com/512/28/28650.png" group-title="Eventi Live DLHD",Biathlon | Women 4x6 km Relay Competition | Olympic Games (15:15)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="uaetourstage3menmadinatzayedmajlisliwapalace144km" tvg-name="Cycling | UAE Tour | Stage 3 Men | Madinat Zayed Majlis - Liwa Palace (144km) (13:30)" tvg-logo="https://files.onlycycling.com/onlycycling-files/media/CACHE/images/logos/2025/uae-tour/1ff992ecb7f17342c5df9e0368b5f72d.png" group-title="Eventi Live DLHD",Cycling | UAE Tour | Stage 3 Men | Madinat Zayed Majlis - Liwa Palace (144km) (13:30)
-https://dlhd.dad/watch.php?id=879
-
 #EXTINF:-1 tvg-id="voltaaoalgarvestage1menvilarealdesantoantóniotavira1856km" tvg-name="Cycling | Volta ao Algarve | Stage 1 Men | Vila Real de Santo António - Tavira (185.6km) (17:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | Volta ao Algarve | Stage 1 Men | Vila Real de Santo António - Tavira (185.6km) (17:00)
-https://dlhd.dad/watch.php?id=879
-
-#EXTINF:-1 tvg-id="olympicgamesslovakiavsgermany" tvg-name="Olympics Ice Hockey | Olympic Games : Slovakia vs Germany (13:10)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Slovakia_vs_Germany.png" group-title="Eventi Live DLHD",Olympics Ice Hockey | Olympic Games : Slovakia vs Germany (13:10)
-https://dlhd.dad/watch.php?id=882
-
-#EXTINF:-1 tvg-id="olympicgamesslovakiavsgermany" tvg-name="Olympics Ice Hockey | Olympic Games : Slovakia vs Germany (13:10)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Slovakia_vs_Germany.png" group-title="Eventi Live DLHD",Olympics Ice Hockey | Olympic Games : Slovakia vs Germany (13:10)
 https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="olympicgamescanadavsczechrepublic" tvg-name="Olympics Ice Hockey | Olympic Games : Canada vs Czech Republic (17:40)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Canada_vs_Czech Republic.png" group-title="Eventi Live DLHD",Olympics Ice Hockey | Olympic Games : Canada vs Czech Republic (17:40)

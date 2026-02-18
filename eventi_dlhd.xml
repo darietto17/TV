@@ -108,32 +108,6 @@
     <desc lang="it">Europe - UEFA Champions League : Olympiakos Piraeus vs Bayer Leverkusen</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="Women4x6kmRelayCompetitionOlympicGames">
-    <display-name>Women 4x6 km Relay Competition | Olympic Games</display-name>
-  </channel>
-  <programme start="20260218000000 +0200" stop="20260218151500 +0200" channel="Women4x6kmRelayCompetitionOlympicGames">
-    <title lang="it">Inizia alle 15:15.</title>
-    <desc lang="it">Women 4x6 km Relay Competition | Olympic Games.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260218151500 +0200" stop="20260218171500 +0200" channel="Women4x6kmRelayCompetitionOlympicGames">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Women 4x6 km Relay Competition | Olympic Games</desc>
-    <category lang="it">Biathlon</category>
-  </programme>
-  <channel id="VoltaaoAlgarveStage1MenVilaRealdeSantoAntnioTavira1856km">
-    <display-name>Volta ao Algarve | Stage 1 Men | Vila Real de Santo António - Tavira (185.6km)</display-name>
-  </channel>
-  <programme start="20260218000000 +0200" stop="20260218170000 +0200" channel="VoltaaoAlgarveStage1MenVilaRealdeSantoAntnioTavira1856km">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">Volta ao Algarve | Stage 1 Men | Vila Real de Santo António - Tavira (185.6km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260218170000 +0200" stop="20260218190000 +0200" channel="VoltaaoAlgarveStage1MenVilaRealdeSantoAntnioTavira1856km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Volta ao Algarve | Stage 1 Men | Vila Real de Santo António - Tavira (185.6km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
   <channel id="OlympicGamesCanadavsCzechRepublic">
     <display-name>Olympic Games : Canada vs Czech Republic</display-name>
   </channel>
