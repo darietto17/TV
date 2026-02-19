@@ -167,19 +167,6 @@
     <desc lang="it">UEFA Conference League : Jagiellonia Białystok vs Fiorentina</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="F12026seasonPreSeasonTesting">
-    <display-name>F1 2026 season Pre-Season Testing</display-name>
-  </channel>
-  <programme start="20260219000000 +0200" stop="20260219140000 +0200" channel="F12026seasonPreSeasonTesting">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">F1 2026 season Pre-Season Testing.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260219140000 +0200" stop="20260219160000 +0200" channel="F12026seasonPreSeasonTesting">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">F1 2026 season Pre-Season Testing</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="ThePlayersChampionshipQuarterfinals">
     <display-name>The Players Championship Quarter finals</display-name>
   </channel>
@@ -215,32 +202,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Hauts-de-France Pas-de-Calais Trophy Meeting - World Athletics Indoor Tour</desc>
     <category lang="it">Athletics</category>
-  </programme>
-  <channel id="SkiMountaineeringMenandWomenSprintFinal">
-    <display-name>Ski Mountaineering Men and Women | Sprint | Final</display-name>
-  </channel>
-  <programme start="20260219000000 +0200" stop="20260219134500 +0200" channel="SkiMountaineeringMenandWomenSprintFinal">
-    <title lang="it">Inizia alle 13:45.</title>
-    <desc lang="it">Ski Mountaineering Men and Women | Sprint | Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260219134500 +0200" stop="20260219154500 +0200" channel="SkiMountaineeringMenandWomenSprintFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Ski Mountaineering Men and Women | Sprint | Final</desc>
-    <category lang="it">Cross Country</category>
-  </programme>
-  <channel id="UAETourStage4MenFujairah182km">
-    <display-name>UAE Tour | Stage 4 Men | Fujairah (182km)</display-name>
-  </channel>
-  <programme start="20260219000000 +0200" stop="20260219133000 +0200" channel="UAETourStage4MenFujairah182km">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">UAE Tour | Stage 4 Men | Fujairah (182km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260219133000 +0200" stop="20260219153000 +0200" channel="UAETourStage4MenFujairah182km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UAE Tour | Stage 4 Men | Fujairah (182km)</desc>
-    <category lang="it">Cycling</category>
   </programme>
   <channel id="TourofAndalusiaStage2MenTorroxOtura1388km">
     <display-name>Tour of Andalusia | Stage 2 Men | Torrox - Otura (138.8km)</display-name>
