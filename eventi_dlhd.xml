@@ -170,17 +170,7 @@
   <channel id="ThePlayersChampionshipQuarterfinals">
     <display-name>The Players Championship Quarter finals</display-name>
   </channel>
-  <programme start="20260219000000 +0200" stop="20260219150000 +0200" channel="ThePlayersChampionshipQuarterfinals">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">The Players Championship Quarter finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260219150000 +0200" stop="20260219170000 +0200" channel="ThePlayersChampionshipQuarterfinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">The Players Championship Quarter finals</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20260219170000 +0200" stop="20260219210000 +0200" channel="ThePlayersChampionshipQuarterfinals">
+  <programme start="20260219000000 +0200" stop="20260219210000 +0200" channel="ThePlayersChampionshipQuarterfinals">
     <title lang="it">Inizia alle 21:00.</title>
     <desc lang="it">The Players Championship Quarter finals.</desc>
     <category lang="it">Annuncio</category>
@@ -202,42 +192,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Hauts-de-France Pas-de-Calais Trophy Meeting - World Athletics Indoor Tour</desc>
     <category lang="it">Athletics</category>
-  </programme>
-  <channel id="TourofAndalusiaStage2MenTorroxOtura1388km">
-    <display-name>Tour of Andalusia | Stage 2 Men | Torrox - Otura (138.8km)</display-name>
-  </channel>
-  <programme start="20260219000000 +0200" stop="20260219150000 +0200" channel="TourofAndalusiaStage2MenTorroxOtura1388km">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">Tour of Andalusia | Stage 2 Men | Torrox - Otura (138.8km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260219150000 +0200" stop="20260219170000 +0200" channel="TourofAndalusiaStage2MenTorroxOtura1388km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Andalusia | Stage 2 Men | Torrox - Otura (138.8km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <channel id="OlympicGamesWomenSwitzerlandWvsSwedenW">
-    <display-name>Olympic Games Women : Switzerland W vs Sweden W</display-name>
-  </channel>
-  <programme start="20260219000000 +0200" stop="20260219154000 +0200" channel="OlympicGamesWomenSwitzerlandWvsSwedenW">
-    <title lang="it">Inizia alle 15:40.</title>
-    <desc lang="it">Olympic Games Women : Switzerland W vs Sweden W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260219154000 +0200" stop="20260219174000 +0200" channel="OlympicGamesWomenSwitzerlandWvsSwedenW">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Olympic Games Women : Switzerland W vs Sweden W</desc>
-    <category lang="it">Olympics Ice Hockey</category>
-  </programme>
-  <programme start="20260219000000 +0200" stop="20260219154000 +0200" channel="OlympicGamesWomenSwitzerlandWvsSwedenW">
-    <title lang="it">Inizia alle 15:40.</title>
-    <desc lang="it">Olympic Games Women : Switzerland W vs Sweden W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260219154000 +0200" stop="20260219174000 +0200" channel="OlympicGamesWomenSwitzerlandWvsSwedenW">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Olympic Games Women : Switzerland W vs Sweden W</desc>
-    <category lang="it">Olympics Ice Hockey</category>
   </programme>
   <channel id="OlympicGamesWomenUSAWvsCanadaW">
     <display-name>Olympic Games Women : USA W vs Canada W</display-name>
