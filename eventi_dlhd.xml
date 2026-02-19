@@ -216,19 +216,6 @@
     <desc lang="it">Olympic Games Women : USA W vs Canada W</desc>
     <category lang="it">Olympics Ice Hockey</category>
   </programme>
-  <channel id="SpeedSkatingMen1500m">
-    <display-name>Speed Skating Men | 1500m</display-name>
-  </channel>
-  <programme start="20260219000000 +0200" stop="20260219171500 +0200" channel="SpeedSkatingMen1500m">
-    <title lang="it">Inizia alle 17:15.</title>
-    <desc lang="it">Speed Skating Men | 1500m.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260219171500 +0200" stop="20260219191500 +0200" channel="SpeedSkatingMen1500m">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Speed Skating Men | 1500m</desc>
-    <category lang="it">Ice Skating</category>
-  </programme>
   <channel id="FigureSkatingWomenFreeSkate">
     <display-name>Figure Skating Women | Free Skate</display-name>
   </channel>
