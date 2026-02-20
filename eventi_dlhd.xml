@@ -52,19 +52,6 @@
     <desc lang="it">Italy - Serie A : Sassuolo vs Verona</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="BobsleighWomen2womanHeat1">
-    <display-name>Bobsleigh Women | 2-woman | Heat 1</display-name>
-  </channel>
-  <programme start="20260220000000 +0200" stop="20260220190000 +0200" channel="BobsleighWomen2womanHeat1">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">Bobsleigh Women | 2-woman | Heat 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260220190000 +0200" stop="20260220210000 +0200" channel="BobsleighWomen2womanHeat1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Bobsleigh Women | 2-woman | Heat 1</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
   <channel id="OlympicGamesUSAvsSlovakia">
     <display-name>Olympic Games : USA vs Slovakia</display-name>
   </channel>
@@ -100,18 +87,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Short track Day 6 | Women's 1500m &amp; Men's Team Pursuit Finals</desc>
     <category lang="it">Ice Skating</category>
-  </programme>
-  <channel id="FreestyleSkiingMenHalfPipeFinal">
-    <display-name>Freestyle Skiing Men | Half Pipe | Final</display-name>
-  </channel>
-  <programme start="20260220000000 +0200" stop="20260220201500 +0200" channel="FreestyleSkiingMenHalfPipeFinal">
-    <title lang="it">Inizia alle 20:15.</title>
-    <desc lang="it">Freestyle Skiing Men | Half Pipe | Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260220201500 +0200" stop="20260220221500 +0200" channel="FreestyleSkiingMenHalfPipeFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Freestyle Skiing Men | Half Pipe | Final</desc>
-    <category lang="it">Winter Sports</category>
   </programme>
 </tv>
