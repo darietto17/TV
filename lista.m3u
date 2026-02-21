@@ -156,8 +156,6 @@ https://vavoo.to/vavoo-iptv/play/4137427510ef362e6435fc
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",CUSANO NEWS7
 https://vavoo.to/vavoo-iptv/play/861948627bb3b2465ad5a
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",DAZN (MATCH TIME)
-https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
 #EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV (1)
@@ -327,8 +325,10 @@ https://vavoo.to/vavoo-iptv/play/14256673753de6371f2c50
 #EXTINF:-1 tvg-id="la.5.it" tvg-name="LA 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="Altro",LA 5 (MPD)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7
+#EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7 (1)
 https://vavoo.to/vavoo-iptv/play/2143522071cfa887e2feb3
+#EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7 (2)
+https://vavoo.to/vavoo-iptv/play/7755300630832713e7adb
 #EXTINF:-1 tvg-id="la7d.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7d-it.png" group-title="Altro",LA 7 D
 https://vavoo.to/vavoo-iptv/play/881846038948178d71a68
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",LA C ONAIR
@@ -375,6 +375,8 @@ https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
 https://vavoo.to/vavoo-iptv/play/3889279895a867a5410d74
 #EXTINF:-1 tvg-id="mtv.hd.it" tvg-logo="" group-title="Musica",MTV
 https://vavoo.to/vavoo-iptv/play/3212860676dcc8c28a2be1
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/mtv-hits-rs.png?raw=true" group-title="Musica",MTV HITS
+https://vavoo.to/vavoo-iptv/play/3446813098b031eef6dc22
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (1)
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (2)
@@ -621,8 +623,6 @@ https://vavoo.to/vavoo-iptv/play/3799362189218b541a9c76
 https://vavoo.to/vavoo-iptv/play/179187969291f776663d1e
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rtv-san-marino-it.png" group-title="Altro",RTV SAN MARINO
 https://vavoo.to/vavoo-iptv/play/2343767125eb4977361e91
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/internationaltelevision/images/7/79/San_Marino_RTV_Sport_-_logo.png/revision/latest?cb=20221207153729" group-title="Sport",RTV SAN MARINO SPORT
-https://vavoo.to/vavoo-iptv/play/11138532639c972f8c712f
 #EXTINF:-1 tvg-id="san.marino.rtv.it" tvg-logo="" group-title="Altro",SAN MARINO RTV
 https://vavoo.to/vavoo-iptv/play/968665235fe574bf09dcb
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/senato-tv-it.png?raw=true" group-title="Altro",SENATO TV (1)
@@ -645,9 +645,7 @@ https://vavoo.to/vavoo-iptv/play/11441287266db50fc09b62
 https://vavoo.to/vavoo-iptv/play/2242741766a460e21385e6
 #EXTINF:-1 tvg-id="sky.cinema.action.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-action-it.png" group-title="Film - Serie TV",SKY CINEMA ACTION (D)
 https://dlhd.dad/watch.php?id=861
-#EXTINF:-1 tvg-id="sky.cinema.collection.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film - Serie TV",SKY CINEMA COLLECTION (1)
-https://vavoo.to/vavoo-iptv/play/1759653413f7025450e6b1
-#EXTINF:-1 tvg-id="sky.cinema.collection.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film - Serie TV",SKY CINEMA COLLECTION (2)
+#EXTINF:-1 tvg-id="sky.cinema.collection.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film - Serie TV",SKY CINEMA COLLECTION
 https://vavoo.to/vavoo-iptv/play/352583705711c4cbe44bbb
 #EXTINF:-1 tvg-id="sky.cinema.collection.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film - Serie TV",SKY CINEMA COLLECTION (D)
 https://dlhd.dad/watch.php?id=859
@@ -1092,7 +1090,7 @@ https://dlhd.dad/watch.php?id=618
 #EXTINF:-1 tvg-id="italyseriecravennavssambenedettese" tvg-name="All Soccer Events | Italy - Serie C : Ravenna vs Sambenedettese (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ravenna_vs_Sambenedettese.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Ravenna vs Sambenedettese (18:30)
 https://dlhd.dad/watch.php?id=27
 
-#EXTINF:-1 tvg-id="italyserieccasertanavspicerno" tvg-name="All Soccer Events | Italy - Serie C : Casertana vs Picerno (18:30)" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Casertana vs Picerno (18:30)
+#EXTINF:-1 tvg-id="italyserieccasertanavspicerno" tvg-name="All Soccer Events | Italy - Serie C : Casertana vs Picerno (18:30)" tvg-logo="https://www.fcsorrento.com/wp-content/uploads/2023/08/Logo-Picerno.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Casertana vs Picerno (18:30)
 https://dlhd.dad/watch.php?id=616
 
 #EXTINF:-1 tvg-id="italyseriecrenatevsinterii" tvg-name="All Soccer Events | Italy - Serie C : Renate vs Inter II (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Renate_vs_Inter II.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Renate vs Inter II (18:30)
@@ -1113,9 +1111,6 @@ https://dlhd.dad/watch.php?id=27
 #EXTINF:-1 tvg-id="italyserieacagliarivslazio" tvg-name="All Soccer Events | Italy - Serie A : Cagliari vs Lazio (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cagliari_vs_Lazio.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Cagliari vs Lazio (21:45)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="bobsleighmen4manheat1" tvg-name="Alpine Ski | Bobsleigh Men | 4-man | Heat 1 (11:00)" tvg-logo="https://cdn.tip4serv.com/shop/ALL_STORES/12163/templates/murga/assets/images/eccc06170542ec273f645f2b4a8a5669.png" group-title="Eventi Live DLHD",Alpine Ski | Bobsleigh Men | 4-man | Heat 1 (11:00)
-https://dlhd.dad/watch.php?id=879
-
 #EXTINF:-1 tvg-id="bobsleighmen4manheat2" tvg-name="Alpine Ski | Bobsleigh Men | 4-man | Heat 2 (13:00)" tvg-logo="https://cdn.tip4serv.com/shop/ALL_STORES/12163/templates/murga/assets/images/eccc06170542ec273f645f2b4a8a5669.png" group-title="Eventi Live DLHD",Alpine Ski | Bobsleigh Men | 4-man | Heat 2 (13:00)
 https://dlhd.dad/watch.php?id=878
 
@@ -1126,9 +1121,6 @@ https://dlhd.dad/watch.php?id=878
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="women125kmmassstartcompetitionolympicgames" tvg-name="Biathlon | Women 12.5 km Mass Start Competition | Olympic Games (14:45)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Biathlon | Women 12.5 km Mass Start Competition | Olympic Games (14:45)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="crosscountryskiingmenmassstartclassic50km" tvg-name="Cross Country | Cross-country Skiing Men | Mass Start Classic 50km (11:45)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cross Country | Cross-country Skiing Men | Mass Start Classic 50km (11:45)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="crosscountryskiingmenmassstartclassic50km" tvg-name="Cross Country | Cross-country Skiing Men | Mass Start Classic 50km (14:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cross Country | Cross-country Skiing Men | Mass Start Classic 50km (14:30)
@@ -1157,12 +1149,6 @@ https://dlhd.dad/watch.php?id=462
 
 #EXTINF:-1 tvg-id="sixnationsu20franceu20vsitalyu20" tvg-name="Rugby Union | Six Nations U20 : France U20 vs Italy U20 (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/France U20_vs_Italy U20.png" group-title="Eventi Live DLHD",Rugby Union | Six Nations U20 : France U20 vs Italy U20 (22:00)
 https://dlhd.dad/watch.php?id=462
-
-#EXTINF:-1 tvg-id="bobsleighmen4manheat1" tvg-name="Winter Sports | Bobsleigh Men | 4-man | Heat 1 (11:00)" tvg-logo="https://cdn.tip4serv.com/shop/ALL_STORES/12163/templates/murga/assets/images/eccc06170542ec273f645f2b4a8a5669.png" group-title="Eventi Live DLHD",Winter Sports | Bobsleigh Men | 4-man | Heat 1 (11:00)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="freestyleskiingmixedteamaerialsfinal" tvg-name="Winter Sports | Freestyle Skiing Mixed | Team Aerials | Final (11:40)" tvg-logo="https://allentowndrive.com/Images/Logo.png" group-title="Eventi Live DLHD",Winter Sports | Freestyle Skiing Mixed | Team Aerials | Final (11:40)
-https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="bobsleighmen4manheat2" tvg-name="Winter Sports | Bobsleigh Men | 4-man | Heat 2 (13:00)" tvg-logo="https://cdn.tip4serv.com/shop/ALL_STORES/12163/templates/murga/assets/images/eccc06170542ec273f645f2b4a8a5669.png" group-title="Eventi Live DLHD",Winter Sports | Bobsleigh Men | 4-man | Heat 2 (13:00)
 https://dlhd.dad/watch.php?id=878
