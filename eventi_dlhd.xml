@@ -23,45 +23,6 @@
     <desc lang="it">Winter Olympics 2026 Live Stream</desc>
     <category lang="it">Winter Olympics 2026</category>
   </programme>
-  <channel id="ItalySerieALeccevsInternazionale">
-    <display-name>Italy - Serie A : Lecce vs Internazionale</display-name>
-  </channel>
-  <programme start="20260221000000 +0200" stop="20260221190000 +0200" channel="ItalySerieALeccevsInternazionale">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Internazionale.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260221190000 +0200" stop="20260221210000 +0200" channel="ItalySerieALeccevsInternazionale">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Lecce vs Internazionale</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="GermanyBundesligaRBLeipzigvsBorussiaDortmund">
-    <display-name>Germany - Bundesliga : RB Leipzig vs Borussia Dortmund</display-name>
-  </channel>
-  <programme start="20260221000000 +0200" stop="20260221193000 +0200" channel="GermanyBundesligaRBLeipzigvsBorussiaDortmund">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">Germany - Bundesliga : RB Leipzig vs Borussia Dortmund.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260221193000 +0200" stop="20260221213000 +0200" channel="GermanyBundesligaRBLeipzigvsBorussiaDortmund">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga : RB Leipzig vs Borussia Dortmund</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="EnglandPremierLeagueWestHamUnitedvsAFCBournemouth">
-    <display-name>England - Premier League : West Ham United vs AFC Bournemouth</display-name>
-  </channel>
-  <programme start="20260221000000 +0200" stop="20260221193000 +0200" channel="EnglandPremierLeagueWestHamUnitedvsAFCBournemouth">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">England - Premier League : West Ham United vs AFC Bournemouth.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260221193000 +0200" stop="20260221213000 +0200" channel="EnglandPremierLeagueWestHamUnitedvsAFCBournemouth">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : West Ham United vs AFC Bournemouth</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalySerieACagliarivsLazio">
     <display-name>Italy - Serie A : Cagliari vs Lazio</display-name>
   </channel>
@@ -84,19 +45,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Serie A : Cagliari vs Lazio</desc>
     <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="BobsleighWomen2womanHeat3">
-    <display-name>Bobsleigh Women | 2-woman | Heat 3</display-name>
-  </channel>
-  <programme start="20260221000000 +0200" stop="20260221194500 +0200" channel="BobsleighWomen2womanHeat3">
-    <title lang="it">Inizia alle 19:45.</title>
-    <desc lang="it">Bobsleigh Women | 2-woman | Heat 3.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260221194500 +0200" stop="20260221214500 +0200" channel="BobsleighWomen2womanHeat3">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Bobsleigh Women | 2-woman | Heat 3</desc>
-    <category lang="it">Alpine Ski</category>
   </programme>
   <channel id="BobsleighWomen2womanHeat4">
     <display-name>Bobsleigh Women | 2-woman | Heat 4</display-name>
@@ -133,19 +81,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Olympic Games : Men | Bronze Medal : Slovakia vs Finland</desc>
     <category lang="it">Olympic Ice Hockey</category>
-  </programme>
-  <channel id="SixNationsWalesvsScotland">
-    <display-name>Six Nations : Wales vs Scotland</display-name>
-  </channel>
-  <programme start="20260221000000 +0200" stop="20260221184000 +0200" channel="SixNationsWalesvsScotland">
-    <title lang="it">Inizia alle 18:40.</title>
-    <desc lang="it">Six Nations : Wales vs Scotland.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260221184000 +0200" stop="20260221204000 +0200" channel="SixNationsWalesvsScotland">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Six Nations : Wales vs Scotland</desc>
-    <category lang="it">Rugby Union</category>
   </programme>
   <channel id="SixNationsU20FranceU20vsItalyU20">
     <display-name>Six Nations U20 : France U20 vs Italy U20</display-name>
