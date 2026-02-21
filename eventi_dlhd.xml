@@ -1,82 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="EnglandPremierLeagueChelseavsBurnley">
-    <display-name>England - Premier League : Chelsea vs Burnley</display-name>
+  <channel id="WinterOlympics2026LiveStream">
+    <display-name>Winter Olympics 2026 Live Stream</display-name>
   </channel>
-  <programme start="20260221000000 +0200" stop="20260221170000 +0200" channel="EnglandPremierLeagueChelseavsBurnley">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">England - Premier League : Chelsea vs Burnley.</desc>
+  <programme start="20260221000000 +0200" stop="20260221203500 +0200" channel="WinterOlympics2026LiveStream">
+    <title lang="it">Inizia alle 20:35.</title>
+    <desc lang="it">Winter Olympics 2026 Live Stream.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260221170000 +0200" stop="20260221190000 +0200" channel="EnglandPremierLeagueChelseavsBurnley">
+  <programme start="20260221203500 +0200" stop="20260221223500 +0200" channel="WinterOlympics2026LiveStream">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Chelsea vs Burnley</desc>
-    <category lang="it">All Soccer Events</category>
+    <desc lang="it">Winter Olympics 2026 Live Stream</desc>
+    <category lang="it">Winter Olympics 2026</category>
   </programme>
-  <channel id="ItalySerieCAlcionevsPergolettese">
-    <display-name>Italy - Serie C : Alcione vs Pergolettese</display-name>
-  </channel>
-  <programme start="20260221000000 +0200" stop="20260221183000 +0200" channel="ItalySerieCAlcionevsPergolettese">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Italy - Serie C : Alcione vs Pergolettese.</desc>
+  <programme start="20260221000000 +0200" stop="20260221203500 +0200" channel="WinterOlympics2026LiveStream">
+    <title lang="it">Inizia alle 20:35.</title>
+    <desc lang="it">Winter Olympics 2026 Live Stream.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260221183000 +0200" stop="20260221203000 +0200" channel="ItalySerieCAlcionevsPergolettese">
+  <programme start="20260221203500 +0200" stop="20260221223500 +0200" channel="WinterOlympics2026LiveStream">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Alcione vs Pergolettese</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCTriestinavsCittadella">
-    <display-name>Italy - Serie C : Triestina vs Cittadella</display-name>
-  </channel>
-  <programme start="20260221000000 +0200" stop="20260221183000 +0200" channel="ItalySerieCTriestinavsCittadella">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Italy - Serie C : Triestina vs Cittadella.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260221183000 +0200" stop="20260221203000 +0200" channel="ItalySerieCTriestinavsCittadella">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Triestina vs Cittadella</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCRavennavsSambenedettese">
-    <display-name>Italy - Serie C : Ravenna vs Sambenedettese</display-name>
-  </channel>
-  <programme start="20260221000000 +0200" stop="20260221183000 +0200" channel="ItalySerieCRavennavsSambenedettese">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Italy - Serie C : Ravenna vs Sambenedettese.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260221183000 +0200" stop="20260221203000 +0200" channel="ItalySerieCRavennavsSambenedettese">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Ravenna vs Sambenedettese</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCCasertanavsPicerno">
-    <display-name>Italy - Serie C : Casertana vs Picerno</display-name>
-  </channel>
-  <programme start="20260221000000 +0200" stop="20260221183000 +0200" channel="ItalySerieCCasertanavsPicerno">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Italy - Serie C : Casertana vs Picerno.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260221183000 +0200" stop="20260221203000 +0200" channel="ItalySerieCCasertanavsPicerno">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Casertana vs Picerno</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCRenatevsInterII">
-    <display-name>Italy - Serie C : Renate vs Inter II</display-name>
-  </channel>
-  <programme start="20260221000000 +0200" stop="20260221183000 +0200" channel="ItalySerieCRenatevsInterII">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Italy - Serie C : Renate vs Inter II.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260221183000 +0200" stop="20260221203000 +0200" channel="ItalySerieCRenatevsInterII">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Renate vs Inter II</desc>
-    <category lang="it">All Soccer Events</category>
+    <desc lang="it">Winter Olympics 2026 Live Stream</desc>
+    <category lang="it">Winter Olympics 2026</category>
   </programme>
   <channel id="ItalySerieALeccevsInternazionale">
     <display-name>Italy - Serie A : Lecce vs Internazionale</display-name>
