@@ -1,28 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="WinterOlympics2026LiveStream">
-    <display-name>Winter Olympics 2026 Live Stream</display-name>
-  </channel>
-  <programme start="20260222000000 +0200" stop="20260222103800 +0200" channel="WinterOlympics2026LiveStream">
-    <title lang="it">Inizia alle 10:38.</title>
-    <desc lang="it">Winter Olympics 2026 Live Stream.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260222103800 +0200" stop="20260222123800 +0200" channel="WinterOlympics2026LiveStream">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Winter Olympics 2026 Live Stream</desc>
-    <category lang="it">Winter Olympics 2026</category>
-  </programme>
-  <programme start="20260222000000 +0200" stop="20260222103800 +0200" channel="WinterOlympics2026LiveStream">
-    <title lang="it">Inizia alle 10:38.</title>
-    <desc lang="it">Winter Olympics 2026 Live Stream.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260222103800 +0200" stop="20260222123800 +0200" channel="WinterOlympics2026LiveStream">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Winter Olympics 2026 Live Stream</desc>
-    <category lang="it">Winter Olympics 2026</category>
-  </programme>
   <channel id="ItalySerieCCampobassovsJuventusII">
     <display-name>Italy - Serie C : Campobasso vs Juventus II</display-name>
   </channel>
@@ -400,19 +377,6 @@
     <desc lang="it">Live Players Championship - Telford International Centre in Telford, England</desc>
     <category lang="it">Snooker</category>
   </programme>
-  <channel id="BobsleighMen4manHeat3">
-    <display-name>Bobsleigh Men | 4-man | Heat 3</display-name>
-  </channel>
-  <programme start="20260222000000 +0200" stop="20260222110000 +0200" channel="BobsleighMen4manHeat3">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">Bobsleigh Men | 4-man | Heat 3.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260222110000 +0200" stop="20260222130000 +0200" channel="BobsleighMen4manHeat3">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Bobsleigh Men | 4-man | Heat 3</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
   <channel id="BobsleighMen4manHeat4">
     <display-name>Bobsleigh Men | 4-man | Heat 4</display-name>
   </channel>
@@ -425,19 +389,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Bobsleigh Men | 4-man | Heat 4</desc>
     <category lang="it">Alpine Ski</category>
-  </programme>
-  <channel id="CrosscountrySkiingWomenMassStartClassic50km">
-    <display-name>Cross-country Skiing Women | Mass Start Classic 50km</display-name>
-  </channel>
-  <programme start="20260222000000 +0200" stop="20260222104500 +0200" channel="CrosscountrySkiingWomenMassStartClassic50km">
-    <title lang="it">Inizia alle 10:45.</title>
-    <desc lang="it">Cross-country Skiing Women | Mass Start Classic 50km.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260222104500 +0200" stop="20260222124500 +0200" channel="CrosscountrySkiingWomenMassStartClassic50km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Cross-country Skiing Women | Mass Start Classic 50km</desc>
-    <category lang="it">Cross Country</category>
   </programme>
   <channel id="VoltaaoAlgarveStage5MenFaroMalho1531km">
     <display-name>Volta ao Algarve | Stage 5 Men | Faro – Malh?o (153.1km)</display-name>
@@ -500,16 +451,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Serie A1 : Piacenza vs Trentino</desc>
     <category lang="it">Volleyball</category>
-  </programme>
-  <programme start="20260222000000 +0200" stop="20260222110000 +0200" channel="BobsleighMen4manHeat3">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">Bobsleigh Men | 4-man | Heat 3.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260222110000 +0200" stop="20260222130000 +0200" channel="BobsleighMen4manHeat3">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Bobsleigh Men | 4-man | Heat 3</desc>
-    <category lang="it">Winter Sports</category>
   </programme>
   <programme start="20260222000000 +0200" stop="20260222130000 +0200" channel="BobsleighMen4manHeat4">
     <title lang="it">Inizia alle 13:00.</title>
