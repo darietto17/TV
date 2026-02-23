@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieAFiorentinavsPisa">
-    <display-name>Italy - Serie A : Fiorentina vs Pisa</display-name>
-  </channel>
-  <programme start="20260223000000 +0200" stop="20260223193000 +0200" channel="ItalySerieAFiorentinavsPisa">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">Italy - Serie A : Fiorentina vs Pisa.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260223193000 +0200" stop="20260223213000 +0200" channel="ItalySerieAFiorentinavsPisa">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Fiorentina vs Pisa</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalySerieCVirtusVeronavsVicenza">
     <display-name>Italy - Serie C : Virtus Verona vs Vicenza</display-name>
   </channel>
