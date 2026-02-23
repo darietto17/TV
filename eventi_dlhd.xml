@@ -1,108 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieCVirtusVeronavsVicenza">
-    <display-name>Italy - Serie C : Virtus Verona vs Vicenza</display-name>
+  <channel id="UEFAChampionsLeagueBayerLeverkusenvsOlympiakosPiraeus">
+    <display-name>UEFA Champions League : Bayer Leverkusen vs Olympiakos Piraeus</display-name>
   </channel>
-  <programme start="20260223000000 +0200" stop="20260223213000 +0200" channel="ItalySerieCVirtusVeronavsVicenza">
-    <title lang="it">Inizia alle 21:30.</title>
-    <desc lang="it">Italy - Serie C : Virtus Verona vs Vicenza.</desc>
+  <programme start="20260224000000 +0200" stop="20260224220000 +0200" channel="UEFAChampionsLeagueBayerLeverkusenvsOlympiakosPiraeus">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">UEFA Champions League : Bayer Leverkusen vs Olympiakos Piraeus.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260223213000 +0200" stop="20260223233000 +0200" channel="ItalySerieCVirtusVeronavsVicenza">
+  <programme start="20260224220000 +0200" stop="20260225000000 +0200" channel="UEFAChampionsLeagueBayerLeverkusenvsOlympiakosPiraeus">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Virtus Verona vs Vicenza</desc>
-    <category lang="it">All Soccer Events</category>
+    <desc lang="it">UEFA Champions League : Bayer Leverkusen vs Olympiakos Piraeus</desc>
+    <category lang="it">Soccer</category>
   </programme>
-  <programme start="20260223000000 +0200" stop="20260223213000 +0200" channel="ItalySerieCVirtusVeronavsVicenza">
-    <title lang="it">Inizia alle 21:30.</title>
-    <desc lang="it">Italy - Serie C : Virtus Verona vs Vicenza.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260223213000 +0200" stop="20260223233000 +0200" channel="ItalySerieCVirtusVeronavsVicenza">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Virtus Verona vs Vicenza</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260223000000 +0200" stop="20260223213000 +0200" channel="ItalySerieCVirtusVeronavsVicenza">
-    <title lang="it">Inizia alle 21:30.</title>
-    <desc lang="it">Italy - Serie C : Virtus Verona vs Vicenza.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260223213000 +0200" stop="20260223233000 +0200" channel="ItalySerieCVirtusVeronavsVicenza">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Virtus Verona vs Vicenza</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCTernanavsForl">
-    <display-name>Italy - Serie C : Ternana vs Forlì</display-name>
+  <channel id="UEFAChampionsLeagueInternazionalevsBodGlimt">
+    <display-name>UEFA Champions League : Internazionale vs Bodø / Glimt</display-name>
   </channel>
-  <programme start="20260223000000 +0200" stop="20260223213000 +0200" channel="ItalySerieCTernanavsForl">
-    <title lang="it">Inizia alle 21:30.</title>
-    <desc lang="it">Italy - Serie C : Ternana vs Forlì.</desc>
+  <programme start="20260224000000 +0200" stop="20260224220000 +0200" channel="UEFAChampionsLeagueInternazionalevsBodGlimt">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">UEFA Champions League : Internazionale vs Bodø / Glimt.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260223213000 +0200" stop="20260223233000 +0200" channel="ItalySerieCTernanavsForl">
+  <programme start="20260224220000 +0200" stop="20260225000000 +0200" channel="UEFAChampionsLeagueInternazionalevsBodGlimt">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Ternana vs Forlì</desc>
-    <category lang="it">All Soccer Events</category>
+    <desc lang="it">UEFA Champions League : Internazionale vs Bodø / Glimt</desc>
+    <category lang="it">Soccer</category>
   </programme>
-  <programme start="20260223000000 +0200" stop="20260223213000 +0200" channel="ItalySerieCTernanavsForl">
-    <title lang="it">Inizia alle 21:30.</title>
-    <desc lang="it">Italy - Serie C : Ternana vs Forlì.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260223213000 +0200" stop="20260223233000 +0200" channel="ItalySerieCTernanavsForl">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Ternana vs Forlì</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieABolognavsUdinese">
-    <display-name>Italy - Serie A : Bologna vs Udinese</display-name>
+  <channel id="UEFAChampionsLeagueNewcastleUnitedvsQaraba">
+    <display-name>UEFA Champions League : Newcastle United vs Qarabağ</display-name>
   </channel>
-  <programme start="20260223000000 +0200" stop="20260223214500 +0200" channel="ItalySerieABolognavsUdinese">
-    <title lang="it">Inizia alle 21:45.</title>
-    <desc lang="it">Italy - Serie A : Bologna vs Udinese.</desc>
+  <programme start="20260224000000 +0200" stop="20260224220000 +0200" channel="UEFAChampionsLeagueNewcastleUnitedvsQaraba">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">UEFA Champions League : Newcastle United vs Qarabağ.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260223214500 +0200" stop="20260223234500 +0200" channel="ItalySerieABolognavsUdinese">
+  <programme start="20260224220000 +0200" stop="20260225000000 +0200" channel="UEFAChampionsLeagueNewcastleUnitedvsQaraba">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Bologna vs Udinese</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260223000000 +0200" stop="20260223214500 +0200" channel="ItalySerieABolognavsUdinese">
-    <title lang="it">Inizia alle 21:45.</title>
-    <desc lang="it">Italy - Serie A : Bologna vs Udinese.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260223214500 +0200" stop="20260223234500 +0200" channel="ItalySerieABolognavsUdinese">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Bologna vs Udinese</desc>
-    <category lang="it">All Soccer Events</category>
+    <desc lang="it">UEFA Champions League : Newcastle United vs Qarabağ</desc>
+    <category lang="it">Soccer</category>
   </programme>
   <channel id="AcapulcoATPDubaiATPAustinWTASantiagoATPampMeridaWTAEarlyRounds">
     <display-name>Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds</display-name>
   </channel>
-  <programme start="20260224000000 +0200" stop="20260224010000 +0200" channel="AcapulcoATPDubaiATPAustinWTASantiagoATPampMeridaWTAEarlyRounds">
+  <programme start="20260225000000 +0200" stop="20260225010000 +0200" channel="AcapulcoATPDubaiATPAustinWTASantiagoATPampMeridaWTAEarlyRounds">
     <title lang="it">Inizia alle 01:00.</title>
     <desc lang="it">Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260224010000 +0200" stop="20260224030000 +0200" channel="AcapulcoATPDubaiATPAustinWTASantiagoATPampMeridaWTAEarlyRounds">
+  <programme start="20260225010000 +0200" stop="20260225030000 +0200" channel="AcapulcoATPDubaiATPAustinWTASantiagoATPampMeridaWTAEarlyRounds">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="WelshOpenRound1Day1EveningSession">
-    <display-name>Welsh Open Round 1 | Day 1 | Evening Session</display-name>
+  <channel id="WelshOpenRound1Day2AfternoonSession">
+    <display-name>Welsh Open Round 1 | Day 2 | Afternoon Session</display-name>
   </channel>
-  <programme start="20260223000000 +0200" stop="20260223210000 +0200" channel="WelshOpenRound1Day1EveningSession">
-    <title lang="it">Inizia alle 21:00.</title>
-    <desc lang="it">Welsh Open Round 1 | Day 1 | Evening Session.</desc>
+  <programme start="20260224000000 +0200" stop="20260224150000 +0200" channel="WelshOpenRound1Day2AfternoonSession">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">Welsh Open Round 1 | Day 2 | Afternoon Session.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260223210000 +0200" stop="20260223230000 +0200" channel="WelshOpenRound1Day1EveningSession">
+  <programme start="20260224150000 +0200" stop="20260224170000 +0200" channel="WelshOpenRound1Day2AfternoonSession">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Welsh Open Round 1 | Day 1 | Evening Session</desc>
+    <desc lang="it">Welsh Open Round 1 | Day 2 | Afternoon Session</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <channel id="WelshOpenRound1Day2EveningSession">
+    <display-name>Welsh Open Round 1 | Day 2 | Evening Session</display-name>
+  </channel>
+  <programme start="20260224000000 +0200" stop="20260224210000 +0200" channel="WelshOpenRound1Day2EveningSession">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Welsh Open Round 1 | Day 2 | Evening Session.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260224210000 +0200" stop="20260224230000 +0200" channel="WelshOpenRound1Day2EveningSession">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Welsh Open Round 1 | Day 2 | Evening Session</desc>
     <category lang="it">Snooker</category>
   </programme>
 </tv>
