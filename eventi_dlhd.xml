@@ -1,3 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ItalySerieAFiorentinavsPisa">
+    <display-name>Italy - Serie A : Fiorentina vs Pisa</display-name>
+  </channel>
+  <programme start="20260223000000 +0200" stop="20260223193000 +0200" channel="ItalySerieAFiorentinavsPisa">
+    <title lang="it">Inizia alle 19:30.</title>
+    <desc lang="it">Italy - Serie A : Fiorentina vs Pisa.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260223193000 +0200" stop="20260223213000 +0200" channel="ItalySerieAFiorentinavsPisa">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie A : Fiorentina vs Pisa</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="ItalySerieCVirtusVeronavsVicenza">
+    <display-name>Italy - Serie C : Virtus Verona vs Vicenza</display-name>
+  </channel>
+  <programme start="20260223000000 +0200" stop="20260223213000 +0200" channel="ItalySerieCVirtusVeronavsVicenza">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Virtus Verona vs Vicenza.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260223213000 +0200" stop="20260223233000 +0200" channel="ItalySerieCVirtusVeronavsVicenza">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Virtus Verona vs Vicenza</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <programme start="20260223000000 +0200" stop="20260223213000 +0200" channel="ItalySerieCVirtusVeronavsVicenza">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Virtus Verona vs Vicenza.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260223213000 +0200" stop="20260223233000 +0200" channel="ItalySerieCVirtusVeronavsVicenza">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Virtus Verona vs Vicenza</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <programme start="20260223000000 +0200" stop="20260223213000 +0200" channel="ItalySerieCVirtusVeronavsVicenza">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Virtus Verona vs Vicenza.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260223213000 +0200" stop="20260223233000 +0200" channel="ItalySerieCVirtusVeronavsVicenza">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Virtus Verona vs Vicenza</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="ItalySerieCTernanavsForl">
+    <display-name>Italy - Serie C : Ternana vs Forlì</display-name>
+  </channel>
+  <programme start="20260223000000 +0200" stop="20260223213000 +0200" channel="ItalySerieCTernanavsForl">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Ternana vs Forlì.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260223213000 +0200" stop="20260223233000 +0200" channel="ItalySerieCTernanavsForl">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Ternana vs Forlì</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <programme start="20260223000000 +0200" stop="20260223213000 +0200" channel="ItalySerieCTernanavsForl">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Ternana vs Forlì.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260223213000 +0200" stop="20260223233000 +0200" channel="ItalySerieCTernanavsForl">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Ternana vs Forlì</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="ItalySerieABolognavsUdinese">
+    <display-name>Italy - Serie A : Bologna vs Udinese</display-name>
+  </channel>
+  <programme start="20260223000000 +0200" stop="20260223214500 +0200" channel="ItalySerieABolognavsUdinese">
+    <title lang="it">Inizia alle 21:45.</title>
+    <desc lang="it">Italy - Serie A : Bologna vs Udinese.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260223214500 +0200" stop="20260223234500 +0200" channel="ItalySerieABolognavsUdinese">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie A : Bologna vs Udinese</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <programme start="20260223000000 +0200" stop="20260223214500 +0200" channel="ItalySerieABolognavsUdinese">
+    <title lang="it">Inizia alle 21:45.</title>
+    <desc lang="it">Italy - Serie A : Bologna vs Udinese.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260223214500 +0200" stop="20260223234500 +0200" channel="ItalySerieABolognavsUdinese">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie A : Bologna vs Udinese</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="AcapulcoATPDubaiATPAustinWTASantiagoATPampMeridaWTAEarlyRounds">
+    <display-name>Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds</display-name>
+  </channel>
+  <programme start="20260224000000 +0200" stop="20260224010000 +0200" channel="AcapulcoATPDubaiATPAustinWTASantiagoATPampMeridaWTAEarlyRounds">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260224010000 +0200" stop="20260224030000 +0200" channel="AcapulcoATPDubaiATPAustinWTASantiagoATPampMeridaWTAEarlyRounds">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="WelshOpenRound1Day1AfternoonSession">
+    <display-name>Welsh Open Round 1 | Day 1 | Afternoon Session</display-name>
+  </channel>
+  <programme start="20260223000000 +0200" stop="20260223150000 +0200" channel="WelshOpenRound1Day1AfternoonSession">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">Welsh Open Round 1 | Day 1 | Afternoon Session.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260223150000 +0200" stop="20260223170000 +0200" channel="WelshOpenRound1Day1AfternoonSession">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Welsh Open Round 1 | Day 1 | Afternoon Session</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <channel id="WelshOpenRound1Day1EveningSession">
+    <display-name>Welsh Open Round 1 | Day 1 | Evening Session</display-name>
+  </channel>
+  <programme start="20260223000000 +0200" stop="20260223210000 +0200" channel="WelshOpenRound1Day1EveningSession">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Welsh Open Round 1 | Day 1 | Evening Session.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260223210000 +0200" stop="20260223230000 +0200" channel="WelshOpenRound1Day1EveningSession">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Welsh Open Round 1 | Day 1 | Evening Session</desc>
+    <category lang="it">Snooker</category>
+  </programme>
 </tv>
