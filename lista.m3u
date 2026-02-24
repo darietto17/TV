@@ -158,6 +158,8 @@ https://vavoo.to/vavoo-iptv/play/4137427510ef362e6435fc
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",CUSANO NEWS7
 https://vavoo.to/vavoo-iptv/play/861948627bb3b2465ad5a
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",DAZN (MATCH TIME)
+https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
 #EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV (1)
@@ -373,6 +375,10 @@ https://vavoo.to/vavoo-iptv/play/198956233782673579c94b
 https://vavoo.to/vavoo-iptv/play/3538009430947511be2991
 #EXTINF:-1 tvg-id="milan.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/milan-tv-it.png" group-title="Sport",MILAN TV
 https://vavoo.to/vavoo-iptv/play/36572179483992957fcd47
+#EXTINF:-1 tvg-id="motor.trend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND (1)
+https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
+#EXTINF:-1 tvg-id="motor.trend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND (2)
+https://vavoo.to/vavoo-iptv/play/3889279895a867a5410d74
 #EXTINF:-1 tvg-id="mtv.hd.it" tvg-logo="" group-title="Musica",MTV
 https://vavoo.to/vavoo-iptv/play/3212860676dcc8c28a2be1
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (1)
@@ -739,10 +745,8 @@ https://vavoo.to/vavoo-iptv/play/2416993844407639cb4e74
 https://vavoo.to/vavoo-iptv/play/22550838661912f18327a2
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 5 (2)
 https://vavoo.to/vavoo-iptv/play/29098187562943fdca9002
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 6 (1)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 6
 https://vavoo.to/vavoo-iptv/play/325121729090a7b71fb865
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 6 (2)
-https://vavoo.to/vavoo-iptv/play/39395136840a7593b75855
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 7 (1)
 https://vavoo.to/vavoo-iptv/play/4238969402e69feff53112
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 7 (2)
@@ -1046,28 +1050,22 @@ https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecvirtusveronavsvicenza" tvg-name="All Soccer Events | Italy - Serie C : Virtus Verona vs Vicenza (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Virtus Verona_vs_Vicenza.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Virtus Verona vs Vicenza (21:30)
-https://dlhd.dad/watch.php?id=8
-
-#EXTINF:-1 tvg-id="italyseriecvirtusveronavsvicenza" tvg-name="All Soccer Events | Italy - Serie C : Virtus Verona vs Vicenza (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Virtus Verona_vs_Vicenza.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Virtus Verona vs Vicenza (21:30)
-https://dlhd.dad/watch.php?id=882
-
-#EXTINF:-1 tvg-id="italyseriecvirtusveronavsvicenza" tvg-name="All Soccer Events | Italy - Serie C : Virtus Verona vs Vicenza (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Virtus Verona_vs_Vicenza.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Virtus Verona vs Vicenza (21:30)
+#EXTINF:-1 tvg-id="uefachampionsleaguebayerleverkusenvsolympiakospiraeus" tvg-name="All Soccer Events | UEFA Champions League : Bayer Leverkusen vs Olympiakos Piraeus (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bayer Leverkusen_vs_Olympiakos Piraeus.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Champions League : Bayer Leverkusen vs Olympiakos Piraeus (22:00)
 https://dlhd.dad/watch.php?id=462
 
-#EXTINF:-1 tvg-id="italyseriecternanavsforlì" tvg-name="All Soccer Events | Italy - Serie C : Ternana vs Forlì (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ternana_vs_Forlì.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Ternana vs Forlì (21:30)
-https://dlhd.dad/watch.php?id=9
-
-#EXTINF:-1 tvg-id="italyseriecternanavsforlì" tvg-name="All Soccer Events | Italy - Serie C : Ternana vs Forlì (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ternana_vs_Forlì.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Ternana vs Forlì (21:30)
-https://dlhd.dad/watch.php?id=460
-
-#EXTINF:-1 tvg-id="italyserieabolognavsudinese" tvg-name="All Soccer Events | Italy - Serie A : Bologna vs Udinese (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bologna_vs_Udinese.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Bologna vs Udinese (21:45)
-https://dlhd.dad/watch.php?id=10
-
-#EXTINF:-1 tvg-id="italyserieabolognavsudinese" tvg-name="All Soccer Events | Italy - Serie A : Bologna vs Udinese (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bologna_vs_Udinese.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Bologna vs Udinese (21:45)
+#EXTINF:-1 tvg-id="uefachampionsleagueinternazionalevsbodøglimt" tvg-name="All Soccer Events | UEFA Champions League : Internazionale vs Bodø / Glimt (22:00)" tvg-logo="https://png.pngtree.com/png-clipart/20230315/original/pngtree-international-womens-day-we-can-do-it-poster-strong-girl-symbol-png-image_8989810.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Champions League : Internazionale vs Bodø / Glimt (22:00)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="welshopenround1day1eveningsession" tvg-name="Snooker | Welsh Open Round 1 | Day 1 | Evening Session (21:00)" tvg-logo="https://cdn.shopify.com/s/files/1/0659/5323/5179/files/VGP0023272.png?v=1754050967" group-title="Eventi Live DLHD",Snooker | Welsh Open Round 1 | Day 1 | Evening Session (21:00)
+#EXTINF:-1 tvg-id="uefachampionsleaguenewcastleunitedvsqaraba" tvg-name="All Soccer Events | UEFA Champions League : Newcastle United vs Qarabağ (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Newcastle United_vs_Qarabağ.png" group-title="Eventi Live DLHD",All Soccer Events | UEFA Champions League : Newcastle United vs Qarabağ (22:00)
+https://dlhd.dad/watch.php?id=460
+
+#EXTINF:-1 tvg-id="acapulcoatpdubaiatpaustinwtasantiagoatpampmeridawtaearlyrounds" tvg-name="Tennis | Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds (01:00)" tvg-logo="http://www.peakatp.com/wp-content/uploads/GNC_AMP_Triphase.png" group-title="Eventi Live DLHD",Tennis | Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds (01:00)
+https://dlhd.dad/watch.php?id=576
+
+#EXTINF:-1 tvg-id="welshopenround1day2afternoonsession" tvg-name="Snooker | Welsh Open Round 1 | Day 2 | Afternoon Session (15:00)" tvg-logo="https://139094872.cdn6.editmysite.com/uploads/1/3/9/0/139094872/TM2JOEYS2VXPH7AVM5IKST6V.png" group-title="Eventi Live DLHD",Snooker | Welsh Open Round 1 | Day 2 | Afternoon Session (15:00)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="welshopenround1day2eveningsession" tvg-name="Snooker | Welsh Open Round 1 | Day 2 | Evening Session (21:00)" tvg-logo="https://139094872.cdn6.editmysite.com/uploads/1/3/9/0/139094872/TM2JOEYS2VXPH7AVM5IKST6V.png" group-title="Eventi Live DLHD",Snooker | Welsh Open Round 1 | Day 2 | Evening Session (21:00)
 https://dlhd.dad/watch.php?id=878
 
 
