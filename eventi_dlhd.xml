@@ -1,54 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="EuropeUEFAEuropaLeagueStuttgartvsCeltic">
-    <display-name>Europe - UEFA Europa League : Stuttgart vs Celtic</display-name>
-  </channel>
-  <programme start="20260226000000 +0200" stop="20260226194500 +0200" channel="EuropeUEFAEuropaLeagueStuttgartvsCeltic">
-    <title lang="it">Inizia alle 19:45.</title>
-    <desc lang="it">Europe - UEFA Europa League : Stuttgart vs Celtic.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260226194500 +0200" stop="20260226214500 +0200" channel="EuropeUEFAEuropaLeagueStuttgartvsCeltic">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Europe - UEFA Europa League : Stuttgart vs Celtic</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="EuropeUEFAEuropaLeagueCrvenaZvezdavsLille">
-    <display-name>Europe - UEFA Europa League : Crvena Zvezda vs Lille</display-name>
-  </channel>
-  <programme start="20260226000000 +0200" stop="20260226194500 +0200" channel="EuropeUEFAEuropaLeagueCrvenaZvezdavsLille">
-    <title lang="it">Inizia alle 19:45.</title>
-    <desc lang="it">Europe - UEFA Europa League : Crvena Zvezda vs Lille.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260226194500 +0200" stop="20260226214500 +0200" channel="EuropeUEFAEuropaLeagueCrvenaZvezdavsLille">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Europe - UEFA Europa League : Crvena Zvezda vs Lille</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="EuropeUEFAConferenceLeagueFiorentinavsJagielloniaBiaystok">
-    <display-name>Europe - UEFA Conference League : Fiorentina vs Jagiellonia Białystok</display-name>
-  </channel>
-  <programme start="20260226000000 +0200" stop="20260226194500 +0200" channel="EuropeUEFAConferenceLeagueFiorentinavsJagielloniaBiaystok">
-    <title lang="it">Inizia alle 19:45.</title>
-    <desc lang="it">Europe - UEFA Conference League : Fiorentina vs Jagiellonia Białystok.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260226194500 +0200" stop="20260226214500 +0200" channel="EuropeUEFAConferenceLeagueFiorentinavsJagielloniaBiaystok">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Europe - UEFA Conference League : Fiorentina vs Jagiellonia Białystok</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260226000000 +0200" stop="20260226194500 +0200" channel="EuropeUEFAConferenceLeagueFiorentinavsJagielloniaBiaystok">
-    <title lang="it">Inizia alle 19:45.</title>
-    <desc lang="it">Europe - UEFA Conference League : Fiorentina vs Jagiellonia Białystok.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260226194500 +0200" stop="20260226214500 +0200" channel="EuropeUEFAConferenceLeagueFiorentinavsJagielloniaBiaystok">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Europe - UEFA Conference League : Fiorentina vs Jagiellonia Białystok</desc>
-    <category lang="it">Soccer</category>
-  </programme>
   <channel id="EuropeUEFAEuropaLeagueGenkvsDinamoZagreb">
     <display-name>Europe - UEFA Europa League : Genk vs Dinamo Zagreb</display-name>
   </channel>
@@ -143,19 +94,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds</desc>
     <category lang="it">Tennis</category>
-  </programme>
-  <channel id="Formula1F1SkyUKSeasonOpening">
-    <display-name>Formula 1 F1 : Sky UK Season Opening</display-name>
-  </channel>
-  <programme start="20260226000000 +0200" stop="20260226200000 +0200" channel="Formula1F1SkyUKSeasonOpening">
-    <title lang="it">Inizia alle 20:00.</title>
-    <desc lang="it">Formula 1 F1 : Sky UK Season Opening.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260226200000 +0200" stop="20260226220000 +0200" channel="Formula1F1SkyUKSeasonOpening">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 1 F1 : Sky UK Season Opening</desc>
-    <category lang="it">Motorsport</category>
   </programme>
   <channel id="WelshOpenRound1Day4EveningSession">
     <display-name>Welsh Open Round 1 | Day 4 | Evening Session</display-name>
