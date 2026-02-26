@@ -1,3 +1,238 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="EuropeUEFAEuropaLeagueStuttgartvsCeltic">
+    <display-name>Europe - UEFA Europa League : Stuttgart vs Celtic</display-name>
+  </channel>
+  <programme start="20260226000000 +0200" stop="20260226194500 +0200" channel="EuropeUEFAEuropaLeagueStuttgartvsCeltic">
+    <title lang="it">Inizia alle 19:45.</title>
+    <desc lang="it">Europe - UEFA Europa League : Stuttgart vs Celtic.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260226194500 +0200" stop="20260226214500 +0200" channel="EuropeUEFAEuropaLeagueStuttgartvsCeltic">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Europa League : Stuttgart vs Celtic</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="EuropeUEFAEuropaLeagueCrvenaZvezdavsLille">
+    <display-name>Europe - UEFA Europa League : Crvena Zvezda vs Lille</display-name>
+  </channel>
+  <programme start="20260226000000 +0200" stop="20260226194500 +0200" channel="EuropeUEFAEuropaLeagueCrvenaZvezdavsLille">
+    <title lang="it">Inizia alle 19:45.</title>
+    <desc lang="it">Europe - UEFA Europa League : Crvena Zvezda vs Lille.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260226194500 +0200" stop="20260226214500 +0200" channel="EuropeUEFAEuropaLeagueCrvenaZvezdavsLille">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Europa League : Crvena Zvezda vs Lille</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="EuropeUEFAConferenceLeagueFiorentinavsJagielloniaBiaystok">
+    <display-name>Europe - UEFA Conference League : Fiorentina vs Jagiellonia Białystok</display-name>
+  </channel>
+  <programme start="20260226000000 +0200" stop="20260226194500 +0200" channel="EuropeUEFAConferenceLeagueFiorentinavsJagielloniaBiaystok">
+    <title lang="it">Inizia alle 19:45.</title>
+    <desc lang="it">Europe - UEFA Conference League : Fiorentina vs Jagiellonia Białystok.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260226194500 +0200" stop="20260226214500 +0200" channel="EuropeUEFAConferenceLeagueFiorentinavsJagielloniaBiaystok">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Conference League : Fiorentina vs Jagiellonia Białystok</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20260226000000 +0200" stop="20260226194500 +0200" channel="EuropeUEFAConferenceLeagueFiorentinavsJagielloniaBiaystok">
+    <title lang="it">Inizia alle 19:45.</title>
+    <desc lang="it">Europe - UEFA Conference League : Fiorentina vs Jagiellonia Białystok.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260226194500 +0200" stop="20260226214500 +0200" channel="EuropeUEFAConferenceLeagueFiorentinavsJagielloniaBiaystok">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Conference League : Fiorentina vs Jagiellonia Białystok</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="EuropeUEFAEuropaLeagueGenkvsDinamoZagreb">
+    <display-name>Europe - UEFA Europa League : Genk vs Dinamo Zagreb</display-name>
+  </channel>
+  <programme start="20260226000000 +0200" stop="20260226220000 +0200" channel="EuropeUEFAEuropaLeagueGenkvsDinamoZagreb">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Europe - UEFA Europa League : Genk vs Dinamo Zagreb.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260226220000 +0200" stop="20260227000000 +0200" channel="EuropeUEFAEuropaLeagueGenkvsDinamoZagreb">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Europa League : Genk vs Dinamo Zagreb</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="EuropeUEFAEuropaLeagueNottinghamForestvsFenerbahe">
+    <display-name>Europe - UEFA Europa League : Nottingham Forest vs Fenerbahçe</display-name>
+  </channel>
+  <programme start="20260226000000 +0200" stop="20260226220000 +0200" channel="EuropeUEFAEuropaLeagueNottinghamForestvsFenerbahe">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Europe - UEFA Europa League : Nottingham Forest vs Fenerbahçe.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260226220000 +0200" stop="20260227000000 +0200" channel="EuropeUEFAEuropaLeagueNottinghamForestvsFenerbahe">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Europa League : Nottingham Forest vs Fenerbahçe</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20260226000000 +0200" stop="20260226220000 +0200" channel="EuropeUEFAEuropaLeagueNottinghamForestvsFenerbahe">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Europe - UEFA Europa League : Nottingham Forest vs Fenerbahçe.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260226220000 +0200" stop="20260227000000 +0200" channel="EuropeUEFAEuropaLeagueNottinghamForestvsFenerbahe">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Europa League : Nottingham Forest vs Fenerbahçe</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20260226000000 +0200" stop="20260226220000 +0200" channel="EuropeUEFAEuropaLeagueNottinghamForestvsFenerbahe">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Europe - UEFA Europa League : Nottingham Forest vs Fenerbahçe.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260226220000 +0200" stop="20260227000000 +0200" channel="EuropeUEFAEuropaLeagueNottinghamForestvsFenerbahe">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Europa League : Nottingham Forest vs Fenerbahçe</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="EuropeUEFAEuropaLeagueCeltadeVigovsPAOK">
+    <display-name>Europe - UEFA Europa League : Celta de Vigo vs PAOK</display-name>
+  </channel>
+  <programme start="20260226000000 +0200" stop="20260226220000 +0200" channel="EuropeUEFAEuropaLeagueCeltadeVigovsPAOK">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Europe - UEFA Europa League : Celta de Vigo vs PAOK.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260226220000 +0200" stop="20260227000000 +0200" channel="EuropeUEFAEuropaLeagueCeltadeVigovsPAOK">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Europa League : Celta de Vigo vs PAOK</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="EuropeUEFAEuropaLeagueBolognavsBrann">
+    <display-name>Europe - UEFA Europa League : Bologna vs Brann</display-name>
+  </channel>
+  <programme start="20260226000000 +0200" stop="20260226220000 +0200" channel="EuropeUEFAEuropaLeagueBolognavsBrann">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Europe - UEFA Europa League : Bologna vs Brann.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260226220000 +0200" stop="20260227000000 +0200" channel="EuropeUEFAEuropaLeagueBolognavsBrann">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Europa League : Bologna vs Brann</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20260226000000 +0200" stop="20260226220000 +0200" channel="EuropeUEFAEuropaLeagueBolognavsBrann">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Europe - UEFA Europa League : Bologna vs Brann.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260226220000 +0200" stop="20260227000000 +0200" channel="EuropeUEFAEuropaLeagueBolognavsBrann">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Europa League : Bologna vs Brann</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="AcapulcoATPDubaiATPAustinWTASantiagoATPampMeridaWTAEarlyRounds">
+    <display-name>Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds</display-name>
+  </channel>
+  <programme start="20260227000000 +0200" stop="20260227010000 +0200" channel="AcapulcoATPDubaiATPAustinWTASantiagoATPampMeridaWTAEarlyRounds">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260227010000 +0200" stop="20260227030000 +0200" channel="AcapulcoATPDubaiATPAustinWTASantiagoATPampMeridaWTAEarlyRounds">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="MotoGPThailandsGPFreePractice1">
+    <display-name>MotoGP : Thailands GP Free Practice 1</display-name>
+  </channel>
+  <programme start="20260226000000 +0200" stop="20260226040000 +0200" channel="MotoGPThailandsGPFreePractice1">
+    <title lang="it">Inizia alle 04:00.</title>
+    <desc lang="it">MotoGP : Thailands GP Free Practice 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260226040000 +0200" stop="20260226060000 +0200" channel="MotoGPThailandsGPFreePractice1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MotoGP : Thailands GP Free Practice 1</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Moto3ThailandsGPPractice1">
+    <display-name>Moto3 : Thailands GP Practice 1</display-name>
+  </channel>
+  <programme start="20260226000000 +0200" stop="20260226040000 +0200" channel="Moto3ThailandsGPPractice1">
+    <title lang="it">Inizia alle 04:00.</title>
+    <desc lang="it">Moto3 : Thailands GP Practice 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260226040000 +0200" stop="20260226060000 +0200" channel="Moto3ThailandsGPPractice1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Moto3 : Thailands GP Practice 1</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Moto2ThailandsGPPractice1">
+    <display-name>Moto2 : Thailands GP Practice 1</display-name>
+  </channel>
+  <programme start="20260226000000 +0200" stop="20260226044500 +0200" channel="Moto2ThailandsGPPractice1">
+    <title lang="it">Inizia alle 04:45.</title>
+    <desc lang="it">Moto2 : Thailands GP Practice 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260226044500 +0200" stop="20260226064500 +0200" channel="Moto2ThailandsGPPractice1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Moto2 : Thailands GP Practice 1</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Formula1F1SkyUKSeasonOpening">
+    <display-name>Formula 1 F1 : Sky UK Season Opening</display-name>
+  </channel>
+  <programme start="20260226000000 +0200" stop="20260226200000 +0200" channel="Formula1F1SkyUKSeasonOpening">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">Formula 1 F1 : Sky UK Season Opening.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260226200000 +0200" stop="20260226220000 +0200" channel="Formula1F1SkyUKSeasonOpening">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 1 F1 : Sky UK Season Opening</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="WelshOpenRound1Day4AfternoonSession">
+    <display-name>Welsh Open Round 1 | Day 4 | Afternoon Session</display-name>
+  </channel>
+  <programme start="20260226000000 +0200" stop="20260226150000 +0200" channel="WelshOpenRound1Day4AfternoonSession">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">Welsh Open Round 1 | Day 4 | Afternoon Session.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260226150000 +0200" stop="20260226170000 +0200" channel="WelshOpenRound1Day4AfternoonSession">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Welsh Open Round 1 | Day 4 | Afternoon Session</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <channel id="WelshOpenRound1Day4EveningSession">
+    <display-name>Welsh Open Round 1 | Day 4 | Evening Session</display-name>
+  </channel>
+  <programme start="20260226000000 +0200" stop="20260226210000 +0200" channel="WelshOpenRound1Day4EveningSession">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Welsh Open Round 1 | Day 4 | Evening Session.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260226210000 +0200" stop="20260226230000 +0200" channel="WelshOpenRound1Day4EveningSession">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Welsh Open Round 1 | Day 4 | Evening Session</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <channel id="ChampionsLeagueWomenMonzaWvsOlympiakosPiraeusW">
+    <display-name>Champions League Women : Monza W vs Olympiakos Piraeus W</display-name>
+  </channel>
+  <programme start="20260226000000 +0200" stop="20260226173000 +0200" channel="ChampionsLeagueWomenMonzaWvsOlympiakosPiraeusW">
+    <title lang="it">Inizia alle 17:30.</title>
+    <desc lang="it">Champions League Women : Monza W vs Olympiakos Piraeus W.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260226173000 +0200" stop="20260226193000 +0200" channel="ChampionsLeagueWomenMonzaWvsOlympiakosPiraeusW">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Champions League Women : Monza W vs Olympiakos Piraeus W</desc>
+    <category lang="it">Volleyball</category>
+  </programme>
 </tv>
