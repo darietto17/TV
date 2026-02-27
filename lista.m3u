@@ -78,6 +78,8 @@ https://vavoo.to/vavoo-iptv/play/270562780243aa8d36614f
 https://vavoo.to/vavoo-iptv/play/2826111812745ee617058d
 #EXTINF:-1 tvg-id="caccia.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/caccia-it.png?raw=true" group-title="Altro",CACCIA
 https://vavoo.to/vavoo-iptv/play/1692155417ce364b21d0ca
+#EXTINF:-1 tvg-id="caccia.e.pesca.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/caccia-pesca-it.png?raw=true" group-title="Altro",CACCIA E PESCA
+https://vavoo.to/vavoo-iptv/play/3639213638a7c6a2cc326e
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/DW0Tvz72-8XZ7rEBVh1jBzwYE1fZhTaowuuxN75Jl8yBtnFkySH1z2T2b7OPlotmHeQ" group-title="Altro",CAFE 24
 https://vavoo.to/vavoo-iptv/play/1625923783d5a6dda233b3
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/camera-dei-deputati-it.png?raw=true" group-title="Altro",CAMERA DEI DEPUTATI
@@ -156,10 +158,10 @@ https://vavoo.to/vavoo-iptv/play/4137427510ef362e6435fc
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",CUSANO NEWS7
 https://vavoo.to/vavoo-iptv/play/861948627bb3b2465ad5a
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",DAZN (MATCH TIME)
-https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
+#EXTINF:-1 tvg-id="dazn.2.it.it" tvg-logo="" group-title="Sport",DAZN 2
+https://vavoo.to/vavoo-iptv/play/3635062218e0132c616db
 #EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV (1)
 https://vavoo.to/vavoo-iptv/play/963607327f90ada131395
 #EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV (2)
@@ -220,8 +222,6 @@ https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
 https://dlhd.dad/watch.php?id=879
 #EXTINF:-1 tvg-id="eurosport.2.it" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (MPD)
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport2)/manifest.mpd&key_id=e8372283a523444c84646c4172b1bc0f&key=969a90e1a1a6424a68fe4b5d776368ec
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 2 TIMVISION
-https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 4 TIMVISION
 https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 5 TIMVISION
@@ -379,6 +379,8 @@ https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
 https://vavoo.to/vavoo-iptv/play/3889279895a867a5410d74
 #EXTINF:-1 tvg-id="mtv.hd.it" tvg-logo="" group-title="Musica",MTV
 https://vavoo.to/vavoo-iptv/play/3212860676dcc8c28a2be1
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/mtv-hits-rs.png?raw=true" group-title="Musica",MTV HITS
+https://vavoo.to/vavoo-iptv/play/3446813098b031eef6dc22
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (1)
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (2)
@@ -387,6 +389,8 @@ https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
 https://vavoo.to/vavoo-iptv/play/3428501495a9ec2ff7bc8e
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD (2)
 https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
+#EXTINF:-1 tvg-id="nick.jr.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini",NICK JR
+https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065
 #EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Altro",NICKELODEON
 https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c
 #EXTINF:-1 tvg-id="nove.it" tvg-logo="" group-title="Altro",NOVE
@@ -743,7 +747,9 @@ https://vavoo.to/vavoo-iptv/play/22550838661912f18327a2
 https://vavoo.to/vavoo-iptv/play/29098187562943fdca9002
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 6 (1)
 https://vavoo.to/vavoo-iptv/play/325121729090a7b71fb865
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 6 (2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 6 (1)
+https://vavoo.to/vavoo-iptv/play/325121729090a7b71fb865
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 6 (3)
 https://vavoo.to/vavoo-iptv/play/39395136840a7593b75855
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 7 (1)
 https://vavoo.to/vavoo-iptv/play/4238969402e69feff53112
@@ -1078,9 +1084,6 @@ https://dlhd.dad/watch.php?id=575
 #EXTINF:-1 tvg-id="motogpthailandsgppractice" tvg-name="Motorsport | MotoGP : Thailands GP Practice (10:00)" tvg-logo="https://images.seeklogo.com/logo-png/41/3/motogp-logo-png_seeklogo-410139.png" group-title="Eventi Live DLHD",Motorsport | MotoGP : Thailands GP Practice (10:00)
 https://dlhd.dad/watch.php?id=575
 
-#EXTINF:-1 tvg-id="moto3thailandsgpfreepractice2" tvg-name="Motorsport | Moto3 : Thailands GP Free Practice 2 (03:30)" tvg-logo="https://1.bp.blogspot.com/-Kz3F9RMG_M0/XPU-eFuDj4I/AAAAAAAAIJg/N4FhR0pVZnsPTII5Mooq3NE8DXhtA6BiACLcBGAs/s72-c/Moto3%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live DLHD",Motorsport | Moto3 : Thailands GP Free Practice 2 (03:30)
-https://dlhd.dad/watch.php?id=575
-
 #EXTINF:-1 tvg-id="motogpthailandsgpfreepractice2ampqualifying" tvg-name="Motorsport | MotoGP : Thailands GP Free Practice 2 &amp; Qualifying (05:00)" tvg-logo="https://images.seeklogo.com/logo-png/41/3/motogp-logo-png_seeklogo-410139.png" group-title="Eventi Live DLHD",Motorsport | MotoGP : Thailands GP Free Practice 2 &amp; Qualifying (05:00)
 https://dlhd.dad/watch.php?id=575
 
@@ -1102,7 +1105,7 @@ https://dlhd.dad/watch.php?id=878
 #EXTINF:-1 tvg-id="europeworldcupqualificationbosniaampherzegovinavsswitzerland" tvg-name="Basketball | Europe World Cup - Qualification : Bosnia &amp; Herzegovina vs Switzerland (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bosnia &amp; Herzegovina_vs_Switzerland.png" group-title="Eventi Live DLHD",Basketball | Europe World Cup - Qualification : Bosnia &amp; Herzegovina vs Switzerland (21:00)
 https://dlhd.dad/watch.php?id=19
 
-#EXTINF:-1 tvg-id="badmitterndorfmenshs235skiflyingworldcupqualifying" tvg-name="Ski Jumping | Bad Mitterndorf | Men's HS 235 Ski Flying World Cup | Qualifying (14:30)" tvg-logo="https://www.energie-quelle.at/wp-content/uploads/2022/05/icon.png" group-title="Eventi Live DLHD",Ski Jumping | Bad Mitterndorf | Men's HS 235 Ski Flying World Cup | Qualifying (14:30)
+#EXTINF:-1 tvg-id="badmitterndorfmenshs235skiflyingworldcupqualifying" tvg-name="Ski Jumping | Bad Mitterndorf | Men's HS 235 Ski Flying World Cup | Qualifying (14:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Ski Jumping | Bad Mitterndorf | Men's HS 235 Ski Flying World Cup | Qualifying (14:30)
 https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="worldcupbadmitterndorfhs235skiflightmale" tvg-name="Winter Sports | World Cup | Bad Mitterndorf HS235 Ski Flight | Male (11:00)" tvg-logo="https://sabongworldcup.com/wp-content/uploads/2023/12/Kais-logo-1.png" group-title="Eventi Live DLHD",Winter Sports | World Cup | Bad Mitterndorf HS235 Ski Flight | Male (11:00)
