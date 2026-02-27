@@ -142,9 +142,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="classica.hd.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/CLA_HD_Logo-CENT-300ppi_CMYK.jpg" group-title="Altro",CLASSICA
 https://vavoo.to/vavoo-iptv/play/640609226bada55274ff
-#EXTINF:-1 tvg-id="comedy.central.it" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",COMEDY CENTRAL (1)
-https://vavoo.to/vavoo-iptv/play/365827745096a993ffc066
-#EXTINF:-1 tvg-id="comedy.central.it" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",COMEDY CENTRAL (2)
+#EXTINF:-1 tvg-id="comedy.central.it" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",COMEDY CENTRAL
 https://vavoo.to/vavoo-iptv/play/433893159bf516cde9a97
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.trendcomunicazione.com/wp-content/uploads/2018/11/20180416-logo-tv-bokka-300x155.png" group-title="Altro",COMPANY TV (1)
 https://vavoo.to/vavoo-iptv/play/1322483308506652cfc631
@@ -562,6 +560,8 @@ https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN FAMILY
+https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png" group-title="Musica",RDS SOCIAL
 https://vavoo.to/vavoo-iptv/play/4031388312f5ebcfc7dc6d
 #EXTINF:-1 tvg-id="rdssocialtv.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png" group-title="Musica",RDS SOCIAL TV
@@ -832,7 +832,9 @@ https://vavoo.to/vavoo-iptv/play/3180571288b987548e3fe
 #EXTINF:-1 tvg-id="sky.tg24.it" tvg-name="SKY TG 24" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="News",SKY TG 24 (MPD)
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 
-#EXTINF:-1 tvg-id="sky.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro",SKY UNO
+#EXTINF:-1 tvg-id="sky.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro",SKY UNO (1)
+https://vavoo.to/vavoo-iptv/play/2130523218823893ad0255
+#EXTINF:-1 tvg-id="sky.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro",SKY UNO (2)
 https://vavoo.to/vavoo-iptv/play/32202484989ac14421915
 #EXTINF:-1 tvg-id="sky.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Altro",SKY UNO (D)
 https://dlhd.dad/watch.php?id=881
@@ -1058,16 +1060,13 @@ https://dlhd.dad/watch.php?id=877
 #EXTINF:-1 tvg-id="englandpremierleaguewolverhamptonwanderersvsastonvilla" tvg-name="All Soccer Events | England - Premier League : Wolverhampton Wanderers vs Aston Villa (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Wolverhampton Wanderers_vs_Aston Villa.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Wolverhampton Wanderers vs Aston Villa (22:00)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="acapulcoatpdubaiatpaustinwtasantiagoatpampmeridawtaearlyrounds" tvg-name="Tennis | Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds (17:00)" tvg-logo="https://rounds.wtf/rounds-logo-black-and-white.png" group-title="Eventi Live DLHD",Tennis | Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds (17:00)
+#EXTINF:-1 tvg-id="acapulcoatpdubaiatpaustinwtasantiagoatpampmeridawtaearlyrounds" tvg-name="Tennis | Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds (17:00)" tvg-logo="http://www.peakatp.com/wp-content/uploads/GNC_AMP_Triphase.png" group-title="Eventi Live DLHD",Tennis | Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds (17:00)
 https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="moto3thailandsgppractice" tvg-name="Motorsport | Moto3 : Thailands GP Practice (08:10)" tvg-logo="https://1.bp.blogspot.com/-Kz3F9RMG_M0/XPU-eFuDj4I/AAAAAAAAIJg/N4FhR0pVZnsPTII5Mooq3NE8DXhtA6BiACLcBGAs/s72-c/Moto3%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live DLHD",Motorsport | Moto3 : Thailands GP Practice (08:10)
-https://dlhd.dad/watch.php?id=575
 
 #EXTINF:-1 tvg-id="moto2thailandsgppractice" tvg-name="Motorsport | Moto2 : Thailands GP Practice (09:05)" tvg-logo="https://1.bp.blogspot.com/-dt6mSIGyYDs/XPVByA3agjI/AAAAAAAAIJs/_6R4IvD5Gh43Bsk4SSoCKUveuK953FQkgCLcBGAs/s72-c/Moto2%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live DLHD",Motorsport | Moto2 : Thailands GP Practice (09:05)
 https://dlhd.dad/watch.php?id=575
 
-#EXTINF:-1 tvg-id="motogpthailandsgppractice" tvg-name="Motorsport | MotoGP : Thailands GP Practice (10:00)" tvg-logo="https://images.seeklogo.com/logo-png/41/3/motogp-logo-png_seeklogo-410139.png" group-title="Eventi Live DLHD",Motorsport | MotoGP : Thailands GP Practice (10:00)
+#EXTINF:-1 tvg-id="motogpthailandsgppractice" tvg-name="Motorsport | MotoGP : Thailands GP Practice (10:00)" tvg-logo="https://images.seeklogo.com/logo-png/33/2/ecstar-suzuki-logo-png_seeklogo-335477.png" group-title="Eventi Live DLHD",Motorsport | MotoGP : Thailands GP Practice (10:00)
 https://dlhd.dad/watch.php?id=575
 
 #EXTINF:-1 tvg-id="judotashkentgrandslamday1" tvg-name="Combat sports | Judo : Tashkent Grand Slam. Day 1 (14:00)" tvg-logo="http://vx-3.com/cdn/shop/collections/Worcester_Judo_Club_-_BADGE_2.png?v=1730205699" group-title="Eventi Live DLHD",Combat sports | Judo : Tashkent Grand Slam. Day 1 (14:00)
@@ -1085,7 +1084,7 @@ https://dlhd.dad/watch.php?id=878
 #EXTINF:-1 tvg-id="europeworldcupqualificationbosniaampherzegovinavsswitzerland" tvg-name="Basketball | Europe World Cup - Qualification : Bosnia &amp; Herzegovina vs Switzerland (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bosnia &amp; Herzegovina_vs_Switzerland.png" group-title="Eventi Live DLHD",Basketball | Europe World Cup - Qualification : Bosnia &amp; Herzegovina vs Switzerland (21:00)
 https://dlhd.dad/watch.php?id=19
 
-#EXTINF:-1 tvg-id="badmitterndorfmenshs235skiflyingworldcupqualifying" tvg-name="Ski Jumping | Bad Mitterndorf | Men's HS 235 Ski Flying World Cup | Qualifying (14:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Ski Jumping | Bad Mitterndorf | Men's HS 235 Ski Flying World Cup | Qualifying (14:30)
+#EXTINF:-1 tvg-id="badmitterndorfmenshs235skiflyingworldcupqualifying" tvg-name="Ski Jumping | Bad Mitterndorf | Men's HS 235 Ski Flying World Cup | Qualifying (14:30)" tvg-logo="https://wikitravel.org/upload/de/7/7f/RedDot_8px.png" group-title="Eventi Live DLHD",Ski Jumping | Bad Mitterndorf | Men's HS 235 Ski Flying World Cup | Qualifying (14:30)
 https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="worldcupbadmitterndorfhs235skiflightmale" tvg-name="Winter Sports | World Cup | Bad Mitterndorf HS235 Ski Flight | Male (11:00)" tvg-logo="https://sabongworldcup.com/wp-content/uploads/2023/12/Kais-logo-1.png" group-title="Eventi Live DLHD",Winter Sports | World Cup | Bad Mitterndorf HS235 Ski Flight | Male (11:00)
