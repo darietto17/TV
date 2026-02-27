@@ -1,3 +1,276 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ItalySerieCUnionArzignanoChiampovsNovara">
+    <display-name>Italy - Serie C : Union ArzignanoChiampo vs Novara</display-name>
+  </channel>
+  <programme start="20260227000000 +0200" stop="20260227213000 +0200" channel="ItalySerieCUnionArzignanoChiampovsNovara">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Union ArzignanoChiampo vs Novara.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260227213000 +0200" stop="20260227233000 +0200" channel="ItalySerieCUnionArzignanoChiampovsNovara">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Union ArzignanoChiampo vs Novara</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="ItalySerieCCittadellavsOspitaletto">
+    <display-name>Italy - Serie C : Cittadella vs Ospitaletto</display-name>
+  </channel>
+  <programme start="20260227000000 +0200" stop="20260227213000 +0200" channel="ItalySerieCCittadellavsOspitaletto">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Cittadella vs Ospitaletto.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260227213000 +0200" stop="20260227233000 +0200" channel="ItalySerieCCittadellavsOspitaletto">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Cittadella vs Ospitaletto</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="ItalySerieCGianaErminiovsProVercelli">
+    <display-name>Italy - Serie C : Giana Erminio vs Pro Vercelli</display-name>
+  </channel>
+  <programme start="20260227000000 +0200" stop="20260227213000 +0200" channel="ItalySerieCGianaErminiovsProVercelli">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Giana Erminio vs Pro Vercelli.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260227213000 +0200" stop="20260227233000 +0200" channel="ItalySerieCGianaErminiovsProVercelli">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Giana Erminio vs Pro Vercelli</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="ItalySerieCPergolettesevsTriestina">
+    <display-name>Italy - Serie C : Pergolettese vs Triestina</display-name>
+  </channel>
+  <programme start="20260227000000 +0200" stop="20260227213000 +0200" channel="ItalySerieCPergolettesevsTriestina">
+    <title lang="it">Inizia alle 21:30.</title>
+    <desc lang="it">Italy - Serie C : Pergolettese vs Triestina.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260227213000 +0200" stop="20260227233000 +0200" channel="ItalySerieCPergolettesevsTriestina">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Pergolettese vs Triestina</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="ItalySerieAParmavsCagliari">
+    <display-name>Italy - Serie A : Parma vs Cagliari</display-name>
+  </channel>
+  <programme start="20260227000000 +0200" stop="20260227214500 +0200" channel="ItalySerieAParmavsCagliari">
+    <title lang="it">Inizia alle 21:45.</title>
+    <desc lang="it">Italy - Serie A : Parma vs Cagliari.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260227214500 +0200" stop="20260227234500 +0200" channel="ItalySerieAParmavsCagliari">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie A : Parma vs Cagliari</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="EnglandPremierLeagueWolverhamptonWanderersvsAstonVilla">
+    <display-name>England - Premier League : Wolverhampton Wanderers vs Aston Villa</display-name>
+  </channel>
+  <programme start="20260227000000 +0200" stop="20260227220000 +0200" channel="EnglandPremierLeagueWolverhamptonWanderersvsAstonVilla">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">England - Premier League : Wolverhampton Wanderers vs Aston Villa.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260227220000 +0200" stop="20260228000000 +0200" channel="EnglandPremierLeagueWolverhamptonWanderersvsAstonVilla">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">England - Premier League : Wolverhampton Wanderers vs Aston Villa</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="AcapulcoATPDubaiATPAustinWTASantiagoATPampMeridaWTAEarlyRounds">
+    <display-name>Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds</display-name>
+  </channel>
+  <programme start="20260227000000 +0200" stop="20260227170000 +0200" channel="AcapulcoATPDubaiATPAustinWTASantiagoATPampMeridaWTAEarlyRounds">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260227170000 +0200" stop="20260227190000 +0200" channel="AcapulcoATPDubaiATPAustinWTASantiagoATPampMeridaWTAEarlyRounds">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="Moto3ThailandsGPFreePractice2">
+    <display-name>Moto3 : Thailands GP Free Practice 2</display-name>
+  </channel>
+  <programme start="20260227000000 +0200" stop="20260227033000 +0200" channel="Moto3ThailandsGPFreePractice2">
+    <title lang="it">Inizia alle 03:30.</title>
+    <desc lang="it">Moto3 : Thailands GP Free Practice 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260227033000 +0200" stop="20260227053000 +0200" channel="Moto3ThailandsGPFreePractice2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Moto3 : Thailands GP Free Practice 2</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="MotoGPThailandsGPFreePractice2ampQualifying">
+    <display-name>MotoGP : Thailands GP Free Practice 2 &amp; Qualifying</display-name>
+  </channel>
+  <programme start="20260227000000 +0200" stop="20260227050000 +0200" channel="MotoGPThailandsGPFreePractice2ampQualifying">
+    <title lang="it">Inizia alle 05:00.</title>
+    <desc lang="it">MotoGP : Thailands GP Free Practice 2 &amp; Qualifying.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260227050000 +0200" stop="20260227070000 +0200" channel="MotoGPThailandsGPFreePractice2ampQualifying">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MotoGP : Thailands GP Free Practice 2 &amp; Qualifying</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Moto2ThailandsGPFreePractice2">
+    <display-name>Moto2 : Thailands GP Free Practice 2</display-name>
+  </channel>
+  <programme start="20260227000000 +0200" stop="20260227054500 +0200" channel="Moto2ThailandsGPFreePractice2">
+    <title lang="it">Inizia alle 05:45.</title>
+    <desc lang="it">Moto2 : Thailands GP Free Practice 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260227054500 +0200" stop="20260227074500 +0200" channel="Moto2ThailandsGPFreePractice2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Moto2 : Thailands GP Free Practice 2</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Moto3ThailandsGPPractice">
+    <display-name>Moto3 : Thailands GP Practice</display-name>
+  </channel>
+  <programme start="20260227000000 +0200" stop="20260227081000 +0200" channel="Moto3ThailandsGPPractice">
+    <title lang="it">Inizia alle 08:10.</title>
+    <desc lang="it">Moto3 : Thailands GP Practice.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260227081000 +0200" stop="20260227101000 +0200" channel="Moto3ThailandsGPPractice">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Moto3 : Thailands GP Practice</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Moto2ThailandsGPPractice">
+    <display-name>Moto2 : Thailands GP Practice</display-name>
+  </channel>
+  <programme start="20260227000000 +0200" stop="20260227090500 +0200" channel="Moto2ThailandsGPPractice">
+    <title lang="it">Inizia alle 09:05.</title>
+    <desc lang="it">Moto2 : Thailands GP Practice.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260227090500 +0200" stop="20260227110500 +0200" channel="Moto2ThailandsGPPractice">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Moto2 : Thailands GP Practice</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="MotoGPThailandsGPPractice">
+    <display-name>MotoGP : Thailands GP Practice</display-name>
+  </channel>
+  <programme start="20260227000000 +0200" stop="20260227100000 +0200" channel="MotoGPThailandsGPPractice">
+    <title lang="it">Inizia alle 10:00.</title>
+    <desc lang="it">MotoGP : Thailands GP Practice.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260227100000 +0200" stop="20260227120000 +0200" channel="MotoGPThailandsGPPractice">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MotoGP : Thailands GP Practice</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="JudoTashkentGrandSlamDay1">
+    <display-name>Judo : Tashkent Grand Slam. Day 1</display-name>
+  </channel>
+  <programme start="20260227000000 +0200" stop="20260227140000 +0200" channel="JudoTashkentGrandSlamDay1">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">Judo : Tashkent Grand Slam. Day 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260227140000 +0200" stop="20260227160000 +0200" channel="JudoTashkentGrandSlamDay1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Judo : Tashkent Grand Slam. Day 1</desc>
+    <category lang="it">Combat sports</category>
+  </programme>
+  <channel id="WelshOpenRound1QuarterFinalAfternoonSession">
+    <display-name>Welsh Open Round 1 | Quarter-Final | Afternoon Session</display-name>
+  </channel>
+  <programme start="20260227000000 +0200" stop="20260227150000 +0200" channel="WelshOpenRound1QuarterFinalAfternoonSession">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">Welsh Open Round 1 | Quarter-Final | Afternoon Session.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260227150000 +0200" stop="20260227170000 +0200" channel="WelshOpenRound1QuarterFinalAfternoonSession">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Welsh Open Round 1 | Quarter-Final | Afternoon Session</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <channel id="WelshOpenRound1QuarterFinalEveningSession">
+    <display-name>Welsh Open Round 1 | Quarter-Final | Evening Session</display-name>
+  </channel>
+  <programme start="20260227000000 +0200" stop="20260227210000 +0200" channel="WelshOpenRound1QuarterFinalEveningSession">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Welsh Open Round 1 | Quarter-Final | Evening Session.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260227210000 +0200" stop="20260227230000 +0200" channel="WelshOpenRound1QuarterFinalEveningSession">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Welsh Open Round 1 | Quarter-Final | Evening Session</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <channel id="WorldCupSoldeuWomensDownhill">
+    <display-name>World Cup Soldeu | Women's Downhill</display-name>
+  </channel>
+  <programme start="20260227000000 +0200" stop="20260227114500 +0200" channel="WorldCupSoldeuWomensDownhill">
+    <title lang="it">Inizia alle 11:45.</title>
+    <desc lang="it">World Cup Soldeu | Women's Downhill.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260227114500 +0200" stop="20260227134500 +0200" channel="WorldCupSoldeuWomensDownhill">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Cup Soldeu | Women's Downhill</desc>
+    <category lang="it">Alpine Ski</category>
+  </programme>
+  <channel id="EuropeWorldCupQualificationBosniaampHerzegovinavsSwitzerland">
+    <display-name>Europe World Cup - Qualification : Bosnia &amp; Herzegovina vs Switzerland</display-name>
+  </channel>
+  <programme start="20260227000000 +0200" stop="20260227210000 +0200" channel="EuropeWorldCupQualificationBosniaampHerzegovinavsSwitzerland">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Europe World Cup - Qualification : Bosnia &amp; Herzegovina vs Switzerland.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260227210000 +0200" stop="20260227230000 +0200" channel="EuropeWorldCupQualificationBosniaampHerzegovinavsSwitzerland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe World Cup - Qualification : Bosnia &amp; Herzegovina vs Switzerland</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <channel id="BadMitterndorfMensHS235SkiFlyingWorldCupQualifying">
+    <display-name>Bad Mitterndorf | Men's HS 235 Ski Flying World Cup | Qualifying</display-name>
+  </channel>
+  <programme start="20260227000000 +0200" stop="20260227143000 +0200" channel="BadMitterndorfMensHS235SkiFlyingWorldCupQualifying">
+    <title lang="it">Inizia alle 14:30.</title>
+    <desc lang="it">Bad Mitterndorf | Men's HS 235 Ski Flying World Cup | Qualifying.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260227143000 +0200" stop="20260227163000 +0200" channel="BadMitterndorfMensHS235SkiFlyingWorldCupQualifying">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Bad Mitterndorf | Men's HS 235 Ski Flying World Cup | Qualifying</desc>
+    <category lang="it">Ski Jumping</category>
+  </programme>
+  <channel id="WorldCupBadMitterndorfHS235SkiFlightMale">
+    <display-name>World Cup | Bad Mitterndorf HS235 Ski Flight | Male</display-name>
+  </channel>
+  <programme start="20260227000000 +0200" stop="20260227110000 +0200" channel="WorldCupBadMitterndorfHS235SkiFlightMale">
+    <title lang="it">Inizia alle 11:00.</title>
+    <desc lang="it">World Cup | Bad Mitterndorf HS235 Ski Flight | Male.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260227110000 +0200" stop="20260227130000 +0200" channel="WorldCupBadMitterndorfHS235SkiFlightMale">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Cup | Bad Mitterndorf HS235 Ski Flight | Male</desc>
+    <category lang="it">Winter Sports</category>
+  </programme>
+  <channel id="WorldCupBadMitterndorfMensCompact75km">
+    <display-name>World Cup Bad Mitterndorf | Men's Compact 7.5km</display-name>
+  </channel>
+  <programme start="20260227000000 +0200" stop="20260227170000 +0200" channel="WorldCupBadMitterndorfMensCompact75km">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">World Cup Bad Mitterndorf | Men's Compact 7.5km.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260227170000 +0200" stop="20260227190000 +0200" channel="WorldCupBadMitterndorfMensCompact75km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Cup Bad Mitterndorf | Men's Compact 7.5km</desc>
+    <category lang="it">Winter Sports</category>
+  </programme>
 </tv>
