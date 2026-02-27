@@ -130,19 +130,6 @@
     <desc lang="it">Welsh Open Round 1 | Quarter-Final | Evening Session</desc>
     <category lang="it">Snooker</category>
   </programme>
-  <channel id="WorldCupSoldeuWomensDownhill">
-    <display-name>World Cup Soldeu | Women's Downhill</display-name>
-  </channel>
-  <programme start="20260227000000 +0200" stop="20260227114500 +0200" channel="WorldCupSoldeuWomensDownhill">
-    <title lang="it">Inizia alle 11:45.</title>
-    <desc lang="it">World Cup Soldeu | Women's Downhill.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260227114500 +0200" stop="20260227134500 +0200" channel="WorldCupSoldeuWomensDownhill">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup Soldeu | Women's Downhill</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
   <channel id="EuropeWorldCupQualificationBosniaampHerzegovinavsSwitzerland">
     <display-name>Europe World Cup - Qualification : Bosnia &amp; Herzegovina vs Switzerland</display-name>
   </channel>
@@ -168,19 +155,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Bad Mitterndorf | Men's HS 235 Ski Flying World Cup | Qualifying</desc>
     <category lang="it">Ski Jumping</category>
-  </programme>
-  <channel id="WorldCupBadMitterndorfHS235SkiFlightMale">
-    <display-name>World Cup | Bad Mitterndorf HS235 Ski Flight | Male</display-name>
-  </channel>
-  <programme start="20260227000000 +0200" stop="20260227110000 +0200" channel="WorldCupBadMitterndorfHS235SkiFlightMale">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">World Cup | Bad Mitterndorf HS235 Ski Flight | Male.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260227110000 +0200" stop="20260227130000 +0200" channel="WorldCupBadMitterndorfHS235SkiFlightMale">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Cup | Bad Mitterndorf HS235 Ski Flight | Male</desc>
-    <category lang="it">Winter Sports</category>
   </programme>
   <channel id="WorldCupBadMitterndorfMensCompact75km">
     <display-name>World Cup Bad Mitterndorf | Men's Compact 7.5km</display-name>
