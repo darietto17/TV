@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="GermanyBundesliga2KaiserslauternvsPaderborn">
-    <display-name>Germany - Bundesliga 2 : Kaiserslautern vs Paderborn</display-name>
-  </channel>
-  <programme start="20260228000000 +0200" stop="20260228140000 +0200" channel="GermanyBundesliga2KaiserslauternvsPaderborn">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Kaiserslautern vs Paderborn.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260228140000 +0200" stop="20260228160000 +0200" channel="GermanyBundesliga2KaiserslauternvsPaderborn">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Kaiserslautern vs Paderborn</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="EnglandPremierLeagueAFCBournemouthvsSunderland">
     <display-name>England - Premier League : AFC Bournemouth vs Sunderland</display-name>
   </channel>
@@ -423,18 +410,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">United Rugby Championship : Dragons vs Treviso</desc>
     <category lang="it">Rugby Union</category>
-  </programme>
-  <channel id="IndividualcompetitonBadMitterndorfHS235">
-    <display-name>Individual competiton | Bad Mitterndorf HS235</display-name>
-  </channel>
-  <programme start="20260228000000 +0200" stop="20260228141500 +0200" channel="IndividualcompetitonBadMitterndorfHS235">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">Individual competiton | Bad Mitterndorf HS235.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260228141500 +0200" stop="20260228161500 +0200" channel="IndividualcompetitonBadMitterndorfHS235">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Individual competiton | Bad Mitterndorf HS235</desc>
-    <category lang="it">Ski Jumping</category>
   </programme>
 </tv>
