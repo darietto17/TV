@@ -78,6 +78,8 @@ https://vavoo.to/vavoo-iptv/play/270562780243aa8d36614f
 https://vavoo.to/vavoo-iptv/play/2826111812745ee617058d
 #EXTINF:-1 tvg-id="caccia.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/caccia-it.png?raw=true" group-title="Altro",CACCIA
 https://vavoo.to/vavoo-iptv/play/1692155417ce364b21d0ca
+#EXTINF:-1 tvg-id="caccia.e.pesca.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/caccia-pesca-it.png?raw=true" group-title="Altro",CACCIA E PESCA
+https://vavoo.to/vavoo-iptv/play/3639213638a7c6a2cc326e
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/DW0Tvz72-8XZ7rEBVh1jBzwYE1fZhTaowuuxN75Jl8yBtnFkySH1z2T2b7OPlotmHeQ" group-title="Altro",CAFE 24
 https://vavoo.to/vavoo-iptv/play/1625923783d5a6dda233b3
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/camera-dei-deputati-it.png?raw=true" group-title="Altro",CAMERA DEI DEPUTATI
@@ -199,8 +201,6 @@ https://vavoo.to/vavoo-iptv/play/273312373c6b3b01f31cf
 https://vavoo.to/vavoo-iptv/play/35697313256d80f80b732e
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/9/93/Eurotv.png" group-title="Altro",EURO TV
 https://vavoo.to/vavoo-iptv/play/422225837740225c1416e8
-#EXTINF:-1 tvg-id="euronews.it" tvg-logo="https://play-lh.googleusercontent.com/Mi8GAQIp3x94VcvbxZNsK-CTNhHy1zmo51pmME5KkkK4WgN4aQhM1FlNgLZUMD4VAXhL" group-title="News",EURONEWS
-https://vavoo.to/vavoo-iptv/play/49095557997f00b59c5b8
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (1)
 https://vavoo.to/vavoo-iptv/play/34813468571b25fb16646d
 #EXTINF:-1 tvg-id="eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (2)
@@ -560,6 +560,8 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&force
 https://vavoo.to/vavoo-iptv/play/178550192490bfbe154312
 #EXTINF:-1 tvg-id="raiyoyo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Rai",RAI YOYO (2)
 https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
+
+# NEWS
 #EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="RAI YOYO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Rai",RAI YOYO (MPD)
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
@@ -747,8 +749,6 @@ https://vavoo.to/vavoo-iptv/play/39395136840a7593b75855
 https://vavoo.to/vavoo-iptv/play/4238969402e69feff53112
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 7 (2)
 https://vavoo.to/vavoo-iptv/play/3618643172a26b31eba4b4
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 7 (2)
-https://vavoo.to/vavoo-iptv/play/3618643172a26b31eba4b4
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 8 (1)
 https://vavoo.to/vavoo-iptv/play/213025533947852942a90f
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 8 (2)
@@ -863,7 +863,7 @@ https://vavoo.to/vavoo-iptv/play/323779351103799e6e03b2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",STAR CRIME
 https://vavoo.to/vavoo-iptv/play/28436429458ff4e2cc4ae6
 
-# NEWS
+# RAI
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.stereo5.it/2022/wp-content/uploads/2023/02/LOGO-NUOVO-2023-2.png" group-title="Altro",STEREO 5 TV
 https://vavoo.to/vavoo-iptv/play/88205050e85664590a6b
 #EXTINF:-1 tvg-id="supertennis.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS (1)
@@ -1006,8 +1006,6 @@ https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStj45lIWvQ0KFzv6jyIP9vOZgPnWQirEl6dw&s" group-title="News",TV7 NEWS
 https://vavoo.to/vavoo-iptv/play/28023290645ecbd632b9ce
-
-# RAI
 #EXTINF:-1 tvg-id="" tvg-logo="https://massimoemanuelli.com/wp-content/uploads/2017/10/tva-vi-2.png" group-title="Altro",TVA VICENZA (1)
 https://vavoo.to/vavoo-iptv/play/3071392662a754d82b0840
 #EXTINF:-1 tvg-id="" tvg-logo="https://massimoemanuelli.com/wp-content/uploads/2017/10/tva-vi-2.png" group-title="Altro",TVA VICENZA (2)
@@ -1048,30 +1046,6 @@ https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecpropatriavsvirtusverona" tvg-name="All Soccer Events | Italy - Serie C : Pro Patria vs Virtus Verona (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pro Patria_vs_Virtus Verona.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pro Patria vs Virtus Verona (18:30)
-https://dlhd.dad/watch.php?id=29
-
-#EXTINF:-1 tvg-id="italyseriectrentovslumezzane" tvg-name="All Soccer Events | Italy - Serie C : Trento vs Lumezzane (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Trento_vs_Lumezzane.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Trento vs Lumezzane (18:30)
-https://dlhd.dad/watch.php?id=30
-
-#EXTINF:-1 tvg-id="italyseriecperugiavspineto" tvg-name="All Soccer Events | Italy - Serie C : Perugia vs Pineto (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Perugia_vs_Pineto.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Perugia vs Pineto (18:30)
-https://dlhd.dad/watch.php?id=28
-
-#EXTINF:-1 tvg-id="italyseriecfoggiavsvirtuscasarano" tvg-name="All Soccer Events | Italy - Serie C : Foggia vs Virtus Casarano (18:30)" tvg-logo="https://www.calciofoggia.it/wp-content/uploads/2019/08/1200px-Logo_Foggia_Calcio_Since_2017.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Foggia vs Virtus Casarano (18:30)
-https://dlhd.dad/watch.php?id=26
-
-#EXTINF:-1 tvg-id="italyseriecfoggiavsvirtuscasarano" tvg-name="All Soccer Events | Italy - Serie C : Foggia vs Virtus Casarano (18:30)" tvg-logo="https://smimgs.com/images/logos/clubs/866.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Foggia vs Virtus Casarano (18:30)
-https://dlhd.dad/watch.php?id=877
-
-#EXTINF:-1 tvg-id="italyseriecpicernovsteamaltamura" tvg-name="All Soccer Events | Italy - Serie C : Picerno vs Team Altamura (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Picerno_vs_Team Altamura.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Picerno vs Team Altamura (18:30)
-https://dlhd.dad/watch.php?id=185
-
-#EXTINF:-1 tvg-id="italyserieaveronavsnapoli" tvg-name="All Soccer Events | Italy - Serie A : Verona vs Napoli (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Verona_vs_Napoli.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Verona vs Napoli (19:00)
-https://dlhd.dad/watch.php?id=877
-
-#EXTINF:-1 tvg-id="germanybundesligaborussiadortmundvsbayernmünchen" tvg-name="All Soccer Events | Germany - Bundesliga : Borussia Dortmund vs Bayern München (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Borussia Dortmund_vs_Bayern München.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Borussia Dortmund vs Bayern München (19:30)
-https://dlhd.dad/watch.php?id=461
-
 #EXTINF:-1 tvg-id="italyseriecsambenedettesevslivorno" tvg-name="All Soccer Events | Italy - Serie C : Sambenedettese vs Livorno (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sambenedettese_vs_Livorno.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Sambenedettese vs Livorno (21:30)
 https://dlhd.dad/watch.php?id=28
 
@@ -1095,12 +1069,6 @@ https://dlhd.dad/watch.php?id=870
 
 #EXTINF:-1 tvg-id="welshopensemifinal" tvg-name="Snooker | Welsh Open | Semi-Final (21:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Snooker | Welsh Open | Semi-Final (21:00)
 https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="unitedrugbychampionshipmunstervszebre" tvg-name="Rugby Union | United Rugby Championship : Munster vs Zebre (19:30)" tvg-logo="https://images.seeklogo.com/logo-png/50/3/universitat-munster-logo-png_seeklogo-501503.png" group-title="Eventi Live DLHD",Rugby Union | United Rugby Championship : Munster vs Zebre (19:30)
-https://dlhd.dad/watch.php?id=460
-
-#EXTINF:-1 tvg-id="unitedrugbychampionshipdragonsvstreviso" tvg-name="Rugby Union | United Rugby Championship : Dragons vs Treviso (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Dragons_vs_Treviso.png" group-title="Eventi Live DLHD",Rugby Union | United Rugby Championship : Dragons vs Treviso (19:30)
-https://dlhd.dad/watch.php?id=462
 
 
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",YeÅil Yalova x Gaziantep FK 11:00
