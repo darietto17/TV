@@ -158,6 +158,8 @@ https://vavoo.to/vavoo-iptv/play/4137427510ef362e6435fc
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",CUSANO NEWS7
 https://vavoo.to/vavoo-iptv/play/861948627bb3b2465ad5a
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",DAZN (MATCH TIME)
+https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
 #EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV (1)
@@ -272,7 +274,9 @@ https://vavoo.to/vavoo-iptv/play/9421530140b5164a467be
 https://vavoo.to/vavoo-iptv/play/28977827817ceeecfaf662
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV (2)
 https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY (1)
+https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY (2)
 https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV (1)
 https://vavoo.to/vavoo-iptv/play/24880174054972ad3227fa
@@ -371,9 +375,7 @@ https://vavoo.to/vavoo-iptv/play/198956233782673579c94b
 https://vavoo.to/vavoo-iptv/play/3538009430947511be2991
 #EXTINF:-1 tvg-id="milan.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/milan-tv-it.png" group-title="Sport",MILAN TV
 https://vavoo.to/vavoo-iptv/play/36572179483992957fcd47
-#EXTINF:-1 tvg-id="motor.trend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND (1)
-https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
-#EXTINF:-1 tvg-id="motor.trend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND (2)
+#EXTINF:-1 tvg-id="motor.trend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND
 https://vavoo.to/vavoo-iptv/play/3889279895a867a5410d74
 #EXTINF:-1 tvg-id="mtv.hd.it" tvg-logo="" group-title="Musica",MTV
 https://vavoo.to/vavoo-iptv/play/3212860676dcc8c28a2be1
@@ -1042,6 +1044,135 @@ https://vavoo.to/vavoo-iptv/play/3069499316a3427a69a204
 https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb
 
 # MEDIASET
+
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="germanybundesliga2kaiserslauternvspaderborn" tvg-name="All Soccer Events | Germany - Bundesliga 2 : Kaiserslautern vs Paderborn (14:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Kaiserslautern_vs_Paderborn.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga 2 : Kaiserslautern vs Paderborn (14:00)
+https://dlhd.dad/watch.php?id=460
+
+#EXTINF:-1 tvg-id="englandpremierleagueafcbournemouthvssunderland" tvg-name="All Soccer Events | England - Premier League : AFC Bournemouth vs Sunderland (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/AFC Bournemouth_vs_Sunderland.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : AFC Bournemouth vs Sunderland (14:30)
+https://dlhd.dad/watch.php?id=461
+
+#EXTINF:-1 tvg-id="italyseriecalbinoleffevsvicenza" tvg-name="All Soccer Events | Italy - Serie C : AlbinoLeffe vs Vicenza (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/AlbinoLeffe_vs_Vicenza.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : AlbinoLeffe vs Vicenza (15:30)
+https://dlhd.dad/watch.php?id=28
+
+#EXTINF:-1 tvg-id="italyseriecdolomitibellunesivsrenate" tvg-name="All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs Renate (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Dolomiti Bellunesi_vs_Renate.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Dolomiti Bellunesi vs Renate (15:30)
+https://dlhd.dad/watch.php?id=27
+
+#EXTINF:-1 tvg-id="italyseriecforlìvssassaritorres" tvg-name="All Soccer Events | Italy - Serie C : Forlì vs Sassari Torres (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Forlì_vs_Sassari Torres.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Forlì vs Sassari Torres (15:30)
+https://dlhd.dad/watch.php?id=29
+
+#EXTINF:-1 tvg-id="italyseriectrapani1905vsatalantaii" tvg-name="All Soccer Events | Italy - Serie C : Trapani 1905 vs Atalanta II (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Trapani 1905_vs_Atalanta II.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Trapani 1905 vs Atalanta II (15:30)
+https://dlhd.dad/watch.php?id=30
+
+#EXTINF:-1 tvg-id="italyserieccavesevsaudacecerignola" tvg-name="All Soccer Events | Italy - Serie C : Cavese vs Audace Cerignola (15:30)" tvg-logo="https://www.atuttocalcio.tv/wp-content/uploads/2024/12/cropped-logo147x80.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Cavese vs Audace Cerignola (15:30)
+https://dlhd.dad/watch.php?id=185
+
+#EXTINF:-1 tvg-id="italyseriecunionbresciavslecco" tvg-name="All Soccer Events | Italy - Serie C : Union Brescia vs Lecco (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Union Brescia_vs_Lecco.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Union Brescia vs Lecco (15:30)
+https://dlhd.dad/watch.php?id=26
+
+#EXTINF:-1 tvg-id="italyseriecunionbresciavslecco" tvg-name="All Soccer Events | Italy - Serie C : Union Brescia vs Lecco (15:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Union Brescia_vs_Lecco.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Union Brescia vs Lecco (15:30)
+https://dlhd.dad/watch.php?id=877
+
+#EXTINF:-1 tvg-id="italyserieacomovslecce" tvg-name="All Soccer Events | Italy - Serie A : Como vs Lecce (16:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Como_vs_Lecce.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Como vs Lecce (16:00)
+https://dlhd.dad/watch.php?id=877
+
+#EXTINF:-1 tvg-id="germanybundesligabayerleverkusenvsmainz05" tvg-name="All Soccer Events | Germany - Bundesliga : Bayer Leverkusen vs Mainz 05 (16:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bayer Leverkusen_vs_Mainz 05.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Bayer Leverkusen vs Mainz 05 (16:30)
+https://dlhd.dad/watch.php?id=462
+
+#EXTINF:-1 tvg-id="englandpremierleaguenewcastleunitedvseverton" tvg-name="All Soccer Events | England - Premier League : Newcastle United vs Everton (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Newcastle United_vs_Everton.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Newcastle United vs Everton (17:00)
+https://dlhd.dad/watch.php?id=460
+
+#EXTINF:-1 tvg-id="italyseriecpropatriavsvirtusverona" tvg-name="All Soccer Events | Italy - Serie C : Pro Patria vs Virtus Verona (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pro Patria_vs_Virtus Verona.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Pro Patria vs Virtus Verona (18:30)
+https://dlhd.dad/watch.php?id=29
+
+#EXTINF:-1 tvg-id="italyseriectrentovslumezzane" tvg-name="All Soccer Events | Italy - Serie C : Trento vs Lumezzane (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Trento_vs_Lumezzane.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Trento vs Lumezzane (18:30)
+https://dlhd.dad/watch.php?id=30
+
+#EXTINF:-1 tvg-id="italyseriecperugiavspineto" tvg-name="All Soccer Events | Italy - Serie C : Perugia vs Pineto (18:30)" tvg-logo="https://www.pineto.com/img/slider/bg/b1_lunik_logo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Perugia vs Pineto (18:30)
+https://dlhd.dad/watch.php?id=28
+
+#EXTINF:-1 tvg-id="italyseriecfoggiavsvirtuscasarano" tvg-name="All Soccer Events | Italy - Serie C : Foggia vs Virtus Casarano (18:30)" tvg-logo="https://www.calciofoggia.it/wp-content/uploads/2019/08/1200px-Logo_Foggia_Calcio_Since_2017.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Foggia vs Virtus Casarano (18:30)
+https://dlhd.dad/watch.php?id=26
+
+#EXTINF:-1 tvg-id="italyseriecfoggiavsvirtuscasarano" tvg-name="All Soccer Events | Italy - Serie C : Foggia vs Virtus Casarano (18:30)" tvg-logo="https://smimgs.com/images/logos/clubs/866.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Foggia vs Virtus Casarano (18:30)
+https://dlhd.dad/watch.php?id=877
+
+#EXTINF:-1 tvg-id="italyseriecpicernovsteamaltamura" tvg-name="All Soccer Events | Italy - Serie C : Picerno vs Team Altamura (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Picerno_vs_Team Altamura.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Picerno vs Team Altamura (18:30)
+https://dlhd.dad/watch.php?id=185
+
+#EXTINF:-1 tvg-id="italyserieaveronavsnapoli" tvg-name="All Soccer Events | Italy - Serie A : Verona vs Napoli (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Verona_vs_Napoli.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Verona vs Napoli (19:00)
+https://dlhd.dad/watch.php?id=877
+
+#EXTINF:-1 tvg-id="germanybundesligaborussiadortmundvsbayernmünchen" tvg-name="All Soccer Events | Germany - Bundesliga : Borussia Dortmund vs Bayern München (19:30)" tvg-logo="https://www.footballkitarchive.com/static/logos/HYnk44M7ddvPUh8/bayern-munchen-1900-1901-logo.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga : Borussia Dortmund vs Bayern München (19:30)
+https://dlhd.dad/watch.php?id=461
+
+#EXTINF:-1 tvg-id="italyseriecsambenedettesevslivorno" tvg-name="All Soccer Events | Italy - Serie C : Sambenedettese vs Livorno (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sambenedettese_vs_Livorno.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Sambenedettese vs Livorno (21:30)
+https://dlhd.dad/watch.php?id=28
+
+#EXTINF:-1 tvg-id="italyseriecsambenedettesevslivorno" tvg-name="All Soccer Events | Italy - Serie C : Sambenedettese vs Livorno (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sambenedettese_vs_Livorno.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Sambenedettese vs Livorno (21:30)
+https://dlhd.dad/watch.php?id=460
+
+#EXTINF:-1 tvg-id="italyseriecascolivsathleticcarpi" tvg-name="All Soccer Events | Italy - Serie C : Ascoli vs Athletic Carpi (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ascoli_vs_Athletic Carpi.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Ascoli vs Athletic Carpi (21:30)
+https://dlhd.dad/watch.php?id=30
+
+#EXTINF:-1 tvg-id="italyseriecinteriivsalcione" tvg-name="All Soccer Events | Italy - Serie C : Inter II vs Alcione (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Inter II_vs_Alcione.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Inter II vs Alcione (21:30)
+https://dlhd.dad/watch.php?id=185
+
+#EXTINF:-1 tvg-id="italyserieainternazionalevsgenoa" tvg-name="All Soccer Events | Italy - Serie A : Internazionale vs Genoa (21:45)" tvg-logo="https://png.pngtree.com/png-clipart/20230315/original/pngtree-international-womens-day-we-can-do-it-poster-strong-girl-symbol-png-image_8989810.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Internazionale vs Genoa (21:45)
+https://dlhd.dad/watch.php?id=26
+
+#EXTINF:-1 tvg-id="italyserieainternazionalevsgenoa" tvg-name="All Soccer Events | Italy - Serie A : Internazionale vs Genoa (21:45)" tvg-logo="https://png.pngtree.com/png-clipart/20230315/original/pngtree-international-womens-day-we-can-do-it-poster-strong-girl-symbol-png-image_8989810.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Internazionale vs Genoa (21:45)
+https://dlhd.dad/watch.php?id=461
+
+#EXTINF:-1 tvg-id="italyserieainternazionalevsgenoa" tvg-name="All Soccer Events | Italy - Serie A : Internazionale vs Genoa (21:45)" tvg-logo="https://png.pngtree.com/png-clipart/20230315/original/pngtree-international-womens-day-we-can-do-it-poster-strong-girl-symbol-png-image_8989810.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Internazionale vs Genoa (21:45)
+https://dlhd.dad/watch.php?id=870
+
+#EXTINF:-1 tvg-id="acapulcoatpdubaiatpaustinwtasantiagoatpampmeridawtaearlyrounds" tvg-name="Tennis | Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds (15:00)" tvg-logo="https://www.catholicearlyedcare.qld.edu.au/wp-content/uploads/2024/06/ATP_CEEC_CLEAR_IS_0124_0147-CROP-555x555.png" group-title="Eventi Live DLHD",Tennis | Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds (15:00)
+https://dlhd.dad/watch.php?id=576
+
+#EXTINF:-1 tvg-id="moto3thailandsgpqualifying" tvg-name="Motorsport | Moto3 : Thailands GP Qualifying (07:45)" tvg-logo="https://png.pngtree.com/png-clipart/20240927/original/pngtree-celebration-2025-logo-png-image_16102829.png" group-title="Eventi Live DLHD",Motorsport | Moto3 : Thailands GP Qualifying (07:45)
+https://dlhd.dad/watch.php?id=575
+
+#EXTINF:-1 tvg-id="moto2thailandsgpqualifying" tvg-name="Motorsport | Moto2 : Thailands GP Qualifying (08:45)" tvg-logo="https://1.bp.blogspot.com/-dt6mSIGyYDs/XPVByA3agjI/AAAAAAAAIJs/_6R4IvD5Gh43Bsk4SSoCKUveuK953FQkgCLcBGAs/s72-c/Moto2%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live DLHD",Motorsport | Moto2 : Thailands GP Qualifying (08:45)
+https://dlhd.dad/watch.php?id=575
+
+#EXTINF:-1 tvg-id="motogpthailandsgpsprintrace" tvg-name="Motorsport | MotoGP : Thailands GP Sprint Race (09:45)" tvg-logo="https://images.seeklogo.com/logo-png/41/3/motogp-logo-png_seeklogo-410139.png" group-title="Eventi Live DLHD",Motorsport | MotoGP : Thailands GP Sprint Race (09:45)
+https://dlhd.dad/watch.php?id=575
+
+#EXTINF:-1 tvg-id="welshopensemifinal" tvg-name="Snooker | Welsh Open | Semi-Final (15:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Snooker | Welsh Open | Semi-Final (15:00)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="welshopensemifinal" tvg-name="Snooker | Welsh Open | Semi-Final (21:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Snooker | Welsh Open | Semi-Final (21:00)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="supergsoldeuladies" tvg-name="Alpine Ski | Super-G | Soldeu Ladies (11:00)" tvg-logo="https://static.wixstatic.com/media/6ddd97_ea58e6c6744c4b1da267398a2a9162ad~mv2.png/v1/fit/w_500,h_500,q_90/file.png" group-title="Eventi Live DLHD",Alpine Ski | Super-G | Soldeu Ladies (11:00)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="downhillgarmischpartenkirchen" tvg-name="Alpine Ski | Downhill | Garmisch-Partenkirchen (12:30)" tvg-logo="https://www.jrtoycanada.ca/images/detailed/118/MagnaTiles-DownhillDuo40PieceSet-Box.png" group-title="Eventi Live DLHD",Alpine Ski | Downhill | Garmisch-Partenkirchen (12:30)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="kopaonikskicrossworldcupday2" tvg-name="Cross Country | Kopaonik | Ski Cross World Cup | Day 2 (11:00)" tvg-logo="https://montecco.com/wp-content/uploads/Vocar-Kopaonik-2.png" group-title="Eventi Live DLHD",Cross Country | Kopaonik | Ski Cross World Cup | Day 2 (11:00)
+https://dlhd.dad/watch.php?id=879
+
+#EXTINF:-1 tvg-id="circuithetnieuwsbladmenghentninove2076km" tvg-name="Cycling | Circuit Het Nieuwsblad Men | Ghent – ??Ninove (207.6km) (14:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | Circuit Het Nieuwsblad Men | Ghent – ??Ninove (207.6km) (14:30)
+https://dlhd.dad/watch.php?id=879
+
+#EXTINF:-1 tvg-id="circuithetnieuwsbladwomenghentninove1379km" tvg-name="Cycling | Circuit Het Nieuwsblad Women | Ghent - Ninove (137.9km) (17:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | Circuit Het Nieuwsblad Women | Ghent - Ninove (137.9km) (17:00)
+https://dlhd.dad/watch.php?id=879
+
+#EXTINF:-1 tvg-id="unitedrugbychampionshipmunstervszebre" tvg-name="Rugby Union | United Rugby Championship : Munster vs Zebre (19:30)" tvg-logo="https://images.seeklogo.com/logo-png/50/3/universitat-munster-logo-png_seeklogo-501503.png" group-title="Eventi Live DLHD",Rugby Union | United Rugby Championship : Munster vs Zebre (19:30)
+https://dlhd.dad/watch.php?id=460
+
+#EXTINF:-1 tvg-id="unitedrugbychampionshipdragonsvstreviso" tvg-name="Rugby Union | United Rugby Championship : Dragons vs Treviso (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Dragons_vs_Treviso.png" group-title="Eventi Live DLHD",Rugby Union | United Rugby Championship : Dragons vs Treviso (19:30)
+https://dlhd.dad/watch.php?id=462
+
+#EXTINF:-1 tvg-id="individualcompetitonbadmitterndorfhs235" tvg-name="Ski Jumping | Individual competiton | Bad Mitterndorf HS235 (14:15)" tvg-logo="https://146218464.cdn6.editmysite.com/uploads/1/4/6/2/146218464/s646342190666760572_p18_i9_w1000.png" group-title="Eventi Live DLHD",Ski Jumping | Individual competiton | Bad Mitterndorf HS235 (14:15)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="kopaonikskicrossworldcupday2" tvg-name="Winter Sports | Kopaonik | Ski Cross World Cup | Day 2 (11:00)" tvg-logo="https://montecco.com/wp-content/uploads/Vocar-Kopaonik-2.png" group-title="Eventi Live DLHD",Winter Sports | Kopaonik | Ski Cross World Cup | Day 2 (11:00)
+https://dlhd.dad/watch.php?id=879
 
 
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",YeÅil Yalova x Gaziantep FK 11:00
