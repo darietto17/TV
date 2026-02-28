@@ -1,119 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="EnglandPremierLeagueAFCBournemouthvsSunderland">
-    <display-name>England - Premier League : AFC Bournemouth vs Sunderland</display-name>
-  </channel>
-  <programme start="20260228000000 +0200" stop="20260228143000 +0200" channel="EnglandPremierLeagueAFCBournemouthvsSunderland">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">England - Premier League : AFC Bournemouth vs Sunderland.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260228143000 +0200" stop="20260228163000 +0200" channel="EnglandPremierLeagueAFCBournemouthvsSunderland">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : AFC Bournemouth vs Sunderland</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCAlbinoLeffevsVicenza">
-    <display-name>Italy - Serie C : AlbinoLeffe vs Vicenza</display-name>
-  </channel>
-  <programme start="20260228000000 +0200" stop="20260228153000 +0200" channel="ItalySerieCAlbinoLeffevsVicenza">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : AlbinoLeffe vs Vicenza.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260228153000 +0200" stop="20260228173000 +0200" channel="ItalySerieCAlbinoLeffevsVicenza">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : AlbinoLeffe vs Vicenza</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCDolomitiBellunesivsRenate">
-    <display-name>Italy - Serie C : Dolomiti Bellunesi vs Renate</display-name>
-  </channel>
-  <programme start="20260228000000 +0200" stop="20260228153000 +0200" channel="ItalySerieCDolomitiBellunesivsRenate">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Dolomiti Bellunesi vs Renate.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260228153000 +0200" stop="20260228173000 +0200" channel="ItalySerieCDolomitiBellunesivsRenate">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Dolomiti Bellunesi vs Renate</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCForlvsSassariTorres">
-    <display-name>Italy - Serie C : Forlì vs Sassari Torres</display-name>
-  </channel>
-  <programme start="20260228000000 +0200" stop="20260228153000 +0200" channel="ItalySerieCForlvsSassariTorres">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Forlì vs Sassari Torres.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260228153000 +0200" stop="20260228173000 +0200" channel="ItalySerieCForlvsSassariTorres">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Forlì vs Sassari Torres</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCTrapani1905vsAtalantaII">
-    <display-name>Italy - Serie C : Trapani 1905 vs Atalanta II</display-name>
-  </channel>
-  <programme start="20260228000000 +0200" stop="20260228153000 +0200" channel="ItalySerieCTrapani1905vsAtalantaII">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Trapani 1905 vs Atalanta II.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260228153000 +0200" stop="20260228173000 +0200" channel="ItalySerieCTrapani1905vsAtalantaII">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Trapani 1905 vs Atalanta II</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCCavesevsAudaceCerignola">
-    <display-name>Italy - Serie C : Cavese vs Audace Cerignola</display-name>
-  </channel>
-  <programme start="20260228000000 +0200" stop="20260228153000 +0200" channel="ItalySerieCCavesevsAudaceCerignola">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Cavese vs Audace Cerignola.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260228153000 +0200" stop="20260228173000 +0200" channel="ItalySerieCCavesevsAudaceCerignola">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Cavese vs Audace Cerignola</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCUnionBresciavsLecco">
-    <display-name>Italy - Serie C : Union Brescia vs Lecco</display-name>
-  </channel>
-  <programme start="20260228000000 +0200" stop="20260228153000 +0200" channel="ItalySerieCUnionBresciavsLecco">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Union Brescia vs Lecco.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260228153000 +0200" stop="20260228173000 +0200" channel="ItalySerieCUnionBresciavsLecco">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Union Brescia vs Lecco</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260228000000 +0200" stop="20260228153000 +0200" channel="ItalySerieCUnionBresciavsLecco">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Italy - Serie C : Union Brescia vs Lecco.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260228153000 +0200" stop="20260228173000 +0200" channel="ItalySerieCUnionBresciavsLecco">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Union Brescia vs Lecco</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieAComovsLecce">
-    <display-name>Italy - Serie A : Como vs Lecce</display-name>
-  </channel>
-  <programme start="20260228000000 +0200" stop="20260228160000 +0200" channel="ItalySerieAComovsLecce">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Italy - Serie A : Como vs Lecce.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260228160000 +0200" stop="20260228180000 +0200" channel="ItalySerieAComovsLecce">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Como vs Lecce</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="GermanyBundesligaBayerLeverkusenvsMainz05">
     <display-name>Germany - Bundesliga : Bayer Leverkusen vs Mainz 05</display-name>
   </channel>
@@ -323,33 +209,10 @@
     <desc lang="it">Italy - Serie A : Internazionale vs Genoa</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="AcapulcoATPDubaiATPAustinWTASantiagoATPampMeridaWTAEarlyRounds">
-    <display-name>Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds</display-name>
-  </channel>
-  <programme start="20260228000000 +0200" stop="20260228150000 +0200" channel="AcapulcoATPDubaiATPAustinWTASantiagoATPampMeridaWTAEarlyRounds">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260228150000 +0200" stop="20260228170000 +0200" channel="AcapulcoATPDubaiATPAustinWTASantiagoATPampMeridaWTAEarlyRounds">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Acapulco-ATP, Dubai-ATP, Austin-WTA, Santiago-ATP &amp; Merida-WTA Early Rounds</desc>
-    <category lang="it">Tennis</category>
-  </programme>
   <channel id="WelshOpenSemiFinal">
     <display-name>Welsh Open | Semi-Final</display-name>
   </channel>
-  <programme start="20260228000000 +0200" stop="20260228150000 +0200" channel="WelshOpenSemiFinal">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">Welsh Open | Semi-Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260228150000 +0200" stop="20260228170000 +0200" channel="WelshOpenSemiFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Welsh Open | Semi-Final</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20260228170000 +0200" stop="20260228210000 +0200" channel="WelshOpenSemiFinal">
+  <programme start="20260228000000 +0200" stop="20260228210000 +0200" channel="WelshOpenSemiFinal">
     <title lang="it">Inizia alle 21:00.</title>
     <desc lang="it">Welsh Open | Semi-Final.</desc>
     <category lang="it">Annuncio</category>
@@ -358,19 +221,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Welsh Open | Semi-Final</desc>
     <category lang="it">Snooker</category>
-  </programme>
-  <channel id="CircuitHetNieuwsbladMenGhentNinove2076km">
-    <display-name>Circuit Het Nieuwsblad Men | Ghent – ??Ninove (207.6km)</display-name>
-  </channel>
-  <programme start="20260228000000 +0200" stop="20260228143000 +0200" channel="CircuitHetNieuwsbladMenGhentNinove2076km">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">Circuit Het Nieuwsblad Men | Ghent – ??Ninove (207.6km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260228143000 +0200" stop="20260228163000 +0200" channel="CircuitHetNieuwsbladMenGhentNinove2076km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Circuit Het Nieuwsblad Men | Ghent – ??Ninove (207.6km)</desc>
-    <category lang="it">Cycling</category>
   </programme>
   <channel id="CircuitHetNieuwsbladWomenGhentNinove1379km">
     <display-name>Circuit Het Nieuwsblad Women | Ghent - Ninove (137.9km)</display-name>
