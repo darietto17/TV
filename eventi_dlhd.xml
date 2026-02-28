@@ -1,31 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieAVeronavsNapoli">
-    <display-name>Italy - Serie A : Verona vs Napoli</display-name>
-  </channel>
-  <programme start="20260228000000 +0200" stop="20260228190000 +0200" channel="ItalySerieAVeronavsNapoli">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">Italy - Serie A : Verona vs Napoli.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260228190000 +0200" stop="20260228210000 +0200" channel="ItalySerieAVeronavsNapoli">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Verona vs Napoli</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="GermanyBundesligaBorussiaDortmundvsBayernMnchen">
-    <display-name>Germany - Bundesliga : Borussia Dortmund vs Bayern München</display-name>
-  </channel>
-  <programme start="20260228000000 +0200" stop="20260228193000 +0200" channel="GermanyBundesligaBorussiaDortmundvsBayernMnchen">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">Germany - Bundesliga : Borussia Dortmund vs Bayern München.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260228193000 +0200" stop="20260228213000 +0200" channel="GermanyBundesligaBorussiaDortmundvsBayernMnchen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga : Borussia Dortmund vs Bayern München</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalySerieCSambenedettesevsLivorno">
     <display-name>Italy - Serie C : Sambenedettese vs Livorno</display-name>
   </channel>
@@ -120,31 +94,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Welsh Open | Semi-Final</desc>
     <category lang="it">Snooker</category>
-  </programme>
-  <channel id="UnitedRugbyChampionshipMunstervsZebre">
-    <display-name>United Rugby Championship : Munster vs Zebre</display-name>
-  </channel>
-  <programme start="20260228000000 +0200" stop="20260228193000 +0200" channel="UnitedRugbyChampionshipMunstervsZebre">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">United Rugby Championship : Munster vs Zebre.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260228193000 +0200" stop="20260228213000 +0200" channel="UnitedRugbyChampionshipMunstervsZebre">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">United Rugby Championship : Munster vs Zebre</desc>
-    <category lang="it">Rugby Union</category>
-  </programme>
-  <channel id="UnitedRugbyChampionshipDragonsvsTreviso">
-    <display-name>United Rugby Championship : Dragons vs Treviso</display-name>
-  </channel>
-  <programme start="20260228000000 +0200" stop="20260228193000 +0200" channel="UnitedRugbyChampionshipDragonsvsTreviso">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">United Rugby Championship : Dragons vs Treviso.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260228193000 +0200" stop="20260228213000 +0200" channel="UnitedRugbyChampionshipDragonsvsTreviso">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">United Rugby Championship : Dragons vs Treviso</desc>
-    <category lang="it">Rugby Union</category>
   </programme>
 </tv>
