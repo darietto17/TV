@@ -1,106 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="GermanyBundesligaBayerLeverkusenvsMainz05">
-    <display-name>Germany - Bundesliga : Bayer Leverkusen vs Mainz 05</display-name>
-  </channel>
-  <programme start="20260228000000 +0200" stop="20260228163000 +0200" channel="GermanyBundesligaBayerLeverkusenvsMainz05">
-    <title lang="it">Inizia alle 16:30.</title>
-    <desc lang="it">Germany - Bundesliga : Bayer Leverkusen vs Mainz 05.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260228163000 +0200" stop="20260228183000 +0200" channel="GermanyBundesligaBayerLeverkusenvsMainz05">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga : Bayer Leverkusen vs Mainz 05</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="EnglandPremierLeagueNewcastleUnitedvsEverton">
-    <display-name>England - Premier League : Newcastle United vs Everton</display-name>
-  </channel>
-  <programme start="20260228000000 +0200" stop="20260228170000 +0200" channel="EnglandPremierLeagueNewcastleUnitedvsEverton">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">England - Premier League : Newcastle United vs Everton.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260228170000 +0200" stop="20260228190000 +0200" channel="EnglandPremierLeagueNewcastleUnitedvsEverton">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Newcastle United vs Everton</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCProPatriavsVirtusVerona">
-    <display-name>Italy - Serie C : Pro Patria vs Virtus Verona</display-name>
-  </channel>
-  <programme start="20260228000000 +0200" stop="20260228183000 +0200" channel="ItalySerieCProPatriavsVirtusVerona">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Italy - Serie C : Pro Patria vs Virtus Verona.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260228183000 +0200" stop="20260228203000 +0200" channel="ItalySerieCProPatriavsVirtusVerona">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Pro Patria vs Virtus Verona</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCTrentovsLumezzane">
-    <display-name>Italy - Serie C : Trento vs Lumezzane</display-name>
-  </channel>
-  <programme start="20260228000000 +0200" stop="20260228183000 +0200" channel="ItalySerieCTrentovsLumezzane">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Italy - Serie C : Trento vs Lumezzane.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260228183000 +0200" stop="20260228203000 +0200" channel="ItalySerieCTrentovsLumezzane">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Trento vs Lumezzane</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCPerugiavsPineto">
-    <display-name>Italy - Serie C : Perugia vs Pineto</display-name>
-  </channel>
-  <programme start="20260228000000 +0200" stop="20260228183000 +0200" channel="ItalySerieCPerugiavsPineto">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Italy - Serie C : Perugia vs Pineto.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260228183000 +0200" stop="20260228203000 +0200" channel="ItalySerieCPerugiavsPineto">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Perugia vs Pineto</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCFoggiavsVirtusCasarano">
-    <display-name>Italy - Serie C : Foggia vs Virtus Casarano</display-name>
-  </channel>
-  <programme start="20260228000000 +0200" stop="20260228183000 +0200" channel="ItalySerieCFoggiavsVirtusCasarano">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Italy - Serie C : Foggia vs Virtus Casarano.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260228183000 +0200" stop="20260228203000 +0200" channel="ItalySerieCFoggiavsVirtusCasarano">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Foggia vs Virtus Casarano</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260228000000 +0200" stop="20260228183000 +0200" channel="ItalySerieCFoggiavsVirtusCasarano">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Italy - Serie C : Foggia vs Virtus Casarano.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260228183000 +0200" stop="20260228203000 +0200" channel="ItalySerieCFoggiavsVirtusCasarano">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Foggia vs Virtus Casarano</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCPicernovsTeamAltamura">
-    <display-name>Italy - Serie C : Picerno vs Team Altamura</display-name>
-  </channel>
-  <programme start="20260228000000 +0200" stop="20260228183000 +0200" channel="ItalySerieCPicernovsTeamAltamura">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Italy - Serie C : Picerno vs Team Altamura.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260228183000 +0200" stop="20260228203000 +0200" channel="ItalySerieCPicernovsTeamAltamura">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Picerno vs Team Altamura</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalySerieAVeronavsNapoli">
     <display-name>Italy - Serie A : Verona vs Napoli</display-name>
   </channel>
@@ -221,19 +120,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Welsh Open | Semi-Final</desc>
     <category lang="it">Snooker</category>
-  </programme>
-  <channel id="CircuitHetNieuwsbladWomenGhentNinove1379km">
-    <display-name>Circuit Het Nieuwsblad Women | Ghent - Ninove (137.9km)</display-name>
-  </channel>
-  <programme start="20260228000000 +0200" stop="20260228170000 +0200" channel="CircuitHetNieuwsbladWomenGhentNinove1379km">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">Circuit Het Nieuwsblad Women | Ghent - Ninove (137.9km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260228170000 +0200" stop="20260228190000 +0200" channel="CircuitHetNieuwsbladWomenGhentNinove1379km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Circuit Het Nieuwsblad Women | Ghent - Ninove (137.9km)</desc>
-    <category lang="it">Cycling</category>
   </programme>
   <channel id="UnitedRugbyChampionshipMunstervsZebre">
     <display-name>United Rugby Championship : Munster vs Zebre</display-name>
