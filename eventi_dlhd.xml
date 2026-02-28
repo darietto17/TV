@@ -372,45 +372,6 @@
     <desc lang="it">Welsh Open | Semi-Final</desc>
     <category lang="it">Snooker</category>
   </programme>
-  <channel id="SuperGSoldeuLadies">
-    <display-name>Super-G | Soldeu Ladies</display-name>
-  </channel>
-  <programme start="20260228000000 +0200" stop="20260228110000 +0200" channel="SuperGSoldeuLadies">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">Super-G | Soldeu Ladies.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260228110000 +0200" stop="20260228130000 +0200" channel="SuperGSoldeuLadies">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Super-G | Soldeu Ladies</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
-  <channel id="DownhillGarmischPartenkirchen">
-    <display-name>Downhill | Garmisch-Partenkirchen</display-name>
-  </channel>
-  <programme start="20260228000000 +0200" stop="20260228123000 +0200" channel="DownhillGarmischPartenkirchen">
-    <title lang="it">Inizia alle 12:30.</title>
-    <desc lang="it">Downhill | Garmisch-Partenkirchen.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260228123000 +0200" stop="20260228143000 +0200" channel="DownhillGarmischPartenkirchen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Downhill | Garmisch-Partenkirchen</desc>
-    <category lang="it">Alpine Ski</category>
-  </programme>
-  <channel id="KopaonikSkiCrossWorldCupDay2">
-    <display-name>Kopaonik | Ski Cross World Cup | Day 2</display-name>
-  </channel>
-  <programme start="20260228000000 +0200" stop="20260228110000 +0200" channel="KopaonikSkiCrossWorldCupDay2">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">Kopaonik | Ski Cross World Cup | Day 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260228110000 +0200" stop="20260228130000 +0200" channel="KopaonikSkiCrossWorldCupDay2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Kopaonik | Ski Cross World Cup | Day 2</desc>
-    <category lang="it">Cross Country</category>
-  </programme>
   <channel id="CircuitHetNieuwsbladMenGhentNinove2076km">
     <display-name>Circuit Het Nieuwsblad Men | Ghent – ??Ninove (207.6km)</display-name>
   </channel>
@@ -475,15 +436,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Individual competiton | Bad Mitterndorf HS235</desc>
     <category lang="it">Ski Jumping</category>
-  </programme>
-  <programme start="20260228000000 +0200" stop="20260228110000 +0200" channel="KopaonikSkiCrossWorldCupDay2">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">Kopaonik | Ski Cross World Cup | Day 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260228110000 +0200" stop="20260228130000 +0200" channel="KopaonikSkiCrossWorldCupDay2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Kopaonik | Ski Cross World Cup | Day 2</desc>
-    <category lang="it">Winter Sports</category>
   </programme>
 </tv>
