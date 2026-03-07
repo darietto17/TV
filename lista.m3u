@@ -78,8 +78,6 @@ https://vavoo.to/vavoo-iptv/play/270562780243aa8d36614f
 https://vavoo.to/vavoo-iptv/play/2826111812745ee617058d
 #EXTINF:-1 tvg-id="caccia.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/caccia-it.png?raw=true" group-title="Altro",CACCIA
 https://vavoo.to/vavoo-iptv/play/1692155417ce364b21d0ca
-#EXTINF:-1 tvg-id="caccia.e.pesca.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/caccia-pesca-it.png?raw=true" group-title="Altro",CACCIA E PESCA
-https://vavoo.to/vavoo-iptv/play/3639213638a7c6a2cc326e
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/DW0Tvz72-8XZ7rEBVh1jBzwYE1fZhTaowuuxN75Jl8yBtnFkySH1z2T2b7OPlotmHeQ" group-title="Altro",CAFE 24
 https://vavoo.to/vavoo-iptv/play/1625923783d5a6dda233b3
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/camera-dei-deputati-it.png?raw=true" group-title="Altro",CAMERA DEI DEPUTATI
@@ -158,12 +156,8 @@ https://vavoo.to/vavoo-iptv/play/4137427510ef362e6435fc
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",CUSANO NEWS7
 https://vavoo.to/vavoo-iptv/play/861948627bb3b2465ad5a
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",DAZN (MATCH TIME)
-https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
-#EXTINF:-1 tvg-id="dazn.2.it.it" tvg-logo="" group-title="Sport",DAZN 2
-https://vavoo.to/vavoo-iptv/play/3635062218e0132c616db
 #EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV (1)
 https://vavoo.to/vavoo-iptv/play/963607327f90ada131395
 #EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV (2)
@@ -224,6 +218,8 @@ https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
 https://dlhd.dad/watch.php?id=879
 #EXTINF:-1 tvg-id="eurosport.2.it" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (MPD)
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport2)/manifest.mpd&key_id=e8372283a523444c84646c4172b1bc0f&key=969a90e1a1a6424a68fe4b5d776368ec
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 2 TIMVISION
+https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 4 TIMVISION
 https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 5 TIMVISION
@@ -381,8 +377,6 @@ https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
 https://vavoo.to/vavoo-iptv/play/3889279895a867a5410d74
 #EXTINF:-1 tvg-id="mtv.hd.it" tvg-logo="" group-title="Musica",MTV
 https://vavoo.to/vavoo-iptv/play/3212860676dcc8c28a2be1
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/mtv-hits-rs.png?raw=true" group-title="Musica",MTV HITS
-https://vavoo.to/vavoo-iptv/play/3446813098b031eef6dc22
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (1)
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (2)
@@ -393,6 +387,8 @@ https://vavoo.to/vavoo-iptv/play/3428501495a9ec2ff7bc8e
 https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
 #EXTINF:-1 tvg-id="nick.jr.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini",NICK JR
 https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065
+#EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Altro",NICKELODEON
+https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c
 #EXTINF:-1 tvg-id="nove.it" tvg-logo="" group-title="Altro",NOVE
 https://vavoo.to/vavoo-iptv/play/867216452ba4d42b41ada
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/570326948497195008/Wf6DPfFP_400x400.jpeg" group-title="Musica",OL3 RADIO
@@ -1108,7 +1104,7 @@ https://dlhd.dad/watch.php?id=22
 #EXTINF:-1 tvg-id="italyseriecunionbresciavstriestina" tvg-name="All Soccer Events | Italy - Serie C : Union Brescia vs Triestina (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Union Brescia_vs_Triestina.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Union Brescia vs Triestina (18:30)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="italyserieaatalantavsudinese" tvg-name="All Soccer Events | Italy - Serie A : Atalanta vs Udinese (19:00)" tvg-logo="https://images.seeklogo.com/logo-png/50/2/atalanta-logo-png_seeklogo-503108.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Atalanta vs Udinese (19:00)
+#EXTINF:-1 tvg-id="italyserieaatalantavsudinese" tvg-name="All Soccer Events | Italy - Serie A : Atalanta vs Udinese (19:00)" tvg-logo="https://static0.givemesportimages.com/wordpress/wp-content/uploads/2024/08/atalanta_logo_resized.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Atalanta vs Udinese (19:00)
 https://dlhd.dad/watch.php?id=877
 
 #EXTINF:-1 tvg-id="fifawomensworldcupqualifyingitalyvsdenmark" tvg-name="All Soccer Events | FIFA Women's World Cup Qualifying : Italy vs Denmark (19:15)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy_vs_Denmark.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA Women's World Cup Qualifying : Italy vs Denmark (19:15)
@@ -1126,19 +1122,13 @@ https://dlhd.dad/watch.php?id=461
 #EXTINF:-1 tvg-id="italyserieajuventusvspisa" tvg-name="All Soccer Events | Italy - Serie A : Juventus vs Pisa (21:45)" tvg-logo="https://www.lfootball.it/wp-content/uploads/2020/12/Juventus_Logo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Juventus vs Pisa (21:45)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="2026bnpparibasopentennisatpwtafirstround" tvg-name="Tennis | 2026 BNP Paribas Open Tennis ATP/WTA First Round (05:00)" tvg-logo="https://assets.stickpng.com/images/626658201e92f9aac65b5bb4.png" group-title="Eventi Live DLHD",Tennis | 2026 BNP Paribas Open Tennis ATP/WTA First Round (05:00)
-https://dlhd.dad/watch.php?id=576
-
 #EXTINF:-1 tvg-id="formula1qatarairwaysaustraliangpqualifying" tvg-name="Motorsport | Formula 1 : Qatar Airways Australian GP - Qualifying (07:00)" tvg-logo="https://www.dtti.it/wp-content/uploads/2022/07/formula-1-logo-0.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Qatar Airways Australian GP - Qualifying (07:00)
-https://dlhd.dad/watch.php?id=577
-
-#EXTINF:-1 tvg-id="formula1qatarairwaysaustraliangpgrandprixsunday" tvg-name="Motorsport | Formula 1 : Qatar Airways Australian GP - Grand Prix Sunday (05:00)" tvg-logo="https://www.dtti.it/wp-content/uploads/2022/07/formula-1-logo-0.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Qatar Airways Australian GP - Grand Prix Sunday (05:00)
 https://dlhd.dad/watch.php?id=577
 
 #EXTINF:-1 tvg-id="kranjskagoramensgiantslalomworldcuprun1" tvg-name="Alpine Ski | Kranjska Gora | Men's Giant Slalom World Cup | Run 1 (10:15)" tvg-logo="https://www.skipasstravel.si/design/images/flags/sl.png" group-title="Eventi Live DLHD",Alpine Ski | Kranjska Gora | Men's Giant Slalom World Cup | Run 1 (10:15)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="kranjskagoramensgiantslalomworldcuprun2" tvg-name="Alpine Ski | Kranjska Gora | Men's Giant Slalom World Cup | Run 2 (13:15)" tvg-logo="https://www.skipasstravel.si/design/images/flags/sl.png" group-title="Eventi Live DLHD",Alpine Ski | Kranjska Gora | Men's Giant Slalom World Cup | Run 2 (13:15)
+#EXTINF:-1 tvg-id="kranjskagoramensgiantslalomworldcuprun2" tvg-name="Alpine Ski | Kranjska Gora | Men's Giant Slalom World Cup | Run 2 (13:15)" tvg-logo="http://ski-kranjska-gora.axess.shop/Images/maintaince_desktop.png" group-title="Eventi Live DLHD",Alpine Ski | Kranjska Gora | Men's Giant Slalom World Cup | Run 2 (13:15)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="ibuworldcupkontiolahtiwomen125kmmassstartcompetition" tvg-name="Biathlon | IBU World Cup Kontiolahti Women 12.5 km Mass Start Competition (14:00)" tvg-logo="https://scope.ibu.at/IBUofficiallogo.svg.png" group-title="Eventi Live DLHD",Biathlon | IBU World Cup Kontiolahti Women 12.5 km Mass Start Competition (14:00)
@@ -1150,7 +1140,7 @@ https://dlhd.dad/watch.php?id=879
 #EXTINF:-1 tvg-id="lahtimensandwomenssprintfreestyleworldcupqualifying" tvg-name="Cross Country | Lahti | Men's and Women's Sprint Freestyle World Cup | Qualifying (10:00)" tvg-logo="https://www.lahtilottery.com/img/logo.png" group-title="Eventi Live DLHD",Cross Country | Lahti | Men's and Women's Sprint Freestyle World Cup | Qualifying (10:00)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="stradebianchemensiena2021km" tvg-name="Cycling | Strade Bianche Men | Siena (202.1km) (15:20)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | Strade Bianche Men | Siena (202.1km) (15:20)
+#EXTINF:-1 tvg-id="stradebianchemensiena2021km" tvg-name="Cycling | Strade Bianche Men | Siena (202.1km) (15:20)" tvg-logo="https://gfstradebianche.it/wp-content/uploads/2023/12/bibshort-wom-retro.png" group-title="Eventi Live DLHD",Cycling | Strade Bianche Men | Siena (202.1km) (15:20)
 https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="sixnationsscotlandvsfrance" tvg-name="Rugby Union | Six Nations : Scotland vs France (16:10)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Scotland_vs_France.png" group-title="Eventi Live DLHD",Rugby Union | Six Nations : Scotland vs France (16:10)
