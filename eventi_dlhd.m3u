@@ -2,12 +2,42 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecternanavsgubbio" tvg-name="Soccer | Italy - Serie C : Ternana vs Gubbio (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ternana_vs_Gubbio.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Ternana vs Gubbio (21:30)
-https://dlhd.dad/watch.php?id=162
+#EXTINF:-1 tvg-id="italyserieccampobassovsarezzo" tvg-name="Soccer | Italy - Serie C : Campobasso vs Arezzo (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Campobasso_vs_Arezzo.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Campobasso vs Arezzo (21:30)
+https://dlhd.dad/watch.php?id=10
 
-#EXTINF:-1 tvg-id="italyserieccavesevspicerno" tvg-name="Soccer | Italy - Serie C : Cavese vs Picerno (21:30)" tvg-logo="https://www.fcsorrento.com/wp-content/uploads/2023/08/Logo-Picerno-333x400.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Cavese vs Picerno (21:30)
-https://dlhd.dad/watch.php?id=30
+#EXTINF:-1 tvg-id="italyseriecperugiavspontedera" tvg-name="Soccer | Italy - Serie C : Perugia vs Pontedera (21:30)" tvg-logo="https://www.ngmadv.it/wp-content/uploads/2018/05/pontedera_logo.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Perugia vs Pontedera (21:30)
+https://dlhd.dad/watch.php?id=11
 
-#EXTINF:-1 tvg-id="italyserieamilanvsinternazionale" tvg-name="Soccer | Italy - Serie A : Milan vs Internazionale (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Milan_vs_Internazionale.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Milan vs Internazionale (21:45)
-https://dlhd.dad/watch.php?id=877
+#EXTINF:-1 tvg-id="italyseriecascolivsravenna" tvg-name="Soccer | Italy - Serie C : Ascoli vs Ravenna (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ascoli_vs_Ravenna.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Ascoli vs Ravenna (21:30)
+https://dlhd.dad/watch.php?id=12
+
+#EXTINF:-1 tvg-id="italyseriecascolivsravenna" tvg-name="Soccer | Italy - Serie C : Ascoli vs Ravenna (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ascoli_vs_Ravenna.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Ascoli vs Ravenna (21:30)
+https://dlhd.dad/watch.php?id=882
+
+#EXTINF:-1 tvg-id="italyseriecmonopolivsvirtuscasarano" tvg-name="Soccer | Italy - Serie C : Monopoli vs Virtus Casarano (21:30)" tvg-logo="https://www.footballkitarchive.com/static/logos/LPmTGC4uMSEMQ6T/ss-monopoli-2014-2022-logo.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Monopoli vs Virtus Casarano (21:30)
+https://dlhd.dad/watch.php?id=13
+
+#EXTINF:-1 tvg-id="italyserieccataniavscasertana" tvg-name="Soccer | Italy - Serie C : Catania vs Casertana (21:30)" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Catania vs Casertana (21:30)
+https://dlhd.dad/watch.php?id=14
+
+#EXTINF:-1 tvg-id="italyserieccataniavscasertana" tvg-name="Soccer | Italy - Serie C : Catania vs Casertana (21:30)" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Catania vs Casertana (21:30)
+https://dlhd.dad/watch.php?id=461
+
+#EXTINF:-1 tvg-id="italyseriecatalantaiivsaudacecerignola" tvg-name="Soccer | Italy - Serie C : Atalanta II vs Audace Cerignola (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Atalanta II_vs_Audace Cerignola.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Atalanta II vs Audace Cerignola (21:30)
+https://dlhd.dad/watch.php?id=15
+
+#EXTINF:-1 tvg-id="italyseriealaziovssassuolo" tvg-name="Soccer | Italy - Serie A : Lazio vs Sassuolo (21:45)" tvg-logo="https://protezionecivile.regione.lazio.it/themes/protezioneciviletheme/assets/images/protezione_civile_lazio-logo.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Lazio vs Sassuolo (21:45)
+https://dlhd.dad/watch.php?id=4
+
+#EXTINF:-1 tvg-id="italyseriealaziovssassuolo" tvg-name="Soccer | Italy - Serie A : Lazio vs Sassuolo (21:45)" tvg-logo="https://protezionecivile.regione.lazio.it/themes/protezioneciviletheme/assets/images/protezione_civile_lazio-logo.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Lazio vs Sassuolo (21:45)
+https://dlhd.dad/watch.php?id=870
+
+#EXTINF:-1 tvg-id="atpwta1000indianwells" tvg-name="Tennis | ATP/WTA 1000: Indian Wells (05:00)" tvg-logo="https://nordsip.com/wp-content/uploads/2024/10/Logo-black-1000.png" group-title="Eventi Live DLHD",Tennis | ATP/WTA 1000: Indian Wells (05:00)
+https://dlhd.dad/watch.php?id=576
+
+#EXTINF:-1 tvg-id="tyrrhenianadriaticstage1menlidodicamaioreitt115km" tvg-name="Cycling | Tyrrhenian-Adriatic | Stage 1 Men | Lido di Camaiore (ITT, 11.5 km) (14:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Sunflower_d1.png/60px-Sunflower_d1.png" group-title="Eventi Live DLHD",Cycling | Tyrrhenian-Adriatic | Stage 1 Men | Lido di Camaiore (ITT, 11.5 km) (14:00)
+https://dlhd.dad/watch.php?id=879
+
+#EXTINF:-1 tvg-id="parisnicestage2menépônemontargis187km" tvg-name="Cycling | Paris-Nice | Stage 2 Men | Épône - Montargis (187km) (16:10)" tvg-logo="https://youthvideos.shop/wp-content/uploads/2023/10/Logo_Youthlust-300x300.png" group-title="Eventi Live DLHD",Cycling | Paris-Nice | Stage 2 Men | Épône - Montargis (187km) (16:10)
+https://dlhd.dad/watch.php?id=879
 
