@@ -158,12 +158,8 @@ https://vavoo.to/vavoo-iptv/play/4137427510ef362e6435fc
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",CUSANO NEWS7
 https://vavoo.to/vavoo-iptv/play/861948627bb3b2465ad5a
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",DAZN (MATCH TIME)
-https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
-#EXTINF:-1 tvg-id="dazn.2.it.it" tvg-logo="" group-title="Sport",DAZN 2
-https://vavoo.to/vavoo-iptv/play/3635062218e0132c616db
 #EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV (1)
 https://vavoo.to/vavoo-iptv/play/963607327f90ada131395
 #EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV (2)
@@ -387,7 +383,9 @@ https://vavoo.to/vavoo-iptv/play/3446813098b031eef6dc22
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (2)
 https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD (1)
+https://vavoo.to/vavoo-iptv/play/3428501495a9ec2ff7bc8e
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD (2)
 https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
 #EXTINF:-1 tvg-id="nick.jr.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini",NICK JR
 https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065
@@ -747,7 +745,9 @@ https://vavoo.to/vavoo-iptv/play/29098187562943fdca9002
 https://vavoo.to/vavoo-iptv/play/325121729090a7b71fb865
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 6 (2)
 https://vavoo.to/vavoo-iptv/play/39395136840a7593b75855
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 7
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 7 (1)
+https://vavoo.to/vavoo-iptv/play/4238969402e69feff53112
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 7 (2)
 https://vavoo.to/vavoo-iptv/play/3618643172a26b31eba4b4
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 8 (1)
 https://vavoo.to/vavoo-iptv/play/213025533947852942a90f
@@ -1048,30 +1048,6 @@ https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriebsüdtirolvspescara" tvg-name="Soccer | Italy - Serie B : Südtirol vs Pescara (18:15)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Südtirol_vs_Pescara.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie B : Südtirol vs Pescara (18:15)
-https://dlhd.dad/watch.php?id=77
-
-#EXTINF:-1 tvg-id="englandpremierleagueliverpoolvstottenhamhotspur" tvg-name="Soccer | England - Premier League : Liverpool vs Tottenham Hotspur (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Liverpool_vs_Tottenham Hotspur.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Liverpool vs Tottenham Hotspur (18:30)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="italyserieccittadellavsdolomitibellunesi" tvg-name="Soccer | Italy - Serie C : Cittadella vs Dolomiti Bellunesi (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cittadella_vs_Dolomiti Bellunesi.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Cittadella vs Dolomiti Bellunesi (18:30)
-https://dlhd.dad/watch.php?id=20
-
-#EXTINF:-1 tvg-id="italyseriecvirtusveronavsrenate" tvg-name="Soccer | Italy - Serie C : Virtus Verona vs Renate (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Virtus Verona_vs_Renate.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Virtus Verona vs Renate (18:30)
-https://dlhd.dad/watch.php?id=21
-
-#EXTINF:-1 tvg-id="italyserieclumezzanevspropatria" tvg-name="Soccer | Italy - Serie C : Lumezzane vs Pro Patria (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lumezzane_vs_Pro Patria.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Lumezzane vs Pro Patria (18:30)
-https://dlhd.dad/watch.php?id=22
-
-#EXTINF:-1 tvg-id="italyserieccasertanavsmonopoli" tvg-name="Soccer | Italy - Serie C : Casertana vs Monopoli (18:30)" tvg-logo="https://www.footballkitarchive.com/static/logos/LPmTGC4uMSEMQ6T/ss-monopoli-2014-2022-logo.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Casertana vs Monopoli (18:30)
-https://dlhd.dad/watch.php?id=23
-
-#EXTINF:-1 tvg-id="italyserieccasertanavsmonopoli" tvg-name="Soccer | Italy - Serie C : Casertana vs Monopoli (18:30)" tvg-logo="https://www.footballkitarchive.com/static/logos/LPmTGC4uMSEMQ6T/ss-monopoli-2014-2022-logo.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Casertana vs Monopoli (18:30)
-https://dlhd.dad/watch.php?id=460
-
-#EXTINF:-1 tvg-id="italyseriecaudacecerignolavssorrento" tvg-name="Soccer | Italy - Serie C : Audace Cerignola vs Sorrento (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Audace Cerignola_vs_Sorrento.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Audace Cerignola vs Sorrento (18:30)
-https://dlhd.dad/watch.php?id=24
-
 #EXTINF:-1 tvg-id="italyserieacomovsroma" tvg-name="Soccer | Italy - Serie A : Como vs Roma (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Como_vs_Roma.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Como vs Roma (19:00)
 https://dlhd.dad/watch.php?id=23
 
@@ -1098,9 +1074,6 @@ https://dlhd.dad/watch.php?id=576
 
 #EXTINF:-1 tvg-id="worldcupwomenitalywvsspainw" tvg-name="Basketball | World Cup Women : Italy W vs Spain W (23:00)" tvg-logo="https://matchpint-cdn.matchpint.cloud/shared/imagenes/teams/9923/logo_1679568725.png" group-title="Eventi Live DLHD",Basketball | World Cup Women : Italy W vs Spain W (23:00)
 https://dlhd.dad/watch.php?id=882
-
-#EXTINF:-1 tvg-id="sixnationsu20irelandu20vsscotlandu20" tvg-name="Rugby Union | Six Nations U20 : Ireland U20 vs Scotland U20 (17:15)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ireland U20_vs_Scotland U20.png" group-title="Eventi Live DLHD",Rugby Union | Six Nations U20 : Ireland U20 vs Scotland U20 (17:15)
-https://dlhd.dad/watch.php?id=462
 
 #EXTINF:-1 tvg-id="sixnationsu20franceu20vsenglandu20" tvg-name="Rugby Union | Six Nations U20 : France U20 vs England U20 (19:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/France U20_vs_England U20.png" group-title="Eventi Live DLHD",Rugby Union | Six Nations U20 : France U20 vs England U20 (19:45)
 https://dlhd.dad/watch.php?id=462
