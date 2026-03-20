@@ -395,8 +395,6 @@ https://vavoo.to/vavoo-iptv/play/3428501495a9ec2ff7bc8e
 https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
 #EXTINF:-1 tvg-id="nick.jr.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini",NICK JR
 https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065
-#EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Altro",NICKELODEON
-https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c
 #EXTINF:-1 tvg-id="nove.it" tvg-logo="" group-title="Altro",NOVE
 https://vavoo.to/vavoo-iptv/play/867216452ba4d42b41ada
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/570326948497195008/Wf6DPfFP_400x400.jpeg" group-title="Musica",OL3 RADIO
@@ -815,8 +813,10 @@ https://vavoo.to/vavoo-iptv/play/30363168866e9eeb997936
 https://vavoo.to/vavoo-iptv/play/2090703806f47d7eb551ce
 #EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-motogp-hd-it.png" group-title="Sport",SKY SPORT MOTOGP (D)
 https://dlhd.dad/watch.php?id=575
-#EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA
+#EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA (1)
 https://vavoo.to/vavoo-iptv/play/271195962000118dca31ce
+#EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA (2)
+https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (1)
 https://vavoo.to/vavoo-iptv/play/210077178262e76f204fa6
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (2)
@@ -902,6 +902,8 @@ https://vavoo.to/vavoo-iptv/play/87479718111853618b3cd
 https://vavoo.to/vavoo-iptv/play/6164833177424547eff1f
 #EXTINF:-1 tvg-id="" tvg-logo="https://teleromagna.it/images/teleromagna-logo.png" group-title="Altro",TELE ROMAGNA
 https://vavoo.to/vavoo-iptv/play/1294463772435c5239e44
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.telesirio.it/images/logo.png" group-title="Altro",TELE SIRIO
+https://vavoo.to/vavoo-iptv/play/21884692197ee0a9ba39f6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.teletricolore.it/wp-content/uploads/2018/02/logo.png" group-title="Altro",TELE TRICOLORE
 https://vavoo.to/vavoo-iptv/play/2314613216d218b9f4abd4
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lp10Brud3JZex6CgE4M9c-XcKFY4MrRhcFe9PUn-N4SD4=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",TELE TUSCIASABINA 2000
@@ -1052,31 +1054,31 @@ https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyserieacagliarivsnapoli" tvg-name="Soccer | Italy - Serie A : Cagliari vs Napoli (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cagliari_vs_Napoli.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Cagliari vs Napoli (19:30)
+#EXTINF:-1 tvg-id="italyserieacagliarivsnapoli" tvg-name="All Soccer Events | Italy - Serie A : Cagliari vs Napoli (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cagliari_vs_Napoli.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Cagliari vs Napoli (19:30)
 https://dlhd.dad/watch.php?id=877
 
-#EXTINF:-1 tvg-id="germanybundesliga2hannover96vseintrachtbraunschweig" tvg-name="Soccer | Germany - Bundesliga 2 : Hannover 96 vs Eintracht Braunschweig (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Hannover 96_vs_Eintracht Braunschweig.png" group-title="Eventi Live DLHD",Soccer | Germany - Bundesliga 2 : Hannover 96 vs Eintracht Braunschweig (19:30)
+#EXTINF:-1 tvg-id="germanybundesliga2hannover96vseintrachtbraunschweig" tvg-name="All Soccer Events | Germany - Bundesliga 2 : Hannover 96 vs Eintracht Braunschweig (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Hannover 96_vs_Eintracht Braunschweig.png" group-title="Eventi Live DLHD",All Soccer Events | Germany - Bundesliga 2 : Hannover 96 vs Eintracht Braunschweig (19:30)
 https://dlhd.dad/watch.php?id=460
 
-#EXTINF:-1 tvg-id="italyseriecvirtusveronavsalbinoleffe" tvg-name="Soccer | Italy - Serie C : Virtus Verona vs AlbinoLeffe (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Virtus Verona_vs_AlbinoLeffe.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Virtus Verona vs AlbinoLeffe (21:30)
+#EXTINF:-1 tvg-id="italyseriecvirtusveronavsalbinoleffe" tvg-name="All Soccer Events | Italy - Serie C : Virtus Verona vs AlbinoLeffe (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Virtus Verona_vs_AlbinoLeffe.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Virtus Verona vs AlbinoLeffe (21:30)
 https://dlhd.dad/watch.php?id=29
 
-#EXTINF:-1 tvg-id="italyseriectrentovstriestina" tvg-name="Soccer | Italy - Serie C : Trento vs Triestina (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Trento_vs_Triestina.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Trento vs Triestina (21:30)
+#EXTINF:-1 tvg-id="italyseriectrentovstriestina" tvg-name="All Soccer Events | Italy - Serie C : Trento vs Triestina (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Trento_vs_Triestina.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Trento vs Triestina (21:30)
 https://dlhd.dad/watch.php?id=30
 
-#EXTINF:-1 tvg-id="italyseriecperugiavssassaritorres" tvg-name="Soccer | Italy - Serie C : Perugia vs Sassari Torres (21:30)" tvg-logo="https://www.pronostico.it/img-team/2753b.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Perugia vs Sassari Torres (21:30)
+#EXTINF:-1 tvg-id="italyseriecperugiavssassaritorres" tvg-name="All Soccer Events | Italy - Serie C : Perugia vs Sassari Torres (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Perugia_vs_Sassari Torres.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Perugia vs Sassari Torres (21:30)
 https://dlhd.dad/watch.php?id=166
 
-#EXTINF:-1 tvg-id="italyseriecternanavssambenedettese" tvg-name="Soccer | Italy - Serie C : Ternana vs Sambenedettese (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ternana_vs_Sambenedettese.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Ternana vs Sambenedettese (21:30)
+#EXTINF:-1 tvg-id="italyseriecternanavssambenedettese" tvg-name="All Soccer Events | Italy - Serie C : Ternana vs Sambenedettese (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ternana_vs_Sambenedettese.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Ternana vs Sambenedettese (21:30)
 https://dlhd.dad/watch.php?id=167
 
-#EXTINF:-1 tvg-id="italyseriecbravsarezzo" tvg-name="Soccer | Italy - Serie C : Bra vs Arezzo (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bra_vs_Arezzo.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Bra vs Arezzo (21:30)
+#EXTINF:-1 tvg-id="italyseriecbravsarezzo" tvg-name="All Soccer Events | Italy - Serie C : Bra vs Arezzo (21:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bra_vs_Arezzo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Bra vs Arezzo (21:30)
 https://dlhd.dad/watch.php?id=168
 
-#EXTINF:-1 tvg-id="italyserieagenoavsudinese" tvg-name="Soccer | Italy - Serie A : Genoa vs Udinese (21:45)" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Genoa vs Udinese (21:45)
+#EXTINF:-1 tvg-id="italyserieagenoavsudinese" tvg-name="All Soccer Events | Italy - Serie A : Genoa vs Udinese (21:45)" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Genoa vs Udinese (21:45)
 https://dlhd.dad/watch.php?id=13
 
-#EXTINF:-1 tvg-id="italyserieagenoavsudinese" tvg-name="Soccer | Italy - Serie A : Genoa vs Udinese (21:45)" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Genoa vs Udinese (21:45)
+#EXTINF:-1 tvg-id="italyserieagenoavsudinese" tvg-name="All Soccer Events | Italy - Serie A : Genoa vs Udinese (21:45)" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Genoa vs Udinese (21:45)
 https://dlhd.dad/watch.php?id=870
 
 #EXTINF:-1 tvg-id="2026miamiopentenniswtasecondround" tvg-name="Tennis | 2026 Miami Open Tennis WTA Second Round (17:00)" tvg-logo="https://tennis-open.it/wp-content/uploads/2026/01/cropped-Logo-Tennis-Open.png" group-title="Eventi Live DLHD",Tennis | 2026 Miami Open Tennis WTA Second Round (17:00)
@@ -1140,9 +1142,6 @@ https://dlhd.dad/watch.php?id=460
 https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="premierpadelcancunt2026womensquarterfinals1" tvg-name="Squash | Premier Padel Cancun (T2026): Women's Quarterfinals 1 (23:00)" tvg-logo="https://thumbor.prod.vidiocdn.com/qFyTiTNfIoLRu-9avia4BwOkODE=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/616/premier-padel-119e53.png" group-title="Eventi Live DLHD",Squash | Premier Padel Cancun (T2026): Women's Quarterfinals 1 (23:00)
-https://dlhd.dad/watch.php?id=460
-
-#EXTINF:-1 tvg-id="premierpadelcancunt2026mensquarterfinals1" tvg-name="Squash | Premier Padel Cancun (T2026): Men's Quarterfinals 1 (02:30)" tvg-logo="https://thumbor.prod.vidiocdn.com/qFyTiTNfIoLRu-9avia4BwOkODE=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/616/premier-padel-119e53.png" group-title="Eventi Live DLHD",Squash | Premier Padel Cancun (T2026): Men's Quarterfinals 1 (02:30)
 https://dlhd.dad/watch.php?id=460
 
 
