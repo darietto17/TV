@@ -162,6 +162,8 @@ https://vavoo.to/vavoo-iptv/play/861948627bb3b2465ad5a
 https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
+#EXTINF:-1 tvg-id="dazn.2.it.it" tvg-logo="" group-title="Sport",DAZN 2
+https://vavoo.to/vavoo-iptv/play/3635062218e0132c616db
 #EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV (1)
 https://vavoo.to/vavoo-iptv/play/963607327f90ada131395
 #EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV (2)
@@ -222,8 +224,6 @@ https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
 https://dlhd.dad/watch.php?id=879
 #EXTINF:-1 tvg-id="eurosport.2.it" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (MPD)
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport2)/manifest.mpd&key_id=e8372283a523444c84646c4172b1bc0f&key=969a90e1a1a6424a68fe4b5d776368ec
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 2 TIMVISION
-https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 4 TIMVISION
 https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 5 TIMVISION
@@ -312,8 +312,10 @@ https://vavoo.to/vavoo-iptv/play/4235410936b108b39c28d1
 https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Iunior_tv.png" group-title="Altro",IUNIOR TV
 https://vavoo.to/vavoo-iptv/play/803540254d5a6317673b3
-#EXTINF:-1 tvg-id="k2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",K2
+#EXTINF:-1 tvg-id="k2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",K2 (1)
 https://vavoo.to/vavoo-iptv/play/22557243183ffd471ea8ec
+#EXTINF:-1 tvg-id="k2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",K2 (2)
+https://vavoo.to/vavoo-iptv/play/11090349bae706bd9ec4
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/radio-kiss-kiss-tv-it.png?raw=true" group-title="Musica",KISS KISS (1)
 https://vavoo.to/vavoo-iptv/play/950030926076b5f56ce77
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/radio-kiss-kiss-tv-it.png?raw=true" group-title="Musica",KISS KISS (2)
@@ -374,7 +376,7 @@ https://vavoo.to/vavoo-iptv/play/3538009430947511be2991
 #EXTINF:-1 tvg-id="milan.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/milan-tv-it.png" group-title="Sport",MILAN TV
 https://vavoo.to/vavoo-iptv/play/36572179483992957fcd47
 #EXTINF:-1 tvg-id="motor.trend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND
-https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
+https://vavoo.to/vavoo-iptv/play/3889279895a867a5410d74
 #EXTINF:-1 tvg-id="mtv.hd.it" tvg-logo="" group-title="Musica",MTV
 https://vavoo.to/vavoo-iptv/play/3212860676dcc8c28a2be1
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/mtv-hits-rs.png?raw=true" group-title="Musica",MTV HITS
@@ -389,8 +391,6 @@ https://vavoo.to/vavoo-iptv/play/3428501495a9ec2ff7bc8e
 https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
 #EXTINF:-1 tvg-id="nick.jr.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini",NICK JR
 https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065
-#EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Altro",NICKELODEON
-https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c
 #EXTINF:-1 tvg-id="nove.it" tvg-logo="" group-title="Altro",NOVE
 https://vavoo.to/vavoo-iptv/play/867216452ba4d42b41ada
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/570326948497195008/Wf6DPfFP_400x400.jpeg" group-title="Musica",OL3 RADIO
@@ -1080,12 +1080,6 @@ https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="2026miamiopentenniswtasecondround" tvg-name="Tennis | 2026 Miami Open Tennis WTA Second Round (17:00)" tvg-logo="https://tennis-open.it/wp-content/uploads/2026/01/cropped-Logo-Tennis-Open.png" group-title="Eventi Live DLHD",Tennis | 2026 Miami Open Tennis WTA Second Round (17:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="motogpround2brazilfreepractice1" tvg-name="Motorsport | MotoGP | Round 2 | Brazil Free Practice 1 (14:00)" tvg-logo="https://d2xpg1khvwxlf1.cloudfront.net/production/images/original/76165-Quint-2023-logo-Q-only-mono-navy-addb88cb140d0a24f946df7280fc358a.png" group-title="Eventi Live DLHD",Motorsport | MotoGP | Round 2 | Brazil Free Practice 1 (14:00)
-https://dlhd.dad/watch.php?id=575
-
-#EXTINF:-1 tvg-id="moto3round2brazilfreepractice1" tvg-name="Motorsport | Moto3 | Round 2 | Brazil Free Practice 1 (14:00)" tvg-logo="https://service24.mywhoosh.com/public/9debeea8-3c2e-46c9-967f-640653dc10ae.png/1024/1024/resize" group-title="Eventi Live DLHD",Motorsport | Moto3 | Round 2 | Brazil Free Practice 1 (14:00)
-https://dlhd.dad/watch.php?id=575
-
 #EXTINF:-1 tvg-id="moto2round2brazilfreepractice1" tvg-name="Motorsport | Moto2 | Round 2 | Brazil Free Practice 1 (15:00)" tvg-logo="https://service24.mywhoosh.com/public/9debeea8-3c2e-46c9-967f-640653dc10ae.png/1024/1024/resize" group-title="Eventi Live DLHD",Motorsport | Moto2 | Round 2 | Brazil Free Practice 1 (15:00)
 https://dlhd.dad/watch.php?id=575
 
@@ -1100,12 +1094,6 @@ https://dlhd.dad/watch.php?id=575
 
 #EXTINF:-1 tvg-id="judotbilisigrandslamday1" tvg-name="Combat sports | Judo Tbilisi Grand Slam. Day 1. (15:00)" tvg-logo="https://grandslam.blob.core.windows.net/documents/images/Events/Logos/3418-grand-slam-atlanta-opening-day.png?t=638737837936270000" group-title="Eventi Live DLHD",Combat sports | Judo Tbilisi Grand Slam. Day 1. (15:00)
 https://dlhd.dad/watch.php?id=460
-
-#EXTINF:-1 tvg-id="worldopenquarterfinals" tvg-name="Snooker | World Open | Quarterfinals (13:30)" tvg-logo="https://johal.in/content/images/2025/08/logo-1.png" group-title="Eventi Live DLHD",Snooker | World Open | Quarterfinals (13:30)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="lillehammerwomensdownhillworldcup" tvg-name="Alpine Ski | Lillehammer | Women's Downhill World Cup (13:00)" tvg-logo="https://static.flashscore.com/res/image/data/WpgPwhZA-8l7dBYOQ-nkFP8OgP.png" group-title="Eventi Live DLHD",Alpine Ski | Lillehammer | Women's Downhill World Cup (13:00)
-https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="worldindoorchampionshipskujawypomerania2026day1eveningsession" tvg-name="Athletics | World Indoor Championships - Kujawy Pomerania 2026 Day 1 - Evening Session. (19:30)" tvg-logo="https://kujawsko-pomorskie.pl/wp-content/themes/kujawsko-pomorskie/inc/assets/images/eye.png" group-title="Eventi Live DLHD",Athletics | World Indoor Championships - Kujawy Pomerania 2026 Day 1 - Evening Session. (19:30)
 https://dlhd.dad/watch.php?id=882
