@@ -162,8 +162,6 @@ https://vavoo.to/vavoo-iptv/play/861948627bb3b2465ad5a
 https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
-#EXTINF:-1 tvg-id="dazn.2.it.it" tvg-logo="" group-title="Sport",DAZN 2
-https://vavoo.to/vavoo-iptv/play/3635062218e0132c616db
 #EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV (1)
 https://vavoo.to/vavoo-iptv/play/963607327f90ada131395
 #EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV (2)
@@ -314,10 +312,8 @@ https://vavoo.to/vavoo-iptv/play/4235410936b108b39c28d1
 https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Iunior_tv.png" group-title="Altro",IUNIOR TV
 https://vavoo.to/vavoo-iptv/play/803540254d5a6317673b3
-#EXTINF:-1 tvg-id="k2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",K2 (1)
+#EXTINF:-1 tvg-id="k2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",K2
 https://vavoo.to/vavoo-iptv/play/22557243183ffd471ea8ec
-#EXTINF:-1 tvg-id="k2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/k2-it.png" group-title="Bambini",K2 (2)
-https://vavoo.to/vavoo-iptv/play/11090349bae706bd9ec4
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/radio-kiss-kiss-tv-it.png?raw=true" group-title="Musica",KISS KISS (1)
 https://vavoo.to/vavoo-iptv/play/950030926076b5f56ce77
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/radio-kiss-kiss-tv-it.png?raw=true" group-title="Musica",KISS KISS (2)
@@ -377,10 +373,8 @@ https://vavoo.to/vavoo-iptv/play/198956233782673579c94b
 https://vavoo.to/vavoo-iptv/play/3538009430947511be2991
 #EXTINF:-1 tvg-id="milan.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/milan-tv-it.png" group-title="Sport",MILAN TV
 https://vavoo.to/vavoo-iptv/play/36572179483992957fcd47
-#EXTINF:-1 tvg-id="motor.trend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND (1)
+#EXTINF:-1 tvg-id="motor.trend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND
 https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
-#EXTINF:-1 tvg-id="motor.trend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND (2)
-https://vavoo.to/vavoo-iptv/play/3889279895a867a5410d74
 #EXTINF:-1 tvg-id="mtv.hd.it" tvg-logo="" group-title="Musica",MTV
 https://vavoo.to/vavoo-iptv/play/3212860676dcc8c28a2be1
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/mtv-hits-rs.png?raw=true" group-title="Musica",MTV HITS
@@ -574,6 +568,8 @@ https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN FAMILY
+https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png" group-title="Musica",RDS SOCIAL
 https://vavoo.to/vavoo-iptv/play/4031388312f5ebcfc7dc6d
 #EXTINF:-1 tvg-id="rdssocialtv.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png" group-title="Musica",RDS SOCIAL TV
@@ -1108,12 +1104,6 @@ https://dlhd.dad/watch.php?id=460
 #EXTINF:-1 tvg-id="worldopenquarterfinals" tvg-name="Snooker | World Open | Quarterfinals (13:30)" tvg-logo="https://johal.in/content/images/2025/08/logo-1.png" group-title="Eventi Live DLHD",Snooker | World Open | Quarterfinals (13:30)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="lillehammermensdownhillworldcup" tvg-name="Alpine Ski | Lillehammer | Men's Downhill World Cup (11:30)" tvg-logo="https://static.flashscore.com/res/image/data/WpgPwhZA-8l7dBYOQ-nkFP8OgP.png" group-title="Eventi Live DLHD",Alpine Ski | Lillehammer | Men's Downhill World Cup (11:30)
-https://dlhd.dad/watch.php?id=851
-
-#EXTINF:-1 tvg-id="lillehammermensdownhillworldcup" tvg-name="Alpine Ski | Lillehammer | Men's Downhill World Cup (11:30)" tvg-logo="https://static.flashscore.com/res/image/data/WpgPwhZA-8l7dBYOQ-nkFP8OgP.png" group-title="Eventi Live DLHD",Alpine Ski | Lillehammer | Men's Downhill World Cup (11:30)
-https://dlhd.dad/watch.php?id=878
-
 #EXTINF:-1 tvg-id="lillehammerwomensdownhillworldcup" tvg-name="Alpine Ski | Lillehammer | Women's Downhill World Cup (13:00)" tvg-logo="https://static.flashscore.com/res/image/data/WpgPwhZA-8l7dBYOQ-nkFP8OgP.png" group-title="Eventi Live DLHD",Alpine Ski | Lillehammer | Women's Downhill World Cup (13:00)
 https://dlhd.dad/watch.php?id=878
 
@@ -1135,7 +1125,7 @@ https://dlhd.dad/watch.php?id=460
 #EXTINF:-1 tvg-id="vikersundmenshs240skiflightworldcupqualifiers" tvg-name="Ski Jumping | Vikersund | Men's HS240 Ski Flight World Cup | Qualifiers (18:00)" tvg-logo="https://www.peercollective.com/images/our_vetting_process_quote_image.png" group-title="Eventi Live DLHD",Ski Jumping | Vikersund | Men's HS240 Ski Flight World Cup | Qualifiers (18:00)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="premierpadelcancunt2026womensquarterfinals1" tvg-name="Squash | Premier Padel Cancun (T2026): Women's Quarterfinals 1 (23:00)" tvg-logo="https://logicall.com/wp-content/uploads/2024/09/NewsItems_1000x1000_Padel-3.png" group-title="Eventi Live DLHD",Squash | Premier Padel Cancun (T2026): Women's Quarterfinals 1 (23:00)
+#EXTINF:-1 tvg-id="premierpadelcancunt2026womensquarterfinals1" tvg-name="Squash | Premier Padel Cancun (T2026): Women's Quarterfinals 1 (23:00)" tvg-logo="https://thumbor.prod.vidiocdn.com/qFyTiTNfIoLRu-9avia4BwOkODE=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/616/premier-padel-119e53.png" group-title="Eventi Live DLHD",Squash | Premier Padel Cancun (T2026): Women's Quarterfinals 1 (23:00)
 https://dlhd.dad/watch.php?id=460
 
 
