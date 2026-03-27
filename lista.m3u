@@ -158,6 +158,8 @@ https://vavoo.to/vavoo-iptv/play/4137427510ef362e6435fc
 https://vavoo.to/vavoo-iptv/play/196833914960066715a573
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",CUSANO NEWS7
 https://vavoo.to/vavoo-iptv/play/861948627bb3b2465ad5a
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",DAZN (MATCH TIME)
+https://vavoo.to/vavoo-iptv/play/2303792166c73d1b7a1439
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
 #EXTINF:-1 tvg-id="dazn.2.it.it" tvg-logo="" group-title="Sport",DAZN 2
@@ -226,8 +228,6 @@ https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport2)/manifest.mp
 https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 4 TIMVISION
 https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 5 TIMVISION
-https://vavoo.to/vavoo-iptv/play/3667240765238d57794d79
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 6 TIMVISION
 https://vavoo.to/vavoo-iptv/play/3421031748051d1097ba07
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",EXTRA TV
@@ -745,13 +745,9 @@ https://vavoo.to/vavoo-iptv/play/2416993844407639cb4e74
 https://vavoo.to/vavoo-iptv/play/22550838661912f18327a2
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 5 (2)
 https://vavoo.to/vavoo-iptv/play/29098187562943fdca9002
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 6 (1)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 6
 https://vavoo.to/vavoo-iptv/play/325121729090a7b71fb865
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 6 (2)
-https://vavoo.to/vavoo-iptv/play/39395136840a7593b75855
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 7 (1)
-https://vavoo.to/vavoo-iptv/play/4238969402e69feff53112
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 7 (2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 7
 https://vavoo.to/vavoo-iptv/play/3618643172a26b31eba4b4
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 8 (1)
 https://vavoo.to/vavoo-iptv/play/213025533947852942a90f
@@ -900,8 +896,6 @@ https://vavoo.to/vavoo-iptv/play/87479718111853618b3cd
 https://vavoo.to/vavoo-iptv/play/6164833177424547eff1f
 #EXTINF:-1 tvg-id="" tvg-logo="https://teleromagna.it/images/teleromagna-logo.png" group-title="Altro",TELE ROMAGNA
 https://vavoo.to/vavoo-iptv/play/1294463772435c5239e44
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.telesirio.it/images/logo.png" group-title="Altro",TELE SIRIO
-https://vavoo.to/vavoo-iptv/play/21884692197ee0a9ba39f6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.teletricolore.it/wp-content/uploads/2018/02/logo.png" group-title="Altro",TELE TRICOLORE
 https://vavoo.to/vavoo-iptv/play/2314613216d218b9f4abd4
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lp10Brud3JZex6CgE4M9c-XcKFY4MrRhcFe9PUn-N4SD4=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",TELE TUSCIASABINA 2000
@@ -965,9 +959,7 @@ https://vavoo.to/vavoo-iptv/play/1785098768e3514b1dbecc
 #EXTINF:-1 tvg-id="tgcom24.it" tvg-name="TG COM 24" tvg-logo="https://yt3.hgoogleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="News",TG COM 24 (MPD)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="tg.norba.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tg-norba-24-it.png" group-title="News",TG NORBA 24 (1)
-https://vavoo.to/vavoo-iptv/play/33797298178cac7afa180a
-#EXTINF:-1 tvg-id="tg.norba.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tg-norba-24-it.png" group-title="News",TG NORBA 24 (2)
+#EXTINF:-1 tvg-id="tg.norba.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tg-norba-24-it.png" group-title="News",TG NORBA 24
 https://vavoo.to/vavoo-iptv/play/3413557893b1ed86e5018c
 #EXTINF:-1 tvg-id="tgcom24.it" tvg-logo="https://yt3.hgoogleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="News",TGCOM 24
 https://vavoo.to/vavoo-iptv/play/24181484494b43d448b066
@@ -980,10 +972,8 @@ https://vavoo.to/vavoo-iptv/play/3420407456fb80f4ceda0b
 #EXTINF:-1 tvg-id="top.crime.it" tvg-name="TOP CRIME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Film - Serie TV",TOP CRIME (MPD)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.trentinotv.it/images/resource/logo-trentino.png" group-title="Altro",TRENTINO TV (1)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.trentinotv.it/images/resource/logo-trentino.png" group-title="Altro",TRENTINO TV
 https://vavoo.to/vavoo-iptv/play/2764553737f817b6d4f583
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.trentinotv.it/images/resource/logo-trentino.png" group-title="Altro",TRENTINO TV (2)
-https://vavoo.to/vavoo-iptv/play/27978570454e40f7218cf4
 #EXTINF:-1 tvg-id="" tvg-logo="https://teleromagna.it/Images/logo-tr-sport.jpg" group-title="Sport",TRSPORT
 https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5
 
@@ -1052,8 +1042,56 @@ https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="worldcupqualifyingitalyvsnorthernireland" tvg-name="Soccer | World Cup Qualifying : Italy vs Northern Ireland (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy_vs_Northern Ireland.png" group-title="Eventi Live DLHD",Soccer | World Cup Qualifying : Italy vs Northern Ireland (21:45)
-https://dlhd.dad/watch.php?id=850
+#EXTINF:-1 tvg-id="friendlyenglandvsuruguay" tvg-name="Soccer | Friendly : England vs Uruguay (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/England_vs_Uruguay.png" group-title="Eventi Live DLHD",Soccer | Friendly : England vs Uruguay (21:45)
+https://dlhd.dad/watch.php?id=870
+
+#EXTINF:-1 tvg-id="miamiopen2026atpsemifinal1wtadoublessemifinal1" tvg-name="Tennis | Miami Open 2026 ATP Semifinal 1; WTA Doubles Semifinal 1 (19:00)" tvg-logo="https://static.flashscore.com/res/image/data/n7C6ocU1-lzNF1lC8.png" group-title="Eventi Live DLHD",Tennis | Miami Open 2026 ATP Semifinal 1; WTA Doubles Semifinal 1 (19:00)
+https://dlhd.dad/watch.php?id=576
+
+#EXTINF:-1 tvg-id="formula1aramcojapanesegppractice1" tvg-name="Motorsport | Formula 1 : Aramco Japanese GP - Practice 1 (04:30)" tvg-logo="https://www.dtti.it/wp-content/uploads/2022/07/formula-1-logo-0.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Aramco Japanese GP - Practice 1 (04:30)
+https://dlhd.dad/watch.php?id=577
+
+#EXTINF:-1 tvg-id="formula1aramcojapanesegppractice2" tvg-name="Motorsport | Formula 1 : Aramco Japanese GP - Practice 2 (08:00)" tvg-logo="https://www.dtti.it/wp-content/uploads/2022/07/formula-1-logo-0.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Aramco Japanese GP - Practice 2 (08:00)
+https://dlhd.dad/watch.php?id=577
+
+#EXTINF:-1 tvg-id="motogpround3unitedstatesfreepractice1" tvg-name="Motorsport | MotoGP : Round 3 | United States Free Practice 1 (16:00)" tvg-logo="https://images.seeklogo.com/logo-png/33/2/ecstar-suzuki-logo-png_seeklogo-335477.png" group-title="Eventi Live DLHD",Motorsport | MotoGP : Round 3 | United States Free Practice 1 (16:00)
+https://dlhd.dad/watch.php?id=575
+
+#EXTINF:-1 tvg-id="moto3round3unitedstatesfreepractice1" tvg-name="Motorsport | Moto3 : Round 3 | United States Free Practice 1 (16:00)" tvg-logo="https://1.bp.blogspot.com/-Kz3F9RMG_M0/XPU-eFuDj4I/AAAAAAAAIJg/N4FhR0pVZnsPTII5Mooq3NE8DXhtA6BiACLcBGAs/s72-c/Moto3%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live DLHD",Motorsport | Moto3 : Round 3 | United States Free Practice 1 (16:00)
+https://dlhd.dad/watch.php?id=575
+
+#EXTINF:-1 tvg-id="moto2round3unitedstatesfreepractice1" tvg-name="Motorsport | Moto2 : Round 3 | United States Free Practice 1 (16:45)" tvg-logo="https://static.vecteezy.com/system/resources/previews/027/224/005/non_2x/x-3d-logo-free-png.png" group-title="Eventi Live DLHD",Motorsport | Moto2 : Round 3 | United States Free Practice 1 (16:45)
+https://dlhd.dad/watch.php?id=575
+
+#EXTINF:-1 tvg-id="moto3round3unitedstatespractice1" tvg-name="Motorsport | Moto3 : Round 3 | United States Practice 1 (16:10)" tvg-logo="https://1.bp.blogspot.com/-Kz3F9RMG_M0/XPU-eFuDj4I/AAAAAAAAIJg/N4FhR0pVZnsPTII5Mooq3NE8DXhtA6BiACLcBGAs/s72-c/Moto3%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Eventi Live DLHD",Motorsport | Moto3 : Round 3 | United States Practice 1 (16:10)
+https://dlhd.dad/watch.php?id=575
+
+#EXTINF:-1 tvg-id="motogpround3unitedstatespractice1" tvg-name="Motorsport | MotoGP : Round 3 | United States Practice 1 (20:15)" tvg-logo="https://images.seeklogo.com/logo-png/33/2/ecstar-suzuki-logo-png_seeklogo-335477.png" group-title="Eventi Live DLHD",Motorsport | MotoGP : Round 3 | United States Practice 1 (20:15)
+https://dlhd.dad/watch.php?id=575
+
+#EXTINF:-1 tvg-id="moto2round3unitedstatespractice1" tvg-name="Motorsport | Moto2 : Round 3 | United States Practice 1 (21:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/027/224/005/non_2x/x-3d-logo-free-png.png" group-title="Eventi Live DLHD",Motorsport | Moto2 : Round 3 | United States Practice 1 (21:00)
+https://dlhd.dad/watch.php?id=575
+
+#EXTINF:-1 tvg-id="voltaciclistaacatalunyastage5menlaseudurgelllamolina1553km" tvg-name="Cycling | Volta Ciclista a Catalunya | Stage 5 Men | La Seu d'Urgell - La Molina (155.3km) (15:15)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | Volta Ciclista a Catalunya | Stage 5 Men | La Seu d'Urgell - La Molina (155.3km) (15:15)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="e3saxoclassicuciworldtourmenharelbekeharelbeke208km" tvg-name="Cycling | E3 Saxo Classic UCI World Tour | Men | Harelbeke - Harelbeke (208km) (18:00)" tvg-logo="https://assets.unileversolutions.com/v1/949890.png" group-title="Eventi Live DLHD",Cycling | E3 Saxo Classic UCI World Tour | Men | Harelbeke - Harelbeke (208km) (18:00)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="figureskatingisuworldfigureskatingchampionships" tvg-name="Ice Skating | Figure Skating ISU World Figure Skating Championships (12:15)" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/11/100th-ISU-World-Figure-Skating-Championship-torino-Logo-Vector.svg-.png" group-title="Eventi Live DLHD",Ice Skating | Figure Skating ISU World Figure Skating Championships (12:15)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="2026worldfigureskatingchampionshipsfromo2arenainpragueczechrepublic" tvg-name="Ice Skating | 2026 World Figure Skating Championships From O2 Arena in Prague, Czech Republic (19:00)" tvg-logo="https://www.prague2026.org/wp-content/uploads/2025/05/wfscp2026_vstupenky_ceny_plan_cz_2.png" group-title="Eventi Live DLHD",Ice Skating | 2026 World Figure Skating Championships From O2 Arena in Prague, Czech Republic (19:00)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="unitedrugbychampionshipglasgowvstreviso" tvg-name="Rugby Union | United Rugby Championship : Glasgow vs Treviso (21:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Glasgow_vs_Treviso.png" group-title="Eventi Live DLHD",Rugby Union | United Rugby Championship : Glasgow vs Treviso (21:45)
+https://dlhd.dad/watch.php?id=462
+
+#EXTINF:-1 tvg-id="planicamenshs240skiflyingworldcupday1" tvg-name="Ski Jumping | Planica | Men's HS 240 Ski Flying World Cup | Day 1 (15:45)" tvg-logo="https://static.flashscore.com/res/image/data/KxCsxa9j-x0PRRicL.png" group-title="Eventi Live DLHD",Ski Jumping | Planica | Men's HS 240 Ski Flying World Cup | Day 1 (15:45)
+https://dlhd.dad/watch.php?id=879
+
+#EXTINF:-1 tvg-id="premierpadelpremierpadelmiamicourt2quarterfinals" tvg-name="Squash | Premier Padel: Premier Padel: Miami - Court 2 (Quarterfinals) (16:00)" tvg-logo="https://logicall.com/wp-content/uploads/2024/09/NewsItems_1000x1000_Padel-3.png" group-title="Eventi Live DLHD",Squash | Premier Padel: Premier Padel: Miami - Court 2 (Quarterfinals) (16:00)
+https://dlhd.dad/watch.php?id=460
 
 
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",YeÅil Yalova x Gaziantep FK 11:00
