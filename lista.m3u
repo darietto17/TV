@@ -222,6 +222,8 @@ https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
 https://dlhd.dad/watch.php?id=879
 #EXTINF:-1 tvg-id="eurosport.2.it" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (MPD)
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport2)/manifest.mpd&key_id=e8372283a523444c84646c4172b1bc0f&key=969a90e1a1a6424a68fe4b5d776368ec
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 2 TIMVISION
+https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 4 TIMVISION
 https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 5 TIMVISION
@@ -347,6 +349,8 @@ https://vavoo.to/vavoo-iptv/play/22109966031d6de269f9b8
 https://dlhd.dad/watch.php?id=855
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",LA7D HD+ (D)
 https://dlhd.dad/watch.php?id=856
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",LAZIO TV 13
+https://vavoo.to/vavoo-iptv/play/56652751299dc0b400d5c
 #EXTINF:-1 tvg-id="" tvg-logo="https://liratv.es/wp-content/uploads/2021/07/LIRA-TV-1.png" group-title="Altro",LIRA TV
 https://vavoo.to/vavoo-iptv/play/2835333400f831a30ce568
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lovefm.it/themes/default/assets/img_c/logo-love-new.png" group-title="Musica",LOVE FM TV
@@ -699,6 +703,8 @@ https://vavoo.to/vavoo-iptv/play/354961873760dbb54cfa7
 https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e
 #EXTINF:-1 tvg-id="sky.investigation.it" tvg-logo="" group-title="Altro",SKY INVESTIGATION
 https://vavoo.to/vavoo-iptv/play/19686407898d20b9ce24d1
+#EXTINF:-1 tvg-id="sky.nature.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari",SKY NATURE
+https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 1 (1)
 https://vavoo.to/vavoo-iptv/play/194468239430d8fe263231
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 1 (2)
@@ -825,6 +831,8 @@ https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d
 https://dlhd.dad/watch.php?id=574
 
 # MEDIASET
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SUPER TENNIS
+https://vavoo.to/vavoo-iptv/play/55828211836e421b20575
 #EXTINF:-1 tvg-id="sky.tg24.it" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="News",SKY TG 24 (1)
 https://vavoo.to/vavoo-iptv/play/33760313550167605877f1
 #EXTINF:-1 tvg-id="sky.tg24.it" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="News",SKY TG 24 (2)
@@ -1042,14 +1050,32 @@ https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="motogpround3unitedstatesrace" tvg-name="Motorsport | MotoGP | Round 3 | United States Race (21:15)" tvg-logo="https://d2xpg1khvwxlf1.cloudfront.net/production/images/original/76165-Quint-2023-logo-Q-only-mono-navy-addb88cb140d0a24f946df7280fc358a.png" group-title="Eventi Live DLHD",Motorsport | MotoGP | Round 3 | United States Race (21:15)
-https://dlhd.dad/watch.php?id=575
+#EXTINF:-1 tvg-id="theinternazionalibnlditaliaromeitalymay5172026" tvg-name="Upcoming Events | The Internazionali BNL d'Italia, Rome, Italy May 5–17, 2026 (17:00)" tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000002162/1746449340000367_ATP_Masters_1000_BNP_Paribas_Open_2025_GOB_Masthead_logo_HLTS.png?q=high" group-title="Eventi Live DLHD",Upcoming Events | The Internazionali BNL d'Italia, Rome, Italy May 5–17, 2026 (17:00)
+https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="top14stadefrancaisvsclermont" tvg-name="Rugby Union | Top 14 : Stade Francais vs Clermont (21:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Stade Francais_vs_Clermont.png" group-title="Eventi Live DLHD",Rugby Union | Top 14 : Stade Francais vs Clermont (21:05)
+#EXTINF:-1 tvg-id="italyseriecarezzovsascoli" tvg-name="Soccer | Italy - Serie C : Arezzo vs Ascoli (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Arezzo_vs_Ascoli.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Arezzo vs Ascoli (20:30)
+https://dlhd.dad/watch.php?id=1
+
+#EXTINF:-1 tvg-id="italyseriecarezzovsascoli" tvg-name="Soccer | Italy - Serie C : Arezzo vs Ascoli (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Arezzo_vs_Ascoli.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Arezzo vs Ascoli (20:30)
+https://dlhd.dad/watch.php?id=882
+
+#EXTINF:-1 tvg-id="italyserieccasertanavssorrento" tvg-name="Soccer | Italy - Serie C : Casertana vs Sorrento (20:30)" tvg-logo="https://sorrentocoast.wine/wp-content/uploads/2025/02/logo512.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Casertana vs Sorrento (20:30)
+https://dlhd.dad/watch.php?id=3
+
+#EXTINF:-1 tvg-id="italyserieccasertanavssorrento" tvg-name="Soccer | Italy - Serie C : Casertana vs Sorrento (20:30)" tvg-logo="https://sorrentocoast.wine/wp-content/uploads/2025/02/logo512.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Casertana vs Sorrento (20:30)
 https://dlhd.dad/watch.php?id=462
 
-#EXTINF:-1 tvg-id="premierpadelmiamit2026womensfinal" tvg-name="Squash | Premier Padel Miami (T2026): Women's Final (23:00)" tvg-logo="https://logicall.com/wp-content/uploads/2024/09/NewsItems_1000x1000_Padel-3.png" group-title="Eventi Live DLHD",Squash | Premier Padel Miami (T2026): Women's Final (23:00)
-https://dlhd.dad/watch.php?id=460
+#EXTINF:-1 tvg-id="2026charlestonopentennisearlyrounds" tvg-name="Tennis | 2026 Charleston Open Tennis Early Rounds (17:00)" tvg-logo="https://charlestoncoins.com/media/img/cms/GNiBUE46HEPX7rJgHne6eEJ806xIkW7dOPaU0Nkq.png" group-title="Eventi Live DLHD",Tennis | 2026 Charleston Open Tennis Early Rounds (17:00)
+https://dlhd.dad/watch.php?id=576
+
+#EXTINF:-1 tvg-id="worldsnookerlivetourchampionshipmanchesterengland" tvg-name="Snooker | World Snooker Live Tour Championship - Manchester, England (14:00)" tvg-logo="https://www.visitmanchester.com/includes/public/assets/shared/logos/accolade_bestworld.png" group-title="Eventi Live DLHD",Snooker | World Snooker Live Tour Championship - Manchester, England (14:00)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="worldsnookerlivetourchampionshipmanchesterengland" tvg-name="Snooker | World Snooker Live Tour Championship - Manchester, England (20:00)" tvg-logo="https://www.visitmanchester.com/includes/public/assets/shared/logos/accolade_bestworld.png" group-title="Eventi Live DLHD",Snooker | World Snooker Live Tour Championship - Manchester, England (20:00)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="2026worldmenscurlingchampionshipitalyvsscotland" tvg-name="Winter Sports | 2026 World Men's Curling Championship : Italy vs Scotland (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy_vs_Scotland.png" group-title="Eventi Live DLHD",Winter Sports | 2026 World Men's Curling Championship : Italy vs Scotland (22:00)
+https://dlhd.dad/watch.php?id=879
 
 
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",YeÅil Yalova x Gaziantep FK 11:00
