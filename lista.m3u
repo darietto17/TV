@@ -220,8 +220,6 @@ https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
 https://dlhd.dad/watch.php?id=879
 #EXTINF:-1 tvg-id="eurosport.2.it" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (MPD)
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport2)/manifest.mpd&key_id=e8372283a523444c84646c4172b1bc0f&key=969a90e1a1a6424a68fe4b5d776368ec
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 2 TIMVISION
-https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 4 TIMVISION
 https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 5 TIMVISION
@@ -272,7 +270,9 @@ https://vavoo.to/vavoo-iptv/play/9421530140b5164a467be
 https://vavoo.to/vavoo-iptv/play/28977827817ceeecfaf662
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV (2)
 https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY (1)
+https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY (2)
 https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV (1)
 https://vavoo.to/vavoo-iptv/play/24880174054972ad3227fa
@@ -1069,7 +1069,7 @@ https://dlhd.dad/watch.php?id=878
 #EXTINF:-1 tvg-id="worldsnookerlivetourchampionshipmanchesterengland" tvg-name="Snooker | World Snooker Live Tour Championship - Manchester, England (20:00)" tvg-logo="https://www.visitmanchester.com/includes/public/assets/shared/logos/accolade_bestworld.png" group-title="Eventi Live DLHD",Snooker | World Snooker Live Tour Championship - Manchester, England (20:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="tourofflandersmenantwerpoudenaarde271km" tvg-name="Cycling | Tour of Flanders Men | Antwerp - Oudenaarde (271km) (09:30)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Cycling_current_event.svg/60px-Cycling_current_event.svg.png" group-title="Eventi Live DLHD",Cycling | Tour of Flanders Men | Antwerp - Oudenaarde (271km) (09:30)
+#EXTINF:-1 tvg-id="tourofflandersmenantwerpoudenaarde271km" tvg-name="Cycling | Tour of Flanders Men | Antwerp - Oudenaarde (271km) (09:30)" tvg-logo="https://files.onlycycling.com/onlycycling-files/media/CACHE/images/logos/2025/uae-tour/1ff992ecb7f17342c5df9e0368b5f72d.png" group-title="Eventi Live DLHD",Cycling | Tour of Flanders Men | Antwerp - Oudenaarde (271km) (09:30)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="tourofflanderstourofflanderstherace278kmuciworldtour" tvg-name="Cycling | Tour of Flanders Tour of Flanders. The race (278 km). UCI World Tour. (14:00)" tvg-logo="https://logoeps.com/wp-content/uploads/2013/06/uci-pro-tour-vector-logo.png" group-title="Eventi Live DLHD",Cycling | Tour of Flanders Tour of Flanders. The race (278 km). UCI World Tour. (14:00)
