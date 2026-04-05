@@ -220,8 +220,12 @@ https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
 https://dlhd.dad/watch.php?id=879
 #EXTINF:-1 tvg-id="eurosport.2.it" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (MPD)
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport2)/manifest.mpd&key_id=e8372283a523444c84646c4172b1bc0f&key=969a90e1a1a6424a68fe4b5d776368ec
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 2 TIMVISION
+https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 4 TIMVISION
 https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 5 TIMVISION
+https://vavoo.to/vavoo-iptv/play/3667240765238d57794d79
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 6 TIMVISION
 https://vavoo.to/vavoo-iptv/play/3421031748051d1097ba07
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",EXTRA TV
@@ -379,6 +383,8 @@ https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
 https://vavoo.to/vavoo-iptv/play/3428501495a9ec2ff7bc8e
 #EXTINF:-1 tvg-id="nick.jr.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini",NICK JR
 https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065
+#EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Altro",NICKELODEON
+https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c
 #EXTINF:-1 tvg-id="nove.it" tvg-logo="" group-title="Altro",NOVE
 https://vavoo.to/vavoo-iptv/play/867216452ba4d42b41ada
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/570326948497195008/Wf6DPfFP_400x400.jpeg" group-title="Musica",OL3 RADIO
@@ -687,6 +693,8 @@ https://vavoo.to/vavoo-iptv/play/354961873760dbb54cfa7
 https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e
 #EXTINF:-1 tvg-id="sky.investigation.it" tvg-logo="" group-title="Altro",SKY INVESTIGATION
 https://vavoo.to/vavoo-iptv/play/19686407898d20b9ce24d1
+#EXTINF:-1 tvg-id="sky.nature.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari",SKY NATURE
+https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 1 (1)
 https://vavoo.to/vavoo-iptv/play/194468239430d8fe263231
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 1 (2)
@@ -1024,23 +1032,50 @@ https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyserieccavesevscasertana" tvg-name="All Soccer Events | Italy - Serie C : Cavese vs Casertana (20:45)" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Cavese vs Casertana (20:45)
-https://dlhd.dad/watch.php?id=29
+#EXTINF:-1 tvg-id="theinternazionalibnlditaliaromeitalymay5172026" tvg-name="Upcoming Events | The Internazionali BNL d'Italia, Rome, Italy May 5–17, 2026 (17:00)" tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000002162/1746449340000367_ATP_Masters_1000_BNP_Paribas_Open_2025_GOB_Masthead_logo_HLTS.png?q=high" group-title="Eventi Live DLHD",Upcoming Events | The Internazionali BNL d'Italia, Rome, Italy May 5–17, 2026 (17:00)
+https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="italyserieccavesevscasertana" tvg-name="All Soccer Events | Italy - Serie C : Cavese vs Casertana (20:45)" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Cavese vs Casertana (20:45)
-https://dlhd.dad/watch.php?id=882
-
-#EXTINF:-1 tvg-id="italyserieccavesevscasertana" tvg-name="All Soccer Events | Italy - Serie C : Cavese vs Casertana (20:45)" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Cavese vs Casertana (20:45)
+#EXTINF:-1 tvg-id="germanybundesliga2schalke04vskarlsruhersc" tvg-name="Soccer | Germany - Bundesliga 2 : Schalke 04 vs Karlsruher SC (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Schalke 04_vs_Karlsruher SC.png" group-title="Eventi Live DLHD",Soccer | Germany - Bundesliga 2 : Schalke 04 vs Karlsruher SC (13:30)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="italyseriealaziovsparma" tvg-name="All Soccer Events | Italy - Serie A : Lazio vs Parma (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lazio_vs_Parma.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Lazio vs Parma (20:45)
-https://dlhd.dad/watch.php?id=25
-
-#EXTINF:-1 tvg-id="italyseriealaziovsparma" tvg-name="All Soccer Events | Italy - Serie A : Lazio vs Parma (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lazio_vs_Parma.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Lazio vs Parma (20:45)
+#EXTINF:-1 tvg-id="franceligue1angersscovsolympiquelyonnais" tvg-name="Soccer | France - Ligue 1 : Angers SCO vs Olympique Lyonnais (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Angers SCO_vs_Olympique Lyonnais.png" group-title="Eventi Live DLHD",Soccer | France - Ligue 1 : Angers SCO vs Olympique Lyonnais (15:00)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="spainlaligaatléticomadridvsbarcelona" tvg-name="All Soccer Events | Spain - La Liga : Atlético Madrid vs Barcelona (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Atlético Madrid_vs_Barcelona.png" group-title="Eventi Live DLHD",All Soccer Events | Spain - La Liga : Atlético Madrid vs Barcelona (21:00)
-https://dlhd.dad/watch.php?id=857
+#EXTINF:-1 tvg-id="italyserieacremonesevsbologna" tvg-name="Soccer | Italy - Serie A : Cremonese vs Bologna (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cremonese_vs_Bologna.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Cremonese vs Bologna (15:00)
+https://dlhd.dad/watch.php?id=877
+
+#EXTINF:-1 tvg-id="germanybundesligaunionberlinvsstpauli" tvg-name="Soccer | Germany - Bundesliga : Union Berlin vs St. Pauli (15:30)" tvg-logo="https://cdn.kibrispdr.org/data/32/st-pauli-logo-png-1.png" group-title="Eventi Live DLHD",Soccer | Germany - Bundesliga : Union Berlin vs St. Pauli (15:30)
+https://dlhd.dad/watch.php?id=461
+
+#EXTINF:-1 tvg-id="germanybundesligaeintrachtfrankfurtvsköln" tvg-name="Soccer | Germany - Bundesliga : Eintracht Frankfurt vs Köln (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Eintracht Frankfurt_vs_Köln.png" group-title="Eventi Live DLHD",Soccer | Germany - Bundesliga : Eintracht Frankfurt vs Köln (17:30)
+https://dlhd.dad/watch.php?id=461
+
+#EXTINF:-1 tvg-id="italyserieapisavstorino" tvg-name="Soccer | Italy - Serie A : Pisa vs Torino (18:00)" tvg-logo="https://torino.wordcamp.org/2023/files/2022/12/gianduu_wapuu_wctrn-1024x1024.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Pisa vs Torino (18:00)
+https://dlhd.dad/watch.php?id=15
+
+#EXTINF:-1 tvg-id="italyseriebpalermovsavellino" tvg-name="Soccer | Italy - Serie B : Palermo vs Avellino (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Palermo_vs_Avellino.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie B : Palermo vs Avellino (19:30)
+https://dlhd.dad/watch.php?id=154
+
+#EXTINF:-1 tvg-id="franceligue1monacovsolympiquemarseille" tvg-name="Soccer | France - Ligue 1 : Monaco vs Olympique Marseille (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Monaco_vs_Olympique Marseille.png" group-title="Eventi Live DLHD",Soccer | France - Ligue 1 : Monaco vs Olympique Marseille (20:45)
+https://dlhd.dad/watch.php?id=870
+
+#EXTINF:-1 tvg-id="italyserieainternazionalevsroma" tvg-name="Soccer | Italy - Serie A : Internazionale vs Roma (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Internazionale_vs_Roma.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Internazionale vs Roma (20:45)
+https://dlhd.dad/watch.php?id=877
+
+#EXTINF:-1 tvg-id="2026charlestonopentennisdoublesfinal" tvg-name="Tennis | 2026 Charleston Open Tennis Doubles Final (18:00)" tvg-logo="https://assets.stickpng.com/thumbs/6266588c1e92f9aac65b5bb7.png" group-title="Eventi Live DLHD",Tennis | 2026 Charleston Open Tennis Doubles Final (18:00)
+https://dlhd.dad/watch.php?id=576
+
+#EXTINF:-1 tvg-id="worldsnookerlivetourchampionshipmanchesterengland" tvg-name="Snooker | World Snooker Live Tour Championship - Manchester, England (14:00)" tvg-logo="https://www.visitmanchester.com/includes/public/assets/shared/logos/accolade_bestworld.png" group-title="Eventi Live DLHD",Snooker | World Snooker Live Tour Championship - Manchester, England (14:00)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="worldsnookerlivetourchampionshipmanchesterengland" tvg-name="Snooker | World Snooker Live Tour Championship - Manchester, England (20:00)" tvg-logo="https://www.visitmanchester.com/includes/public/assets/shared/logos/accolade_bestworld.png" group-title="Eventi Live DLHD",Snooker | World Snooker Live Tour Championship - Manchester, England (20:00)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="tourofflandersmenantwerpoudenaarde271km" tvg-name="Cycling | Tour of Flanders Men | Antwerp - Oudenaarde (271km) (09:30)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Cycling_current_event.svg/60px-Cycling_current_event.svg.png" group-title="Eventi Live DLHD",Cycling | Tour of Flanders Men | Antwerp - Oudenaarde (271km) (09:30)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="tourofflanderstourofflanderstherace278kmuciworldtour" tvg-name="Cycling | Tour of Flanders Tour of Flanders. The race (278 km). UCI World Tour. (14:00)" tvg-logo="https://logoeps.com/wp-content/uploads/2013/06/uci-pro-tour-vector-logo.png" group-title="Eventi Live DLHD",Cycling | Tour of Flanders Tour of Flanders. The race (278 km). UCI World Tour. (14:00)
+https://dlhd.dad/watch.php?id=878
 
 
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",YeÅil Yalova x Gaziantep FK 11:00
