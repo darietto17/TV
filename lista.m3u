@@ -645,10 +645,8 @@ https://vavoo.to/vavoo-iptv/play/1759653413f7025450e6b1
 https://vavoo.to/vavoo-iptv/play/352583705711c4cbe44bbb
 #EXTINF:-1 tvg-id="sky.cinema.collection.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="Film - Serie TV",SKY CINEMA COLLECTION (D)
 https://dlhd.dad/watch.php?id=859
-#EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film - Serie TV",SKY CINEMA COMEDY (1)
+#EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film - Serie TV",SKY CINEMA COMEDY
 https://vavoo.to/vavoo-iptv/play/500203271d58941028e95
-#EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film - Serie TV",SKY CINEMA COMEDY (2)
-https://vavoo.to/vavoo-iptv/play/3131104474771735b548ce
 #EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="Film - Serie TV",SKY CINEMA COMEDY (D)
 https://dlhd.dad/watch.php?id=862
 #EXTINF:-1 tvg-id="sky.cinema.drama.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="Film - Serie TV",SKY CINEMA DRAMA
@@ -1030,28 +1028,7 @@ https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriebsampdoriavsempoli" tvg-name="All Soccer Events | Italy - Serie B : Sampdoria vs Empoli (17:15)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sampdoria_vs_Empoli.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie B : Sampdoria vs Empoli (17:15)
-https://dlhd.dad/watch.php?id=55
-
-#EXTINF:-1 tvg-id="italyseriecalbinoleffevspergolettese" tvg-name="All Soccer Events | Italy - Serie C : AlbinoLeffe vs Pergolettese (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/AlbinoLeffe_vs_Pergolettese.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : AlbinoLeffe vs Pergolettese (17:30)
-https://dlhd.dad/watch.php?id=6
-
-#EXTINF:-1 tvg-id="italyseriecalbinoleffevspergolettese" tvg-name="All Soccer Events | Italy - Serie C : AlbinoLeffe vs Pergolettese (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/AlbinoLeffe_vs_Pergolettese.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : AlbinoLeffe vs Pergolettese (17:30)
-https://dlhd.dad/watch.php?id=462
-
-#EXTINF:-1 tvg-id="italyseriecvirtusveronavsospitaletto" tvg-name="All Soccer Events | Italy - Serie C : Virtus Verona vs Ospitaletto (17:30)" tvg-logo="https://www.bepitv.it/wp-content/uploads/2023/12/cropped-logo-bepitv.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Virtus Verona vs Ospitaletto (17:30)
-https://dlhd.dad/watch.php?id=9
-
-#EXTINF:-1 tvg-id="italyserieajuventusvsgenoa" tvg-name="All Soccer Events | Italy - Serie A : Juventus vs Genoa (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Juventus_vs_Genoa.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Juventus vs Genoa (18:00)
-https://dlhd.dad/watch.php?id=7
-
-#EXTINF:-1 tvg-id="italyserieajuventusvsgenoa" tvg-name="All Soccer Events | Italy - Serie A : Juventus vs Genoa (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Juventus_vs_Genoa.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Juventus vs Genoa (18:00)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="italyserieajuventusvsgenoa" tvg-name="All Soccer Events | Italy - Serie A : Juventus vs Genoa (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Juventus_vs_Genoa.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Juventus vs Genoa (18:00)
-https://dlhd.dad/watch.php?id=870
-
-#EXTINF:-1 tvg-id="italyseriebcarraresevsspezia" tvg-name="All Soccer Events | Italy - Serie B : Carrarese vs Spezia (19:30)" tvg-logo="https://www.futbol24.com/upload/team/Italy/Carrarese-Calcio.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie B : Carrarese vs Spezia (19:30)
+#EXTINF:-1 tvg-id="italyseriebcarraresevsspezia" tvg-name="All Soccer Events | Italy - Serie B : Carrarese vs Spezia (19:30)" tvg-logo="https://www.palermomania.com/wp-content/uploads/2023/09/Logo-palermomania_PAYOFF-e1694985200574.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie B : Carrarese vs Spezia (19:30)
 https://dlhd.dad/watch.php?id=68
 
 #EXTINF:-1 tvg-id="italyserieanapolivsmilan" tvg-name="All Soccer Events | Italy - Serie A : Napoli vs Milan (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Napoli_vs_Milan.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Napoli vs Milan (20:45)
