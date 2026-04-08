@@ -220,8 +220,6 @@ https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
 https://dlhd.dad/watch.php?id=879
 #EXTINF:-1 tvg-id="eurosport.2.it" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (MPD)
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport2)/manifest.mpd&key_id=e8372283a523444c84646c4172b1bc0f&key=969a90e1a1a6424a68fe4b5d776368ec
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 2 TIMVISION
-https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 4 TIMVISION
 https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 5 TIMVISION
@@ -797,7 +795,9 @@ https://vavoo.to/vavoo-iptv/play/30363168866e9eeb997936
 https://vavoo.to/vavoo-iptv/play/2090703806f47d7eb551ce
 #EXTINF:-1 tvg-id="sky.sport.motogp.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/hd/sky-sport-motogp-hd-it.png" group-title="Sport",SKY SPORT MOTOGP (D)
 https://dlhd.dad/watch.php?id=575
-#EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA
+#EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA (1)
+https://vavoo.to/vavoo-iptv/play/271195962000118dca31ce
+#EXTINF:-1 tvg-id="sky.sport.nba.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA (2)
 https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (1)
 https://vavoo.to/vavoo-iptv/play/210077178262e76f204fa6
@@ -1046,10 +1046,10 @@ https://dlhd.dad/watch.php?id=462
 #EXTINF:-1 tvg-id="europeuefaeuropaleaguesportingbragavsrealbetis" tvg-name="Soccer | Europe - UEFA Europa League : Sporting Braga vs Real Betis (18:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sporting Braga_vs_Real Betis.png" group-title="Eventi Live DLHD",Soccer | Europe - UEFA Europa League : Sporting Braga vs Real Betis (18:45)
 https://dlhd.dad/watch.php?id=2
 
-#EXTINF:-1 tvg-id="italyseriecatalantaiivscavese" tvg-name="Soccer | Italy - Serie C : Atalanta II vs Cavese (20:30)" tvg-logo="https://images.seeklogo.com/logo-png/50/2/atalanta-logo-png_seeklogo-503108.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Atalanta II vs Cavese (20:30)
+#EXTINF:-1 tvg-id="italyseriecatalantaiivscavese" tvg-name="Soccer | Italy - Serie C : Atalanta II vs Cavese (20:30)" tvg-logo="https://assets-fr.imgfoot.com/media/cache/150x150/club/syracuse.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Atalanta II vs Cavese (20:30)
 https://dlhd.dad/watch.php?id=4
 
-#EXTINF:-1 tvg-id="italyseriecatalantaiivscavese" tvg-name="Soccer | Italy - Serie C : Atalanta II vs Cavese (20:30)" tvg-logo="https://images.seeklogo.com/logo-png/50/2/atalanta-logo-png_seeklogo-503108.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Atalanta II vs Cavese (20:30)
+#EXTINF:-1 tvg-id="italyseriecatalantaiivscavese" tvg-name="Soccer | Italy - Serie C : Atalanta II vs Cavese (20:30)" tvg-logo="https://assets-fr.imgfoot.com/media/cache/150x150/club/syracuse.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Atalanta II vs Cavese (20:30)
 https://dlhd.dad/watch.php?id=460
 
 #EXTINF:-1 tvg-id="europeuefachampionsleaguebarcelonavsatléticomadrid" tvg-name="Soccer | Europe - UEFA Champions League : Barcelona vs Atlético Madrid (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Barcelona_vs_Atlético Madrid.png" group-title="Eventi Live DLHD",Soccer | Europe - UEFA Champions League : Barcelona vs Atlético Madrid (21:00)
