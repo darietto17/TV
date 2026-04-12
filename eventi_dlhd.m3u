@@ -5,7 +5,7 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-id="theinternazionalibnlditaliaromeitalymay5172026" tvg-name="Upcoming Events | The Internazionali BNL d'Italia, Rome, Italy May 5–17, 2026 (17:00)" tvg-logo="https://images.slivcdn.com/videoasset_images/manage_file/1000002162/1746449340000367_ATP_Masters_1000_BNP_Paribas_Open_2025_GOB_Masthead_logo_HLTS.png?q=high" group-title="Eventi Live DLHD",Upcoming Events | The Internazionali BNL d'Italia, Rome, Italy May 5–17, 2026 (17:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="italyserieagenoavssassuolo" tvg-name="Soccer | Italy - Serie A : Genoa vs Sassuolo (12:30)" tvg-logo="https://logodix.com/logo/1643929.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Genoa vs Sassuolo (12:30)
+#EXTINF:-1 tvg-id="italyserieagenoavssassuolo" tvg-name="Soccer | Italy - Serie A : Genoa vs Sassuolo (12:30)" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Genoa vs Sassuolo (12:30)
 https://dlhd.dad/watch.php?id=877
 
 #EXTINF:-1 tvg-id="italyseriecjuventusiivsnuovamonterosi" tvg-name="Soccer | Italy - Serie C : Juventus II vs Nuova Monterosi (12:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Juventus II_vs_Nuova Monterosi.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Juventus II vs Nuova Monterosi (12:30)
@@ -32,7 +32,7 @@ https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="italyseriecatalantaiivsmonopoli" tvg-name="Soccer | Italy - Serie C : Atalanta II vs Monopoli (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Atalanta II_vs_Monopoli.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Atalanta II vs Monopoli (14:30)
 https://dlhd.dad/watch.php?id=26
 
-#EXTINF:-1 tvg-id="italyseriecteamaltamuravsgiugliano" tvg-name="Soccer | Italy - Serie C : Team Altamura vs Giugliano (14:30)" tvg-logo="https://images.seeklogo.com/logo-png/13/3/ssc-giugliano-logo-png_seeklogo-131226.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Team Altamura vs Giugliano (14:30)
+#EXTINF:-1 tvg-id="italyseriecteamaltamuravsgiugliano" tvg-name="Soccer | Italy - Serie C : Team Altamura vs Giugliano (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Team Altamura_vs_Giugliano.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Team Altamura vs Giugliano (14:30)
 https://dlhd.dad/watch.php?id=27
 
 #EXTINF:-1 tvg-id="italyseriecfoggiavssiracusa" tvg-name="Soccer | Italy - Serie C : Foggia vs Siracusa (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Foggia_vs_Siracusa.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie C : Foggia vs Siracusa (14:30)
@@ -80,7 +80,7 @@ https://dlhd.dad/watch.php?id=461
 #EXTINF:-1 tvg-id="englandpremierleaguechelseavsmanchestercity" tvg-name="Soccer | England - Premier League : Chelsea vs Manchester City (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Chelsea_vs_Manchester City.png" group-title="Eventi Live DLHD",Soccer | England - Premier League : Chelsea vs Manchester City (17:30)
 https://dlhd.dad/watch.php?id=462
 
-#EXTINF:-1 tvg-id="germanybundesligastuttgartvshamburgersv" tvg-name="Soccer | Germany - Bundesliga : Stuttgart vs Hamburger SV (17:30)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/stuttgart-logo-png-transparent.png" group-title="Eventi Live DLHD",Soccer | Germany - Bundesliga : Stuttgart vs Hamburger SV (17:30)
+#EXTINF:-1 tvg-id="germanybundesligastuttgartvshamburgersv" tvg-name="Soccer | Germany - Bundesliga : Stuttgart vs Hamburger SV (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Stuttgart_vs_Hamburger SV.png" group-title="Eventi Live DLHD",Soccer | Germany - Bundesliga : Stuttgart vs Hamburger SV (17:30)
 https://dlhd.dad/watch.php?id=24
 
 #EXTINF:-1 tvg-id="italyserieabolognavslecce" tvg-name="Soccer | Italy - Serie A : Bologna vs Lecce (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bologna_vs_Lecce.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Bologna vs Lecce (18:00)
@@ -122,7 +122,7 @@ https://dlhd.dad/watch.php?id=577
 #EXTINF:-1 tvg-id="parismarathon2026" tvg-name="Athletics | Paris Marathon 2026 (07:45)" tvg-logo="https://dckebkdc4nt5q.cloudfront.net/bf09efe4ef64f93f16ad8dde659b133c.png" group-title="Eventi Live DLHD",Athletics | Paris Marathon 2026 (07:45)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="uciworldtourparisroubaix259km1400m" tvg-name="Cycling | UCI World Tour Paris-Roubaix | 259 km | 1400 m (11:30)" tvg-logo="https://thefactbase.com/static/893fe736c7338284a985f64ac9892fef/ccc8a/logo.png" group-title="Eventi Live DLHD",Cycling | UCI World Tour Paris-Roubaix | 259 km | 1400 m (11:30)
+#EXTINF:-1 tvg-id="uciworldtourparisroubaix259km1400m" tvg-name="Cycling | UCI World Tour Paris-Roubaix | 259 km | 1400 m (11:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | UCI World Tour Paris-Roubaix | 259 km | 1400 m (11:30)
 https://dlhd.dad/watch.php?id=882
 
 #EXTINF:-1 tvg-id="uciworldtourparisroubaix259km1400m" tvg-name="Cycling | UCI World Tour Paris-Roubaix | 259 km | 1400 m (11:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | UCI World Tour Paris-Roubaix | 259 km | 1400 m (11:30)
