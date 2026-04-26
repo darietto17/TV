@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyserieafiorentinavssassuolo" tvg-name="All Soccer Events | Italy - Serie A : Fiorentina vs Sassuolo (12:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Fiorentina_vs_Sassuolo.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Fiorentina vs Sassuolo (12:30)
-https://dlhd.dad/watch.php?id=877
-
 #EXTINF:-1 tvg-id="italyseriecnuovamonterosivsathleticcarpi" tvg-name="All Soccer Events | Italy - Serie C : Nuova Monterosi vs Athletic Carpi (14:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Nuova Monterosi_vs_Athletic Carpi.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Nuova Monterosi vs Athletic Carpi (14:30)
 https://dlhd.dad/watch.php?id=23
 
@@ -38,7 +35,7 @@ https://dlhd.dad/watch.php?id=30
 #EXTINF:-1 tvg-id="italyserieagenoavscomo" tvg-name="All Soccer Events | Italy - Serie A : Genoa vs Como (15:00)" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Genoa vs Como (15:00)
 https://dlhd.dad/watch.php?id=877
 
-#EXTINF:-1 tvg-id="italyseriecteamaltamuravsvirtuscasarano" tvg-name="All Soccer Events | Italy - Serie C : Team Altamura vs Virtus Casarano (18:00)" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Team Altamura vs Virtus Casarano (18:00)
+#EXTINF:-1 tvg-id="italyseriecteamaltamuravsvirtuscasarano" tvg-name="All Soccer Events | Italy - Serie C : Team Altamura vs Virtus Casarano (18:00)" tvg-logo="https://www.casaranocalcio.com/temp/wp-content/uploads/2019/08/altamura.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Team Altamura vs Virtus Casarano (18:00)
 https://dlhd.dad/watch.php?id=23
 
 #EXTINF:-1 tvg-id="italyserieccrotonevslatina" tvg-name="All Soccer Events | Italy - Serie C : Crotone vs Latina (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Crotone_vs_Latina.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Crotone vs Latina (18:00)
@@ -80,9 +77,6 @@ https://dlhd.dad/watch.php?id=877
 #EXTINF:-1 tvg-id="atpwtabarcelonamunichrouenstuttgart" tvg-name="Tennis | ATP / WTA: Barcelona / Munich / Rouen / Stuttgart (13:00)" tvg-logo="https://tennis-open.it/wp-content/uploads/2025/10/cropped-Logo_Tennis_Open.png" group-title="Eventi Live DLHD",Tennis | ATP / WTA: Barcelona / Munich / Rouen / Stuttgart (13:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="moto2round4spainrace" tvg-name="Motorsport | Moto2 | Round 4 | Spain Race (12:00)" tvg-logo="https://uli.arc.nasa.gov/_nuxt/img/00-floor.b4cc668.png" group-title="Eventi Live DLHD",Motorsport | Moto2 | Round 4 | Spain Race (12:00)
-https://dlhd.dad/watch.php?id=575
-
 #EXTINF:-1 tvg-id="motogpround4spainrace" tvg-name="Motorsport | MotoGP : Round 4 | Spain Race (13:15)" tvg-logo="https://images.seeklogo.com/logo-png/33/2/ecstar-suzuki-logo-png_seeklogo-335477.png" group-title="Eventi Live DLHD",Motorsport | MotoGP : Round 4 | Spain Race (13:15)
 https://dlhd.dad/watch.php?id=575
 
@@ -94,9 +88,6 @@ https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="seriea2avellinobasketvsroseto" tvg-name="Basketball | Serie A2 : Avellino Basket vs Roseto (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Avellino Basket_vs_Roseto.png" group-title="Eventi Live DLHD",Basketball | Serie A2 : Avellino Basket vs Roseto (18:00)
 https://dlhd.dad/watch.php?id=882
-
-#EXTINF:-1 tvg-id="liègebastogneliègemenliège2595km" tvg-name="Cycling | Liège-Bastogne-Liège Men | Liège (259.5km) (12:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | Liège-Bastogne-Liège Men | Liège (259.5km) (12:30)
-https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="liègebastogneliègewomenbastogneliège156km" tvg-name="Cycling | Liège-Bastogne-Liège Women | Bastogne - Liège (156km) (16:40)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | Liège-Bastogne-Liège Women | Bastogne - Liège (156km) (16:40)
 https://dlhd.dad/watch.php?id=879
