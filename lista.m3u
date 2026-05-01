@@ -74,6 +74,8 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
 https://vavoo.to/vavoo-iptv/play/270562780243aa8d36614f
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaMdUB8WEdsRVi_WZLxoi79pqlRef4s9Zehg&s" group-title="Altro",BYOBLU
 https://vavoo.to/vavoo-iptv/play/2826111812745ee617058d
+#EXTINF:-1 tvg-id="caccia.e.pesca.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/caccia-pesca-it.png?raw=true" group-title="Altro",CACCIA E PESCA
+https://vavoo.to/vavoo-iptv/play/3639213638a7c6a2cc326e
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/DW0Tvz72-8XZ7rEBVh1jBzwYE1fZhTaowuuxN75Jl8yBtnFkySH1z2T2b7OPlotmHeQ" group-title="Altro",CAFE 24
 https://vavoo.to/vavoo-iptv/play/1625923783d5a6dda233b3
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/camera-dei-deputati-it.png?raw=true" group-title="Altro",CAMERA DEI DEPUTATI
@@ -377,8 +379,6 @@ https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
 https://vavoo.to/vavoo-iptv/play/3428501495a9ec2ff7bc8e
 #EXTINF:-1 tvg-id="nick.jr.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini",NICK JR
 https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065
-#EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Altro",NICKELODEON
-https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c
 #EXTINF:-1 tvg-id="nove.it" tvg-logo="" group-title="Altro",NOVE
 https://vavoo.to/vavoo-iptv/play/867216452ba4d42b41ada
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/570326948497195008/Wf6DPfFP_400x400.jpeg" group-title="Musica",OL3 RADIO
@@ -426,6 +426,8 @@ https://vavoo.to/vavoo-iptv/play/233974719353ecd6eb8de1
 https://vavoo.to/vavoo-iptv/play/4214417458dc0729ae47d
 #EXTINF:-1 tvg-id="radiofreccia.hd.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/radio-freccia-it.png?raw=true" group-title="Musica",RADIO FRECCIA
 https://vavoo.to/vavoo-iptv/play/1711134994a4ab3e165de3
+#EXTINF:-1 tvg-id="radionorba.tv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/radio-norba-tv-it.png?raw=true" group-title="Altro",RADIONORBA TV
+https://vavoo.to/vavoo-iptv/play/26276627684bd1fbc5cb29
 #EXTINF:-1 tvg-id="rai1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1 (1)
 https://vavoo.to/vavoo-iptv/play/875922788627becc98639
 #EXTINF:-1 tvg-id="rai1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-1-it.png" group-title="Rai",RAI 1 (2)
@@ -665,9 +667,7 @@ https://dlhd.dad/watch.php?id=864
 https://vavoo.to/vavoo-iptv/play/18209975559b8c5058ae7f
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE (2)
 https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
-#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (1)
-https://vavoo.to/vavoo-iptv/play/28721519114f66aff68e22
-#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (2)
+#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO
 https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
 #EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (D)
 https://dlhd.dad/watch.php?id=860
@@ -935,7 +935,9 @@ https://vavoo.to/vavoo-iptv/play/1785098768e3514b1dbecc
 #EXTINF:-1 tvg-id="tgcom24.it" tvg-name="TG COM 24" tvg-logo="https://yt3.hgoogleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="News",TG COM 24 (MPD)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="tg.norba.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tg-norba-24-it.png" group-title="News",TG NORBA 24
+#EXTINF:-1 tvg-id="tg.norba.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tg-norba-24-it.png" group-title="News",TG NORBA 24 (1)
+https://vavoo.to/vavoo-iptv/play/33797298178cac7afa180a
+#EXTINF:-1 tvg-id="tg.norba.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tg-norba-24-it.png" group-title="News",TG NORBA 24 (2)
 https://vavoo.to/vavoo-iptv/play/3413557893b1ed86e5018c
 #EXTINF:-1 tvg-id="tgcom24.it" tvg-logo="https://yt3.hgoogleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="News",TGCOM 24
 https://vavoo.to/vavoo-iptv/play/24181484494b43d448b066
@@ -1033,7 +1035,7 @@ https://dlhd.dad/watch.php?id=76
 #EXTINF:-1 tvg-id="italyseriebmodenavsreggiana" tvg-name="All Soccer Events | Italy - Serie B : Modena vs Reggiana (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Modena_vs_Reggiana.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie B : Modena vs Reggiana (15:00)
 https://dlhd.dad/watch.php?id=77
 
-#EXTINF:-1 tvg-id="italyseriebspeziavsvenezia" tvg-name="All Soccer Events | Italy - Serie B : Spezia vs Venezia (15:00)" tvg-logo="https://www.logoquake.com/wp-content/uploads/2024/06/venezia-fc-logoquake_8d1ebe-768x768.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie B : Spezia vs Venezia (15:00)
+#EXTINF:-1 tvg-id="italyseriebspeziavsvenezia" tvg-name="All Soccer Events | Italy - Serie B : Spezia vs Venezia (15:00)" tvg-logo="https://itacaweb.comune.venezia.it/pluginfile.php/1/theme_continuum/mobilelogo/1738919582/logo_mobile.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie B : Spezia vs Venezia (15:00)
 https://dlhd.dad/watch.php?id=86
 
 #EXTINF:-1 tvg-id="italyseriebmantovavsmonza" tvg-name="All Soccer Events | Italy - Serie B : Mantova vs Monza (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Mantova_vs_Monza.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie B : Mantova vs Monza (15:00)
@@ -1051,35 +1053,26 @@ https://dlhd.dad/watch.php?id=108
 #EXTINF:-1 tvg-id="italyserieapisavslecce" tvg-name="All Soccer Events | Italy - Serie A : Pisa vs Lecce (20:45)" tvg-logo="https://lecce.tuttogare.it/src/img/logo-srl-bianco.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie A : Pisa vs Lecce (20:45)
 https://dlhd.dad/watch.php?id=877
 
-#EXTINF:-1 tvg-id="englandpremierleagueleedsunitedvsburnley" tvg-name="All Soccer Events | England - Premier League : Leeds United vs Burnley (21:00)" tvg-logo="https://images.seeklogo.com/logo-png/48/3/burnley-f-c-logo-png_seeklogo-487541.png?v=1957905403768987104" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Leeds United vs Burnley (21:00)
+#EXTINF:-1 tvg-id="englandpremierleagueleedsunitedvsburnley" tvg-name="All Soccer Events | England - Premier League : Leeds United vs Burnley (21:00)" tvg-logo="https://logoeps.com/wp-content/uploads/2025/02/burnley_fc-logoeps.png" group-title="Eventi Live DLHD",All Soccer Events | England - Premier League : Leeds United vs Burnley (21:00)
 https://dlhd.dad/watch.php?id=870
-
-#EXTINF:-1 tvg-id="atpquarterfinal3amp4wtasemifinalsatpdoublessemifinals" tvg-name="Tennis | ATP Quarterfinal 3 &amp; 4; WTA Semifinals; ATP Doubles Semifinals (11:00)" tvg-logo="https://crystalpng.com/wp-content/uploads/2025/11/new-atp-tour-logo.png" group-title="Eventi Live DLHD",Tennis | ATP Quarterfinal 3 &amp; 4; WTA Semifinals; ATP Doubles Semifinals (11:00)
-https://dlhd.dad/watch.php?id=576
 
 #EXTINF:-1 tvg-id="formula2cryptocommiamigrandprixpractice1" tvg-name="Motorsport | Formula 2 : crypto.com Miami Grand Prix - Practice 1 (16:00)" tvg-logo="https://www.dtti.it/wp-content/uploads/2022/07/formula-1-logo-0.png" group-title="Eventi Live DLHD",Motorsport | Formula 2 : crypto.com Miami Grand Prix - Practice 1 (16:00)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="formula1cryptocommiamigrandprixpractice1" tvg-name="Motorsport | Formula 1 : crypto.com Miami Grand Prix - Practice 1 (19:30)" tvg-logo="https://www.dtti.it/wp-content/uploads/2022/07/formula-1-logo-0.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : crypto.com Miami Grand Prix - Practice 1 (19:30)
+#EXTINF:-1 tvg-id="formula1cryptocommiamigrandprixpractice1" tvg-name="Motorsport | Formula 1 : crypto.com Miami Grand Prix - Practice 1 (19:30)" tvg-logo="https://images.seeklogo.com/logo-png/42/2/mclaren-formula-1-team-logo-png_seeklogo-425651.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : crypto.com Miami Grand Prix - Practice 1 (19:30)
 https://dlhd.dad/watch.php?id=577
 
 #EXTINF:-1 tvg-id="formula2cryptocommiamigrandprixqualifying" tvg-name="Motorsport | Formula 2 : crypto.com Miami Grand Prix - Qualifying (20:30)" tvg-logo="https://www.dtti.it/wp-content/uploads/2022/07/formula-1-logo-0.png" group-title="Eventi Live DLHD",Motorsport | Formula 2 : crypto.com Miami Grand Prix - Qualifying (20:30)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="formula1cryptocommiamigrandprixsprintqualifying" tvg-name="Motorsport | Formula 1 : crypto.com Miami Grand Prix - Sprint Qualifying (23:30)" tvg-logo="https://www.dtti.it/wp-content/uploads/2022/07/formula-1-logo-0.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : crypto.com Miami Grand Prix - Sprint Qualifying (23:30)
+#EXTINF:-1 tvg-id="formula1cryptocommiamigrandprixsprintqualifying" tvg-name="Motorsport | Formula 1 : crypto.com Miami Grand Prix - Sprint Qualifying (23:30)" tvg-logo="https://images.seeklogo.com/logo-png/42/2/mclaren-formula-1-team-logo-png_seeklogo-425651.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : crypto.com Miami Grand Prix - Sprint Qualifying (23:30)
 https://dlhd.dad/watch.php?id=577
-
-#EXTINF:-1 tvg-id="worldchampionshipsnookerfinals" tvg-name="Snooker | World Championship Snooker : Finals (11:00)" tvg-logo="https://static.flashscore.com/res/image/data/dpli81C7-8QrqBxAk.png" group-title="Eventi Live DLHD",Snooker | World Championship Snooker : Finals (11:00)
-https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="worldchampionshipsnookerfinals" tvg-name="Snooker | World Championship Snooker : Finals (15:00)" tvg-logo="https://images.launchbox-app.com/7ce3c574-4756-4b7f-9cf0-9516ac0b2178.png" group-title="Eventi Live DLHD",Snooker | World Championship Snooker : Finals (15:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="worldchampionshipsnookerfinals" tvg-name="Snooker | World Championship Snooker : Finals (20:00)" tvg-logo="https://static.flashscore.com/res/image/data/dpli81C7-8QrqBxAk.png" group-title="Eventi Live DLHD",Snooker | World Championship Snooker : Finals (20:00)
+#EXTINF:-1 tvg-id="worldchampionshipsnookerfinals" tvg-name="Snooker | World Championship Snooker : Finals (20:00)" tvg-logo="https://images.launchbox-app.com/7ce3c574-4756-4b7f-9cf0-9516ac0b2178.png" group-title="Eventi Live DLHD",Snooker | World Championship Snooker : Finals (20:00)
 https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="ucicrosscountryshorttrackworldcupwomeneliteyongpyong" tvg-name="Cycling | UCI Cross-country Short Track World Cup | Women Elite | Yongpyong (09:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | UCI Cross-country Short Track World Cup | Women Elite | Yongpyong (09:30)
-https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="touroftrkiyestage6menantalyafeslikan131km" tvg-name="Cycling | Tour of T?rkiye | Stage 6 Men | Antalya – Feslikan (131km) (13:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | Tour of T?rkiye | Stage 6 Men | Antalya – Feslikan (131km) (13:30)
 https://dlhd.dad/watch.php?id=878
