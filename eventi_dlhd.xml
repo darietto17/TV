@@ -26,19 +26,6 @@
     <desc lang="it">England - Premier League : Leeds United vs Burnley</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="Formula2cryptocomMiamiGrandPrixPractice1">
-    <display-name>Formula 2 : crypto.com Miami Grand Prix - Practice 1</display-name>
-  </channel>
-  <programme start="20260501000000 +0200" stop="20260501160000 +0200" channel="Formula2cryptocomMiamiGrandPrixPractice1">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Formula 2 : crypto.com Miami Grand Prix - Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260501160000 +0200" stop="20260501180000 +0200" channel="Formula2cryptocomMiamiGrandPrixPractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 2 : crypto.com Miami Grand Prix - Practice 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Formula1cryptocomMiamiGrandPrixPractice1">
     <display-name>Formula 1 : crypto.com Miami Grand Prix - Practice 1</display-name>
   </channel>
@@ -90,18 +77,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">World Championship Snooker : Finals</desc>
     <category lang="it">Snooker</category>
-  </programme>
-  <channel id="TourdeRomandieStage3IOrbe1766km">
-    <display-name>Tour de Romandie | Stage 3 I | Orbe (176.6km)</display-name>
-  </channel>
-  <programme start="20260501000000 +0200" stop="20260501153000 +0200" channel="TourdeRomandieStage3IOrbe1766km">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Tour de Romandie | Stage 3 I | Orbe (176.6km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260501153000 +0200" stop="20260501173000 +0200" channel="TourdeRomandieStage3IOrbe1766km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour de Romandie | Stage 3 I | Orbe (176.6km)</desc>
-    <category lang="it">Cycling</category>
   </programme>
 </tv>
