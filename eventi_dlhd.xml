@@ -156,19 +156,6 @@
     <desc lang="it">England - Premier League : Leeds United vs Burnley</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="ATPQuarterfinal3amp4WTASemifinalsATPDoublesSemifinals">
-    <display-name>ATP Quarterfinal 3 &amp; 4; WTA Semifinals; ATP Doubles Semifinals</display-name>
-  </channel>
-  <programme start="20260501000000 +0200" stop="20260501110000 +0200" channel="ATPQuarterfinal3amp4WTASemifinalsATPDoublesSemifinals">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">ATP Quarterfinal 3 &amp; 4; WTA Semifinals; ATP Doubles Semifinals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260501110000 +0200" stop="20260501130000 +0200" channel="ATPQuarterfinal3amp4WTASemifinalsATPDoublesSemifinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">ATP Quarterfinal 3 &amp; 4; WTA Semifinals; ATP Doubles Semifinals</desc>
-    <category lang="it">Tennis</category>
-  </programme>
   <channel id="Formula2cryptocomMiamiGrandPrixPractice1">
     <display-name>Formula 2 : crypto.com Miami Grand Prix - Practice 1</display-name>
   </channel>
@@ -224,17 +211,7 @@
   <channel id="WorldChampionshipSnookerFinals">
     <display-name>World Championship Snooker : Finals</display-name>
   </channel>
-  <programme start="20260501000000 +0200" stop="20260501110000 +0200" channel="WorldChampionshipSnookerFinals">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">World Championship Snooker : Finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260501110000 +0200" stop="20260501130000 +0200" channel="WorldChampionshipSnookerFinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship Snooker : Finals</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20260501130000 +0200" stop="20260501150000 +0200" channel="WorldChampionshipSnookerFinals">
+  <programme start="20260501000000 +0200" stop="20260501150000 +0200" channel="WorldChampionshipSnookerFinals">
     <title lang="it">Inizia alle 15:00.</title>
     <desc lang="it">World Championship Snooker : Finals.</desc>
     <category lang="it">Annuncio</category>
