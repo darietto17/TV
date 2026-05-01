@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieAPisavsLecce">
-    <display-name>Italy - Serie A : Pisa vs Lecce</display-name>
-  </channel>
-  <programme start="20260501000000 +0200" stop="20260501204500 +0200" channel="ItalySerieAPisavsLecce">
-    <title lang="it">Inizia alle 20:45.</title>
-    <desc lang="it">Italy - Serie A : Pisa vs Lecce.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260501204500 +0200" stop="20260501224500 +0200" channel="ItalySerieAPisavsLecce">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Pisa vs Lecce</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="EnglandPremierLeagueLeedsUnitedvsBurnley">
     <display-name>England - Premier League : Leeds United vs Burnley</display-name>
   </channel>
@@ -26,32 +13,6 @@
     <desc lang="it">England - Premier League : Leeds United vs Burnley</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="Formula1cryptocomMiamiGrandPrixPractice1">
-    <display-name>Formula 1 : crypto.com Miami Grand Prix - Practice 1</display-name>
-  </channel>
-  <programme start="20260501000000 +0200" stop="20260501193000 +0200" channel="Formula1cryptocomMiamiGrandPrixPractice1">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">Formula 1 : crypto.com Miami Grand Prix - Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260501193000 +0200" stop="20260501213000 +0200" channel="Formula1cryptocomMiamiGrandPrixPractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 1 : crypto.com Miami Grand Prix - Practice 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Formula2cryptocomMiamiGrandPrixQualifying">
-    <display-name>Formula 2 : crypto.com Miami Grand Prix - Qualifying</display-name>
-  </channel>
-  <programme start="20260501000000 +0200" stop="20260501203000 +0200" channel="Formula2cryptocomMiamiGrandPrixQualifying">
-    <title lang="it">Inizia alle 20:30.</title>
-    <desc lang="it">Formula 2 : crypto.com Miami Grand Prix - Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260501203000 +0200" stop="20260501223000 +0200" channel="Formula2cryptocomMiamiGrandPrixQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 2 : crypto.com Miami Grand Prix - Qualifying</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Formula1cryptocomMiamiGrandPrixSprintQualifying">
     <display-name>Formula 1 : crypto.com Miami Grand Prix - Sprint Qualifying</display-name>
   </channel>
@@ -64,18 +25,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Formula 1 : crypto.com Miami Grand Prix - Sprint Qualifying</desc>
     <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="WorldChampionshipSnookerFinals">
-    <display-name>World Championship Snooker : Finals</display-name>
-  </channel>
-  <programme start="20260501000000 +0200" stop="20260501200000 +0200" channel="WorldChampionshipSnookerFinals">
-    <title lang="it">Inizia alle 20:00.</title>
-    <desc lang="it">World Championship Snooker : Finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260501200000 +0200" stop="20260501220000 +0200" channel="WorldChampionshipSnookerFinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship Snooker : Finals</desc>
-    <category lang="it">Snooker</category>
   </programme>
 </tv>
