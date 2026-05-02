@@ -1,28 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieAAtalantavsGenoa">
-    <display-name>Italy - Serie A : Atalanta vs Genoa</display-name>
-  </channel>
-  <programme start="20260502000000 +0200" stop="20260502204500 +0200" channel="ItalySerieAAtalantavsGenoa">
-    <title lang="it">Inizia alle 20:45.</title>
-    <desc lang="it">Italy - Serie A : Atalanta vs Genoa.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260502204500 +0200" stop="20260502224500 +0200" channel="ItalySerieAAtalantavsGenoa">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Atalanta vs Genoa</desc>
-    <category lang="it">Scottish Premiership</category>
-  </programme>
-  <programme start="20260502000000 +0200" stop="20260502204500 +0200" channel="ItalySerieAAtalantavsGenoa">
-    <title lang="it">Inizia alle 20:45.</title>
-    <desc lang="it">Italy - Serie A : Atalanta vs Genoa.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260502204500 +0200" stop="20260502224500 +0200" channel="ItalySerieAAtalantavsGenoa">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Atalanta vs Genoa</desc>
-    <category lang="it">Scottish Premiership</category>
-  </programme>
   <channel id="Formula1cryptocomMiamiGrandPrixQualifying">
     <display-name>Formula 1 : crypto.com Miami Grand Prix - Qualifying</display-name>
   </channel>
@@ -35,31 +12,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Formula 1 : crypto.com Miami Grand Prix - Qualifying</desc>
     <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="WorldChampionshipSnookerFinals">
-    <display-name>World Championship Snooker : Finals</display-name>
-  </channel>
-  <programme start="20260502000000 +0200" stop="20260502200000 +0200" channel="WorldChampionshipSnookerFinals">
-    <title lang="it">Inizia alle 20:00.</title>
-    <desc lang="it">World Championship Snooker : Finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260502200000 +0200" stop="20260502220000 +0200" channel="WorldChampionshipSnookerFinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship Snooker : Finals</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <channel id="SerieA220252026PlayIngara2">
-    <display-name>Serie A2 2025/2026-Play In - gara 2</display-name>
-  </channel>
-  <programme start="20260502000000 +0200" stop="20260502203000 +0200" channel="SerieA220252026PlayIngara2">
-    <title lang="it">Inizia alle 20:30.</title>
-    <desc lang="it">Serie A2 2025/2026-Play In - gara 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260502203000 +0200" stop="20260502223000 +0200" channel="SerieA220252026PlayIngara2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Serie A2 2025/2026-Play In - gara 2</desc>
-    <category lang="it">Basketball</category>
   </programme>
 </tv>
