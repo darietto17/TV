@@ -1,3 +1,306 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ItalySerieAUdinesevsTorino">
+    <display-name>Italy - Serie A : Udinese vs Torino</display-name>
+  </channel>
+  <programme start="20260502000000 +0200" stop="20260502150000 +0200" channel="ItalySerieAUdinesevsTorino">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">Italy - Serie A : Udinese vs Torino.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260502150000 +0200" stop="20260502170000 +0200" channel="ItalySerieAUdinesevsTorino">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie A : Udinese vs Torino</desc>
+    <category lang="it">Scottish Premiership</category>
+  </programme>
+  <channel id="GermanyBundesligaBayernMnchenvsHeidenheim">
+    <display-name>Germany - Bundesliga : Bayern München vs Heidenheim</display-name>
+  </channel>
+  <programme start="20260502000000 +0200" stop="20260502153000 +0200" channel="GermanyBundesligaBayernMnchenvsHeidenheim">
+    <title lang="it">Inizia alle 15:30.</title>
+    <desc lang="it">Germany - Bundesliga : Bayern München vs Heidenheim.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260502153000 +0200" stop="20260502173000 +0200" channel="GermanyBundesligaBayernMnchenvsHeidenheim">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Germany - Bundesliga : Bayern München vs Heidenheim</desc>
+    <category lang="it">Scottish Premiership</category>
+  </programme>
+  <channel id="EnglandPremierLeagueNewcastleUnitedvsBrightonampHoveAlbion">
+    <display-name>England - Premier League : Newcastle United vs Brighton &amp; Hove Albion</display-name>
+  </channel>
+  <programme start="20260502000000 +0200" stop="20260502160000 +0200" channel="EnglandPremierLeagueNewcastleUnitedvsBrightonampHoveAlbion">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">England - Premier League : Newcastle United vs Brighton &amp; Hove Albion.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260502160000 +0200" stop="20260502180000 +0200" channel="EnglandPremierLeagueNewcastleUnitedvsBrightonampHoveAlbion">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">England - Premier League : Newcastle United vs Brighton &amp; Hove Albion</desc>
+    <category lang="it">Scottish Premiership</category>
+  </programme>
+  <channel id="ItalySerieAComovsNapoli">
+    <display-name>Italy - Serie A : Como vs Napoli</display-name>
+  </channel>
+  <programme start="20260502000000 +0200" stop="20260502180000 +0200" channel="ItalySerieAComovsNapoli">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">Italy - Serie A : Como vs Napoli.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260502180000 +0200" stop="20260502200000 +0200" channel="ItalySerieAComovsNapoli">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie A : Como vs Napoli</desc>
+    <category lang="it">Scottish Premiership</category>
+  </programme>
+  <channel id="EnglandPremierLeagueArsenalvsFulham">
+    <display-name>England - Premier League : Arsenal vs Fulham</display-name>
+  </channel>
+  <programme start="20260502000000 +0200" stop="20260502183000 +0200" channel="EnglandPremierLeagueArsenalvsFulham">
+    <title lang="it">Inizia alle 18:30.</title>
+    <desc lang="it">England - Premier League : Arsenal vs Fulham.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260502183000 +0200" stop="20260502203000 +0200" channel="EnglandPremierLeagueArsenalvsFulham">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">England - Premier League : Arsenal vs Fulham</desc>
+    <category lang="it">Scottish Premiership</category>
+  </programme>
+  <channel id="GermanyBundesligaBayerLeverkusenvsRBLeipzig">
+    <display-name>Germany - Bundesliga : Bayer Leverkusen vs RB Leipzig</display-name>
+  </channel>
+  <programme start="20260502000000 +0200" stop="20260502183000 +0200" channel="GermanyBundesligaBayerLeverkusenvsRBLeipzig">
+    <title lang="it">Inizia alle 18:30.</title>
+    <desc lang="it">Germany - Bundesliga : Bayer Leverkusen vs RB Leipzig.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260502183000 +0200" stop="20260502203000 +0200" channel="GermanyBundesligaBayerLeverkusenvsRBLeipzig">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Germany - Bundesliga : Bayer Leverkusen vs RB Leipzig</desc>
+    <category lang="it">Scottish Premiership</category>
+  </programme>
+  <channel id="ItalySerieAAtalantavsGenoa">
+    <display-name>Italy - Serie A : Atalanta vs Genoa</display-name>
+  </channel>
+  <programme start="20260502000000 +0200" stop="20260502204500 +0200" channel="ItalySerieAAtalantavsGenoa">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">Italy - Serie A : Atalanta vs Genoa.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260502204500 +0200" stop="20260502224500 +0200" channel="ItalySerieAAtalantavsGenoa">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie A : Atalanta vs Genoa</desc>
+    <category lang="it">Scottish Premiership</category>
+  </programme>
+  <programme start="20260502000000 +0200" stop="20260502204500 +0200" channel="ItalySerieAAtalantavsGenoa">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">Italy - Serie A : Atalanta vs Genoa.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260502204500 +0200" stop="20260502224500 +0200" channel="ItalySerieAAtalantavsGenoa">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie A : Atalanta vs Genoa</desc>
+    <category lang="it">Scottish Premiership</category>
+  </programme>
+  <channel id="2026MutuaMadridOpenTennisWTASinglesFinalATPSemifinalsampDoublesFinal">
+    <display-name>2026 Mutua Madrid Open Tennis WTA Singles Final; ATP Semifinals &amp; Doubles Final</display-name>
+  </channel>
+  <programme start="20260502000000 +0200" stop="20260502170000 +0200" channel="2026MutuaMadridOpenTennisWTASinglesFinalATPSemifinalsampDoublesFinal">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">2026 Mutua Madrid Open Tennis WTA Singles Final; ATP Semifinals &amp; Doubles Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260502170000 +0200" stop="20260502190000 +0200" channel="2026MutuaMadridOpenTennisWTASinglesFinalATPSemifinalsampDoublesFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">2026 Mutua Madrid Open Tennis WTA Singles Final; ATP Semifinals &amp; Doubles Final</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="Formula2cryptocomMiamiGrandPrixSprintRace">
+    <display-name>Formula 2 : crypto.com Miami Grand Prix - Sprint Race</display-name>
+  </channel>
+  <programme start="20260502000000 +0200" stop="20260502160000 +0200" channel="Formula2cryptocomMiamiGrandPrixSprintRace">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">Formula 2 : crypto.com Miami Grand Prix - Sprint Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260502160000 +0200" stop="20260502180000 +0200" channel="Formula2cryptocomMiamiGrandPrixSprintRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 2 : crypto.com Miami Grand Prix - Sprint Race</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Formula1cryptocomMiamiGrandPrixSprintGrid">
+    <display-name>Formula 1 : crypto.com Miami Grand Prix - Sprint Grid</display-name>
+  </channel>
+  <programme start="20260502000000 +0200" stop="20260502180000 +0200" channel="Formula1cryptocomMiamiGrandPrixSprintGrid">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">Formula 1 : crypto.com Miami Grand Prix - Sprint Grid.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260502180000 +0200" stop="20260502200000 +0200" channel="Formula1cryptocomMiamiGrandPrixSprintGrid">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 1 : crypto.com Miami Grand Prix - Sprint Grid</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Formula2cryptocomMiamiGrandPrixSprint">
+    <display-name>Formula 2 : crypto.com Miami Grand Prix - Sprint</display-name>
+  </channel>
+  <programme start="20260502000000 +0200" stop="20260502190000 +0200" channel="Formula2cryptocomMiamiGrandPrixSprint">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">Formula 2 : crypto.com Miami Grand Prix - Sprint.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260502190000 +0200" stop="20260502210000 +0200" channel="Formula2cryptocomMiamiGrandPrixSprint">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 2 : crypto.com Miami Grand Prix - Sprint</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Formula1cryptocomMiamiGrandPrixQualifying">
+    <display-name>Formula 1 : crypto.com Miami Grand Prix - Qualifying</display-name>
+  </channel>
+  <programme start="20260502000000 +0200" stop="20260502230000 +0200" channel="Formula1cryptocomMiamiGrandPrixQualifying">
+    <title lang="it">Inizia alle 23:00.</title>
+    <desc lang="it">Formula 1 : crypto.com Miami Grand Prix - Qualifying.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260502230000 +0200" stop="20260503010000 +0200" channel="Formula1cryptocomMiamiGrandPrixQualifying">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 1 : crypto.com Miami Grand Prix - Qualifying</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="WorldChampionshipSnookerFinals">
+    <display-name>World Championship Snooker : Finals</display-name>
+  </channel>
+  <programme start="20260502000000 +0200" stop="20260502110000 +0200" channel="WorldChampionshipSnookerFinals">
+    <title lang="it">Inizia alle 11:00.</title>
+    <desc lang="it">World Championship Snooker : Finals.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260502110000 +0200" stop="20260502130000 +0200" channel="WorldChampionshipSnookerFinals">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Championship Snooker : Finals</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <programme start="20260502130000 +0200" stop="20260502150000 +0200" channel="WorldChampionshipSnookerFinals">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">World Championship Snooker : Finals.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260502150000 +0200" stop="20260502170000 +0200" channel="WorldChampionshipSnookerFinals">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Championship Snooker : Finals</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <programme start="20260502170000 +0200" stop="20260502200000 +0200" channel="WorldChampionshipSnookerFinals">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">World Championship Snooker : Finals.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260502200000 +0200" stop="20260502220000 +0200" channel="WorldChampionshipSnookerFinals">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Championship Snooker : Finals</desc>
+    <category lang="it">Snooker</category>
+  </programme>
+  <channel id="SerieA220252026PlayIngara2">
+    <display-name>Serie A2 2025/2026-Play In - gara 2</display-name>
+  </channel>
+  <programme start="20260502000000 +0200" stop="20260502203000 +0200" channel="SerieA220252026PlayIngara2">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">Serie A2 2025/2026-Play In - gara 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260502203000 +0200" stop="20260502223000 +0200" channel="SerieA220252026PlayIngara2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Serie A2 2025/2026-Play In - gara 2</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <channel id="UCIDownhillWorldCupWomenEliteYongpyong">
+    <display-name>UCI Downhill World Cup | Women Elite | Yongpyong</display-name>
+  </channel>
+  <programme start="20260502000000 +0200" stop="20260502053000 +0200" channel="UCIDownhillWorldCupWomenEliteYongpyong">
+    <title lang="it">Inizia alle 05:30.</title>
+    <desc lang="it">UCI Downhill World Cup | Women Elite | Yongpyong.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260502053000 +0200" stop="20260502073000 +0200" channel="UCIDownhillWorldCupWomenEliteYongpyong">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UCI Downhill World Cup | Women Elite | Yongpyong</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="TourofTurkiyeStage7MenAntalya1561km">
+    <display-name>Tour of Turkiye | Stage 7 Men | Antalya (156.1km)</display-name>
+  </channel>
+  <programme start="20260502000000 +0200" stop="20260502103000 +0200" channel="TourofTurkiyeStage7MenAntalya1561km">
+    <title lang="it">Inizia alle 10:30.</title>
+    <desc lang="it">Tour of Turkiye | Stage 7 Men | Antalya (156.1km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260502103000 +0200" stop="20260502123000 +0200" channel="TourofTurkiyeStage7MenAntalya1561km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Tour of Turkiye | Stage 7 Men | Antalya (156.1km)</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="TourdeRomandieStage4MenBrocCharmey1496km">
+    <display-name>Tour de Romandie | Stage 4 Men | Broc – Charmey (149.6km)</display-name>
+  </channel>
+  <programme start="20260502000000 +0200" stop="20260502140000 +0200" channel="TourdeRomandieStage4MenBrocCharmey1496km">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">Tour de Romandie | Stage 4 Men | Broc – Charmey (149.6km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260502140000 +0200" stop="20260502160000 +0200" channel="TourdeRomandieStage4MenBrocCharmey1496km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Tour de Romandie | Stage 4 Men | Broc – Charmey (149.6km)</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="CarlsonHockeyGamesSwitzerlandvsFinland">
+    <display-name>Carlson Hockey Games : Switzerland vs Finland</display-name>
+  </channel>
+  <programme start="20260502000000 +0200" stop="20260502120000 +0200" channel="CarlsonHockeyGamesSwitzerlandvsFinland">
+    <title lang="it">Inizia alle 12:00.</title>
+    <desc lang="it">Carlson Hockey Games : Switzerland vs Finland.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260502120000 +0200" stop="20260502140000 +0200" channel="CarlsonHockeyGamesSwitzerlandvsFinland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Carlson Hockey Games : Switzerland vs Finland</desc>
+    <category lang="it">Ice Hockey</category>
+  </programme>
+  <channel id="ChampionsLeagueWomenVakifbankWvsConeglianoW">
+    <display-name>Champions League Women : Vakifbank W vs Conegliano W</display-name>
+  </channel>
+  <programme start="20260502000000 +0200" stop="20260502160000 +0200" channel="ChampionsLeagueWomenVakifbankWvsConeglianoW">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">Champions League Women : Vakifbank W vs Conegliano W.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260502160000 +0200" stop="20260502180000 +0200" channel="ChampionsLeagueWomenVakifbankWvsConeglianoW">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Champions League Women : Vakifbank W vs Conegliano W</desc>
+    <category lang="it">Volleyball</category>
+  </programme>
+  <channel id="WorldAquaticsWorldCup2026OpenWaterGulfofAranci3rdstageWomens3kmKnockoutSprint">
+    <display-name>World Aquatics World Cup 2026 - Open Water Gulf of Aranci 3rd stage: Women's 3km Knockout Sprint</display-name>
+  </channel>
+  <programme start="20260502000000 +0200" stop="20260502170000 +0200" channel="WorldAquaticsWorldCup2026OpenWaterGulfofAranci3rdstageWomens3kmKnockoutSprint">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">World Aquatics World Cup 2026 - Open Water Gulf of Aranci 3rd stage: Women's 3km Knockout Sprint.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260502170000 +0200" stop="20260502190000 +0200" channel="WorldAquaticsWorldCup2026OpenWaterGulfofAranci3rdstageWomens3kmKnockoutSprint">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Aquatics World Cup 2026 - Open Water Gulf of Aranci 3rd stage: Women's 3km Knockout Sprint</desc>
+    <category lang="it">Water Sports</category>
+  </programme>
+  <channel id="WorldAquaticsWorldCup2026OpenWaterGulfofAranci3rdstageMens3kmKnockoutSprint">
+    <display-name>World Aquatics World Cup 2026 - Open Water Gulf of Aranci 3rd stage: Men's 3km Knockout Sprint</display-name>
+  </channel>
+  <programme start="20260502000000 +0200" stop="20260502183000 +0200" channel="WorldAquaticsWorldCup2026OpenWaterGulfofAranci3rdstageMens3kmKnockoutSprint">
+    <title lang="it">Inizia alle 18:30.</title>
+    <desc lang="it">World Aquatics World Cup 2026 - Open Water Gulf of Aranci 3rd stage: Men's 3km Knockout Sprint.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260502183000 +0200" stop="20260502203000 +0200" channel="WorldAquaticsWorldCup2026OpenWaterGulfofAranci3rdstageMens3kmKnockoutSprint">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Aquatics World Cup 2026 - Open Water Gulf of Aranci 3rd stage: Men's 3km Knockout Sprint</desc>
+    <category lang="it">Water Sports</category>
+  </programme>
 </tv>
