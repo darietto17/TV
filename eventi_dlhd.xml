@@ -169,17 +169,7 @@
   <channel id="WorldChampionshipSnookerFinals">
     <display-name>World Championship Snooker : Finals</display-name>
   </channel>
-  <programme start="20260502000000 +0200" stop="20260502110000 +0200" channel="WorldChampionshipSnookerFinals">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">World Championship Snooker : Finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260502110000 +0200" stop="20260502130000 +0200" channel="WorldChampionshipSnookerFinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship Snooker : Finals</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20260502130000 +0200" stop="20260502150000 +0200" channel="WorldChampionshipSnookerFinals">
+  <programme start="20260502000000 +0200" stop="20260502150000 +0200" channel="WorldChampionshipSnookerFinals">
     <title lang="it">Inizia alle 15:00.</title>
     <desc lang="it">World Championship Snooker : Finals.</desc>
     <category lang="it">Annuncio</category>
@@ -224,19 +214,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Tour de Romandie | Stage 4 Men | Broc – Charmey (149.6km)</desc>
     <category lang="it">Cycling</category>
-  </programme>
-  <channel id="CarlsonHockeyGamesSwitzerlandvsFinland">
-    <display-name>Carlson Hockey Games : Switzerland vs Finland</display-name>
-  </channel>
-  <programme start="20260502000000 +0200" stop="20260502120000 +0200" channel="CarlsonHockeyGamesSwitzerlandvsFinland">
-    <title lang="it">Inizia alle 12:00.</title>
-    <desc lang="it">Carlson Hockey Games : Switzerland vs Finland.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260502120000 +0200" stop="20260502140000 +0200" channel="CarlsonHockeyGamesSwitzerlandvsFinland">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Carlson Hockey Games : Switzerland vs Finland</desc>
-    <category lang="it">Ice Hockey</category>
   </programme>
   <channel id="ChampionsLeagueWomenVakifbankWvsConeglianoW">
     <display-name>Champions League Women : Vakifbank W vs Conegliano W</display-name>
