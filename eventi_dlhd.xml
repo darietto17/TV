@@ -1,44 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieAComovsNapoli">
-    <display-name>Italy - Serie A : Como vs Napoli</display-name>
-  </channel>
-  <programme start="20260502000000 +0200" stop="20260502180000 +0200" channel="ItalySerieAComovsNapoli">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">Italy - Serie A : Como vs Napoli.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260502180000 +0200" stop="20260502200000 +0200" channel="ItalySerieAComovsNapoli">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Como vs Napoli</desc>
-    <category lang="it">Scottish Premiership</category>
-  </programme>
-  <channel id="EnglandPremierLeagueArsenalvsFulham">
-    <display-name>England - Premier League : Arsenal vs Fulham</display-name>
-  </channel>
-  <programme start="20260502000000 +0200" stop="20260502183000 +0200" channel="EnglandPremierLeagueArsenalvsFulham">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">England - Premier League : Arsenal vs Fulham.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260502183000 +0200" stop="20260502203000 +0200" channel="EnglandPremierLeagueArsenalvsFulham">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Arsenal vs Fulham</desc>
-    <category lang="it">Scottish Premiership</category>
-  </programme>
-  <channel id="GermanyBundesligaBayerLeverkusenvsRBLeipzig">
-    <display-name>Germany - Bundesliga : Bayer Leverkusen vs RB Leipzig</display-name>
-  </channel>
-  <programme start="20260502000000 +0200" stop="20260502183000 +0200" channel="GermanyBundesligaBayerLeverkusenvsRBLeipzig">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Germany - Bundesliga : Bayer Leverkusen vs RB Leipzig.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260502183000 +0200" stop="20260502203000 +0200" channel="GermanyBundesligaBayerLeverkusenvsRBLeipzig">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga : Bayer Leverkusen vs RB Leipzig</desc>
-    <category lang="it">Scottish Premiership</category>
-  </programme>
   <channel id="ItalySerieAAtalantavsGenoa">
     <display-name>Italy - Serie A : Atalanta vs Genoa</display-name>
   </channel>
@@ -61,45 +22,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Serie A : Atalanta vs Genoa</desc>
     <category lang="it">Scottish Premiership</category>
-  </programme>
-  <channel id="2026MutuaMadridOpenTennisWTASinglesFinalATPSemifinalsampDoublesFinal">
-    <display-name>2026 Mutua Madrid Open Tennis WTA Singles Final; ATP Semifinals &amp; Doubles Final</display-name>
-  </channel>
-  <programme start="20260502000000 +0200" stop="20260502170000 +0200" channel="2026MutuaMadridOpenTennisWTASinglesFinalATPSemifinalsampDoublesFinal">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis WTA Singles Final; ATP Semifinals &amp; Doubles Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260502170000 +0200" stop="20260502190000 +0200" channel="2026MutuaMadridOpenTennisWTASinglesFinalATPSemifinalsampDoublesFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis WTA Singles Final; ATP Semifinals &amp; Doubles Final</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <channel id="Formula1cryptocomMiamiGrandPrixSprintGrid">
-    <display-name>Formula 1 : crypto.com Miami Grand Prix - Sprint Grid</display-name>
-  </channel>
-  <programme start="20260502000000 +0200" stop="20260502180000 +0200" channel="Formula1cryptocomMiamiGrandPrixSprintGrid">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">Formula 1 : crypto.com Miami Grand Prix - Sprint Grid.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260502180000 +0200" stop="20260502200000 +0200" channel="Formula1cryptocomMiamiGrandPrixSprintGrid">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 1 : crypto.com Miami Grand Prix - Sprint Grid</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Formula2cryptocomMiamiGrandPrixSprint">
-    <display-name>Formula 2 : crypto.com Miami Grand Prix - Sprint</display-name>
-  </channel>
-  <programme start="20260502000000 +0200" stop="20260502190000 +0200" channel="Formula2cryptocomMiamiGrandPrixSprint">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">Formula 2 : crypto.com Miami Grand Prix - Sprint.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260502190000 +0200" stop="20260502210000 +0200" channel="Formula2cryptocomMiamiGrandPrixSprint">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 2 : crypto.com Miami Grand Prix - Sprint</desc>
-    <category lang="it">Motorsport</category>
   </programme>
   <channel id="Formula1cryptocomMiamiGrandPrixQualifying">
     <display-name>Formula 1 : crypto.com Miami Grand Prix - Qualifying</display-name>
@@ -139,31 +61,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Serie A2 2025/2026-Play In - gara 2</desc>
     <category lang="it">Basketball</category>
-  </programme>
-  <channel id="WorldAquaticsWorldCup2026OpenWaterGulfofAranci3rdstageWomens3kmKnockoutSprint">
-    <display-name>World Aquatics World Cup 2026 - Open Water Gulf of Aranci 3rd stage: Women's 3km Knockout Sprint</display-name>
-  </channel>
-  <programme start="20260502000000 +0200" stop="20260502170000 +0200" channel="WorldAquaticsWorldCup2026OpenWaterGulfofAranci3rdstageWomens3kmKnockoutSprint">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">World Aquatics World Cup 2026 - Open Water Gulf of Aranci 3rd stage: Women's 3km Knockout Sprint.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260502170000 +0200" stop="20260502190000 +0200" channel="WorldAquaticsWorldCup2026OpenWaterGulfofAranci3rdstageWomens3kmKnockoutSprint">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Aquatics World Cup 2026 - Open Water Gulf of Aranci 3rd stage: Women's 3km Knockout Sprint</desc>
-    <category lang="it">Water Sports</category>
-  </programme>
-  <channel id="WorldAquaticsWorldCup2026OpenWaterGulfofAranci3rdstageMens3kmKnockoutSprint">
-    <display-name>World Aquatics World Cup 2026 - Open Water Gulf of Aranci 3rd stage: Men's 3km Knockout Sprint</display-name>
-  </channel>
-  <programme start="20260502000000 +0200" stop="20260502183000 +0200" channel="WorldAquaticsWorldCup2026OpenWaterGulfofAranci3rdstageMens3kmKnockoutSprint">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">World Aquatics World Cup 2026 - Open Water Gulf of Aranci 3rd stage: Men's 3km Knockout Sprint.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260502183000 +0200" stop="20260502203000 +0200" channel="WorldAquaticsWorldCup2026OpenWaterGulfofAranci3rdstageMens3kmKnockoutSprint">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Aquatics World Cup 2026 - Open Water Gulf of Aranci 3rd stage: Men's 3km Knockout Sprint</desc>
-    <category lang="it">Water Sports</category>
   </programme>
 </tv>
