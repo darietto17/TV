@@ -1,44 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieCMonopolivsCasaranoCalcio">
-    <display-name>Italy - Serie C : Monopoli vs Casarano Calcio</display-name>
-  </channel>
-  <programme start="20260503000000 +0200" stop="20260503200000 +0200" channel="ItalySerieCMonopolivsCasaranoCalcio">
-    <title lang="it">Inizia alle 20:00.</title>
-    <desc lang="it">Italy - Serie C : Monopoli vs Casarano Calcio.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503200000 +0200" stop="20260503220000 +0200" channel="ItalySerieCMonopolivsCasaranoCalcio">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Monopoli vs Casarano Calcio</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="EnglandPremierLeagueAstonVillavsTottenhamHotspur">
-    <display-name>England - Premier League : Aston Villa vs Tottenham Hotspur</display-name>
-  </channel>
-  <programme start="20260503000000 +0200" stop="20260503200000 +0200" channel="EnglandPremierLeagueAstonVillavsTottenhamHotspur">
-    <title lang="it">Inizia alle 20:00.</title>
-    <desc lang="it">England - Premier League : Aston Villa vs Tottenham Hotspur.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503200000 +0200" stop="20260503220000 +0200" channel="EnglandPremierLeagueAstonVillavsTottenhamHotspur">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Aston Villa vs Tottenham Hotspur</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="ItalySerieAInternazionalevsParma">
-    <display-name>Italy - Serie A : Internazionale vs Parma</display-name>
-  </channel>
-  <programme start="20260503000000 +0200" stop="20260503204500 +0200" channel="ItalySerieAInternazionalevsParma">
-    <title lang="it">Inizia alle 20:45.</title>
-    <desc lang="it">Italy - Serie A : Internazionale vs Parma.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503204500 +0200" stop="20260503224500 +0200" channel="ItalySerieAInternazionalevsParma">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Internazionale vs Parma</desc>
-    <category lang="it">Soccer</category>
-  </programme>
   <channel id="Formula1cryptocomMiamiGrandPrixGrandPrixSunday">
     <display-name>Formula 1 : crypto.com Miami Grand Prix - Grand Prix Sunday</display-name>
   </channel>
@@ -64,18 +25,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Formula 1 : crypto.com Miami Grand Prix - Grand Prix Race</desc>
     <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="WorldChampionshipSnookerFinals">
-    <display-name>World Championship Snooker : Finals</display-name>
-  </channel>
-  <programme start="20260503000000 +0200" stop="20260503193000 +0200" channel="WorldChampionshipSnookerFinals">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">World Championship Snooker : Finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503193000 +0200" stop="20260503213000 +0200" channel="WorldChampionshipSnookerFinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship Snooker : Finals</desc>
-    <category lang="it">Snooker</category>
   </programme>
 </tv>
