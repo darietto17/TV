@@ -1,57 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="EnglandPremierLeagueAFCBournemouthvsCrystalPalace">
-    <display-name>England - Premier League : AFC Bournemouth vs Crystal Palace</display-name>
-  </channel>
-  <programme start="20260503000000 +0200" stop="20260503150000 +0200" channel="EnglandPremierLeagueAFCBournemouthvsCrystalPalace">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">England - Premier League : AFC Bournemouth vs Crystal Palace.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503150000 +0200" stop="20260503170000 +0200" channel="EnglandPremierLeagueAFCBournemouthvsCrystalPalace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : AFC Bournemouth vs Crystal Palace</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="ItalySerieASassuolovsMilan">
-    <display-name>Italy - Serie A : Sassuolo vs Milan</display-name>
-  </channel>
-  <programme start="20260503000000 +0200" stop="20260503150000 +0200" channel="ItalySerieASassuolovsMilan">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">Italy - Serie A : Sassuolo vs Milan.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503150000 +0200" stop="20260503170000 +0200" channel="ItalySerieASassuolovsMilan">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Sassuolo vs Milan</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="GermanyBundesligaStPaulivsMainz05">
-    <display-name>Germany - Bundesliga : St. Pauli vs Mainz 05</display-name>
-  </channel>
-  <programme start="20260503000000 +0200" stop="20260503153000 +0200" channel="GermanyBundesligaStPaulivsMainz05">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Germany - Bundesliga : St. Pauli vs Mainz 05.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503153000 +0200" stop="20260503173000 +0200" channel="GermanyBundesligaStPaulivsMainz05">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga : St. Pauli vs Mainz 05</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="EnglandPremierLeagueManchesterUnitedvsLiverpool">
-    <display-name>England - Premier League : Manchester United vs Liverpool</display-name>
-  </channel>
-  <programme start="20260503000000 +0200" stop="20260503163000 +0200" channel="EnglandPremierLeagueManchesterUnitedvsLiverpool">
-    <title lang="it">Inizia alle 16:30.</title>
-    <desc lang="it">England - Premier League : Manchester United vs Liverpool.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503163000 +0200" stop="20260503183000 +0200" channel="EnglandPremierLeagueManchesterUnitedvsLiverpool">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Manchester United vs Liverpool</desc>
-    <category lang="it">Soccer</category>
-  </programme>
   <channel id="ItalySerieAJuventusvsVerona">
     <display-name>Italy - Serie A : Juventus vs Verona</display-name>
   </channel>
@@ -165,19 +113,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">World Championship Snooker : Finals</desc>
     <category lang="it">Snooker</category>
-  </programme>
-  <channel id="CarlsonHockeyGamesCzechRepublicvsSwitzerland">
-    <display-name>Carlson Hockey Games : Czech Republic vs Switzerland</display-name>
-  </channel>
-  <programme start="20260503000000 +0200" stop="20260503160000 +0200" channel="CarlsonHockeyGamesCzechRepublicvsSwitzerland">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Carlson Hockey Games : Czech Republic vs Switzerland.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503160000 +0200" stop="20260503180000 +0200" channel="CarlsonHockeyGamesCzechRepublicvsSwitzerland">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Carlson Hockey Games : Czech Republic vs Switzerland</desc>
-    <category lang="it">Ice Hockey</category>
   </programme>
   <channel id="SerieA1LubeCivitanovavsPerugia">
     <display-name>Serie A1 : Lube Civitanova vs Perugia</display-name>
