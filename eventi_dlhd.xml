@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="GermanyBundesliga2ElversbergvsPaderborn">
-    <display-name>Germany - Bundesliga 2 : Elversberg vs Paderborn</display-name>
-  </channel>
-  <programme start="20260503000000 +0200" stop="20260503133000 +0200" channel="GermanyBundesliga2ElversbergvsPaderborn">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Elversberg vs Paderborn.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503133000 +0200" stop="20260503153000 +0200" channel="GermanyBundesliga2ElversbergvsPaderborn">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga 2 : Elversberg vs Paderborn</desc>
-    <category lang="it">Soccer</category>
-  </programme>
   <channel id="EnglandPremierLeagueAFCBournemouthvsCrystalPalace">
     <display-name>England - Premier League : AFC Bournemouth vs Crystal Palace</display-name>
   </channel>
@@ -169,17 +156,7 @@
   <channel id="WorldChampionshipSnookerFinals">
     <display-name>World Championship Snooker : Finals</display-name>
   </channel>
-  <programme start="20260503000000 +0200" stop="20260503134500 +0200" channel="WorldChampionshipSnookerFinals">
-    <title lang="it">Inizia alle 13:45.</title>
-    <desc lang="it">World Championship Snooker : Finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503134500 +0200" stop="20260503154500 +0200" channel="WorldChampionshipSnookerFinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship Snooker : Finals</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20260503154500 +0200" stop="20260503193000 +0200" channel="WorldChampionshipSnookerFinals">
+  <programme start="20260503000000 +0200" stop="20260503193000 +0200" channel="WorldChampionshipSnookerFinals">
     <title lang="it">Inizia alle 19:30.</title>
     <desc lang="it">World Championship Snooker : Finals.</desc>
     <category lang="it">Annuncio</category>
