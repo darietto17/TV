@@ -1,31 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieABolognavsCagliari">
-    <display-name>Italy - Serie A : Bologna vs Cagliari</display-name>
-  </channel>
-  <programme start="20260503000000 +0200" stop="20260503123000 +0200" channel="ItalySerieABolognavsCagliari">
-    <title lang="it">Inizia alle 12:30.</title>
-    <desc lang="it">Italy - Serie A : Bologna vs Cagliari.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503123000 +0200" stop="20260503143000 +0200" channel="ItalySerieABolognavsCagliari">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Bologna vs Cagliari</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="EnglandWomensSuperLeagueManchesterCityvsLiverpool">
-    <display-name>England - Women's Super League : Manchester City vs Liverpool</display-name>
-  </channel>
-  <programme start="20260503000000 +0200" stop="20260503130000 +0200" channel="EnglandWomensSuperLeagueManchesterCityvsLiverpool">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">England - Women's Super League : Manchester City vs Liverpool.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503130000 +0200" stop="20260503150000 +0200" channel="EnglandWomensSuperLeagueManchesterCityvsLiverpool">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Women's Super League : Manchester City vs Liverpool</desc>
-    <category lang="it">Soccer</category>
-  </programme>
   <channel id="GermanyBundesliga2ElversbergvsPaderborn">
     <display-name>Germany - Bundesliga 2 : Elversberg vs Paderborn</display-name>
   </channel>
@@ -152,19 +126,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Serie A : Internazionale vs Parma</desc>
     <category lang="it">Soccer</category>
-  </programme>
-  <channel id="2026MutuaMadridOpenTennisATPWTASinglesampDoublesFinals">
-    <display-name>2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals</display-name>
-  </channel>
-  <programme start="20260503000000 +0200" stop="20260503110000 +0200" channel="2026MutuaMadridOpenTennisATPWTASinglesampDoublesFinals">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260503110000 +0200" stop="20260503130000 +0200" channel="2026MutuaMadridOpenTennisATPWTASinglesampDoublesFinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2026 Mutua Madrid Open Tennis ATP/WTA Singles &amp; Doubles Finals</desc>
-    <category lang="it">Tennis</category>
   </programme>
   <channel id="Formula2cryptocomMiamiGrandPrixRace">
     <display-name>Formula 2 : crypto.com Miami Grand Prix - Race</display-name>
