@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieACremonesevsLazio">
-    <display-name>Italy - Serie A : Cremonese vs Lazio</display-name>
-  </channel>
-  <programme start="20260504000000 +0200" stop="20260504183000 +0200" channel="ItalySerieACremonesevsLazio">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Italy - Serie A : Cremonese vs Lazio.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260504183000 +0200" stop="20260504203000 +0200" channel="ItalySerieACremonesevsLazio">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Cremonese vs Lazio</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalySerieARomavsFiorentina">
     <display-name>Italy - Serie A : Roma vs Fiorentina</display-name>
   </channel>
@@ -48,18 +35,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">England - Premier League : Everton vs Manchester City</desc>
     <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="WorldChampionshipSnookerFinals">
-    <display-name>World Championship Snooker : Finals</display-name>
-  </channel>
-  <programme start="20260504000000 +0200" stop="20260504193000 +0200" channel="WorldChampionshipSnookerFinals">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">World Championship Snooker : Finals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260504193000 +0200" stop="20260504213000 +0200" channel="WorldChampionshipSnookerFinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship Snooker : Finals</desc>
-    <category lang="it">Snooker</category>
   </programme>
 </tv>
