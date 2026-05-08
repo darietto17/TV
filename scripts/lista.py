@@ -1530,7 +1530,7 @@ def schedule_extractor():
     # Carica le variabili d'ambiente dal file .env
     load_dotenv()
     
-    LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://dlhd.sx"
+    LINK_DADDY = "https://dlhd.sx"
     
     def html_to_json(html_content):
         """Converte il contenuto HTML della programmazione in formato JSON."""
