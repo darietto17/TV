@@ -23,19 +23,6 @@
     <desc lang="it">Internazionali BNL d’Italia (Rome Masters Tennis), May 5–17, 2026</desc>
     <category lang="it">Upcoming Events</category>
   </programme>
-  <channel id="EnglandPremierLeagueLiverpoolvsChelsea">
-    <display-name>England - Premier League : Liverpool vs Chelsea</display-name>
-  </channel>
-  <programme start="20260509000000 +0200" stop="20260509133000 +0200" channel="EnglandPremierLeagueLiverpoolvsChelsea">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">England - Premier League : Liverpool vs Chelsea.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260509133000 +0200" stop="20260509153000 +0200" channel="EnglandPremierLeagueLiverpoolvsChelsea">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Liverpool vs Chelsea</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalySerieACagliarivsUdinese">
     <display-name>Italy - Serie A : Cagliari vs Udinese</display-name>
   </channel>
@@ -123,32 +110,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Serie A : Lecce vs Juventus</desc>
     <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="Moto2FrenchGrandPrixQualifying">
-    <display-name>Moto2 : French Grand Prix Qualifying</display-name>
-  </channel>
-  <programme start="20260509000000 +0200" stop="20260509133000 +0200" channel="Moto2FrenchGrandPrixQualifying">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">Moto2 : French Grand Prix Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260509133000 +0200" stop="20260509153000 +0200" channel="Moto2FrenchGrandPrixQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : French Grand Prix Qualifying</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="MotoGPFrenchGrandPrixSprintRace">
-    <display-name>MotoGP : French Grand Prix Sprint Race</display-name>
-  </channel>
-  <programme start="20260509000000 +0200" stop="20260509144500 +0200" channel="MotoGPFrenchGrandPrixSprintRace">
-    <title lang="it">Inizia alle 14:45.</title>
-    <desc lang="it">MotoGP : French Grand Prix Sprint Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260509144500 +0200" stop="20260509164500 +0200" channel="MotoGPFrenchGrandPrixSprintRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : French Grand Prix Sprint Race</desc>
-    <category lang="it">Motorsport</category>
   </programme>
   <channel id="FIAWEC6HoursofSpaFrancorchampsCourse">
     <display-name>FIA WEC | 6 Hours of Spa-Francorchamps Course</display-name>
