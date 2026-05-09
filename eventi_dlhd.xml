@@ -124,19 +124,6 @@
     <desc lang="it">Italy - Serie A : Lecce vs Juventus</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="Moto3FrenchGrandPrixQualifying">
-    <display-name>Moto3 : French Grand Prix Qualifying</display-name>
-  </channel>
-  <programme start="20260509000000 +0200" stop="20260509124500 +0200" channel="Moto3FrenchGrandPrixQualifying">
-    <title lang="it">Inizia alle 12:45.</title>
-    <desc lang="it">Moto3 : French Grand Prix Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260509124500 +0200" stop="20260509144500 +0200" channel="Moto3FrenchGrandPrixQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : French Grand Prix Qualifying</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Moto2FrenchGrandPrixQualifying">
     <display-name>Moto2 : French Grand Prix Qualifying</display-name>
   </channel>
@@ -188,42 +175,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Rolex SailGP Championship | Bermuda Day 1</desc>
     <category lang="it">Sailing / Boating</category>
-  </programme>
-  <channel id="GirodItaliaStage2MenBurgasTarnovo221km">
-    <display-name>Giro d'Italia | Stage 2 Men | Burgas – Tarnovo (221km)</display-name>
-  </channel>
-  <programme start="20260509000000 +0200" stop="20260509113000 +0200" channel="GirodItaliaStage2MenBurgasTarnovo221km">
-    <title lang="it">Inizia alle 11:30.</title>
-    <desc lang="it">Giro d'Italia | Stage 2 Men | Burgas – Tarnovo (221km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260509113000 +0200" stop="20260509133000 +0200" channel="GirodItaliaStage2MenBurgasTarnovo221km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Giro d'Italia | Stage 2 Men | Burgas – Tarnovo (221km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260509000000 +0200" stop="20260509113000 +0200" channel="GirodItaliaStage2MenBurgasTarnovo221km">
-    <title lang="it">Inizia alle 11:30.</title>
-    <desc lang="it">Giro d'Italia | Stage 2 Men | Burgas – Tarnovo (221km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260509113000 +0200" stop="20260509133000 +0200" channel="GirodItaliaStage2MenBurgasTarnovo221km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Giro d'Italia | Stage 2 Men | Burgas – Tarnovo (221km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <channel id="TheWomensTourStage7LaPolaLlavianaLAngliru132km">
-    <display-name>The Women's Tour Stage 7 | La Pola Llaviana - L'Angliru (132km)</display-name>
-  </channel>
-  <programme start="20260509000000 +0200" stop="20260509130000 +0200" channel="TheWomensTourStage7LaPolaLlavianaLAngliru132km">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">The Women's Tour Stage 7 | La Pola Llaviana - L'Angliru (132km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260509130000 +0200" stop="20260509150000 +0200" channel="TheWomensTourStage7LaPolaLlavianaLAngliru132km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">The Women's Tour Stage 7 | La Pola Llaviana - L'Angliru (132km)</desc>
-    <category lang="it">Cycling</category>
   </programme>
   <channel id="SixNationsWomenItalyWvsEnglandW">
     <display-name>Six Nations Women : Italy W vs England W</display-name>
