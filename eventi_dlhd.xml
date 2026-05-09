@@ -1,44 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieALaziovsInternazionale">
-    <display-name>Italy - Serie A : Lazio vs Internazionale</display-name>
-  </channel>
-  <programme start="20260509000000 +0200" stop="20260509180000 +0200" channel="ItalySerieALaziovsInternazionale">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">Italy - Serie A : Lazio vs Internazionale.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260509180000 +0200" stop="20260509200000 +0200" channel="ItalySerieALaziovsInternazionale">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Lazio vs Internazionale</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieCBravsCDTorresNovas">
-    <display-name>Italy - Serie C : Bra vs CD Torres Novas</display-name>
-  </channel>
-  <programme start="20260509000000 +0200" stop="20260509180000 +0200" channel="ItalySerieCBravsCDTorresNovas">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">Italy - Serie C : Bra vs CD Torres Novas.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260509180000 +0200" stop="20260509200000 +0200" channel="ItalySerieCBravsCDTorresNovas">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie C : Bra vs CD Torres Novas</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="EnglandPremierLeagueManchesterCityvsBrentford">
-    <display-name>England - Premier League : Manchester City vs Brentford</display-name>
-  </channel>
-  <programme start="20260509000000 +0200" stop="20260509183000 +0200" channel="EnglandPremierLeagueManchesterCityvsBrentford">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">England - Premier League : Manchester City vs Brentford.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260509183000 +0200" stop="20260509203000 +0200" channel="EnglandPremierLeagueManchesterCityvsBrentford">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Manchester City vs Brentford</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalySerieALeccevsJuventus">
     <display-name>Italy - Serie A : Lecce vs Juventus</display-name>
   </channel>
@@ -61,42 +22,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Serie A : Lecce vs Juventus</desc>
     <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="FIAWEC6HoursofSpaFrancorchampsCourse">
-    <display-name>FIA WEC | 6 Hours of Spa-Francorchamps Course</display-name>
-  </channel>
-  <programme start="20260509000000 +0200" stop="20260509183000 +0200" channel="FIAWEC6HoursofSpaFrancorchampsCourse">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">FIA WEC | 6 Hours of Spa-Francorchamps Course.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260509183000 +0200" stop="20260509203000 +0200" channel="FIAWEC6HoursofSpaFrancorchampsCourse">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIA WEC | 6 Hours of Spa-Francorchamps Course</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <programme start="20260509000000 +0200" stop="20260509183000 +0200" channel="FIAWEC6HoursofSpaFrancorchampsCourse">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">FIA WEC | 6 Hours of Spa-Francorchamps Course.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260509183000 +0200" stop="20260509203000 +0200" channel="FIAWEC6HoursofSpaFrancorchampsCourse">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIA WEC | 6 Hours of Spa-Francorchamps Course</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="RolexSailGPChampionshipBermudaDay1">
-    <display-name>Rolex SailGP Championship | Bermuda Day 1</display-name>
-  </channel>
-  <programme start="20260509000000 +0200" stop="20260509190000 +0200" channel="RolexSailGPChampionshipBermudaDay1">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">Rolex SailGP Championship | Bermuda Day 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260509190000 +0200" stop="20260509210000 +0200" channel="RolexSailGPChampionshipBermudaDay1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Rolex SailGP Championship | Bermuda Day 1</desc>
-    <category lang="it">Sailing / Boating</category>
   </programme>
   <channel id="SuperLeagueFinalCivitanovavsPerugia">
     <display-name>Super League Final : Civitanova vs. Perugia</display-name>
