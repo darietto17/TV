@@ -1,54 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="InternazionaliBNLdItaliaRomeMastersTennisMay5172026">
-    <display-name>Internazionali BNL d’Italia (Rome Masters Tennis), May 5–17, 2026</display-name>
-  </channel>
-  <programme start="20260509000000 +0200" stop="20260509170000 +0200" channel="InternazionaliBNLdItaliaRomeMastersTennisMay5172026">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">Internazionali BNL d’Italia (Rome Masters Tennis), May 5–17, 2026.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260509170000 +0200" stop="20260509190000 +0200" channel="InternazionaliBNLdItaliaRomeMastersTennisMay5172026">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Internazionali BNL d’Italia (Rome Masters Tennis), May 5–17, 2026</desc>
-    <category lang="it">Upcoming Events</category>
-  </programme>
-  <programme start="20260509000000 +0200" stop="20260509170000 +0200" channel="InternazionaliBNLdItaliaRomeMastersTennisMay5172026">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">Internazionali BNL d’Italia (Rome Masters Tennis), May 5–17, 2026.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260509170000 +0200" stop="20260509190000 +0200" channel="InternazionaliBNLdItaliaRomeMastersTennisMay5172026">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Internazionali BNL d’Italia (Rome Masters Tennis), May 5–17, 2026</desc>
-    <category lang="it">Upcoming Events</category>
-  </programme>
-  <channel id="ItalySerieACagliarivsUdinese">
-    <display-name>Italy - Serie A : Cagliari vs Udinese</display-name>
-  </channel>
-  <programme start="20260509000000 +0200" stop="20260509150000 +0200" channel="ItalySerieACagliarivsUdinese">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">Italy - Serie A : Cagliari vs Udinese.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260509150000 +0200" stop="20260509170000 +0200" channel="ItalySerieACagliarivsUdinese">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Cagliari vs Udinese</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="EnglandPremierLeagueSunderlandvsManchesterUnited">
-    <display-name>England - Premier League : Sunderland vs Manchester United</display-name>
-  </channel>
-  <programme start="20260509000000 +0200" stop="20260509160000 +0200" channel="EnglandPremierLeagueSunderlandvsManchesterUnited">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">England - Premier League : Sunderland vs Manchester United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260509160000 +0200" stop="20260509180000 +0200" channel="EnglandPremierLeagueSunderlandvsManchesterUnited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Sunderland vs Manchester United</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalySerieALaziovsInternazionale">
     <display-name>Italy - Serie A : Lazio vs Internazionale</display-name>
   </channel>
@@ -124,6 +75,16 @@
     <desc lang="it">FIA WEC | 6 Hours of Spa-Francorchamps Course</desc>
     <category lang="it">Motorsport</category>
   </programme>
+  <programme start="20260509000000 +0200" stop="20260509183000 +0200" channel="FIAWEC6HoursofSpaFrancorchampsCourse">
+    <title lang="it">Inizia alle 18:30.</title>
+    <desc lang="it">FIA WEC | 6 Hours of Spa-Francorchamps Course.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260509183000 +0200" stop="20260509203000 +0200" channel="FIAWEC6HoursofSpaFrancorchampsCourse">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">FIA WEC | 6 Hours of Spa-Francorchamps Course</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
   <channel id="RolexSailGPChampionshipBermudaDay1">
     <display-name>Rolex SailGP Championship | Bermuda Day 1</display-name>
   </channel>
@@ -136,19 +97,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Rolex SailGP Championship | Bermuda Day 1</desc>
     <category lang="it">Sailing / Boating</category>
-  </programme>
-  <channel id="SixNationsWomenItalyWvsEnglandW">
-    <display-name>Six Nations Women : Italy W vs England W</display-name>
-  </channel>
-  <programme start="20260509000000 +0200" stop="20260509150000 +0200" channel="SixNationsWomenItalyWvsEnglandW">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">Six Nations Women : Italy W vs England W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260509150000 +0200" stop="20260509170000 +0200" channel="SixNationsWomenItalyWvsEnglandW">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Six Nations Women : Italy W vs England W</desc>
-    <category lang="it">Rugby Union</category>
   </programme>
   <channel id="SuperLeagueFinalCivitanovavsPerugia">
     <display-name>Super League Final : Civitanova vs. Perugia</display-name>
