@@ -111,42 +111,6 @@
     <desc lang="it">Italy - Serie A : Milan vs Atalanta</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="2026BNLItalianInternationalTennisTournamentATPWTAThirdRound">
-    <display-name>2026 BNL Italian International Tennis Tournament ATP/WTA Third Round</display-name>
-  </channel>
-  <programme start="20260510000000 +0200" stop="20260510110000 +0200" channel="2026BNLItalianInternationalTennisTournamentATPWTAThirdRound">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">2026 BNL Italian International Tennis Tournament ATP/WTA Third Round.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260510110000 +0200" stop="20260510130000 +0200" channel="2026BNLItalianInternationalTennisTournamentATPWTAThirdRound">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2026 BNL Italian International Tennis Tournament ATP/WTA Third Round</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <programme start="20260510000000 +0200" stop="20260510110000 +0200" channel="2026BNLItalianInternationalTennisTournamentATPWTAThirdRound">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">2026 BNL Italian International Tennis Tournament ATP/WTA Third Round.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260510110000 +0200" stop="20260510130000 +0200" channel="2026BNLItalianInternationalTennisTournamentATPWTAThirdRound">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">2026 BNL Italian International Tennis Tournament ATP/WTA Third Round</desc>
-    <category lang="it">Tennis</category>
-  </programme>
-  <channel id="Moto3FrenchGrandPrixRace">
-    <display-name>Moto3 : French Grand Prix Race</display-name>
-  </channel>
-  <programme start="20260510000000 +0200" stop="20260510100000 +0200" channel="Moto3FrenchGrandPrixRace">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">Moto3 : French Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260510100000 +0200" stop="20260510120000 +0200" channel="Moto3FrenchGrandPrixRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : French Grand Prix Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Moto2FrenchGrandPrixRace">
     <display-name>Moto2 : French Grand Prix Race</display-name>
   </channel>
@@ -198,19 +162,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">World Series | Wujiang Men's and Women's Speed | Final</desc>
     <category lang="it">Climbing</category>
-  </programme>
-  <channel id="TourofAzerbaijanStage1BakuSumgayit1588km">
-    <display-name>Tour of Azerbaijan | Stage 1 Baku – Sumgayit (158.8km)</display-name>
-  </channel>
-  <programme start="20260510000000 +0200" stop="20260510100000 +0200" channel="TourofAzerbaijanStage1BakuSumgayit1588km">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">Tour of Azerbaijan | Stage 1 Baku – Sumgayit (158.8km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260510100000 +0200" stop="20260510120000 +0200" channel="TourofAzerbaijanStage1BakuSumgayit1588km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Azerbaijan | Stage 1 Baku – Sumgayit (158.8km)</desc>
-    <category lang="it">Cycling</category>
   </programme>
   <channel id="GirodItaliaStage3MenPlovdivSofia175km">
     <display-name>Giro d'Italia | Stage 3 Men | Plovdiv - Sofia (175km)</display-name>
