@@ -134,19 +134,6 @@
     <desc lang="it">2026 BNL Italian International Tennis Tournament ATP/WTA Third Round</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="MotoGPFrenchGrandPrixWarmUp">
-    <display-name>MotoGP : French Grand Prix Warm Up</display-name>
-  </channel>
-  <programme start="20260510000000 +0200" stop="20260510093000 +0200" channel="MotoGPFrenchGrandPrixWarmUp">
-    <title lang="it">Inizia alle 09:30.</title>
-    <desc lang="it">MotoGP : French Grand Prix Warm Up.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260510093000 +0200" stop="20260510113000 +0200" channel="MotoGPFrenchGrandPrixWarmUp">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : French Grand Prix Warm Up</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Moto3FrenchGrandPrixRace">
     <display-name>Moto3 : French Grand Prix Race</display-name>
   </channel>
