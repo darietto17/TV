@@ -1,28 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieAParmavsRoma">
-    <display-name>Italy - Serie A : Parma vs Roma</display-name>
-  </channel>
-  <programme start="20260510000000 +0200" stop="20260510180000 +0200" channel="ItalySerieAParmavsRoma">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">Italy - Serie A : Parma vs Roma.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260510180000 +0200" stop="20260510200000 +0200" channel="ItalySerieAParmavsRoma">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Parma vs Roma</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <programme start="20260510000000 +0200" stop="20260510180000 +0200" channel="ItalySerieAParmavsRoma">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">Italy - Serie A : Parma vs Roma.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260510180000 +0200" stop="20260510200000 +0200" channel="ItalySerieAParmavsRoma">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Parma vs Roma</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalySerieAMilanvsAtalanta">
     <display-name>Italy - Serie A : Milan vs Atalanta</display-name>
   </channel>
@@ -35,19 +12,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy - Serie A : Milan vs Atalanta</desc>
     <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="RolexSailGPChampionshipBermudaDay2">
-    <display-name>Rolex SailGP Championship | Bermuda Day 2</display-name>
-  </channel>
-  <programme start="20260510000000 +0200" stop="20260510190000 +0200" channel="RolexSailGPChampionshipBermudaDay2">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">Rolex SailGP Championship | Bermuda Day 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260510190000 +0200" stop="20260510210000 +0200" channel="RolexSailGPChampionshipBermudaDay2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Rolex SailGP Championship | Bermuda Day 2</desc>
-    <category lang="it">ailing / Boating</category>
   </programme>
   <channel id="Top14Racing92vsLaRochelle">
     <display-name>Top 14 : Racing 92 vs La Rochelle</display-name>
