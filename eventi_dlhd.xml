@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieAMilanvsAtalanta">
-    <display-name>Italy - Serie A : Milan vs Atalanta</display-name>
-  </channel>
-  <programme start="20260510000000 +0200" stop="20260510204500 +0200" channel="ItalySerieAMilanvsAtalanta">
-    <title lang="it">Inizia alle 20:45.</title>
-    <desc lang="it">Italy - Serie A : Milan vs Atalanta.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260510204500 +0200" stop="20260510224500 +0200" channel="ItalySerieAMilanvsAtalanta">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Milan vs Atalanta</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="Top14Racing92vsLaRochelle">
     <display-name>Top 14 : Racing 92 vs La Rochelle</display-name>
   </channel>
