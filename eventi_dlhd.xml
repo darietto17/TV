@@ -23,19 +23,6 @@
     <desc lang="it">Internazionali BNL d’Italia (Rome Masters Tennis), May 5–17, 2026</desc>
     <category lang="it">Upcoming Events</category>
   </programme>
-  <channel id="ItalySerieAVeronavsComo">
-    <display-name>Italy - Serie A : Verona vs Como</display-name>
-  </channel>
-  <programme start="20260510000000 +0200" stop="20260510123000 +0200" channel="ItalySerieAVeronavsComo">
-    <title lang="it">Inizia alle 12:30.</title>
-    <desc lang="it">Italy - Serie A : Verona vs Como.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260510123000 +0200" stop="20260510143000 +0200" channel="ItalySerieAVeronavsComo">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Verona vs Como</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="EnglandPremierLeagueNottinghamForestvsNewcastleUnited">
     <display-name>England - Premier League : Nottingham Forest vs Newcastle United</display-name>
   </channel>
@@ -111,32 +98,6 @@
     <desc lang="it">Italy - Serie A : Milan vs Atalanta</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="Moto2FrenchGrandPrixRace">
-    <display-name>Moto2 : French Grand Prix Race</display-name>
-  </channel>
-  <programme start="20260510000000 +0200" stop="20260510120000 +0200" channel="Moto2FrenchGrandPrixRace">
-    <title lang="it">Inizia alle 12:00.</title>
-    <desc lang="it">Moto2 : French Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260510120000 +0200" stop="20260510140000 +0200" channel="Moto2FrenchGrandPrixRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : French Grand Prix Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="MotoGPFrenchGrandPrixRace">
-    <display-name>MotoGP : French Grand Prix Race</display-name>
-  </channel>
-  <programme start="20260510000000 +0200" stop="20260510131500 +0200" channel="MotoGPFrenchGrandPrixRace">
-    <title lang="it">Inizia alle 13:15.</title>
-    <desc lang="it">MotoGP : French Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260510131500 +0200" stop="20260510151500 +0200" channel="MotoGPFrenchGrandPrixRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : French Grand Prix Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="RolexSailGPChampionshipBermudaDay2">
     <display-name>Rolex SailGP Championship | Bermuda Day 2</display-name>
   </channel>
@@ -163,32 +124,6 @@
     <desc lang="it">World Series | Wujiang Men's and Women's Speed | Final</desc>
     <category lang="it">Climbing</category>
   </programme>
-  <channel id="GirodItaliaStage3MenPlovdivSofia175km">
-    <display-name>Giro d'Italia | Stage 3 Men | Plovdiv - Sofia (175km)</display-name>
-  </channel>
-  <programme start="20260510000000 +0200" stop="20260510113000 +0200" channel="GirodItaliaStage3MenPlovdivSofia175km">
-    <title lang="it">Inizia alle 11:30.</title>
-    <desc lang="it">Giro d'Italia | Stage 3 Men | Plovdiv - Sofia (175km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260510113000 +0200" stop="20260510133000 +0200" channel="GirodItaliaStage3MenPlovdivSofia175km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Giro d'Italia | Stage 3 Men | Plovdiv - Sofia (175km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <channel id="UCIGravelWorldSeriesGravelCyclingValkenburgWorldSeries">
-    <display-name>UCI Gravel World Series Gravel Cycling: Valkenburg World Series</display-name>
-  </channel>
-  <programme start="20260510000000 +0200" stop="20260510114500 +0200" channel="UCIGravelWorldSeriesGravelCyclingValkenburgWorldSeries">
-    <title lang="it">Inizia alle 11:45.</title>
-    <desc lang="it">UCI Gravel World Series Gravel Cycling: Valkenburg World Series.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260510114500 +0200" stop="20260510134500 +0200" channel="UCIGravelWorldSeriesGravelCyclingValkenburgWorldSeries">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">UCI Gravel World Series Gravel Cycling: Valkenburg World Series</desc>
-    <category lang="it">Cycling</category>
-  </programme>
   <channel id="2026GirodItaliaMensIndividualStage3">
     <display-name>2026 Giro d'Italia: Men's Individual - Stage 3</display-name>
   </channel>
@@ -214,19 +149,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Faith Bridge Leon Men | Lannilis (202.1km)</desc>
     <category lang="it">Cycling</category>
-  </programme>
-  <channel id="BeijerHockeyGamesSwitzerlandvsCzechRepublic">
-    <display-name>Beijer Hockey Games : Switzerland vs Czech Republic</display-name>
-  </channel>
-  <programme start="20260510000000 +0200" stop="20260510120000 +0200" channel="BeijerHockeyGamesSwitzerlandvsCzechRepublic">
-    <title lang="it">Inizia alle 12:00.</title>
-    <desc lang="it">Beijer Hockey Games : Switzerland vs Czech Republic.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260510120000 +0200" stop="20260510140000 +0200" channel="BeijerHockeyGamesSwitzerlandvsCzechRepublic">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Beijer Hockey Games : Switzerland vs Czech Republic</desc>
-    <category lang="it">Ice Hockey</category>
   </programme>
   <channel id="Top14Racing92vsLaRochelle">
     <display-name>Top 14 : Racing 92 vs La Rochelle</display-name>
