@@ -1,67 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="InternazionaliBNLdItaliaRomeMastersTennisMay5172026">
-    <display-name>Internazionali BNL d’Italia (Rome Masters Tennis), May 5–17, 2026</display-name>
-  </channel>
-  <programme start="20260510000000 +0200" stop="20260510170000 +0200" channel="InternazionaliBNLdItaliaRomeMastersTennisMay5172026">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">Internazionali BNL d’Italia (Rome Masters Tennis), May 5–17, 2026.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260510170000 +0200" stop="20260510190000 +0200" channel="InternazionaliBNLdItaliaRomeMastersTennisMay5172026">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Internazionali BNL d’Italia (Rome Masters Tennis), May 5–17, 2026</desc>
-    <category lang="it">Upcoming Events</category>
-  </programme>
-  <programme start="20260510000000 +0200" stop="20260510170000 +0200" channel="InternazionaliBNLdItaliaRomeMastersTennisMay5172026">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">Internazionali BNL d’Italia (Rome Masters Tennis), May 5–17, 2026.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260510170000 +0200" stop="20260510190000 +0200" channel="InternazionaliBNLdItaliaRomeMastersTennisMay5172026">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Internazionali BNL d’Italia (Rome Masters Tennis), May 5–17, 2026</desc>
-    <category lang="it">Upcoming Events</category>
-  </programme>
-  <channel id="EnglandPremierLeagueNottinghamForestvsNewcastleUnited">
-    <display-name>England - Premier League : Nottingham Forest vs Newcastle United</display-name>
-  </channel>
-  <programme start="20260510000000 +0200" stop="20260510150000 +0200" channel="EnglandPremierLeagueNottinghamForestvsNewcastleUnited">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">England - Premier League : Nottingham Forest vs Newcastle United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260510150000 +0200" stop="20260510170000 +0200" channel="EnglandPremierLeagueNottinghamForestvsNewcastleUnited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Nottingham Forest vs Newcastle United</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieACremonesevsPisa">
-    <display-name>Italy - Serie A : Cremonese vs Pisa</display-name>
-  </channel>
-  <programme start="20260510000000 +0200" stop="20260510150000 +0200" channel="ItalySerieACremonesevsPisa">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">Italy - Serie A : Cremonese vs Pisa.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260510150000 +0200" stop="20260510170000 +0200" channel="ItalySerieACremonesevsPisa">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Cremonese vs Pisa</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
-  <channel id="ItalySerieAFiorentinavsGenoa">
-    <display-name>Italy - Serie A : Fiorentina vs Genoa</display-name>
-  </channel>
-  <programme start="20260510000000 +0200" stop="20260510150000 +0200" channel="ItalySerieAFiorentinavsGenoa">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">Italy - Serie A : Fiorentina vs Genoa.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260510150000 +0200" stop="20260510170000 +0200" channel="ItalySerieAFiorentinavsGenoa">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Fiorentina vs Genoa</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalySerieAParmavsRoma">
     <display-name>Italy - Serie A : Parma vs Roma</display-name>
   </channel>
@@ -110,19 +48,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Rolex SailGP Championship | Bermuda Day 2</desc>
     <category lang="it">ailing / Boating</category>
-  </programme>
-  <channel id="FaithBridgeLeonMenLannilis2021km">
-    <display-name>Faith Bridge Leon Men | Lannilis (202.1km)</display-name>
-  </channel>
-  <programme start="20260510000000 +0200" stop="20260510150000 +0200" channel="FaithBridgeLeonMenLannilis2021km">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">Faith Bridge Leon Men | Lannilis (202.1km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260510150000 +0200" stop="20260510170000 +0200" channel="FaithBridgeLeonMenLannilis2021km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Faith Bridge Leon Men | Lannilis (202.1km)</desc>
-    <category lang="it">Cycling</category>
   </programme>
   <channel id="Top14Racing92vsLaRochelle">
     <display-name>Top 14 : Racing 92 vs La Rochelle</display-name>
