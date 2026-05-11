@@ -1,29 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieANapolivsBologna">
-    <display-name>Italy - Serie A : Napoli vs Bologna</display-name>
-  </channel>
-  <programme start="20260511000000 +0200" stop="20260511204500 +0200" channel="ItalySerieANapolivsBologna">
-    <title lang="it">Inizia alle 20:45.</title>
-    <desc lang="it">Italy - Serie A : Napoli vs Bologna.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260511204500 +0200" stop="20260511224500 +0200" channel="ItalySerieANapolivsBologna">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Italy - Serie A : Napoli vs Bologna</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <channel id="EnglandPremierLeagueTottenhamHotspurvsLeedsUnited">
-    <display-name>England - Premier League : Tottenham Hotspur vs Leeds United</display-name>
-  </channel>
-  <programme start="20260511000000 +0200" stop="20260511210000 +0200" channel="EnglandPremierLeagueTottenhamHotspurvsLeedsUnited">
-    <title lang="it">Inizia alle 21:00.</title>
-    <desc lang="it">England - Premier League : Tottenham Hotspur vs Leeds United.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260511210000 +0200" stop="20260511230000 +0200" channel="EnglandPremierLeagueTottenhamHotspurvsLeedsUnited">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">England - Premier League : Tottenham Hotspur vs Leeds United</desc>
-    <category lang="it">Soccer</category>
-  </programme>
 </tv>
