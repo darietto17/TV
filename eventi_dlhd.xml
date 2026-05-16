@@ -49,31 +49,18 @@
     <desc lang="it">Italy - Serie B : Juve Stabia vs Monza</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="Moto3Round6CatalunyaQualifying">
-    <display-name>Moto3 : Round 6 | Catalunya Qualifying</display-name>
+  <channel id="WTASINGLESRomeCocoGauffvsElinaSvitolina">
+    <display-name>WTA - SINGLES: Rome : 🇺🇸 Coco Gauff vs 🇺🇦 Elina Svitolina</display-name>
   </channel>
-  <programme start="20260516000000 +0200" stop="20260516124500 +0200" channel="Moto3Round6CatalunyaQualifying">
-    <title lang="it">Inizia alle 12:45.</title>
-    <desc lang="it">Moto3 : Round 6 | Catalunya Qualifying.</desc>
+  <programme start="20260516000000 +0200" stop="20260516170000 +0200" channel="WTASINGLESRomeCocoGauffvsElinaSvitolina">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">WTA - SINGLES: Rome : 🇺🇸 Coco Gauff vs 🇺🇦 Elina Svitolina.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260516124500 +0200" stop="20260516144500 +0200" channel="Moto3Round6CatalunyaQualifying">
+  <programme start="20260516170000 +0200" stop="20260516190000 +0200" channel="WTASINGLESRomeCocoGauffvsElinaSvitolina">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto3 : Round 6 | Catalunya Qualifying</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Moto2Round6CatalunyaQualifying">
-    <display-name>Moto2 : Round 6 | Catalunya Qualifying</display-name>
-  </channel>
-  <programme start="20260516000000 +0200" stop="20260516133500 +0200" channel="Moto2Round6CatalunyaQualifying">
-    <title lang="it">Inizia alle 13:35.</title>
-    <desc lang="it">Moto2 : Round 6 | Catalunya Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260516133500 +0200" stop="20260516153500 +0200" channel="Moto2Round6CatalunyaQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Round 6 | Catalunya Qualifying</desc>
-    <category lang="it">Motorsport</category>
+    <desc lang="it">WTA - SINGLES: Rome : 🇺🇸 Coco Gauff vs 🇺🇦 Elina Svitolina</desc>
+    <category lang="it">Tennis WTA – Rome SINGLES (Italy), Clay</category>
   </programme>
   <channel id="FormulaEMonacoePrix1strace">
     <display-name>Formula E: Monaco ePrix 1st race</display-name>
@@ -100,29 +87,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">MotoGP : Round 6 | Catalunya Sprint Race</desc>
     <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="GirodItaliaStage8159ChietiFermo">
-    <display-name>Giro d'Italia Stage 8 - 159 Chieti - Fermo</display-name>
-  </channel>
-  <programme start="20260516000000 +0200" stop="20260516130000 +0200" channel="GirodItaliaStage8159ChietiFermo">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Giro d'Italia Stage 8 - 159 Chieti - Fermo.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260516130000 +0200" stop="20260516150000 +0200" channel="GirodItaliaStage8159ChietiFermo">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Giro d'Italia Stage 8 - 159 Chieti - Fermo</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260516000000 +0200" stop="20260516130000 +0200" channel="GirodItaliaStage8159ChietiFermo">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Giro d'Italia Stage 8 - 159 Chieti - Fermo.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260516130000 +0200" stop="20260516150000 +0200" channel="GirodItaliaStage8159ChietiFermo">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Giro d'Italia Stage 8 - 159 Chieti - Fermo</desc>
-    <category lang="it">Cycling</category>
   </programme>
   <channel id="UnitedRugbyChampionshipSharksvsZebre">
     <display-name>United Rugby Championship : Sharks vs Zebre</display-name>
