@@ -1,41 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="InternazionaliBNLdItaliaRomeMastersTennisMay5172026">
-    <display-name>Internazionali BNL d’Italia (Rome Masters Tennis), May 5–17, 2026</display-name>
-  </channel>
-  <programme start="20260516000000 +0200" stop="20260516170000 +0200" channel="InternazionaliBNLdItaliaRomeMastersTennisMay5172026">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">Internazionali BNL d’Italia (Rome Masters Tennis), May 5–17, 2026.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260516170000 +0200" stop="20260516190000 +0200" channel="InternazionaliBNLdItaliaRomeMastersTennisMay5172026">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Internazionali BNL d’Italia (Rome Masters Tennis), May 5–17, 2026</desc>
-    <category lang="it">Upcoming Events</category>
-  </programme>
-  <programme start="20260516000000 +0200" stop="20260516170000 +0200" channel="InternazionaliBNLdItaliaRomeMastersTennisMay5172026">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">Internazionali BNL d’Italia (Rome Masters Tennis), May 5–17, 2026.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260516170000 +0200" stop="20260516190000 +0200" channel="InternazionaliBNLdItaliaRomeMastersTennisMay5172026">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Internazionali BNL d’Italia (Rome Masters Tennis), May 5–17, 2026</desc>
-    <category lang="it">Upcoming Events</category>
-  </programme>
-  <channel id="GermanyBundesligaSimulcast">
-    <display-name>Germany - Bundesliga : Simulcast</display-name>
-  </channel>
-  <programme start="20260516000000 +0200" stop="20260516153000 +0200" channel="GermanyBundesligaSimulcast">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">Germany - Bundesliga : Simulcast.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260516153000 +0200" stop="20260516173000 +0200" channel="GermanyBundesligaSimulcast">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Germany - Bundesliga : Simulcast</desc>
-    <category lang="it">All Soccer Events</category>
-  </programme>
   <channel id="ItalySerieBJuveStabiavsMonza">
     <display-name>Italy - Serie B : Juve Stabia vs Monza</display-name>
   </channel>
@@ -49,32 +13,6 @@
     <desc lang="it">Italy - Serie B : Juve Stabia vs Monza</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="WTASINGLESRomeCocoGauffvsElinaSvitolina">
-    <display-name>WTA - SINGLES: Rome : 🇺🇸 Coco Gauff vs 🇺🇦 Elina Svitolina</display-name>
-  </channel>
-  <programme start="20260516000000 +0200" stop="20260516170000 +0200" channel="WTASINGLESRomeCocoGauffvsElinaSvitolina">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">WTA - SINGLES: Rome : 🇺🇸 Coco Gauff vs 🇺🇦 Elina Svitolina.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260516170000 +0200" stop="20260516190000 +0200" channel="WTASINGLESRomeCocoGauffvsElinaSvitolina">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">WTA - SINGLES: Rome : 🇺🇸 Coco Gauff vs 🇺🇦 Elina Svitolina</desc>
-    <category lang="it">Tennis WTA – Rome SINGLES (Italy), Clay</category>
-  </programme>
-  <channel id="UnitedRugbyChampionshipBullsvsTreviso">
-    <display-name>United Rugby Championship : Bulls vs Treviso</display-name>
-  </channel>
-  <programme start="20260516000000 +0200" stop="20260516160000 +0200" channel="UnitedRugbyChampionshipBullsvsTreviso">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">United Rugby Championship : Bulls vs Treviso.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260516160000 +0200" stop="20260516180000 +0200" channel="UnitedRugbyChampionshipBullsvsTreviso">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">United Rugby Championship : Bulls vs Treviso</desc>
-    <category lang="it">Rugby Union</category>
-  </programme>
   <channel id="SerieAEliteEmiliavsViadana">
     <display-name>Serie A Elite : Emilia vs Viadana</display-name>
   </channel>
@@ -87,19 +25,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Serie A Elite : Emilia vs Viadana</desc>
     <category lang="it">Rugby Union</category>
-  </programme>
-  <channel id="ChampionsLeagueONICOWarszawavsPerugia">
-    <display-name>Champions League : ONICO Warszawa vs Perugia</display-name>
-  </channel>
-  <programme start="20260516000000 +0200" stop="20260516170000 +0200" channel="ChampionsLeagueONICOWarszawavsPerugia">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">Champions League : ONICO Warszawa vs Perugia.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260516170000 +0200" stop="20260516190000 +0200" channel="ChampionsLeagueONICOWarszawavsPerugia">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Champions League : ONICO Warszawa vs Perugia</desc>
-    <category lang="it">Volleyball</category>
   </programme>
   <channel id="ChampionsLeagueAluronWartavsZiraatBankasi">
     <display-name>Champions League : Aluron Warta vs Ziraat Bankasi</display-name>
