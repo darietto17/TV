@@ -1,3 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="EnglandPremierLeagueArsenalvsBurnley">
+    <display-name>England - Premier League : Arsenal vs Burnley</display-name>
+  </channel>
+  <programme start="20260518000000 +0200" stop="20260518210000 +0200" channel="EnglandPremierLeagueArsenalvsBurnley">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">England - Premier League : Arsenal vs Burnley.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260518210000 +0200" stop="20260518230000 +0200" channel="EnglandPremierLeagueArsenalvsBurnley">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">England - Premier League : Arsenal vs Burnley</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <programme start="20260518000000 +0200" stop="20260518210000 +0200" channel="EnglandPremierLeagueArsenalvsBurnley">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">England - Premier League : Arsenal vs Burnley.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260518210000 +0200" stop="20260518230000 +0200" channel="EnglandPremierLeagueArsenalvsBurnley">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">England - Premier League : Arsenal vs Burnley</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="RolandGarrosQualifyingRound1HamburgATPGenevaATPStrasbourgWTAampRabatWTAEarlyRounds">
+    <display-name>Roland Garros Qualifying Round 1; Hamburg-ATP, Geneva-ATP, Strasbourg-WTA, &amp; Rabat-WTA Early Rounds</display-name>
+  </channel>
+  <programme start="20260518000000 +0200" stop="20260518100000 +0200" channel="RolandGarrosQualifyingRound1HamburgATPGenevaATPStrasbourgWTAampRabatWTAEarlyRounds">
+    <title lang="it">Inizia alle 10:00.</title>
+    <desc lang="it">Roland Garros Qualifying Round 1; Hamburg-ATP, Geneva-ATP, Strasbourg-WTA, &amp; Rabat-WTA Early Rounds.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260518100000 +0200" stop="20260518120000 +0200" channel="RolandGarrosQualifyingRound1HamburgATPGenevaATPStrasbourgWTAampRabatWTAEarlyRounds">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Roland Garros Qualifying Round 1; Hamburg-ATP, Geneva-ATP, Strasbourg-WTA, &amp; Rabat-WTA Early Rounds</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20260518000000 +0200" stop="20260518100000 +0200" channel="RolandGarrosQualifyingRound1HamburgATPGenevaATPStrasbourgWTAampRabatWTAEarlyRounds">
+    <title lang="it">Inizia alle 10:00.</title>
+    <desc lang="it">Roland Garros Qualifying Round 1; Hamburg-ATP, Geneva-ATP, Strasbourg-WTA, &amp; Rabat-WTA Early Rounds.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260518100000 +0200" stop="20260518120000 +0200" channel="RolandGarrosQualifyingRound1HamburgATPGenevaATPStrasbourgWTAampRabatWTAEarlyRounds">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Roland Garros Qualifying Round 1; Hamburg-ATP, Geneva-ATP, Strasbourg-WTA, &amp; Rabat-WTA Early Rounds</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20260518000000 +0200" stop="20260518100000 +0200" channel="RolandGarrosQualifyingRound1HamburgATPGenevaATPStrasbourgWTAampRabatWTAEarlyRounds">
+    <title lang="it">Inizia alle 10:00.</title>
+    <desc lang="it">Roland Garros Qualifying Round 1; Hamburg-ATP, Geneva-ATP, Strasbourg-WTA, &amp; Rabat-WTA Early Rounds.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260518100000 +0200" stop="20260518120000 +0200" channel="RolandGarrosQualifyingRound1HamburgATPGenevaATPStrasbourgWTAampRabatWTAEarlyRounds">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Roland Garros Qualifying Round 1; Hamburg-ATP, Geneva-ATP, Strasbourg-WTA, &amp; Rabat-WTA Early Rounds</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="LegaAMilanovsReggioEmilia">
+    <display-name>Lega A : Milano vs Reggio Emilia</display-name>
+  </channel>
+  <programme start="20260518000000 +0200" stop="20260518204500 +0200" channel="LegaAMilanovsReggioEmilia">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">Lega A : Milano vs Reggio Emilia.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260518204500 +0200" stop="20260518224500 +0200" channel="LegaAMilanovsReggioEmilia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Lega A : Milano vs Reggio Emilia</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <channel id="IIHFWorldChampionshipFinlandvsUSA">
+    <display-name>IIHF World Championship : Finland vs USA</display-name>
+  </channel>
+  <programme start="20260518000000 +0200" stop="20260518162000 +0200" channel="IIHFWorldChampionshipFinlandvsUSA">
+    <title lang="it">Inizia alle 16:20.</title>
+    <desc lang="it">IIHF World Championship : Finland vs USA.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260518162000 +0200" stop="20260518182000 +0200" channel="IIHFWorldChampionshipFinlandvsUSA">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">IIHF World Championship : Finland vs USA</desc>
+    <category lang="it">IIHF Ice Hockey</category>
+  </programme>
 </tv>
