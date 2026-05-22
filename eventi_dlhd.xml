@@ -26,19 +26,6 @@
     <desc lang="it">Italy - Serie A : Fiorentina vs Atalanta</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="Formula1LenovoCanadianGPPractice1">
-    <display-name>Formula 1 : Lenovo Canadian GP - Practice 1</display-name>
-  </channel>
-  <programme start="20260522000000 +0200" stop="20260522183000 +0200" channel="Formula1LenovoCanadianGPPractice1">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">Formula 1 : Lenovo Canadian GP - Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260522183000 +0200" stop="20260522203000 +0200" channel="Formula1LenovoCanadianGPPractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 1 : Lenovo Canadian GP - Practice 1</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Formula2CircuitGillesVilleneuveQualifying">
     <display-name>Formula 2 : Circuit Gilles-Villeneuve Qualifying</display-name>
   </channel>
@@ -77,18 +64,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">IIHF World Championship : Finland vs Great Britain</desc>
     <category lang="it">IIHF Ice Hockey</category>
-  </programme>
-  <channel id="NBC2026Cue6thtestSchio">
-    <display-name>NBC 2026 Cue - 6th test Schio</display-name>
-  </channel>
-  <programme start="20260522000000 +0200" stop="20260522171500 +0200" channel="NBC2026Cue6thtestSchio">
-    <title lang="it">Inizia alle 17:15.</title>
-    <desc lang="it">NBC 2026 Cue - 6th test Schio.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260522171500 +0200" stop="20260522191500 +0200" channel="NBC2026Cue6thtestSchio">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">NBC 2026 Cue - 6th test Schio</desc>
-    <category lang="it">Winter Sports</category>
   </programme>
 </tv>
