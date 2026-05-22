@@ -26,19 +26,6 @@
     <desc lang="it">Italy - Serie A : Fiorentina vs Atalanta</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="Formula2CircuitGillesVilleneuveFreePractice">
-    <display-name>Formula 2 : Circuit Gilles-Villeneuve Free Practice</display-name>
-  </channel>
-  <programme start="20260522000000 +0200" stop="20260522160000 +0200" channel="Formula2CircuitGillesVilleneuveFreePractice">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">Formula 2 : Circuit Gilles-Villeneuve Free Practice.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260522160000 +0200" stop="20260522180000 +0200" channel="Formula2CircuitGillesVilleneuveFreePractice">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 2 : Circuit Gilles-Villeneuve Free Practice</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Formula1LenovoCanadianGPPractice1">
     <display-name>Formula 1 : Lenovo Canadian GP - Practice 1</display-name>
   </channel>
@@ -77,42 +64,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Formula 1 : Lenovo Canadian GP - Practice 2</desc>
     <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="GirodItaliaMenStage13">
-    <display-name>Giro d'Italia | Men | Stage 13</display-name>
-  </channel>
-  <programme start="20260522000000 +0200" stop="20260522130000 +0200" channel="GirodItaliaMenStage13">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Giro d'Italia | Men | Stage 13.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260522130000 +0200" stop="20260522150000 +0200" channel="GirodItaliaMenStage13">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Giro d'Italia | Men | Stage 13</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260522000000 +0200" stop="20260522130000 +0200" channel="GirodItaliaMenStage13">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Giro d'Italia | Men | Stage 13.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260522130000 +0200" stop="20260522150000 +0200" channel="GirodItaliaMenStage13">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Giro d'Italia | Men | Stage 13</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <channel id="IIHFWorldChampionshipGermanyvsHungary">
-    <display-name>IIHF World Championship : Germany vs Hungary</display-name>
-  </channel>
-  <programme start="20260522000000 +0200" stop="20260522162000 +0200" channel="IIHFWorldChampionshipGermanyvsHungary">
-    <title lang="it">Inizia alle 16:20.</title>
-    <desc lang="it">IIHF World Championship : Germany vs Hungary.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260522162000 +0200" stop="20260522182000 +0200" channel="IIHFWorldChampionshipGermanyvsHungary">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">IIHF World Championship : Germany vs Hungary</desc>
-    <category lang="it">IIHF Ice Hockey</category>
   </programme>
   <channel id="IIHFWorldChampionshipFinlandvsGreatBritain">
     <display-name>IIHF World Championship : Finland vs Great Britain</display-name>
