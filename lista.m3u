@@ -68,6 +68,8 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
 https://vavoo.to/vavoo-iptv/play/270562780243aa8d36614f
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaMdUB8WEdsRVi_WZLxoi79pqlRef4s9Zehg&s" group-title="Altro",BYOBLU
 https://vavoo.to/vavoo-iptv/play/2826111812745ee617058d
+#EXTINF:-1 tvg-id="caccia.e.pesca.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/caccia-pesca-it.png?raw=true" group-title="Altro",CACCIA E PESCA
+https://vavoo.to/vavoo-iptv/play/3639213638a7c6a2cc326e
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/DW0Tvz72-8XZ7rEBVh1jBzwYE1fZhTaowuuxN75Jl8yBtnFkySH1z2T2b7OPlotmHeQ" group-title="Altro",CAFE 24
 https://vavoo.to/vavoo-iptv/play/1625923783d5a6dda233b3
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/camera-dei-deputati-it.png?raw=true" group-title="Altro",CAMERA DEI DEPUTATI
@@ -252,10 +254,8 @@ https://vavoo.to/vavoo-iptv/play/9421530140b5164a467be
 https://vavoo.to/vavoo-iptv/play/28977827817ceeecfaf662
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV (2)
 https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY (1)
+#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY
 https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152
-#EXTINF:-1 tvg-id="history.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari",HISTORY (2)
-https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV (1)
 https://vavoo.to/vavoo-iptv/play/24880174054972ad3227fa
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV (2)
@@ -355,8 +355,6 @@ https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
 https://vavoo.to/vavoo-iptv/play/3428501495a9ec2ff7bc8e
 #EXTINF:-1 tvg-id="nick.jr.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini",NICK JR
 https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065
-#EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Altro",NICKELODEON
-https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c
 #EXTINF:-1 tvg-id="nove.it" tvg-logo="" group-title="Altro",NOVE
 https://vavoo.to/vavoo-iptv/play/867216452ba4d42b41ada
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/570326948497195008/Wf6DPfFP_400x400.jpeg" group-title="Musica",OL3 RADIO
@@ -938,8 +936,68 @@ https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="formula1lenovocanadiangppractice2" tvg-name="Motorsport | Formula 1 : Lenovo Canadian GP - Practice 2 (22:30)" tvg-logo="https://www.autoblog.com/.image/w_3840,q_auto:good,c_limit/MjA5MDg4OTMwOTU1MDc3MjMy/Mercedes-AMG%2520Petronas%2520F1%2520W15%2520E%2520Performance.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Lenovo Canadian GP - Practice 2 (22:30)
+#EXTINF:-1 tvg-id="englandchampionshiphullcityvsmiddlesbrough" tvg-name="Soccer | England - Championship : Hull City vs Middlesbrough (16:30)" tvg-logo="https://www.ocregister.com/wp-content/uploads/2018/12/0119_OCF_Pets-1.jpg?w=1280" group-title="Eventi Live DLHD",Soccer | England - Championship : Hull City vs Middlesbrough (16:30)
+https://dlhd.dad/watch.php?id=5
+
+#EXTINF:-1 tvg-id="italyserieabolognavsinternazionale" tvg-name="Soccer | Italy - Serie A : Bologna vs Internazionale (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Bologna_vs_Internazionale.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Bologna vs Internazionale (18:00)
+https://dlhd.dad/watch.php?id=877
+
+#EXTINF:-1 tvg-id="italyseriealaziovspisa" tvg-name="Soccer | Italy - Serie A : Lazio vs Pisa (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lazio_vs_Pisa.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Lazio vs Pisa (20:45)
+https://dlhd.dad/watch.php?id=1
+
+#EXTINF:-1 tvg-id="italyseriealaziovspisa" tvg-name="Soccer | Italy - Serie A : Lazio vs Pisa (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lazio_vs_Pisa.png" group-title="Eventi Live DLHD",Soccer | Italy - Serie A : Lazio vs Pisa (20:45)
+https://dlhd.dad/watch.php?id=870
+
+#EXTINF:-1 tvg-id="hamburgatpgenevaatpstrasbourgwtarabatwtafinals" tvg-name="Tennis | Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Finals (14:00)" tvg-logo="https://www.edreams.com/blog/wp-content/uploads/sites/3/2020/11/hamburg_shutterstock_684050623-1024x683.png" group-title="Eventi Live DLHD",Tennis | Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Finals (14:00)
+https://dlhd.dad/watch.php?id=461
+
+#EXTINF:-1 tvg-id="hamburgatpgenevaatpstrasbourgwtarabatwtafinals" tvg-name="Tennis | Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Finals (14:00)" tvg-logo="https://www.edreams.com/blog/wp-content/uploads/sites/3/2020/11/hamburg_shutterstock_684050623-1024x683.png" group-title="Eventi Live DLHD",Tennis | Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Finals (14:00)
+https://dlhd.dad/watch.php?id=576
+
+#EXTINF:-1 tvg-id="formula1lenovocanadiangpsprintgrid" tvg-name="Motorsport | Formula 1 : Lenovo Canadian GP - Sprint Grid (17:00)" tvg-logo="https://www.autoblog.com/.image/w_3840,q_auto:good,c_limit/MjA5MDg4OTMwOTU1MDc3MjMy/Mercedes-AMG%2520Petronas%2520F1%2520W15%2520E%2520Performance.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Lenovo Canadian GP - Sprint Grid (17:00)
 https://dlhd.dad/watch.php?id=577
+
+#EXTINF:-1 tvg-id="formula1lenovocanadiangpsprint" tvg-name="Motorsport | Formula 1 : Lenovo Canadian GP - Sprint (18:00)" tvg-logo="https://www.autoblog.com/.image/w_3840,q_auto:good,c_limit/MjA5MDg4OTMwOTU1MDc3MjMy/Mercedes-AMG%2520Petronas%2520F1%2520W15%2520E%2520Performance.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Lenovo Canadian GP - Sprint (18:00)
+https://dlhd.dad/watch.php?id=577
+
+#EXTINF:-1 tvg-id="formula2circuitgillesvilleneuvesprintrace" tvg-name="Motorsport | Formula 2 : Circuit Gilles-Villeneuve Sprint Race (20:10)" tvg-logo="https://www.autoblog.com/.image/w_3840,q_auto:good,c_limit/MjA5MDg4OTMwOTU1MDc3MjMy/Mercedes-AMG%2520Petronas%2520F1%2520W15%2520E%2520Performance.png" group-title="Eventi Live DLHD",Motorsport | Formula 2 : Circuit Gilles-Villeneuve Sprint Race (20:10)
+https://dlhd.dad/watch.php?id=577
+
+#EXTINF:-1 tvg-id="formula1lenovocanadiangpqualifying" tvg-name="Motorsport | Formula 1 : Lenovo Canadian GP - Qualifying (22:00)" tvg-logo="https://www.autoblog.com/.image/w_3840,q_auto:good,c_limit/MjA5MDg4OTMwOTU1MDc3MjMy/Mercedes-AMG%2520Petronas%2520F1%2520W15%2520E%2520Performance.png" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Lenovo Canadian GP - Qualifying (22:00)
+https://dlhd.dad/watch.php?id=577
+
+#EXTINF:-1 tvg-id="38americascup" tvg-name="Sailing / Boating | 38ª Americas Cup (15:00)" tvg-logo="https://ca-times.brightspotcdn.com/dims4/default/7cddce3/2147483647/strip/true/crop/1464x1464+0+401/resize/1000x1000!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Faa%2Fa4%2F5fb1eb5e46b6a07c21b1d325560b%2F43-el4-charlie-mitchell-african-american.jpg" group-title="Eventi Live DLHD",Sailing / Boating | 38ª Americas Cup (15:00)
+https://dlhd.dad/watch.php?id=461
+
+#EXTINF:-1 tvg-id="38americascup" tvg-name="Sailing / Boating | 38ª Americas Cup (15:00)" tvg-logo="https://www.remixmagazine.com/assets/oliviadeano-3__ResizedImageWzYwMCw3NTBd.jpeg" group-title="Eventi Live DLHD",Sailing / Boating | 38ª Americas Cup (15:00)
+https://dlhd.dad/watch.php?id=852
+
+#EXTINF:-1 tvg-id="worldseriesbernwomensboulderfinal" tvg-name="Climbing | World Series | Bern Women's Boulder | Final (18:00)" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/019/053/744/small_2x/world-globe-earth-map-png.png" group-title="Eventi Live DLHD",Climbing | World Series | Bern Women's Boulder | Final (18:00)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="giroditaliamenstage14" tvg-name="Cycling | Giro d'Italia | Men | Stage 14 (13:00)" tvg-logo="https://valamur.com/wp-content/uploads/naturaleza.VTJj8_.jpg" group-title="Eventi Live DLHD",Cycling | Giro d'Italia | Men | Stage 14 (13:00)
+https://dlhd.dad/watch.php?id=851
+
+#EXTINF:-1 tvg-id="giroditaliamenstage14" tvg-name="Cycling | Giro d'Italia | Men | Stage 14 (13:00)" tvg-logo="https://www.jambase.com/wp-content/uploads/2020/03/woods-2020-press-alex-bleeker-1480x832.jpg" group-title="Eventi Live DLHD",Cycling | Giro d'Italia | Men | Stage 14 (13:00)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="iihfworldchampionshipswitzerlandvshungary" tvg-name="IIHF Ice Hockey | IIHF World Championship : Switzerland vs Hungary (16:20)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Switzerland_vs_Hungary.png" group-title="Eventi Live DLHD",IIHF Ice Hockey | IIHF World Championship : Switzerland vs Hungary (16:20)
+https://dlhd.dad/watch.php?id=18
+
+#EXTINF:-1 tvg-id="iihfworldchampionshipaustriavsgermany" tvg-name="IIHF Ice Hockey | IIHF World Championship : Austria vs Germany (20:20)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Austria_vs_Germany.png" group-title="Eventi Live DLHD",IIHF Ice Hockey | IIHF World Championship : Austria vs Germany (20:20)
+https://dlhd.dad/watch.php?id=18
+
+#EXTINF:-1 tvg-id="t100triathlonworldtournavarrapamplonawomen" tvg-name="Triathlon | T100 Triathlon World Tour | Navarra-Pamplona Women (12:00)" tvg-logo="https://www.protoolreviews.com/wp-content/uploads/2018/05/Ridgid-16-Gal-Shop-Vac07-800x600.jpg" group-title="Eventi Live DLHD",Triathlon | T100 Triathlon World Tour | Navarra-Pamplona Women (12:00)
+https://dlhd.dad/watch.php?id=879
+
+#EXTINF:-1 tvg-id="womensvolleyballfriendlypolandvsserbia" tvg-name="Volleyball | Women's volleyball Friendly : Poland vs. Serbia (17:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Poland_vs_Serbia.png" group-title="Eventi Live DLHD",Volleyball | Women's volleyball Friendly : Poland vs. Serbia (17:00)
+https://dlhd.dad/watch.php?id=462
+
+#EXTINF:-1 tvg-id="friendlyinternationalwomenitalywvsturkeyw" tvg-name="Volleyball | Friendly International Women : Italy W vs Turkey W (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy W_vs_Turkey W.png" group-title="Eventi Live DLHD",Volleyball | Friendly International Women : Italy W vs Turkey W (21:00)
+https://dlhd.dad/watch.php?id=882
+
+#EXTINF:-1 tvg-id="friendlyinternationalwomenitalywvsturkeyw" tvg-name="Volleyball | Friendly International Women : Italy W vs Turkey W (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy W_vs_Turkey W.png" group-title="Eventi Live DLHD",Volleyball | Friendly International Women : Italy W vs Turkey W (21:00)
+https://dlhd.dad/watch.php?id=462
 
 
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",YeÅil Yalova x Gaziantep FK 11:00

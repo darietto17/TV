@@ -1,3 +1,261 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="EnglandChampionshipHullCityvsMiddlesbrough">
+    <display-name>England - Championship : Hull City vs Middlesbrough</display-name>
+  </channel>
+  <programme start="20260523000000 +0200" stop="20260523163000 +0200" channel="EnglandChampionshipHullCityvsMiddlesbrough">
+    <title lang="it">Inizia alle 16:30.</title>
+    <desc lang="it">England - Championship : Hull City vs Middlesbrough.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260523163000 +0200" stop="20260523183000 +0200" channel="EnglandChampionshipHullCityvsMiddlesbrough">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">England - Championship : Hull City vs Middlesbrough</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieABolognavsInternazionale">
+    <display-name>Italy - Serie A : Bologna vs Internazionale</display-name>
+  </channel>
+  <programme start="20260523000000 +0200" stop="20260523180000 +0200" channel="ItalySerieABolognavsInternazionale">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">Italy - Serie A : Bologna vs Internazionale.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260523180000 +0200" stop="20260523200000 +0200" channel="ItalySerieABolognavsInternazionale">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie A : Bologna vs Internazionale</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ItalySerieALaziovsPisa">
+    <display-name>Italy - Serie A : Lazio vs Pisa</display-name>
+  </channel>
+  <programme start="20260523000000 +0200" stop="20260523204500 +0200" channel="ItalySerieALaziovsPisa">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">Italy - Serie A : Lazio vs Pisa.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260523204500 +0200" stop="20260523224500 +0200" channel="ItalySerieALaziovsPisa">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie A : Lazio vs Pisa</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20260523000000 +0200" stop="20260523204500 +0200" channel="ItalySerieALaziovsPisa">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">Italy - Serie A : Lazio vs Pisa.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260523204500 +0200" stop="20260523224500 +0200" channel="ItalySerieALaziovsPisa">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie A : Lazio vs Pisa</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="HamburgATPGenevaATPStrasbourgWTARabatWTAFinals">
+    <display-name>Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Finals</display-name>
+  </channel>
+  <programme start="20260523000000 +0200" stop="20260523140000 +0200" channel="HamburgATPGenevaATPStrasbourgWTARabatWTAFinals">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Finals.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260523140000 +0200" stop="20260523160000 +0200" channel="HamburgATPGenevaATPStrasbourgWTARabatWTAFinals">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Finals</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <programme start="20260523000000 +0200" stop="20260523140000 +0200" channel="HamburgATPGenevaATPStrasbourgWTARabatWTAFinals">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Finals.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260523140000 +0200" stop="20260523160000 +0200" channel="HamburgATPGenevaATPStrasbourgWTARabatWTAFinals">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Hamburg-ATP, Geneva-ATP, Strasbourg-WTA & Rabat-WTA Finals</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="Formula1LenovoCanadianGPSprintGrid">
+    <display-name>Formula 1 : Lenovo Canadian GP - Sprint Grid</display-name>
+  </channel>
+  <programme start="20260523000000 +0200" stop="20260523170000 +0200" channel="Formula1LenovoCanadianGPSprintGrid">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">Formula 1 : Lenovo Canadian GP - Sprint Grid.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260523170000 +0200" stop="20260523190000 +0200" channel="Formula1LenovoCanadianGPSprintGrid">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 1 : Lenovo Canadian GP - Sprint Grid</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Formula1LenovoCanadianGPSprint">
+    <display-name>Formula 1 : Lenovo Canadian GP - Sprint</display-name>
+  </channel>
+  <programme start="20260523000000 +0200" stop="20260523180000 +0200" channel="Formula1LenovoCanadianGPSprint">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">Formula 1 : Lenovo Canadian GP - Sprint.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260523180000 +0200" stop="20260523200000 +0200" channel="Formula1LenovoCanadianGPSprint">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 1 : Lenovo Canadian GP - Sprint</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Formula2CircuitGillesVilleneuveSprintRace">
+    <display-name>Formula 2 : Circuit Gilles-Villeneuve Sprint Race</display-name>
+  </channel>
+  <programme start="20260523000000 +0200" stop="20260523201000 +0200" channel="Formula2CircuitGillesVilleneuveSprintRace">
+    <title lang="it">Inizia alle 20:10.</title>
+    <desc lang="it">Formula 2 : Circuit Gilles-Villeneuve Sprint Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260523201000 +0200" stop="20260523221000 +0200" channel="Formula2CircuitGillesVilleneuveSprintRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 2 : Circuit Gilles-Villeneuve Sprint Race</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Formula1LenovoCanadianGPQualifying">
+    <display-name>Formula 1 : Lenovo Canadian GP - Qualifying</display-name>
+  </channel>
+  <programme start="20260523000000 +0200" stop="20260523220000 +0200" channel="Formula1LenovoCanadianGPQualifying">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">Formula 1 : Lenovo Canadian GP - Qualifying.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260523220000 +0200" stop="20260524000000 +0200" channel="Formula1LenovoCanadianGPQualifying">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 1 : Lenovo Canadian GP - Qualifying</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="38AmericasCup">
+    <display-name>38ª Americas Cup</display-name>
+  </channel>
+  <programme start="20260523000000 +0200" stop="20260523150000 +0200" channel="38AmericasCup">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">38ª Americas Cup.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260523150000 +0200" stop="20260523170000 +0200" channel="38AmericasCup">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">38ª Americas Cup</desc>
+    <category lang="it">Sailing / Boating</category>
+  </programme>
+  <programme start="20260523000000 +0200" stop="20260523150000 +0200" channel="38AmericasCup">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">38ª Americas Cup.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260523150000 +0200" stop="20260523170000 +0200" channel="38AmericasCup">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">38ª Americas Cup</desc>
+    <category lang="it">Sailing / Boating</category>
+  </programme>
+  <channel id="WorldSeriesBernWomensBoulderFinal">
+    <display-name>World Series | Bern Women's Boulder | Final</display-name>
+  </channel>
+  <programme start="20260523000000 +0200" stop="20260523180000 +0200" channel="WorldSeriesBernWomensBoulderFinal">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">World Series | Bern Women's Boulder | Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260523180000 +0200" stop="20260523200000 +0200" channel="WorldSeriesBernWomensBoulderFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">World Series | Bern Women's Boulder | Final</desc>
+    <category lang="it">Climbing</category>
+  </programme>
+  <channel id="GirodItaliaMenStage14">
+    <display-name>Giro d'Italia | Men | Stage 14</display-name>
+  </channel>
+  <programme start="20260523000000 +0200" stop="20260523130000 +0200" channel="GirodItaliaMenStage14">
+    <title lang="it">Inizia alle 13:00.</title>
+    <desc lang="it">Giro d'Italia | Men | Stage 14.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260523130000 +0200" stop="20260523150000 +0200" channel="GirodItaliaMenStage14">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Giro d'Italia | Men | Stage 14</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <programme start="20260523000000 +0200" stop="20260523130000 +0200" channel="GirodItaliaMenStage14">
+    <title lang="it">Inizia alle 13:00.</title>
+    <desc lang="it">Giro d'Italia | Men | Stage 14.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260523130000 +0200" stop="20260523150000 +0200" channel="GirodItaliaMenStage14">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Giro d'Italia | Men | Stage 14</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="IIHFWorldChampionshipSwitzerlandvsHungary">
+    <display-name>IIHF World Championship : Switzerland vs Hungary</display-name>
+  </channel>
+  <programme start="20260523000000 +0200" stop="20260523162000 +0200" channel="IIHFWorldChampionshipSwitzerlandvsHungary">
+    <title lang="it">Inizia alle 16:20.</title>
+    <desc lang="it">IIHF World Championship : Switzerland vs Hungary.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260523162000 +0200" stop="20260523182000 +0200" channel="IIHFWorldChampionshipSwitzerlandvsHungary">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">IIHF World Championship : Switzerland vs Hungary</desc>
+    <category lang="it">IIHF Ice Hockey</category>
+  </programme>
+  <channel id="IIHFWorldChampionshipAustriavsGermany">
+    <display-name>IIHF World Championship : Austria vs Germany</display-name>
+  </channel>
+  <programme start="20260523000000 +0200" stop="20260523202000 +0200" channel="IIHFWorldChampionshipAustriavsGermany">
+    <title lang="it">Inizia alle 20:20.</title>
+    <desc lang="it">IIHF World Championship : Austria vs Germany.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260523202000 +0200" stop="20260523222000 +0200" channel="IIHFWorldChampionshipAustriavsGermany">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">IIHF World Championship : Austria vs Germany</desc>
+    <category lang="it">IIHF Ice Hockey</category>
+  </programme>
+  <channel id="T100TriathlonWorldTourNavarraPamplonaWomen">
+    <display-name>T100 Triathlon World Tour | Navarra-Pamplona Women</display-name>
+  </channel>
+  <programme start="20260523000000 +0200" stop="20260523120000 +0200" channel="T100TriathlonWorldTourNavarraPamplonaWomen">
+    <title lang="it">Inizia alle 12:00.</title>
+    <desc lang="it">T100 Triathlon World Tour | Navarra-Pamplona Women.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260523120000 +0200" stop="20260523140000 +0200" channel="T100TriathlonWorldTourNavarraPamplonaWomen">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">T100 Triathlon World Tour | Navarra-Pamplona Women</desc>
+    <category lang="it">Triathlon</category>
+  </programme>
+  <channel id="WomensvolleyballFriendlyPolandvsSerbia">
+    <display-name>Women's volleyball Friendly : Poland vs. Serbia</display-name>
+  </channel>
+  <programme start="20260523000000 +0200" stop="20260523170000 +0200" channel="WomensvolleyballFriendlyPolandvsSerbia">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">Women's volleyball Friendly : Poland vs. Serbia.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260523170000 +0200" stop="20260523190000 +0200" channel="WomensvolleyballFriendlyPolandvsSerbia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Women's volleyball Friendly : Poland vs. Serbia</desc>
+    <category lang="it">Volleyball</category>
+  </programme>
+  <channel id="FriendlyInternationalWomenItalyWvsTurkeyW">
+    <display-name>Friendly International Women : Italy W vs Turkey W</display-name>
+  </channel>
+  <programme start="20260523000000 +0200" stop="20260523210000 +0200" channel="FriendlyInternationalWomenItalyWvsTurkeyW">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Friendly International Women : Italy W vs Turkey W.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260523210000 +0200" stop="20260523230000 +0200" channel="FriendlyInternationalWomenItalyWvsTurkeyW">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Friendly International Women : Italy W vs Turkey W</desc>
+    <category lang="it">Volleyball</category>
+  </programme>
+  <programme start="20260523000000 +0200" stop="20260523210000 +0200" channel="FriendlyInternationalWomenItalyWvsTurkeyW">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Friendly International Women : Italy W vs Turkey W.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260523210000 +0200" stop="20260523230000 +0200" channel="FriendlyInternationalWomenItalyWvsTurkeyW">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Friendly International Women : Italy W vs Turkey W</desc>
+    <category lang="it">Volleyball</category>
+  </programme>
 </tv>
