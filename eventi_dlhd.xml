@@ -160,29 +160,6 @@
     <desc lang="it">World Series | Bern Women's Boulder | Final</desc>
     <category lang="it">Climbing</category>
   </programme>
-  <channel id="GirodItaliaMenStage14">
-    <display-name>Giro d'Italia | Men | Stage 14</display-name>
-  </channel>
-  <programme start="20260523000000 +0200" stop="20260523130000 +0200" channel="GirodItaliaMenStage14">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Giro d'Italia | Men | Stage 14.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260523130000 +0200" stop="20260523150000 +0200" channel="GirodItaliaMenStage14">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Giro d'Italia | Men | Stage 14</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260523000000 +0200" stop="20260523130000 +0200" channel="GirodItaliaMenStage14">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Giro d'Italia | Men | Stage 14.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260523130000 +0200" stop="20260523150000 +0200" channel="GirodItaliaMenStage14">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Giro d'Italia | Men | Stage 14</desc>
-    <category lang="it">Cycling</category>
-  </programme>
   <channel id="IIHFWorldChampionshipSwitzerlandvsHungary">
     <display-name>IIHF World Championship : Switzerland vs Hungary</display-name>
   </channel>
@@ -208,19 +185,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">IIHF World Championship : Austria vs Germany</desc>
     <category lang="it">IIHF Ice Hockey</category>
-  </programme>
-  <channel id="T100TriathlonWorldTourNavarraPamplonaWomen">
-    <display-name>T100 Triathlon World Tour | Navarra-Pamplona Women</display-name>
-  </channel>
-  <programme start="20260523000000 +0200" stop="20260523120000 +0200" channel="T100TriathlonWorldTourNavarraPamplonaWomen">
-    <title lang="it">Inizia alle 12:00.</title>
-    <desc lang="it">T100 Triathlon World Tour | Navarra-Pamplona Women.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260523120000 +0200" stop="20260523140000 +0200" channel="T100TriathlonWorldTourNavarraPamplonaWomen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">T100 Triathlon World Tour | Navarra-Pamplona Women</desc>
-    <category lang="it">Triathlon</category>
   </programme>
   <channel id="WomensvolleyballFriendlyPolandvsSerbia">
     <display-name>Women's volleyball Friendly : Poland vs. Serbia</display-name>
