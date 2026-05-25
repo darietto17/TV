@@ -123,7 +123,9 @@ https://vavoo.to/vavoo-iptv/play/3743894403dc7e6005c138
 #EXTINF:-1 tvg-id="cielo.it" tvg-name="CIELO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Altro",CIELO (MPD)
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 
-#EXTINF:-1 tvg-id="cine34.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Mediaset",CINE 34
+#EXTINF:-1 tvg-id="cine34.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Mediaset",CINE 34 (1)
+https://vavoo.to/vavoo-iptv/play/625586063b81b5ccae3f
+#EXTINF:-1 tvg-id="cine34.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Mediaset",CINE 34 (2)
 https://vavoo.to/vavoo-iptv/play/17686701870faa9fea0a38
 #EXTINF:-1 tvg-id="cine34.it" tvg-name="CINE 34" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Mediaset",CINE 34 (MPD)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
@@ -202,6 +204,8 @@ https://vavoo.to/vavoo-iptv/play/2283887097a4248311ff27
 https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
 #EXTINF:-1 tvg-id="eurosport.2.it" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Sport",EUROSPORT 2 (MPD)
 https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport2)/manifest.mpd&key_id=e8372283a523444c84646c4172b1bc0f&key=969a90e1a1a6424a68fe4b5d776368ec
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 2 TIMVISION
+https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 4 TIMVISION
 https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",EUROSPORT 5 TIMVISION
@@ -355,6 +359,8 @@ https://vavoo.to/vavoo-iptv/play/3428501495a9ec2ff7bc8e
 https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
 #EXTINF:-1 tvg-id="nick.jr.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini",NICK JR
 https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065
+#EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Altro",NICKELODEON
+https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c
 #EXTINF:-1 tvg-id="nove.it" tvg-logo="" group-title="Altro",NOVE
 https://vavoo.to/vavoo-iptv/play/867216452ba4d42b41ada
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/570326948497195008/Wf6DPfFP_400x400.jpeg" group-title="Musica",OL3 RADIO
@@ -932,24 +938,6 @@ https://vavoo.to/vavoo-iptv/play/3069499316a3427a69a204
 https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb
 
 # MEDIASET
-
-#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
-https://example.com.m3u8
-
-#EXTINF:-1 tvg-id="bundesligapaderbornvswolfsburg" tvg-name="All Soccer Events | Bundesliga : Paderborn vs Wolfsburg (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Paderborn_vs_Wolfsburg.png" group-title="Eventi Live DLHD",All Soccer Events | Bundesliga : Paderborn vs Wolfsburg (20:30)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="bundesligapaderbornvswolfsburg" tvg-name="All Soccer Events | Bundesliga : Paderborn vs Wolfsburg (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Paderborn_vs_Wolfsburg.png" group-title="Eventi Live DLHD",All Soccer Events | Bundesliga : Paderborn vs Wolfsburg (20:30)
-https://dlhd.dad/watch.php?id=870
-
-#EXTINF:-1 tvg-id="mlbmilwaukeebrewersvsstlouiscardinals" tvg-name="Baseball (MLB) | MLB : Milwaukee Brewers vs St. Louis Cardinals (20:10)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Milwaukee Brewers_vs_St. Louis Cardinals.png" group-title="Eventi Live DLHD",Baseball (MLB) | MLB : Milwaukee Brewers vs St. Louis Cardinals (20:10)
-https://dlhd.dad/watch.php?id=462
-
-#EXTINF:-1 tvg-id="seriea2veronavsfortitudobologna" tvg-name="Basketball | Serie A2 : Verona vs Fortitudo Bologna (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Verona_vs_Fortitudo Bologna.png" group-title="Eventi Live DLHD",Basketball | Serie A2 : Verona vs Fortitudo Bologna (20:45)
-https://dlhd.dad/watch.php?id=882
-
-#EXTINF:-1 tvg-id="iihfworldchampionshipgermanyvsgreatbritain" tvg-name="IIHF Ice Hockey | IIHF World Championship : Germany vs Great Britain (20:20)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Germany_vs_Great Britain.png" group-title="Eventi Live DLHD",IIHF Ice Hockey | IIHF World Championship : Germany vs Great Britain (20:20)
-https://dlhd.dad/watch.php?id=10
 
 
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",YeÅil Yalova x Gaziantep FK 11:00
