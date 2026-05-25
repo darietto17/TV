@@ -1,3 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="BundesligaPaderbornvsWolfsburg">
+    <display-name>Bundesliga : Paderborn vs Wolfsburg</display-name>
+  </channel>
+  <programme start="20260525000000 +0200" stop="20260525203000 +0200" channel="BundesligaPaderbornvsWolfsburg">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">Bundesliga : Paderborn vs Wolfsburg.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260525203000 +0200" stop="20260525223000 +0200" channel="BundesligaPaderbornvsWolfsburg">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Bundesliga : Paderborn vs Wolfsburg</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <programme start="20260525000000 +0200" stop="20260525203000 +0200" channel="BundesligaPaderbornvsWolfsburg">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">Bundesliga : Paderborn vs Wolfsburg.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260525203000 +0200" stop="20260525223000 +0200" channel="BundesligaPaderbornvsWolfsburg">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Bundesliga : Paderborn vs Wolfsburg</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="RolandGarros360Day2">
+    <display-name>Roland-Garros 360 Day 2</display-name>
+  </channel>
+  <programme start="20260525000000 +0200" stop="20260525103000 +0200" channel="RolandGarros360Day2">
+    <title lang="it">Inizia alle 10:30.</title>
+    <desc lang="it">Roland-Garros 360 Day 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260525103000 +0200" stop="20260525123000 +0200" channel="RolandGarros360Day2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Roland-Garros 360 Day 2</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="MLBMilwaukeeBrewersvsStLouisCardinals">
+    <display-name>MLB : Milwaukee Brewers vs St. Louis Cardinals</display-name>
+  </channel>
+  <programme start="20260525000000 +0200" stop="20260525201000 +0200" channel="MLBMilwaukeeBrewersvsStLouisCardinals">
+    <title lang="it">Inizia alle 20:10.</title>
+    <desc lang="it">MLB : Milwaukee Brewers vs St. Louis Cardinals.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260525201000 +0200" stop="20260525221000 +0200" channel="MLBMilwaukeeBrewersvsStLouisCardinals">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MLB : Milwaukee Brewers vs St. Louis Cardinals</desc>
+    <category lang="it">Baseball (MLB)</category>
+  </programme>
+  <channel id="SerieA2VeronavsFortitudoBologna">
+    <display-name>Serie A2 : Verona vs Fortitudo Bologna</display-name>
+  </channel>
+  <programme start="20260525000000 +0200" stop="20260525204500 +0200" channel="SerieA2VeronavsFortitudoBologna">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">Serie A2 : Verona vs Fortitudo Bologna.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260525204500 +0200" stop="20260525224500 +0200" channel="SerieA2VeronavsFortitudoBologna">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Serie A2 : Verona vs Fortitudo Bologna</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <channel id="AntwerpPortEpicMenAntwerp182km">
+    <display-name>Antwerp Port Epic Men | Antwerp (182km)</display-name>
+  </channel>
+  <programme start="20260525000000 +0200" stop="20260525150000 +0200" channel="AntwerpPortEpicMenAntwerp182km">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">Antwerp Port Epic Men | Antwerp (182km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260525150000 +0200" stop="20260525170000 +0200" channel="AntwerpPortEpicMenAntwerp182km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Antwerp Port Epic Men | Antwerp (182km)</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="IIHFWorldChampionshipCzechRepublicvsNorway">
+    <display-name>IIHF World Championship : Czech Republic vs Norway</display-name>
+  </channel>
+  <programme start="20260525000000 +0200" stop="20260525162000 +0200" channel="IIHFWorldChampionshipCzechRepublicvsNorway">
+    <title lang="it">Inizia alle 16:20.</title>
+    <desc lang="it">IIHF World Championship : Czech Republic vs Norway.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260525162000 +0200" stop="20260525182000 +0200" channel="IIHFWorldChampionshipCzechRepublicvsNorway">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">IIHF World Championship : Czech Republic vs Norway</desc>
+    <category lang="it">IIHF Ice Hockey</category>
+  </programme>
+  <channel id="IIHFWorldChampionshipGermanyvsGreatBritain">
+    <display-name>IIHF World Championship : Germany vs Great Britain</display-name>
+  </channel>
+  <programme start="20260525000000 +0200" stop="20260525202000 +0200" channel="IIHFWorldChampionshipGermanyvsGreatBritain">
+    <title lang="it">Inizia alle 20:20.</title>
+    <desc lang="it">IIHF World Championship : Germany vs Great Britain.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260525202000 +0200" stop="20260525222000 +0200" channel="IIHFWorldChampionshipGermanyvsGreatBritain">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">IIHF World Championship : Germany vs Great Britain</desc>
+    <category lang="it">IIHF Ice Hockey</category>
+  </programme>
 </tv>
