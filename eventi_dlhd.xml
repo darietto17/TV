@@ -1,3 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="UEFAU17EuropeanChampionshipItalyU17vsFranceU17">
+    <display-name>UEFA U17 European Championship : Italy U17 vs France U17</display-name>
+  </channel>
+  <programme start="20260526000000 +0200" stop="20260526133000 +0200" channel="UEFAU17EuropeanChampionshipItalyU17vsFranceU17">
+    <title lang="it">Inizia alle 13:30.</title>
+    <desc lang="it">UEFA U17 European Championship : Italy U17 vs France U17.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260526133000 +0200" stop="20260526153000 +0200" channel="UEFAU17EuropeanChampionshipItalyU17vsFranceU17">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA U17 European Championship : Italy U17 vs France U17</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="RolandGarros360Day3">
+    <display-name>Roland-Garros 360 Day 3</display-name>
+  </channel>
+  <programme start="20260526000000 +0200" stop="20260526103000 +0200" channel="RolandGarros360Day3">
+    <title lang="it">Inizia alle 10:30.</title>
+    <desc lang="it">Roland-Garros 360 Day 3.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260526103000 +0200" stop="20260526123000 +0200" channel="RolandGarros360Day3">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Roland-Garros 360 Day 3</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="SerieA2SemifinalBGame3">
+    <display-name>Serie A2 Semifinal B - Game 3</display-name>
+  </channel>
+  <programme start="20260526000000 +0200" stop="20260526204500 +0200" channel="SerieA2SemifinalBGame3">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">Serie A2 Semifinal B - Game 3.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260526204500 +0200" stop="20260526224500 +0200" channel="SerieA2SemifinalBGame3">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Serie A2 Semifinal B - Game 3</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <channel id="GirodItaliaMenStage16">
+    <display-name>Giro d'Italia | Men | Stage 16</display-name>
+  </channel>
+  <programme start="20260526000000 +0200" stop="20260526140000 +0200" channel="GirodItaliaMenStage16">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">Giro d'Italia | Men | Stage 16.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260526140000 +0200" stop="20260526160000 +0200" channel="GirodItaliaMenStage16">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Giro d'Italia | Men | Stage 16</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <programme start="20260526000000 +0200" stop="20260526140000 +0200" channel="GirodItaliaMenStage16">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">Giro d'Italia | Men | Stage 16.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260526140000 +0200" stop="20260526160000 +0200" channel="GirodItaliaMenStage16">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Giro d'Italia | Men | Stage 16</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="IIHFWorldChampionshipUSAvsAustria">
+    <display-name>IIHF World Championship : USA vs Austria</display-name>
+  </channel>
+  <programme start="20260526000000 +0200" stop="20260526162000 +0200" channel="IIHFWorldChampionshipUSAvsAustria">
+    <title lang="it">Inizia alle 16:20.</title>
+    <desc lang="it">IIHF World Championship : USA vs Austria.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260526162000 +0200" stop="20260526182000 +0200" channel="IIHFWorldChampionshipUSAvsAustria">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">IIHF World Championship : USA vs Austria</desc>
+    <category lang="it">IIHF Ice Hockey</category>
+  </programme>
+  <channel id="IIHFWorldChampionshipSwitzerlandvsFinland">
+    <display-name>IIHF World Championship : Switzerland vs Finland</display-name>
+  </channel>
+  <programme start="20260526000000 +0200" stop="20260526202000 +0200" channel="IIHFWorldChampionshipSwitzerlandvsFinland">
+    <title lang="it">Inizia alle 20:20.</title>
+    <desc lang="it">IIHF World Championship : Switzerland vs Finland.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260526202000 +0200" stop="20260526222000 +0200" channel="IIHFWorldChampionshipSwitzerlandvsFinland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">IIHF World Championship : Switzerland vs Finland</desc>
+    <category lang="it">IIHF Ice Hockey</category>
+  </programme>
 </tv>
