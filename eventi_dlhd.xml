@@ -1,29 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="SerieA2SemifinalBGame3">
-    <display-name>Serie A2 Semifinal B - Game 3</display-name>
-  </channel>
-  <programme start="20260526000000 +0200" stop="20260526204500 +0200" channel="SerieA2SemifinalBGame3">
-    <title lang="it">Inizia alle 20:45.</title>
-    <desc lang="it">Serie A2 Semifinal B - Game 3.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260526204500 +0200" stop="20260526224500 +0200" channel="SerieA2SemifinalBGame3">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Serie A2 Semifinal B - Game 3</desc>
-    <category lang="it">Basketball</category>
-  </programme>
-  <channel id="IIHFWorldChampionshipSwitzerlandvsFinland">
-    <display-name>IIHF World Championship : Switzerland vs Finland</display-name>
-  </channel>
-  <programme start="20260526000000 +0200" stop="20260526202000 +0200" channel="IIHFWorldChampionshipSwitzerlandvsFinland">
-    <title lang="it">Inizia alle 20:20.</title>
-    <desc lang="it">IIHF World Championship : Switzerland vs Finland.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260526202000 +0200" stop="20260526222000 +0200" channel="IIHFWorldChampionshipSwitzerlandvsFinland">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">IIHF World Championship : Switzerland vs Finland</desc>
-    <category lang="it">IIHF Ice Hockey</category>
-  </programme>
 </tv>
