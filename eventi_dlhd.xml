@@ -1,3 +1,157 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ItalySerieCBresciavsSalernitana">
+    <display-name>Italy - Serie C : Brescia vs Salernitana</display-name>
+  </channel>
+  <programme start="20260527000000 +0200" stop="20260527200000 +0200" channel="ItalySerieCBresciavsSalernitana">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">Italy - Serie C : Brescia vs Salernitana.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260527200000 +0200" stop="20260527220000 +0200" channel="ItalySerieCBresciavsSalernitana">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Brescia vs Salernitana</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <programme start="20260527000000 +0200" stop="20260527200000 +0200" channel="ItalySerieCBresciavsSalernitana">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">Italy - Serie C : Brescia vs Salernitana.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260527200000 +0200" stop="20260527220000 +0200" channel="ItalySerieCBresciavsSalernitana">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Brescia vs Salernitana</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="ItalySerieCUnionBresciavsSalernitana">
+    <display-name>Italy - Serie C : Union Brescia vs Salernitana</display-name>
+  </channel>
+  <programme start="20260527000000 +0200" stop="20260527200000 +0200" channel="ItalySerieCUnionBresciavsSalernitana">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">Italy - Serie C : Union Brescia vs Salernitana.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260527200000 +0200" stop="20260527220000 +0200" channel="ItalySerieCUnionBresciavsSalernitana">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Union Brescia vs Salernitana</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="ItalySerieCCataniavsAscoli">
+    <display-name>Italy - Serie C : Catania vs Ascoli</display-name>
+  </channel>
+  <programme start="20260527000000 +0200" stop="20260527210000 +0200" channel="ItalySerieCCataniavsAscoli">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Italy - Serie C : Catania vs Ascoli.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260527210000 +0200" stop="20260527230000 +0200" channel="ItalySerieCCataniavsAscoli">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Catania vs Ascoli</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <programme start="20260527000000 +0200" stop="20260527210000 +0200" channel="ItalySerieCCataniavsAscoli">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Italy - Serie C : Catania vs Ascoli.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260527210000 +0200" stop="20260527230000 +0200" channel="ItalySerieCCataniavsAscoli">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Catania vs Ascoli</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <programme start="20260527000000 +0200" stop="20260527210000 +0200" channel="ItalySerieCCataniavsAscoli">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Italy - Serie C : Catania vs Ascoli.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260527210000 +0200" stop="20260527230000 +0200" channel="ItalySerieCCataniavsAscoli">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Catania vs Ascoli</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="EuropeUEFAConferenceLeagueCrystalPalacevsRayoVallecano">
+    <display-name>Europe - UEFA Conference League : Crystal Palace vs Rayo Vallecano</display-name>
+  </channel>
+  <programme start="20260527000000 +0200" stop="20260527210000 +0200" channel="EuropeUEFAConferenceLeagueCrystalPalacevsRayoVallecano">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Europe - UEFA Conference League : Crystal Palace vs Rayo Vallecano.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260527210000 +0200" stop="20260527230000 +0200" channel="EuropeUEFAConferenceLeagueCrystalPalacevsRayoVallecano">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Conference League : Crystal Palace vs Rayo Vallecano</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <programme start="20260527000000 +0200" stop="20260527210000 +0200" channel="EuropeUEFAConferenceLeagueCrystalPalacevsRayoVallecano">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Europe - UEFA Conference League : Crystal Palace vs Rayo Vallecano.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260527210000 +0200" stop="20260527230000 +0200" channel="EuropeUEFAConferenceLeagueCrystalPalacevsRayoVallecano">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Europe - UEFA Conference League : Crystal Palace vs Rayo Vallecano</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="RolandGarros360Day4">
+    <display-name>Roland-Garros 360 Day 4</display-name>
+  </channel>
+  <programme start="20260527000000 +0200" stop="20260527103000 +0200" channel="RolandGarros360Day4">
+    <title lang="it">Inizia alle 10:30.</title>
+    <desc lang="it">Roland-Garros 360 Day 4.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260527103000 +0200" stop="20260527123000 +0200" channel="RolandGarros360Day4">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Roland-Garros 360 Day 4</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="MLBTorontoBlueJaysvsMiamiMarlins">
+    <display-name>MLB : Toronto Blue Jays vs Miami Marlins</display-name>
+  </channel>
+  <programme start="20260527000000 +0200" stop="20260527190700 +0200" channel="MLBTorontoBlueJaysvsMiamiMarlins">
+    <title lang="it">Inizia alle 19:07.</title>
+    <desc lang="it">MLB : Toronto Blue Jays vs Miami Marlins.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260527190700 +0200" stop="20260527210700 +0200" channel="MLBTorontoBlueJaysvsMiamiMarlins">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MLB : Toronto Blue Jays vs Miami Marlins</desc>
+    <category lang="it">Baseball (MLB)</category>
+  </programme>
+  <channel id="MensSerieA1BresciavsProRecco">
+    <display-name>Men's Serie A1: Brescia vs Pro Recco</display-name>
+  </channel>
+  <programme start="20260527000000 +0200" stop="20260527185500 +0200" channel="MensSerieA1BresciavsProRecco">
+    <title lang="it">Inizia alle 18:55.</title>
+    <desc lang="it">Men's Serie A1: Brescia vs Pro Recco.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260527185500 +0200" stop="20260527205500 +0200" channel="MensSerieA1BresciavsProRecco">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Men's Serie A1: Brescia vs Pro Recco</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <channel id="TourofItalyStage17MenCassanodAddaAndalo202km">
+    <display-name>Tour of Italy Stage 17 | Men | Cassano d'Adda – Andalo (202km)</display-name>
+  </channel>
+  <programme start="20260527000000 +0200" stop="20260527124500 +0200" channel="TourofItalyStage17MenCassanodAddaAndalo202km">
+    <title lang="it">Inizia alle 12:45.</title>
+    <desc lang="it">Tour of Italy Stage 17 | Men | Cassano d'Adda – Andalo (202km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260527124500 +0200" stop="20260527144500 +0200" channel="TourofItalyStage17MenCassanodAddaAndalo202km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Tour of Italy Stage 17 | Men | Cassano d'Adda – Andalo (202km)</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <programme start="20260527000000 +0200" stop="20260527124500 +0200" channel="TourofItalyStage17MenCassanodAddaAndalo202km">
+    <title lang="it">Inizia alle 12:45.</title>
+    <desc lang="it">Tour of Italy Stage 17 | Men | Cassano d'Adda – Andalo (202km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260527124500 +0200" stop="20260527144500 +0200" channel="TourofItalyStage17MenCassanodAddaAndalo202km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Tour of Italy Stage 17 | Men | Cassano d'Adda – Andalo (202km)</desc>
+    <category lang="it">Cycling</category>
+  </programme>
 </tv>

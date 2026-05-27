@@ -148,8 +148,6 @@ https://vavoo.to/vavoo-iptv/play/196833914960066715a573
 https://vavoo.to/vavoo-iptv/play/861948627bb3b2465ad5a
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
-#EXTINF:-1 tvg-id="dazn.2.it.it" tvg-logo="" group-title="Sport",DAZN 2
-https://vavoo.to/vavoo-iptv/play/3635062218e0132c616db
 #EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV (1)
 https://vavoo.to/vavoo-iptv/play/963607327f90ada131395
 #EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV (2)
@@ -248,8 +246,6 @@ https://vavoo.to/vavoo-iptv/play/237393618912929d56c67e
 https://vavoo.to/vavoo-iptv/play/40604994550f228d5b9b59
 #EXTINF:-1 tvg-id="" tvg-logo="https://ennapress.it/wp-content/uploads/2020/10/globus.png" group-title="Altro",GLOBUS TELEVISION
 https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSjSJx2Wah0-hfWbBn4_C79K5I0600lcD8zw&s" group-title="Altro",GOLD TV
-https://vavoo.to/vavoo-iptv/play/2854396316c4fc7fe60f75
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.telegranducato.it/wp-content/uploads/img_struttura_sito/logo_granducato_ridotto.png" group-title="Altro",GRANDUCATO
 https://vavoo.to/vavoo-iptv/play/9421530140b5164a467be
 #EXTINF:-1 tvg-id="hgtv.it" tvg-logo="https://d204lf4nuskf6u.cloudfront.net/italy-images/c2cbeaabb81be73e81c7f4291cf798e3.png?k=2nWZhtOSUQdq2s2ItEDH5%2BQEPdq1khUY8YJSK0%2BNV90dhkyaUQQ82V1zGPD7O5%2BS" group-title="Altro",HGTV (1)
@@ -940,6 +936,48 @@ https://vavoo.to/vavoo-iptv/play/3069499316a3427a69a204
 https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb
 
 # MEDIASET
+
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="italyseriecbresciavssalernitana" tvg-name="All Soccer Events | Italy - Serie C : Brescia vs Salernitana (20:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Brescia vs Salernitana (20:00)
+https://dlhd.dad/watch.php?id=1
+
+#EXTINF:-1 tvg-id="italyseriecbresciavssalernitana" tvg-name="All Soccer Events | Italy - Serie C : Brescia vs Salernitana (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Brescia_vs_Salernitana.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Brescia vs Salernitana (20:00)
+https://dlhd.dad/watch.php?id=870
+
+#EXTINF:-1 tvg-id="italyseriecunionbresciavssalernitana" tvg-name="All Soccer Events | Italy - Serie C : Union Brescia vs Salernitana (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Union Brescia_vs_Salernitana.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Union Brescia vs Salernitana (20:00)
+https://dlhd.dad/watch.php?id=26
+
+#EXTINF:-1 tvg-id="italyserieccataniavsascoli" tvg-name="All Soccer Events | Italy - Serie C : Catania vs Ascoli (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Catania_vs_Ascoli.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Catania vs Ascoli (21:00)
+https://dlhd.dad/watch.php?id=882
+
+#EXTINF:-1 tvg-id="italyserieccataniavsascoli" tvg-name="All Soccer Events | Italy - Serie C : Catania vs Ascoli (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Catania_vs_Ascoli.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Catania vs Ascoli (21:00)
+https://dlhd.dad/watch.php?id=2
+
+#EXTINF:-1 tvg-id="italyserieccataniavsascoli" tvg-name="All Soccer Events | Italy - Serie C : Catania vs Ascoli (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Catania_vs_Ascoli.png" group-title="Eventi Live DLHD",All Soccer Events | Italy - Serie C : Catania vs Ascoli (21:00)
+https://dlhd.dad/watch.php?id=460
+
+#EXTINF:-1 tvg-id="europeuefaconferenceleaguecrystalpalacevsrayovallecano" tvg-name="All Soccer Events | Europe - UEFA Conference League : Crystal Palace vs Rayo Vallecano (21:00)" tvg-logo="https://wallpaperaccess.com/full/1327240.jpg" group-title="Eventi Live DLHD",All Soccer Events | Europe - UEFA Conference League : Crystal Palace vs Rayo Vallecano (21:00)
+https://dlhd.dad/watch.php?id=5
+
+#EXTINF:-1 tvg-id="europeuefaconferenceleaguecrystalpalacevsrayovallecano" tvg-name="All Soccer Events | Europe - UEFA Conference League : Crystal Palace vs Rayo Vallecano (21:00)" tvg-logo="https://www.chipotlemenu.website/wp-content/uploads/2025/01/Chipotle-Menu-With-Prices-and-Pictures.webp" group-title="Eventi Live DLHD",All Soccer Events | Europe - UEFA Conference League : Crystal Palace vs Rayo Vallecano (21:00)
+https://dlhd.dad/watch.php?id=461
+
+#EXTINF:-1 tvg-id="rolandgarros360day4" tvg-name="Tennis | Roland-Garros 360 Day 4 (10:30)" tvg-logo="https://64.media.tumblr.com/4b02614ae19da05db0dbfdf80b0bea54/tumblr_nlejocgtrm1ruj4fso1_1280.jpg" group-title="Eventi Live DLHD",Tennis | Roland-Garros 360 Day 4 (10:30)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="mlbtorontobluejaysvsmiamimarlins" tvg-name="Baseball (MLB) | MLB : Toronto Blue Jays vs Miami Marlins (19:07)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Toronto Blue Jays_vs_Miami Marlins.png" group-title="Eventi Live DLHD",Baseball (MLB) | MLB : Toronto Blue Jays vs Miami Marlins (19:07)
+https://dlhd.dad/watch.php?id=462
+
+#EXTINF:-1 tvg-id="mensseriea1bresciavsprorecco" tvg-name="Basketball | Men's Serie A1: Brescia vs Pro Recco (18:55)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Brescia_vs_Pro Recco.png" group-title="Eventi Live DLHD",Basketball | Men's Serie A1: Brescia vs Pro Recco (18:55)
+https://dlhd.dad/watch.php?id=882
+
+#EXTINF:-1 tvg-id="tourofitalystage17mencassanodaddaandalo202km" tvg-name="Cycling | Tour of Italy Stage 17 | Men | Cassano d'Adda – Andalo (202km) (12:45)" tvg-logo="https://www.pngmart.com/files/23/Nahida-PNG-Isolated-Image.png" group-title="Eventi Live DLHD",Cycling | Tour of Italy Stage 17 | Men | Cassano d'Adda – Andalo (202km) (12:45)
+https://dlhd.dad/watch.php?id=851
+
+#EXTINF:-1 tvg-id="tourofitalystage17mencassanodaddaandalo202km" tvg-name="Cycling | Tour of Italy Stage 17 | Men | Cassano d'Adda – Andalo (202km) (12:45)" tvg-logo="https://m.media-amazon.com/images/I/61EzCn3i2jL._AC_SL1500_.jpg" group-title="Eventi Live DLHD",Cycling | Tour of Italy Stage 17 | Men | Cassano d'Adda – Andalo (202km) (12:45)
+https://dlhd.dad/watch.php?id=878
 
 
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",YeÅil Yalova x Gaziantep FK 11:00
