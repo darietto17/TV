@@ -92,19 +92,6 @@
     <desc lang="it">Europe - UEFA Conference League : Crystal Palace vs Rayo Vallecano</desc>
     <category lang="it">All Soccer Events</category>
   </programme>
-  <channel id="RolandGarros360Day4">
-    <display-name>Roland-Garros 360 Day 4</display-name>
-  </channel>
-  <programme start="20260527000000 +0200" stop="20260527103000 +0200" channel="RolandGarros360Day4">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">Roland-Garros 360 Day 4.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260527103000 +0200" stop="20260527123000 +0200" channel="RolandGarros360Day4">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Roland-Garros 360 Day 4</desc>
-    <category lang="it">Tennis</category>
-  </programme>
   <channel id="MLBTorontoBlueJaysvsMiamiMarlins">
     <display-name>MLB : Toronto Blue Jays vs Miami Marlins</display-name>
   </channel>
@@ -130,28 +117,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Men's Serie A1: Brescia vs Pro Recco</desc>
     <category lang="it">Basketball</category>
-  </programme>
-  <channel id="TourofItalyStage17MenCassanodAddaAndalo202km">
-    <display-name>Tour of Italy Stage 17 | Men | Cassano d'Adda – Andalo (202km)</display-name>
-  </channel>
-  <programme start="20260527000000 +0200" stop="20260527124500 +0200" channel="TourofItalyStage17MenCassanodAddaAndalo202km">
-    <title lang="it">Inizia alle 12:45.</title>
-    <desc lang="it">Tour of Italy Stage 17 | Men | Cassano d'Adda – Andalo (202km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260527124500 +0200" stop="20260527144500 +0200" channel="TourofItalyStage17MenCassanodAddaAndalo202km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Italy Stage 17 | Men | Cassano d'Adda – Andalo (202km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260527000000 +0200" stop="20260527124500 +0200" channel="TourofItalyStage17MenCassanodAddaAndalo202km">
-    <title lang="it">Inizia alle 12:45.</title>
-    <desc lang="it">Tour of Italy Stage 17 | Men | Cassano d'Adda – Andalo (202km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260527124500 +0200" stop="20260527144500 +0200" channel="TourofItalyStage17MenCassanodAddaAndalo202km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Italy Stage 17 | Men | Cassano d'Adda – Andalo (202km)</desc>
-    <category lang="it">Cycling</category>
   </programme>
 </tv>
