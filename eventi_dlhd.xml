@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="RolandGarros360Day5">
-    <display-name>Roland-Garros 360 Day 5</display-name>
-  </channel>
-  <programme start="20260528000000 +0200" stop="20260528103000 +0200" channel="RolandGarros360Day5">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">Roland-Garros 360 Day 5.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260528103000 +0200" stop="20260528123000 +0200" channel="RolandGarros360Day5">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Roland-Garros 360 Day 5</desc>
-    <category lang="it">Tennis</category>
-  </programme>
   <channel id="MensSerieA1BresciavsProRecco">
     <display-name>Men's Serie A1 : Brescia vs Pro Recco</display-name>
   </channel>
@@ -25,29 +12,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Men's Serie A1 : Brescia vs Pro Recco</desc>
     <category lang="it">Basketball</category>
-  </programme>
-  <channel id="GirodItaliaStage18MenFaidellaPaganellaPievediSoligo168km">
-    <display-name>Giro d'Italia Stage 18 | Men | Fai della Paganella - Pieve di Soligo (168km)</display-name>
-  </channel>
-  <programme start="20260528000000 +0200" stop="20260528130000 +0200" channel="GirodItaliaStage18MenFaidellaPaganellaPievediSoligo168km">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Giro d'Italia Stage 18 | Men | Fai della Paganella - Pieve di Soligo (168km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260528130000 +0200" stop="20260528150000 +0200" channel="GirodItaliaStage18MenFaidellaPaganellaPievediSoligo168km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Giro d'Italia Stage 18 | Men | Fai della Paganella - Pieve di Soligo (168km)</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260528000000 +0200" stop="20260528130000 +0200" channel="GirodItaliaStage18MenFaidellaPaganellaPievediSoligo168km">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">Giro d'Italia Stage 18 | Men | Fai della Paganella - Pieve di Soligo (168km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260528130000 +0200" stop="20260528150000 +0200" channel="GirodItaliaStage18MenFaidellaPaganellaPievediSoligo168km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Giro d'Italia Stage 18 | Men | Fai della Paganella - Pieve di Soligo (168km)</desc>
-    <category lang="it">Cycling</category>
   </programme>
   <channel id="IIHFWorldChampionshipQuarterfinalCanadavsUSA">
     <display-name>IIHF World Championship Quarterfinal : Canada vs USA</display-name>
