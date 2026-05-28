@@ -1,3 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="RolandGarros360Day5">
+    <display-name>Roland-Garros 360 Day 5</display-name>
+  </channel>
+  <programme start="20260528000000 +0200" stop="20260528103000 +0200" channel="RolandGarros360Day5">
+    <title lang="it">Inizia alle 10:30.</title>
+    <desc lang="it">Roland-Garros 360 Day 5.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260528103000 +0200" stop="20260528123000 +0200" channel="RolandGarros360Day5">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Roland-Garros 360 Day 5</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="MensSerieA1BresciavsProRecco">
+    <display-name>Men's Serie A1 : Brescia vs Pro Recco</display-name>
+  </channel>
+  <programme start="20260528000000 +0200" stop="20260528180000 +0200" channel="MensSerieA1BresciavsProRecco">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">Men's Serie A1 : Brescia vs Pro Recco.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260528180000 +0200" stop="20260528200000 +0200" channel="MensSerieA1BresciavsProRecco">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Men's Serie A1 : Brescia vs Pro Recco</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <channel id="GirodItaliaStage18MenFaidellaPaganellaPievediSoligo168km">
+    <display-name>Giro d'Italia Stage 18 | Men | Fai della Paganella - Pieve di Soligo (168km)</display-name>
+  </channel>
+  <programme start="20260528000000 +0200" stop="20260528130000 +0200" channel="GirodItaliaStage18MenFaidellaPaganellaPievediSoligo168km">
+    <title lang="it">Inizia alle 13:00.</title>
+    <desc lang="it">Giro d'Italia Stage 18 | Men | Fai della Paganella - Pieve di Soligo (168km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260528130000 +0200" stop="20260528150000 +0200" channel="GirodItaliaStage18MenFaidellaPaganellaPievediSoligo168km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Giro d'Italia Stage 18 | Men | Fai della Paganella - Pieve di Soligo (168km)</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <programme start="20260528000000 +0200" stop="20260528130000 +0200" channel="GirodItaliaStage18MenFaidellaPaganellaPievediSoligo168km">
+    <title lang="it">Inizia alle 13:00.</title>
+    <desc lang="it">Giro d'Italia Stage 18 | Men | Fai della Paganella - Pieve di Soligo (168km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260528130000 +0200" stop="20260528150000 +0200" channel="GirodItaliaStage18MenFaidellaPaganellaPievediSoligo168km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Giro d'Italia Stage 18 | Men | Fai della Paganella - Pieve di Soligo (168km)</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="IIHFWorldChampionshipQuarterfinalCanadavsUSA">
+    <display-name>IIHF World Championship Quarterfinal : Canada vs USA</display-name>
+  </channel>
+  <programme start="20260528000000 +0200" stop="20260528162000 +0200" channel="IIHFWorldChampionshipQuarterfinalCanadavsUSA">
+    <title lang="it">Inizia alle 16:20.</title>
+    <desc lang="it">IIHF World Championship Quarterfinal : Canada vs USA.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260528162000 +0200" stop="20260528182000 +0200" channel="IIHFWorldChampionshipQuarterfinalCanadavsUSA">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">IIHF World Championship Quarterfinal : Canada vs USA</desc>
+    <category lang="it">IIHF Ice Hockey</category>
+  </programme>
+  <channel id="IIHFWorldChampionshipQuarterfinalSwitzerlandvsSweden">
+    <display-name>IIHF World Championship Quarterfinal : Switzerland vs Sweden</display-name>
+  </channel>
+  <programme start="20260528000000 +0200" stop="20260528202000 +0200" channel="IIHFWorldChampionshipQuarterfinalSwitzerlandvsSweden">
+    <title lang="it">Inizia alle 20:20.</title>
+    <desc lang="it">IIHF World Championship Quarterfinal : Switzerland vs Sweden.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260528202000 +0200" stop="20260528222000 +0200" channel="IIHFWorldChampionshipQuarterfinalSwitzerlandvsSweden">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">IIHF World Championship Quarterfinal : Switzerland vs Sweden</desc>
+    <category lang="it">IIHF Ice Hockey</category>
+  </programme>
 </tv>
