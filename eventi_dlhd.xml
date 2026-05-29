@@ -1,3 +1,192 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ItalySerieBMonzavsCatanzaro">
+    <display-name>Italy - Serie B : Monza vs Catanzaro</display-name>
+  </channel>
+  <programme start="20260529000000 +0200" stop="20260529200000 +0200" channel="ItalySerieBMonzavsCatanzaro">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">Italy - Serie B : Monza vs Catanzaro.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260529200000 +0200" stop="20260529220000 +0200" channel="ItalySerieBMonzavsCatanzaro">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie B : Monza vs Catanzaro</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <programme start="20260529000000 +0200" stop="20260529200000 +0200" channel="ItalySerieBMonzavsCatanzaro">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">Italy - Serie B : Monza vs Catanzaro.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260529200000 +0200" stop="20260529220000 +0200" channel="ItalySerieBMonzavsCatanzaro">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie B : Monza vs Catanzaro</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="FriendlyBosniaandHerzegovinavsNorthMacedonia">
+    <display-name>Friendly : Bosnia and Herzegovina vs North Macedonia</display-name>
+  </channel>
+  <programme start="20260529000000 +0200" stop="20260529203000 +0200" channel="FriendlyBosniaandHerzegovinavsNorthMacedonia">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">Friendly : Bosnia and Herzegovina vs North Macedonia.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260529203000 +0200" stop="20260529223000 +0200" channel="FriendlyBosniaandHerzegovinavsNorthMacedonia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Friendly : Bosnia and Herzegovina vs North Macedonia</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="FranceLigue1NicevsSainttienne">
+    <display-name>France - Ligue 1 : Nice vs Saint-Étienne</display-name>
+  </channel>
+  <programme start="20260529000000 +0200" stop="20260529204500 +0200" channel="FranceLigue1NicevsSainttienne">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">France - Ligue 1 : Nice vs Saint-Étienne.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260529204500 +0200" stop="20260529224500 +0200" channel="FranceLigue1NicevsSainttienne">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">France - Ligue 1 : Nice vs Saint-Étienne</desc>
+    <category lang="it">All Soccer Events</category>
+  </programme>
+  <channel id="RolandGarros360Day6">
+    <display-name>Roland-Garros 360 Day 6</display-name>
+  </channel>
+  <programme start="20260529000000 +0200" stop="20260529103000 +0200" channel="RolandGarros360Day6">
+    <title lang="it">Inizia alle 10:30.</title>
+    <desc lang="it">Roland-Garros 360 Day 6.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260529103000 +0200" stop="20260529123000 +0200" channel="RolandGarros360Day6">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Roland-Garros 360 Day 6</desc>
+    <category lang="it">Tennis</category>
+  </programme>
+  <channel id="MotoGPRound7ItalyFreePractice1">
+    <display-name>MotoGP : Round 7 | Italy Free Practice 1</display-name>
+  </channel>
+  <programme start="20260529000000 +0200" stop="20260529090000 +0200" channel="MotoGPRound7ItalyFreePractice1">
+    <title lang="it">Inizia alle 09:00.</title>
+    <desc lang="it">MotoGP : Round 7 | Italy Free Practice 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260529090000 +0200" stop="20260529110000 +0200" channel="MotoGPRound7ItalyFreePractice1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MotoGP : Round 7 | Italy Free Practice 1</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Moto3Round7ItalyFreePractice1">
+    <display-name>Moto3 Round 7 | Italy Free Practice 1</display-name>
+  </channel>
+  <programme start="20260529000000 +0200" stop="20260529090000 +0200" channel="Moto3Round7ItalyFreePractice1">
+    <title lang="it">Inizia alle 09:00.</title>
+    <desc lang="it">Moto3 Round 7 | Italy Free Practice 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260529090000 +0200" stop="20260529110000 +0200" channel="Moto3Round7ItalyFreePractice1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Moto3 Round 7 | Italy Free Practice 1</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Moto2Round7ItalyFreePractice1">
+    <display-name>Moto2 Round 7 | Italy Free Practice 1</display-name>
+  </channel>
+  <programme start="20260529000000 +0200" stop="20260529094500 +0200" channel="Moto2Round7ItalyFreePractice1">
+    <title lang="it">Inizia alle 09:45.</title>
+    <desc lang="it">Moto2 Round 7 | Italy Free Practice 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260529094500 +0200" stop="20260529114500 +0200" channel="Moto2Round7ItalyFreePractice1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Moto2 Round 7 | Italy Free Practice 1</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Moto3Round7ItalyPractice1">
+    <display-name>Moto3 : Round 7 | Italy Practice 1</display-name>
+  </channel>
+  <programme start="20260529000000 +0200" stop="20260529131500 +0200" channel="Moto3Round7ItalyPractice1">
+    <title lang="it">Inizia alle 13:15.</title>
+    <desc lang="it">Moto3 : Round 7 | Italy Practice 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260529131500 +0200" stop="20260529151500 +0200" channel="Moto3Round7ItalyPractice1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Moto3 : Round 7 | Italy Practice 1</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="MotoGPRound7ItalyPractice1">
+    <display-name>MotoGP : Round 7 | Italy Practice 1</display-name>
+  </channel>
+  <programme start="20260529000000 +0200" stop="20260529131500 +0200" channel="MotoGPRound7ItalyPractice1">
+    <title lang="it">Inizia alle 13:15.</title>
+    <desc lang="it">MotoGP : Round 7 | Italy Practice 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260529131500 +0200" stop="20260529151500 +0200" channel="MotoGPRound7ItalyPractice1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MotoGP : Round 7 | Italy Practice 1</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Moto2Round7ItalyPractice1">
+    <display-name>Moto2 : Round 7 | Italy Practice 1</display-name>
+  </channel>
+  <programme start="20260529000000 +0200" stop="20260529140000 +0200" channel="Moto2Round7ItalyPractice1">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">Moto2 : Round 7 | Italy Practice 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260529140000 +0200" stop="20260529160000 +0200" channel="Moto2Round7ItalyPractice1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Moto2 : Round 7 | Italy Practice 1</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="GirodItaliaStage19">
+    <display-name>Giro d'Italia | Stage 19</display-name>
+  </channel>
+  <programme start="20260529000000 +0200" stop="20260529140000 +0200" channel="GirodItaliaStage19">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">Giro d'Italia | Stage 19.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260529140000 +0200" stop="20260529160000 +0200" channel="GirodItaliaStage19">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Giro d'Italia | Stage 19</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <programme start="20260529000000 +0200" stop="20260529140000 +0200" channel="GirodItaliaStage19">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">Giro d'Italia | Stage 19.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260529140000 +0200" stop="20260529160000 +0200" channel="GirodItaliaStage19">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Giro d'Italia | Stage 19</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="PiazzadiSiena2026NationsCup">
+    <display-name>Piazza di Siena 2026 - Nations Cup</display-name>
+  </channel>
+  <programme start="20260529000000 +0200" stop="20260529190000 +0200" channel="PiazzadiSiena2026NationsCup">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">Piazza di Siena 2026 - Nations Cup.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260529190000 +0200" stop="20260529210000 +0200" channel="PiazzadiSiena2026NationsCup">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Piazza di Siena 2026 - Nations Cup</desc>
+    <category lang="it">Equestrian</category>
+  </programme>
+  <channel id="UnitedRugbyChampionshipGlasgowvsConnacht">
+    <display-name>United Rugby Championship : Glasgow vs Connacht</display-name>
+  </channel>
+  <programme start="20260529000000 +0200" stop="20260529204500 +0200" channel="UnitedRugbyChampionshipGlasgowvsConnacht">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">United Rugby Championship : Glasgow vs Connacht.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260529204500 +0200" stop="20260529224500 +0200" channel="UnitedRugbyChampionshipGlasgowvsConnacht">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">United Rugby Championship : Glasgow vs Connacht</desc>
+    <category lang="it">Rugby Union</category>
+  </programme>
 </tv>
