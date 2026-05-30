@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="FriendlyScotlandvsCuraao">
-    <display-name>Friendly : Scotland vs Curaçao</display-name>
-  </channel>
-  <programme start="20260530000000 +0200" stop="20260530140000 +0200" channel="FriendlyScotlandvsCuraao">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Friendly : Scotland vs Curaçao.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260530140000 +0200" stop="20260530160000 +0200" channel="FriendlyScotlandvsCuraao">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Friendly : Scotland vs Curaçao</desc>
-    <category lang="it">Soccer</category>
-  </programme>
   <channel id="EuropeUEFAChampionsLeagueFinalPSGvsArsenal">
     <display-name>Europe - UEFA Champions League Final : PSG vs Arsenal</display-name>
   </channel>
@@ -56,19 +43,6 @@
     <desc lang="it">Europe - UEFA Champions League Final : PSG vs Arsenal</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="MotoGPRound7ItalySprintRace">
-    <display-name>MotoGP : Round 7 | Italy Sprint Race</display-name>
-  </channel>
-  <programme start="20260530000000 +0200" stop="20260530144500 +0200" channel="MotoGPRound7ItalySprintRace">
-    <title lang="it">Inizia alle 14:45.</title>
-    <desc lang="it">MotoGP : Round 7 | Italy Sprint Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260530144500 +0200" stop="20260530164500 +0200" channel="MotoGPRound7ItalySprintRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : Round 7 | Italy Sprint Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="RolexSailGPChampionshipMubadalaNewYorkGrandPrixDay1">
     <display-name>Rolex SailGP Championship | Mubadala New York Grand Prix Day 1</display-name>
   </channel>
@@ -81,29 +55,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Rolex SailGP Championship | Mubadala New York Grand Prix Day 1</desc>
     <category lang="it">Sailing / Boating</category>
-  </programme>
-  <channel id="GirodItaliaMenStage20">
-    <display-name>Giro d'Italia | Men | Stage 20</display-name>
-  </channel>
-  <programme start="20260530000000 +0200" stop="20260530140000 +0200" channel="GirodItaliaMenStage20">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Giro d'Italia | Men | Stage 20.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260530140000 +0200" stop="20260530160000 +0200" channel="GirodItaliaMenStage20">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Giro d'Italia | Men | Stage 20</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20260530000000 +0200" stop="20260530140000 +0200" channel="GirodItaliaMenStage20">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">Giro d'Italia | Men | Stage 20.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260530140000 +0200" stop="20260530160000 +0200" channel="GirodItaliaMenStage20">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Giro d'Italia | Men | Stage 20</desc>
-    <category lang="it">Cycling</category>
   </programme>
   <channel id="GirodItaliaWomenStage1CesenaticoRavenna139km">
     <display-name>Giro d'Italia Women Stage 1 | Cesenatico - Ravenna (139km)</display-name>
