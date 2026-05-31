@@ -36,32 +36,6 @@
     <desc lang="it">Friendly : Germany vs Finland</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="Moto2Round7ItalyRace">
-    <display-name>Moto2 : Round 7 | Italy Race</display-name>
-  </channel>
-  <programme start="20260531000000 +0200" stop="20260531120000 +0200" channel="Moto2Round7ItalyRace">
-    <title lang="it">Inizia alle 12:00.</title>
-    <desc lang="it">Moto2 : Round 7 | Italy Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260531120000 +0200" stop="20260531140000 +0200" channel="Moto2Round7ItalyRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Moto2 : Round 7 | Italy Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="MotoGPRound7ItalyRace">
-    <display-name>MotoGP : Round 7 | Italy Race</display-name>
-  </channel>
-  <programme start="20260531000000 +0200" stop="20260531131500 +0200" channel="MotoGPRound7ItalyRace">
-    <title lang="it">Inizia alle 13:15.</title>
-    <desc lang="it">MotoGP : Round 7 | Italy Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260531131500 +0200" stop="20260531151500 +0200" channel="MotoGPRound7ItalyRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">MotoGP : Round 7 | Italy Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="SerieA2CividalevsBasketRimini">
     <display-name>Serie A2 : Cividale vs Basket Rimini</display-name>
   </channel>
@@ -87,19 +61,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Rolex SailGP Championship | Mubadala New York Grand Prix Day 2</desc>
     <category lang="it">Sailing / Boating</category>
-  </programme>
-  <channel id="GirodItaliaWomenStage2RoncadeCaorle156km">
-    <display-name>Giro d'Italia Women | Stage 2 Roncade – Caorle (156km)</display-name>
-  </channel>
-  <programme start="20260531000000 +0200" stop="20260531124500 +0200" channel="GirodItaliaWomenStage2RoncadeCaorle156km">
-    <title lang="it">Inizia alle 12:45.</title>
-    <desc lang="it">Giro d'Italia Women | Stage 2 Roncade – Caorle (156km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260531124500 +0200" stop="20260531144500 +0200" channel="GirodItaliaWomenStage2RoncadeCaorle156km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Giro d'Italia Women | Stage 2 Roncade – Caorle (156km)</desc>
-    <category lang="it">Cycling</category>
   </programme>
   <channel id="GirodItaliaMenStage21">
     <display-name>Giro d'Italia | Men | Stage 21</display-name>
