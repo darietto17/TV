@@ -1,28 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="FriendlySwitzerlandvsJordan">
-    <display-name>Friendly : Switzerland vs Jordan</display-name>
-  </channel>
-  <programme start="20260531000000 +0200" stop="20260531150000 +0200" channel="FriendlySwitzerlandvsJordan">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">Friendly : Switzerland vs Jordan.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260531150000 +0200" stop="20260531170000 +0200" channel="FriendlySwitzerlandvsJordan">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Friendly : Switzerland vs Jordan</desc>
-    <category lang="it">Soccer</category>
-  </programme>
-  <programme start="20260531000000 +0200" stop="20260531150000 +0200" channel="FriendlySwitzerlandvsJordan">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">Friendly : Switzerland vs Jordan.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260531150000 +0200" stop="20260531170000 +0200" channel="FriendlySwitzerlandvsJordan">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Friendly : Switzerland vs Jordan</desc>
-    <category lang="it">Soccer</category>
-  </programme>
   <channel id="FriendlyGermanyvsFinland">
     <display-name>Friendly : Germany vs Finland</display-name>
   </channel>
