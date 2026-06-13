@@ -242,6 +242,8 @@ https://vavoo.to/vavoo-iptv/play/276786104991c55564696b
 https://vavoo.to/vavoo-iptv/play/56316060941df205a0842
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",FRANCE 24 (EN)
 https://vavoo.to/vavoo-iptv/play/217968682876c9a8051121
+#EXTINF:-1 tvg-id="frisbee.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/frisbee-it.png" group-title="Bambini",FRISBEE
+https://vavoo.to/vavoo-iptv/play/1995860185ce22f3fae905
 #EXTINF:-1 tvg-id="gambero.rosso.hd.it" tvg-logo="" group-title="Altro",GAMBERO ROSSO
 https://vavoo.to/vavoo-iptv/play/2481284739a17519532b56
 #EXTINF:-1 tvg-id="giallo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro",GIALLO (1)
@@ -563,9 +565,7 @@ https://vavoo.to/vavoo-iptv/play/2209352147379c000ac415
 https://vavoo.to/vavoo-iptv/play/24556102030a38fc13c387
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1 (2)
 https://vavoo.to/vavoo-iptv/play/22903950460d6b257bf610
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2 (1)
-https://vavoo.to/vavoo-iptv/play/3590183307ca309aa6be37
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2 (2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2
 https://vavoo.to/vavoo-iptv/play/3475299702c52e31a7073f
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/7PzluYVAEVOCNzGYGkewkKI3PA0PkCKAc9KUZGfYzAbZnQLnlPAE5iQBMZEUi7ZKwJc" group-title="Altro",RTC TELECALABRIA
 https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc
@@ -701,12 +701,6 @@ https://vavoo.to/vavoo-iptv/play/113411388318bf0ef81722
 https://vavoo.to/vavoo-iptv/play/17532606771304e2497369
 #EXTINF:-1 tvg-id="sky.serie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film - Serie TV",SKY SERIE
 https://vavoo.to/vavoo-iptv/play/83668011205f936fa3b65
-#EXTINF:-1 tvg-id="sky.sport.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24
-https://vavoo.to/vavoo-iptv/play/277580225585f503fbfc87
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY]
-https://vavoo.to/vavoo-iptv/play/344556251909fe0b312736
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
-https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (1)
 https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (2)
@@ -944,40 +938,31 @@ https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="fifa2026australiavstürkiye" tvg-name="⚽ FIFA World Cup 2026 — Upcoming Matches Jun 13 🏆 | FIFA 2026 — 🇦🇺 Australia vs 🇹🇷 Türkiye (04:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/FIFA 2026 — 🇦🇺 Australia_vs_🇹🇷 Türkiye.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 — Upcoming Matches Jun 13 🏆 | FIFA 2026 — 🇦🇺 Australia vs 🇹🇷 Türkiye (04:00)
-https://dlhd.dad/watch.php?id=850
-
-#EXTINF:-1 tvg-id="fifa2026portugalvssenegal" tvg-name="⚽ FIFA World Cup 2026 — Upcoming Matches Jun 14 🏆 | FIFA 2026 — 🇵🇹 Portugal vs 🇸🇳 Senegal (04:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/FIFA 2026 — 🇵🇹 Portugal_vs_🇸🇳 Senegal.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 — Upcoming Matches Jun 14 🏆 | FIFA 2026 — 🇵🇹 Portugal vs 🇸🇳 Senegal (04:00)
-https://dlhd.dad/watch.php?id=850
-
-#EXTINF:-1 tvg-id="fifa2026belgiumvsmexico" tvg-name="⚽ FIFA World Cup 2026 — Upcomi166ng Matches Jun 15 🏆 | FIFA 2026 — 🇧🇪 Belgium vs 🇲🇽 Mexico (04:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/FIFA 2026 — 🇧🇪 Belgium_vs_🇲🇽 Mexico.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 — Upcomi166ng Matches Jun 15 🏆 | FIFA 2026 — 🇧🇪 Belgium vs 🇲🇽 Mexico (04:00)
-https://dlhd.dad/watch.php?id=850
-
-#EXTINF:-1 tvg-id="atpwtastuttgarthertogenbosch" tvg-name="Tennis | ATP / WTA: Stuttgart / Hertogenbosch (11:00)" tvg-logo="https://bestaccreditedcolleges.org/cimages/lead-clients/herzing/logo-600.png" group-title="Eventi Live DLHD",Tennis | ATP / WTA: Stuttgart / Hertogenbosch (11:00)
+#EXTINF:-1 tvg-id="atpwtastuttgarthertogenbosch" tvg-name="Tennis | ATP / WTA: Stuttgart / Hertogenbosch (11:00)" tvg-logo="https://forum.xnxx.com/attachments/dild816-gif.3235920/" group-title="Eventi Live DLHD",Tennis | ATP / WTA: Stuttgart / Hertogenbosch (11:00)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="atpwtastuttgarthertogenbosch" tvg-name="Tennis | ATP / WTA: Stuttgart / Hertogenbosch (11:00)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmg5D5mH_EeCh1jaBX8jlGYsRvI5LrGIrKy5_4kgLFoBPKgoQ1TcP6q6ZhmzfN-YFW2VMIyiucm9QWhJUt0OyXSoLaK2q3TBaXMc6gmsE7-TbKr0Iv9J499wDGrhzewVdIYu9kubr1CNR4vzR9N9QzjR9pIbi753v2bYsFHa21B7bbkGx53tHIDPCS/s1600/Doctora Juguetes PNG descarga gratis (48).png" group-title="Eventi Live DLHD",Tennis | ATP / WTA: Stuttgart / Hertogenbosch (11:00)
+#EXTINF:-1 tvg-id="atpwtastuttgarthertogenbosch" tvg-name="Tennis | ATP / WTA: Stuttgart / Hertogenbosch (11:00)" tvg-logo="https://storage.googleapis.com/prod-coinbrain-directus/images-gcs/fe4d7253-2b55-42a1-b6d6-62d087c1b85f.png" group-title="Eventi Live DLHD",Tennis | ATP / WTA: Stuttgart / Hertogenbosch (11:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="formula3barcelonacatalunyagrandprixsprintrace" tvg-name="Motorsport | Formula 3 : Barcelona-Catalunya Grand Prix - Sprint Race (10:00)" tvg-logo="https://easydrawingguides.com/wp-content/uploads/2021/06/how-to-draw-a-pirate-featured-image-1200-735x892.png" group-title="Eventi Live DLHD",Motorsport | Formula 3 : Barcelona-Catalunya Grand Prix - Sprint Race (10:00)
+#EXTINF:-1 tvg-id="formula3barcelonacatalunyagrandprixsprintrace" tvg-name="Motorsport | Formula 3 : Barcelona-Catalunya Grand Prix - Sprint Race (10:00)" tvg-logo="https://takesmeback.com/wp-content/uploads/2024/10/tank-man.png" group-title="Eventi Live DLHD",Motorsport | Formula 3 : Barcelona-Catalunya Grand Prix - Sprint Race (10:00)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="fiawecround424hoursoflemanswarmup" tvg-name="Motorsport | FIA WEC | Round 4 | 24 Hours of Le Mans Warm Up (11:45)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Motorsport | FIA WEC | Round 4 | 24 Hours of Le Mans Warm Up (11:45)
+#EXTINF:-1 tvg-id="fiawecround424hoursoflemanswarmup" tvg-name="Motorsport | FIA WEC | Round 4 | 24 Hours of Le Mans Warm Up (11:45)" tvg-logo="https://i.redd.it/um46p7evkoyc1.png" group-title="Eventi Live DLHD",Motorsport | FIA WEC | Round 4 | 24 Hours of Le Mans Warm Up (11:45)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="formula1barcelonacatalunyagrandprixpractice3" tvg-name="Motorsport | Formula 1 : Barcelona-Catalunya Grand Prix - Practice 3 (12:30)" tvg-logo="https://bibliabendita.com/wp-content/uploads/2022/03/Explicacion-del-versiculo-lucas-18-10.jpg" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Barcelona-Catalunya Grand Prix - Practice 3 (12:30)
+#EXTINF:-1 tvg-id="formula1barcelonacatalunyagrandprixpractice3" tvg-name="Motorsport | Formula 1 : Barcelona-Catalunya Grand Prix - Practice 3 (12:30)" tvg-logo="https://thumbs.dreamstime.com/b/isolated-beautiful-silhouette-buddha-statue-shape-sitting-fresh-green-leaf-pho-bo-bothi-white-background-clipping-path-217007852.jpg?w=768" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Barcelona-Catalunya Grand Prix - Practice 3 (12:30)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="formula2barcelonacatalunyagrandprixsprintrace" tvg-name="Motorsport | Formula 2 : Barcelona-Catalunya Grand Prix - Sprint Race (14:15)" tvg-logo="https://sportsbrackets.net/wp-content/uploads/2026/04/Printable-2026-World-Cup-Team-Schedules-800x450.jpg" group-title="Eventi Live DLHD",Motorsport | Formula 2 : Barcelona-Catalunya Grand Prix - Sprint Race (14:15)
+#EXTINF:-1 tvg-id="formula2barcelonacatalunyagrandprixsprintrace" tvg-name="Motorsport | Formula 2 : Barcelona-Catalunya Grand Prix - Sprint Race (14:15)" tvg-logo="https://tr.rbxcdn.com/180DAY-2fd884418301455ea7b6f46bbc4e7add/420/420/Decal/Webp/noFilter" group-title="Eventi Live DLHD",Motorsport | Formula 2 : Barcelona-Catalunya Grand Prix - Sprint Race (14:15)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="fiawec24hoursoflemansrace" tvg-name="Motorsport | FIA WEC | 24 Hours of Le Mans Race (15:00)" tvg-logo="https://assetstorev1-prd-cdn.unity3d.com/key-image/1559b909-c00e-42e3-b076-ba137c814693.jpg" group-title="Eventi Live DLHD",Motorsport | FIA WEC | 24 Hours of Le Mans Race (15:00)
+#EXTINF:-1 tvg-id="fiawec24hoursoflemansrace" tvg-name="Motorsport | FIA WEC | 24 Hours of Le Mans Race (15:00)" tvg-logo="https://cdn.wallpapersafari.com/12/55/9FJmoM.jpg" group-title="Eventi Live DLHD",Motorsport | FIA WEC | 24 Hours of Le Mans Race (15:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="formula1barcelonacatalunyagrandprixqualifying" tvg-name="Motorsport | Formula 1 : Barcelona-Catalunya Grand Prix - Qualifying (16:00)" tvg-logo="https://www.hawtcelebs.com/wp-content/uploads/2024/05/nina-agdal-for-sports-illustrated-swimsuit-2024-43.jpg" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Barcelona-Catalunya Grand Prix - Qualifying (16:00)
+#EXTINF:-1 tvg-id="formula1barcelonacatalunyagrandprixqualifying" tvg-name="Motorsport | Formula 1 : Barcelona-Catalunya Grand Prix - Qualifying (16:00)" tvg-logo="https://images.proxibid.com/AuctionImages/4840/151364/1118.jpg" group-title="Eventi Live DLHD",Motorsport | Formula 1 : Barcelona-Catalunya Grand Prix - Qualifying (16:00)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="tourauvergnerhnealpesstage7menlabridoiregrandcolombier1333km" tvg-name="Cycling | Tour Auvergne – Rh?ne-Alpes | Stage 7 Men | La Bridoire - Grand Colombier (133.3km) (14:15)" tvg-logo="https://amocolorir.com.br/wp-content/uploads/2025/09/Desenho-de-princesa-para-colorir-2-576x1024.jpeg" group-title="Eventi Live DLHD",Cycling | Tour Auvergne – Rh?ne-Alpes | Stage 7 Men | La Bridoire - Grand Colombier (133.3km) (14:15)
+#EXTINF:-1 tvg-id="tourauvergnerhnealpesstage7menlabridoiregrandcolombier1333km" tvg-name="Cycling | Tour Auvergne – Rh?ne-Alpes | Stage 7 Men | La Bridoire - Grand Colombier (133.3km) (14:15)" tvg-logo="https://www.americanfineartmagazine.com/uploads/issues/covers/67.jpg" group-title="Eventi Live DLHD",Cycling | Tour Auvergne – Rh?ne-Alpes | Stage 7 Men | La Bridoire - Grand Colombier (133.3km) (14:15)
 https://dlhd.dad/watch.php?id=879
 
 
