@@ -76,6 +76,8 @@ https://vavoo.to/vavoo-iptv/play/2826111812745ee617058d
 https://vavoo.to/vavoo-iptv/play/1692155417ce364b21d0ca
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/DW0Tvz72-8XZ7rEBVh1jBzwYE1fZhTaowuuxN75Jl8yBtnFkySH1z2T2b7OPlotmHeQ" group-title="Altro",CAFE 24
 https://vavoo.to/vavoo-iptv/play/1625923783d5a6dda233b3
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/camera-dei-deputati-it.png?raw=true" group-title="Altro",CAMERA DEI DEPUTATI
+https://vavoo.to/vavoo-iptv/play/4253692893cca91a1bbfde
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",CANALE 122
 https://vavoo.to/vavoo-iptv/play/466718273d17d85003ebc
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/canale-italia-2-it.png?raw=true" group-title="Altro",CANALE 2
@@ -589,7 +591,9 @@ https://vavoo.to/vavoo-iptv/play/3590183307ca309aa6be37
 https://vavoo.to/vavoo-iptv/play/3475299702c52e31a7073f
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/7PzluYVAEVOCNzGYGkewkKI3PA0PkCKAc9KUZGfYzAbZnQLnlPAE5iQBMZEUi7ZKwJc" group-title="Altro",RTC TELECALABRIA
 https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc
-#EXTINF:-1 tvg-id="rtl.102.5.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rtl-1025-it.png" group-title="Musica",RTL 102.5
+#EXTINF:-1 tvg-id="rtl.102.5.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rtl-1025-it.png" group-title="Musica",RTL 102.5 (1)
+https://vavoo.to/vavoo-iptv/play/3168132911491b6a85a6e2
+#EXTINF:-1 tvg-id="rtl.102.5.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rtl-1025-it.png" group-title="Musica",RTL 102.5 (2)
 https://vavoo.to/vavoo-iptv/play/1729811452a70dafd8f6ba
 
 # SPORT
@@ -719,6 +723,8 @@ https://vavoo.to/vavoo-iptv/play/14407790614bc8041c450d
 https://vavoo.to/vavoo-iptv/play/113411388318bf0ef81722
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 9 (2)
 https://vavoo.to/vavoo-iptv/play/17532606771304e2497369
+#EXTINF:-1 tvg-id="sky.serie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film - Serie TV",SKY SERIE
+https://vavoo.to/vavoo-iptv/play/83668011205f936fa3b65
 #EXTINF:-1 tvg-id="skysport.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport",SKY SPORT
 https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20
 #EXTINF:-1 tvg-id="sky.sport.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24
@@ -776,8 +782,8 @@ https://vavoo.to/vavoo-iptv/play/2130523218823893ad0255
 https://vavoo.to/vavoo-iptv/play/32202484989ac14421915
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",SKYSHOWTIME 1
 https://vavoo.to/vavoo-iptv/play/287379323134c651595371
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
-https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
+#EXTINF:-1 tvg-id="sportitalia.it" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA
+https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.capitaladv.eu/wp-content/uploads/2020/07/LOGO-SPORTITALIA-PLUS-HD_2-1.png" group-title="Sport",SPORTITALIA PLUS
 https://vavoo.to/vavoo-iptv/play/33428493134b007f2ed197
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORTITALIA SOLOCALCIO
@@ -966,38 +972,17 @@ https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="fifaworldcup2026czechrepublicvssouthafrica" tvg-name="⚽ FIFA World Cup 2026 — 🇨🇿 Czech Republic vs 🇿🇦 South Africa Jun 18 🏆 | FIFA World Cup 2026 : Czech Republic vs South Africa (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Czech Republic_vs_South Africa.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 — 🇨🇿 Czech Republic vs 🇿🇦 South Africa Jun 18 🏆 | FIFA World Cup 2026 : Czech Republic vs South Africa (18:00)
-https://dlhd.dad/watch.php?id=262
-
-#EXTINF:-1 tvg-id="fifaworldcup2026czechrepublicvssouthafrica" tvg-name="⚽ FIFA World Cup 2026 — 🇨🇿 Czech Republic vs 🇿🇦 South Africa Jun 18 🏆 | FIFA World Cup 2026 : Czech Republic vs South Africa (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Czech Republic_vs_South Africa.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 — 🇨🇿 Czech Republic vs 🇿🇦 South Africa Jun 18 🏆 | FIFA World Cup 2026 : Czech Republic vs South Africa (18:00)
-https://dlhd.dad/watch.php?id=1
-
 #EXTINF:-1 tvg-id="fifaworldcup2026switzerlandvsbosniaandherzegovina" tvg-name="⚽ FIFA World Cup 2026 — 🇨🇭 Switzerland vs 🇧🇦 Bosnia and Herzegovina Jun 18 🏆 | FIFA World Cup 2026 : Switzerland vs Bosnia and Herzegovina (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Switzerland_vs_Bosnia and Herzegovina.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 — 🇨🇭 Switzerland vs 🇧🇦 Bosnia and Herzegovina Jun 18 🏆 | FIFA World Cup 2026 : Switzerland vs Bosnia and Herzegovina (21:00)
 https://dlhd.dad/watch.php?id=262
 
 #EXTINF:-1 tvg-id="fifaworldcup2026switzerlandvsbosniaandherzegovina" tvg-name="⚽ FIFA World Cup 2026 — 🇨🇭 Switzerland vs 🇧🇦 Bosnia and Herzegovina Jun 18 🏆 | FIFA World Cup 2026 : Switzerland vs Bosnia and Herzegovina (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Switzerland_vs_Bosnia and Herzegovina.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 — 🇨🇭 Switzerland vs 🇧🇦 Bosnia and Herzegovina Jun 18 🏆 | FIFA World Cup 2026 : Switzerland vs Bosnia and Herzegovina (21:00)
 https://dlhd.dad/watch.php?id=850
 
-#EXTINF:-1 tvg-id="fifaworldcupczechrepublicvssouthafrica" tvg-name="Soccer | FIFA World Cup : Czech Republic vs South Africa (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Czech Republic_vs_South Africa.png" group-title="Eventi Live DLHD",Soccer | FIFA World Cup : Czech Republic vs South Africa (18:00)
-https://dlhd.dad/watch.php?id=262
-
-#EXTINF:-1 tvg-id="fifaworldcupczechrepublicvssouthafrica" tvg-name="Soccer | FIFA World Cup : Czech Republic vs South Africa (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Czech Republic_vs_South Africa.png" group-title="Eventi Live DLHD",Soccer | FIFA World Cup : Czech Republic vs South Africa (18:00)
-https://dlhd.dad/watch.php?id=1
-
 #EXTINF:-1 tvg-id="fifaworldcupswitzerlandvsbosniaandherzegovina" tvg-name="Soccer | FIFA World Cup : Switzerland vs Bosnia and Herzegovina (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Switzerland_vs_Bosnia and Herzegovina.png" group-title="Eventi Live DLHD",Soccer | FIFA World Cup : Switzerland vs Bosnia and Herzegovina (21:00)
 https://dlhd.dad/watch.php?id=262
 
 #EXTINF:-1 tvg-id="fifaworldcupswitzerlandvsbosniaandherzegovina" tvg-name="Soccer | FIFA World Cup : Switzerland vs Bosnia and Herzegovina (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Switzerland_vs_Bosnia and Herzegovina.png" group-title="Eventi Live DLHD",Soccer | FIFA World Cup : Switzerland vs Bosnia and Herzegovina (21:00)
 https://dlhd.dad/watch.php?id=850
-
-#EXTINF:-1 tvg-id="worldseriesinnsbruckboulderingfinalwomens" tvg-name="Climbing | World Series | Innsbruck Bouldering | Final | Women's (19:30)" tvg-logo="https://css-challenges.com/wp-content/uploads/2018/09/A-colorful-world.png" group-title="Eventi Live DLHD",Climbing | World Series | Innsbruck Bouldering | Final | Women's (19:30)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="fieeuropeanchampionshipantonyday3" tvg-name="Fencing | FIE European Championship | Antony Day 3 (19:30)" tvg-logo="https://clipartmag.com/images/princess-peach-clipart-24.png" group-title="Eventi Live DLHD",Fencing | FIE European Championship | Antony Day 3 (19:30)
-https://dlhd.dad/watch.php?id=879
-
-#EXTINF:-1 tvg-id="equestrianismleagueofnationsrotterdam" tvg-name="Equestrian | Equestrianism: League of Nations, Rotterdam (19:15)" tvg-logo="https://images.tcdn.com.br/img/img_prod/580963/mascara_dreamwear_nasal_novo_headgear_philips_respironics_1563_6_0fc8120034fb40751db1b357d86ae5fb.jpg" group-title="Eventi Live DLHD",Equestrian | Equestrianism: League of Nations, Rotterdam (19:15)
-https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="top14stadetoulousainvsracing92" tvg-name="Rugby Union | Top 14 : Stade Toulousain vs Racing 92 (21:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Stade Toulousain_vs_Racing 92.png" group-title="Eventi Live DLHD",Rugby Union | Top 14 : Stade Toulousain vs Racing 92 (21:05)
 https://dlhd.dad/watch.php?id=460
