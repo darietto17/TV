@@ -152,9 +152,13 @@ https://vavoo.to/vavoo-iptv/play/861948627bb3b2465ad5a
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",DAZN 3
 https://vavoo.to/vavoo-iptv/play/6843606058d0cc03250ea
-#EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV
+#EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV (1)
 https://vavoo.to/vavoo-iptv/play/963607327f90ada131395
-#EXTINF:-1 tvg-id="discovery.channel.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV (2)
+https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319
+#EXTINF:-1 tvg-id="discovery.channel.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL (1)
+https://vavoo.to/vavoo-iptv/play/1955739367e1de6e90adc1
+#EXTINF:-1 tvg-id="discovery.channel.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL (2)
 https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 #EXTINF:-1 tvg-id="focus.it" tvg-name="DISCOVERY FOCUS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Documentari",DISCOVERY FOCUS (MPD)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
@@ -246,6 +250,8 @@ https://vavoo.to/vavoo-iptv/play/217968682876c9a8051121
 https://vavoo.to/vavoo-iptv/play/1995860185ce22f3fae905
 #EXTINF:-1 tvg-id="gambero.rosso.hd.it" tvg-logo="" group-title="Altro",GAMBERO ROSSO
 https://vavoo.to/vavoo-iptv/play/2481284739a17519532b56
+#EXTINF:-1 tvg-id="gambero.rosso.hd.it" tvg-logo="" group-title="Altro",GAMBERO ROSSO HD
+https://vavoo.to/vavoo-iptv/play/2373121667465ba01bfdb8
 #EXTINF:-1 tvg-id="giallo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro",GIALLO (1)
 https://vavoo.to/vavoo-iptv/play/237393618912929d56c67e
 #EXTINF:-1 tvg-id="giallo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro",GIALLO (2)
@@ -355,8 +361,8 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
 https://vavoo.to/vavoo-iptv/play/198956233782673579c94b
 #EXTINF:-1 tvg-id="mediasetitalia2hd.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png" group-title="Mediaset",MEDIASET ITALIA 2
 https://vavoo.to/vavoo-iptv/play/3538009430947511be2991
-#EXTINF:-1 tvg-id="motor.trend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND
-https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
+#EXTINF:-1 tvg-id="milan.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/milan-tv-it.png" group-title="Sport",MILAN TV
+https://vavoo.to/vavoo-iptv/play/36572179483992957fcd47
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (1)
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (2)
@@ -540,8 +546,6 @@ https://vavoo.to/vavoo-iptv/play/32145975548e7b69c138c5
 https://vavoo.to/vavoo-iptv/play/1810817472eb83e2609e85
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",RAKUTEN TV CRIME SERIES ITALY
 https://vavoo.to/vavoo-iptv/play/2528607377858e5f38ad32
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",RAKUTEN TV DRAMA MOVIES ITALY
-https://vavoo.to/vavoo-iptv/play/3709565277575dc0e24113
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",RAKUTEN TV FAMILY MOVIES ITALY
 https://vavoo.to/vavoo-iptv/play/37898788895c371a08a3b2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",RAKUTEN TV ROMANCE MOVIES ITALY
@@ -593,7 +597,9 @@ https://vavoo.to/vavoo-iptv/play/3590183307ca309aa6be37
 https://vavoo.to/vavoo-iptv/play/3475299702c52e31a7073f
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/7PzluYVAEVOCNzGYGkewkKI3PA0PkCKAc9KUZGfYzAbZnQLnlPAE5iQBMZEUi7ZKwJc" group-title="Altro",RTC TELECALABRIA
 https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc
-#EXTINF:-1 tvg-id="rtl.102.5.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rtl-1025-it.png" group-title="Musica",RTL 102.5
+#EXTINF:-1 tvg-id="rtl.102.5.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rtl-1025-it.png" group-title="Musica",RTL 102.5 (1)
+https://vavoo.to/vavoo-iptv/play/3168132911491b6a85a6e2
+#EXTINF:-1 tvg-id="rtl.102.5.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rtl-1025-it.png" group-title="Musica",RTL 102.5 (2)
 https://vavoo.to/vavoo-iptv/play/1729811452a70dafd8f6ba
 
 # SPORT
@@ -697,7 +703,9 @@ https://vavoo.to/vavoo-iptv/play/8772007144e30fd3ca161
 https://vavoo.to/vavoo-iptv/play/525374356eb78c097e6a2
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 3 (1)
 https://vavoo.to/vavoo-iptv/play/15369343494e510eea4a0
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 3 (2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 3 (1)
+https://vavoo.to/vavoo-iptv/play/15369343494e510eea4a0
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 3 (3)
 https://vavoo.to/vavoo-iptv/play/573618724778189abe38c
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 4 (1)
 https://vavoo.to/vavoo-iptv/play/31379908902c3fc54d6e13
@@ -755,9 +763,7 @@ https://vavoo.to/vavoo-iptv/play/271195962000118dca31ce
 https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-serie-a-it.png" group-title="Sport",SKY SPORT SERIE A
 https://vavoo.to/vavoo-iptv/play/2077387085cfe0f64122dc
-#EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (1)
-https://vavoo.to/vavoo-iptv/play/210077178262e76f204fa6
-#EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (2)
+#EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS
 https://vavoo.to/vavoo-iptv/play/78546677680f40b76841
 #EXTINF:-1 tvg-id="sky.sport.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO (1)
 https://vavoo.to/vavoo-iptv/play/210669162201ec2365574
@@ -872,6 +878,8 @@ https://vavoo.to/vavoo-iptv/play/1794299695413e7553c574
 # BAMBINI
 #EXTINF:-1 tvg-id="" tvg-logo="https://telequattro.medianordest.it/wp-content/uploads/2020/10/T4Logo.png" group-title="Altro",TELEQUATTRO
 https://vavoo.to/vavoo-iptv/play/10839846696ddb422bcd88
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/T%C3%A9l%C3%A9rama_logo.png" group-title="Altro",TELERAMA
+https://vavoo.to/vavoo-iptv/play/4017608910fce4d0302c20
 #EXTINF:-1 tvg-id="" tvg-logo="https://teleromagna.it/images/teleromagna-logo.png" group-title="Altro",TELEROMAGNA
 https://vavoo.to/vavoo-iptv/play/279439224488ada9f3a1b3
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",TELESPAZIO TV
@@ -968,7 +976,7 @@ https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="fifaworldcup2026czechrepublicvssouthafrica" tvg-name="⚽ FIFA World Cup 2026 — 🇨🇿 Czech Republic vs 🇿🇦 South Africa Jun 18 🏆 | FIFA World Cup 2026 : Czech Republic vs South Africa (18:00)" tvg-logo="https://cdn.britannica.com/90/213290-118-2D68A21E/Members-English-womens-cricket-team.jpg" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 — 🇨🇿 Czech Republic vs 🇿🇦 South Africa Jun 18 🏆 | FIFA World Cup 2026 : Czech Republic vs South Africa (18:00)
+#EXTINF:-1 tvg-id="fifaworldcup2026czechrepublicvssouthafrica" tvg-name="⚽ FIFA World Cup 2026 — 🇨🇿 Czech Republic vs 🇿🇦 South Africa Jun 18 🏆 | FIFA World Cup 2026 : Czech Republic vs South Africa (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Czech Republic_vs_South Africa.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 — 🇨🇿 Czech Republic vs 🇿🇦 South Africa Jun 18 🏆 | FIFA World Cup 2026 : Czech Republic vs South Africa (18:00)
 https://dlhd.dad/watch.php?id=262
 
 #EXTINF:-1 tvg-id="fifaworldcup2026czechrepublicvssouthafrica" tvg-name="⚽ FIFA World Cup 2026 — 🇨🇿 Czech Republic vs 🇿🇦 South Africa Jun 18 🏆 | FIFA World Cup 2026 : Czech Republic vs South Africa (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Czech Republic_vs_South Africa.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 — 🇨🇿 Czech Republic vs 🇿🇦 South Africa Jun 18 🏆 | FIFA World Cup 2026 : Czech Republic vs South Africa (18:00)
@@ -980,12 +988,6 @@ https://dlhd.dad/watch.php?id=262
 #EXTINF:-1 tvg-id="fifaworldcup2026switzerlandvsbosniaandherzegovina" tvg-name="⚽ FIFA World Cup 2026 — 🇨🇭 Switzerland vs 🇧🇦 Bosnia and Herzegovina Jun 18 🏆 | FIFA World Cup 2026 : Switzerland vs Bosnia and Herzegovina (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Switzerland_vs_Bosnia and Herzegovina.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 — 🇨🇭 Switzerland vs 🇧🇦 Bosnia and Herzegovina Jun 18 🏆 | FIFA World Cup 2026 : Switzerland vs Bosnia and Herzegovina (21:00)
 https://dlhd.dad/watch.php?id=850
 
-#EXTINF:-1 tvg-id="fifaworldcup2026mexicovskorearepublic" tvg-name="⚽ FIFA World Cup 2026 — 🇲🇽 Mexico vs 🇰🇷 Korea Republic Jun 18 🏆 | FIFA World Cup 2026 : Mexico vs Korea Republic (03:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Mexico_vs_Korea Republic.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 — 🇲🇽 Mexico vs 🇰🇷 Korea Republic Jun 18 🏆 | FIFA World Cup 2026 : Mexico vs Korea Republic (03:00)
-https://dlhd.dad/watch.php?id=262
-
-#EXTINF:-1 tvg-id="fifaworldcup2026mexicovskorearepublic" tvg-name="⚽ FIFA World Cup 2026 — 🇲🇽 Mexico vs 🇰🇷 Korea Republic Jun 18 🏆 | FIFA World Cup 2026 : Mexico vs Korea Republic (03:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Mexico_vs_Korea Republic.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 — 🇲🇽 Mexico vs 🇰🇷 Korea Republic Jun 18 🏆 | FIFA World Cup 2026 : Mexico vs Korea Republic (03:00)
-https://dlhd.dad/watch.php?id=1
-
 #EXTINF:-1 tvg-id="fifaworldcupczechrepublicvssouthafrica" tvg-name="Soccer | FIFA World Cup : Czech Republic vs South Africa (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Czech Republic_vs_South Africa.png" group-title="Eventi Live DLHD",Soccer | FIFA World Cup : Czech Republic vs South Africa (18:00)
 https://dlhd.dad/watch.php?id=262
 
@@ -998,37 +1000,31 @@ https://dlhd.dad/watch.php?id=262
 #EXTINF:-1 tvg-id="fifaworldcupswitzerlandvsbosniaandherzegovina" tvg-name="Soccer | FIFA World Cup : Switzerland vs Bosnia and Herzegovina (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Switzerland_vs_Bosnia and Herzegovina.png" group-title="Eventi Live DLHD",Soccer | FIFA World Cup : Switzerland vs Bosnia and Herzegovina (21:00)
 https://dlhd.dad/watch.php?id=850
 
-#EXTINF:-1 tvg-id="fifaworldcupmexicovskorearepublic" tvg-name="Soccer | FIFA World Cup : Mexico vs Korea Republic (03:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Mexico_vs_Korea Republic.png" group-title="Eventi Live DLHD",Soccer | FIFA World Cup : Mexico vs Korea Republic (03:00)
-https://dlhd.dad/watch.php?id=262
-
-#EXTINF:-1 tvg-id="fifaworldcupmexicovskorearepublic" tvg-name="Soccer | FIFA World Cup : Mexico vs Korea Republic (03:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Mexico_vs_Korea Republic.png" group-title="Eventi Live DLHD",Soccer | FIFA World Cup : Mexico vs Korea Republic (03:00)
-https://dlhd.dad/watch.php?id=1
-
-#EXTINF:-1 tvg-id="londonatphalleatpberlinwtanottinghamwtaearlyrounds" tvg-name="Tennis | London-ATP, Halle-ATP, Berlin-WTA, & Nottingham-WTA Early Rounds (11:00)" tvg-logo="https://i5.fapality.com/contents/albums/main/680x9999/2000/2608/91869.jpg" group-title="Eventi Live DLHD",Tennis | London-ATP, Halle-ATP, Berlin-WTA, & Nottingham-WTA Early Rounds (11:00)
+#EXTINF:-1 tvg-id="londonatphalleatpberlinwtanottinghamwtaearlyrounds" tvg-name="Tennis | London-ATP, Halle-ATP, Berlin-WTA, & Nottingham-WTA Early Rounds (11:00)" tvg-logo="https://theidguru.com/wp-content/uploads/2019/10/High-School-Diploma-Gold.jpg" group-title="Eventi Live DLHD",Tennis | London-ATP, Halle-ATP, Berlin-WTA, & Nottingham-WTA Early Rounds (11:00)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="londonatphalleatpberlinwtanottinghamwtaearlyrounds" tvg-name="Tennis | London-ATP, Halle-ATP, Berlin-WTA, & Nottingham-WTA Early Rounds (11:00)" tvg-logo="https://static-ca-cdn.eporner.com/gallery/pU/r2/UM9Ae7qr2pU/292806-kai-lee-nude_880x660.jpg" group-title="Eventi Live DLHD",Tennis | London-ATP, Halle-ATP, Berlin-WTA, & Nottingham-WTA Early Rounds (11:00)
+#EXTINF:-1 tvg-id="londonatphalleatpberlinwtanottinghamwtaearlyrounds" tvg-name="Tennis | London-ATP, Halle-ATP, Berlin-WTA, & Nottingham-WTA Early Rounds (11:00)" tvg-logo="https://images.template.net/94361/Woman-BMI-Chart-Template-1.jpg" group-title="Eventi Live DLHD",Tennis | London-ATP, Halle-ATP, Berlin-WTA, & Nottingham-WTA Early Rounds (11:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="worldseriesinnsbruckboulderingsemifinalswomens" tvg-name="Climbing | World Series | Innsbruck Bouldering | Semifinals | Women's (13:00)" tvg-logo="https://i.ytimg.com/vi/hiGvCAVnSZA/hqdefault.jpg" group-title="Eventi Live DLHD",Climbing | World Series | Innsbruck Bouldering | Semifinals | Women's (13:00)
+#EXTINF:-1 tvg-id="worldseriesinnsbruckboulderingsemifinalswomens" tvg-name="Climbing | World Series | Innsbruck Bouldering | Semifinals | Women's (13:00)" tvg-logo="https://css-challenges.com/wp-content/uploads/2018/09/A-colorful-world.png" group-title="Eventi Live DLHD",Climbing | World Series | Innsbruck Bouldering | Semifinals | Women's (13:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="worldseriesinnsbruckboulderingfinalwomens" tvg-name="Climbing | World Series | Innsbruck Bouldering | Final | Women's (19:30)" tvg-logo="https://s3-media0.fl.yelpcdn.com/bphoto/tEIfHZcC8WwMlb2WOHPyDQ/o.jpg" group-title="Eventi Live DLHD",Climbing | World Series | Innsbruck Bouldering | Final | Women's (19:30)
+#EXTINF:-1 tvg-id="worldseriesinnsbruckboulderingfinalwomens" tvg-name="Climbing | World Series | Innsbruck Bouldering | Final | Women's (19:30)" tvg-logo="https://css-challenges.com/wp-content/uploads/2018/09/A-colorful-world.png" group-title="Eventi Live DLHD",Climbing | World Series | Innsbruck Bouldering | Final | Women's (19:30)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="tourofswitzerlandlandsvägscyklingdam" tvg-name="Cycling | Tour of Switzerland Landsvägscykling (Dam) (10:08)" tvg-logo="https://nationcreditlines.com/cdn/shop/articles/a6dc5784d4d25ccacf8577110b38b7b8.png?v=1704670247" group-title="Eventi Live DLHD",Cycling | Tour of Switzerland Landsvägscykling (Dam) (10:08)
+#EXTINF:-1 tvg-id="tourofswitzerlandlandsvägscyklingdam" tvg-name="Cycling | Tour of Switzerland Landsvägscykling (Dam) (10:08)" tvg-logo="https://images.hellomagazine.com/horizon/landscape/5b5bc9a2f7d0-screen-shot-2023-10-03-at-120925-pm.png" group-title="Eventi Live DLHD",Cycling | Tour of Switzerland Landsvägscykling (Dam) (10:08)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="tourofsloveniastage2menradljeobdraviormoz1818km" tvg-name="Cycling | Tour of Slovenia | Stage 2 Men | Radlje ob Dravi – Ormoz (181.8km) (13:30)" tvg-logo="https://thumbs.dreamstime.com/z/fairytale-canyon-skazka-kyrgyzstan-taken-august-129496942.jpg" group-title="Eventi Live DLHD",Cycling | Tour of Slovenia | Stage 2 Men | Radlje ob Dravi – Ormoz (181.8km) (13:30)
+#EXTINF:-1 tvg-id="tourofsloveniastage2menradljeobdraviormoz1818km" tvg-name="Cycling | Tour of Slovenia | Stage 2 Men | Radlje ob Dravi – Ormoz (181.8km) (13:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling | Tour of Slovenia | Stage 2 Men | Radlje ob Dravi – Ormoz (181.8km) (13:30)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="tourdesuissestage2menlocarno1577km" tvg-name="Cycling | Tour de Suisse | Stage 2 Men | Locarno (157.7km) (15:30)" tvg-logo="https://i.etsystatic.com/8542346/r/il/861b1a/2673388961/il_1588xN.2673388961_trar.jpg" group-title="Eventi Live DLHD",Cycling | Tour de Suisse | Stage 2 Men | Locarno (157.7km) (15:30)
+#EXTINF:-1 tvg-id="tourdesuissestage2menlocarno1577km" tvg-name="Cycling | Tour de Suisse | Stage 2 Men | Locarno (157.7km) (15:30)" tvg-logo="https://s3.amazonaws.com/croperblog/2023/05/Moringa.jpg" group-title="Eventi Live DLHD",Cycling | Tour de Suisse | Stage 2 Men | Locarno (157.7km) (15:30)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="fieeuropeanchampionshipantonyday3" tvg-name="Fencing | FIE European Championship | Antony Day 3 (19:30)" tvg-logo="https://media.a24.com/p/0a3993799fd2b828675bf8fff9d95e43/adjuntos/296/imagenes/009/518/0009518899/1200x0/smart/natacha-jaitt.png" group-title="Eventi Live DLHD",Fencing | FIE European Championship | Antony Day 3 (19:30)
+#EXTINF:-1 tvg-id="fieeuropeanchampionshipantonyday3" tvg-name="Fencing | FIE European Championship | Antony Day 3 (19:30)" tvg-logo="https://c02.castel.jp/1200x/luigi-j33200.jpg" group-title="Eventi Live DLHD",Fencing | FIE European Championship | Antony Day 3 (19:30)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="equestrianismleagueofnationsrotterdam" tvg-name="Equestrian | Equestrianism: League of Nations, Rotterdam (19:15)" tvg-logo="https://pub.mdpi-res.com/brainsci/brainsci-13-00510/article_deploy/html/images/brainsci-13-00510-g004.png?1679274744" group-title="Eventi Live DLHD",Equestrian | Equestrianism: League of Nations, Rotterdam (19:15)
+#EXTINF:-1 tvg-id="equestrianismleagueofnationsrotterdam" tvg-name="Equestrian | Equestrianism: League of Nations, Rotterdam (19:15)" tvg-logo="https://dinoluzzi.com/wp-content/uploads/2021/11/cropped-Dino-Logo-1-1.png" group-title="Eventi Live DLHD",Equestrian | Equestrianism: League of Nations, Rotterdam (19:15)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="top14stadetoulousainvsracing92" tvg-name="Rugby Union | Top 14 : Stade Toulousain vs Racing 92 (21:05)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Stade Toulousain_vs_Racing 92.png" group-title="Eventi Live DLHD",Rugby Union | Top 14 : Stade Toulousain vs Racing 92 (21:05)
