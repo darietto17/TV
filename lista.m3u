@@ -27,8 +27,6 @@ https://vavoo.to/vavoo-iptv/play/445158856541438cd842a
 https://vavoo.to/vavoo-iptv/play/13516316035c18ca000fe1
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ADESSO TV
 https://vavoo.to/vavoo-iptv/play/15558564102ab0cc0f61cf
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ALICE
-https://vavoo.to/vavoo-iptv/play/3092239866ed8b329f2cdf
 #EXTINF:-1 tvg-id="almatv.it" tvg-logo="" group-title="Altro",ALMA TV
 https://vavoo.to/vavoo-iptv/play/41311137232a677f05622a
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSdt3E_MmezXRKr7QOUEr0leEcErbaNGqbog&s" group-title="Altro",ALTO ADIGE TV
@@ -268,8 +266,6 @@ https://vavoo.to/vavoo-iptv/play/24880174054972ad3227fa
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",IMAS TV
 https://vavoo.to/vavoo-iptv/play/20730689949792c706f380
-#EXTINF:-1 tvg-id="inter.tv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/inter-tv-it.png?raw=true" group-title="Sport",INTER TV
-https://vavoo.to/vavoo-iptv/play/29737730766a27b9a63e21
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS (1)
 https://vavoo.to/vavoo-iptv/play/576490047036ac0227958
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS (2)
@@ -510,6 +506,8 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&force
 https://vavoo.to/vavoo-iptv/play/29241350927e983d18bd31
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Rai",RAI SPORT [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/55173022458f32c70e30a
+#EXTINF:-1 tvg-id="raisport+hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Rai",RAI SPORT+
+https://vavoo.to/vavoo-iptv/play/843891896d79f7a764c19
 #EXTINF:-1 tvg-id="raisport+hd.it" tvg-name="RAI SPORT+" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Rai",RAI SPORT+ (MPD)
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
@@ -532,8 +530,6 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&force
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",RAKUTEN TV ACTION MOVIES ITALY
 https://vavoo.to/vavoo-iptv/play/6057450468326830cabb4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",RAKUTEN TV ASIAN CINEMA ITALY
-https://vavoo.to/vavoo-iptv/play/32145975548e7b69c138c5
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",RAKUTEN TV COMEDY MOVIES ITALY
 https://vavoo.to/vavoo-iptv/play/1810817472eb83e2609e85
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",RAKUTEN TV CRIME SERIES ITALY
@@ -542,6 +538,8 @@ https://vavoo.to/vavoo-iptv/play/2528607377858e5f38ad32
 https://vavoo.to/vavoo-iptv/play/3709565277575dc0e24113
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",RAKUTEN TV FAMILY MOVIES ITALY
 https://vavoo.to/vavoo-iptv/play/37898788895c371a08a3b2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",RAKUTEN TV ROMANCE MOVIES ITALY
+https://vavoo.to/vavoo-iptv/play/3147240888262c9b3a94a8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",RAKUTEN TV SCI-FI ITALY
 https://vavoo.to/vavoo-iptv/play/9327556059b5f458e755
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",RAKUTEN TV TOP MOVIES ITALY
@@ -729,9 +727,7 @@ https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20
 https://vavoo.to/vavoo-iptv/play/277580225585f503fbfc87
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/344556251909fe0b312736
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (1)
-https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
-#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (2)
+#EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA
 https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
 #EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (1)
 https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
@@ -763,6 +759,8 @@ https://vavoo.to/vavoo-iptv/play/78546677680f40b76841
 https://vavoo.to/vavoo-iptv/play/210669162201ec2365574
 #EXTINF:-1 tvg-id="sky.sport.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO (2)
 https://vavoo.to/vavoo-iptv/play/3192996672d2c923be0346
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORTS F1
+https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SUPER TENNIS
 https://vavoo.to/vavoo-iptv/play/55828211836e421b20575
 #EXTINF:-1 tvg-id="sky.tg24.it" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="News",SKY TG 24 (1)
@@ -966,6 +964,51 @@ https://vavoo.to/vavoo-iptv/play/3069499316a3427a69a204
 https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb
 
 # MEDIASET
+
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="fifaworldcupargentinavsaustria" tvg-name="⚽ FIFA World Cup 2026 — 🇦🇷 Argentina vs 🇦🇹 Austria Jun 22 🏆 | FIFA World Cup : Argentina vs Austria (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Argentina_vs_Austria.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 — 🇦🇷 Argentina vs 🇦🇹 Austria Jun 22 🏆 | FIFA World Cup : Argentina vs Austria (19:00)
+https://dlhd.dad/watch.php?id=850
+
+#EXTINF:-1 tvg-id="fifaworldcupargentinavsaustria" tvg-name="⚽ FIFA World Cup 2026 — 🇦🇷 Argentina vs 🇦🇹 Austria Jun 22 🏆 | FIFA World Cup : Argentina vs Austria (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Argentina_vs_Austria.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 — 🇦🇷 Argentina vs 🇦🇹 Austria Jun 22 🏆 | FIFA World Cup : Argentina vs Austria (19:00)
+https://dlhd.dad/watch.php?id=262
+
+#EXTINF:-1 tvg-id="fifaworldcupfrancevsiraq" tvg-name="⚽ FIFA World Cup 2026 — 🇫🇷 France vs 🇮🇶 Iraq Jun 22 🏆 | FIFA World Cup : France vs Iraq (23:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/France_vs_Iraq.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 — 🇫🇷 France vs 🇮🇶 Iraq Jun 22 🏆 | FIFA World Cup : France vs Iraq (23:00)
+https://dlhd.dad/watch.php?id=262
+
+#EXTINF:-1 tvg-id="fifaworldcupjordanvsalgeria" tvg-name="⚽ FIFA World Cup 2026 — 🇯🇴 Jordan vs 🇩🇿 Algeria Jun 22 🏆 | FIFA World Cup : Jordan vs Algeria (05:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Jordan_vs_Algeria.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 — 🇯🇴 Jordan vs 🇩🇿 Algeria Jun 22 🏆 | FIFA World Cup : Jordan vs Algeria (05:00)
+https://dlhd.dad/watch.php?id=262
+
+#EXTINF:-1 tvg-id="fifaworldcupargentinavsaustria" tvg-name="All Soccer Events | FIFA World Cup : Argentina vs Austria (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Argentina_vs_Austria.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Argentina vs Austria (19:00)
+https://dlhd.dad/watch.php?id=850
+
+#EXTINF:-1 tvg-id="fifaworldcupargentinavsaustria" tvg-name="All Soccer Events | FIFA World Cup : Argentina vs Austria (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Argentina_vs_Austria.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Argentina vs Austria (19:00)
+https://dlhd.dad/watch.php?id=262
+
+#EXTINF:-1 tvg-id="fifaworldcupargentinavsaustria" tvg-name="All Soccer Events | FIFA World Cup : Argentina vs Austria (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Argentina_vs_Austria.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Argentina vs Austria (19:00)
+https://dlhd.dad/watch.php?id=3047
+
+#EXTINF:-1 tvg-id="fifaworldcupfrancevsiraq" tvg-name="All Soccer Events | FIFA World Cup : France vs Iraq (23:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/France_vs_Iraq.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : France vs Iraq (23:00)
+https://dlhd.dad/watch.php?id=262
+
+#EXTINF:-1 tvg-id="fifaworldcupfrancevsiraq" tvg-name="All Soccer Events | FIFA World Cup : France vs Iraq (23:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/France_vs_Iraq.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : France vs Iraq (23:00)
+https://dlhd.dad/watch.php?id=3047
+
+#EXTINF:-1 tvg-id="fifaworldcupjordanvsalgeria" tvg-name="All Soccer Events | FIFA World Cup : Jordan vs Algeria (05:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Jordan_vs_Algeria.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Jordan vs Algeria (05:00)
+https://dlhd.dad/watch.php?id=262
+
+#EXTINF:-1 tvg-id="fifaworldcupjordanvsalgeria" tvg-name="All Soccer Events | FIFA World Cup : Jordan vs Algeria (05:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Jordan_vs_Algeria.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Jordan vs Algeria (05:00)
+https://dlhd.dad/watch.php?id=3047
+
+#EXTINF:-1 tvg-id="wimbledonqualifierswta500wimbledonqualifiersatp250lexuseastbourneopenatp250mallorcaatp250eastbourne" tvg-name="Tennis | Wimbledon | Qualifiers | WTA500 Wimbledon | Qualifiers | ATP 250: Lexus Eastbourne Open | ATP 250 - MALLORCA | ATP 250 Eastbourne (10:30)" tvg-logo="https://cdn.fotofits.com/petzlover/gallery/img/l/parson-russell-terrier-817338.png" group-title="Eventi Live DLHD",Tennis | Wimbledon | Qualifiers | WTA500 Wimbledon | Qualifiers | ATP 250: Lexus Eastbourne Open | ATP 250 - MALLORCA | ATP 250 Eastbourne (10:30)
+https://dlhd.dad/watch.php?id=461
+
+#EXTINF:-1 tvg-id="wimbledonqualifierswta500wimbledonqualifiersatp250lexuseastbourneopenatp250mallorcaatp250eastbourne" tvg-name="Tennis | Wimbledon | Qualifiers | WTA500 Wimbledon | Qualifiers | ATP 250: Lexus Eastbourne Open | ATP 250 - MALLORCA | ATP 250 Eastbourne (10:30)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7abee8ec-87dd-401e-9de2-e72575c065bc/dg2z3d8-75244609-3c95-4d16-9b7b-1866c930f470.png/v1/fill/w_640,h_1250,q_70,strp/satin_ladies__30__by_myaiplayground_dg2z3d8-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjAwMCIsInBhdGgiOiJcL2ZcLzdhYmVlOGVjLTg3ZGQtNDAxZS05ZGUyLWU3MjU3NWMwNjViY1wvZGcyejNkOC03NTI0NDYwOS0zYzk1LTRkMTYtOWI3Yi0xODY2YzkzMGY0NzAucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.0He932F-Wgw4ALTxaxf3MKzuvZCf-pj_KPXsIbi1UUY" group-title="Eventi Live DLHD",Tennis | Wimbledon | Qualifiers | WTA500 Wimbledon | Qualifiers | ATP 250: Lexus Eastbourne Open | ATP 250 - MALLORCA | ATP 250 Eastbourne (10:30)
+https://dlhd.dad/watch.php?id=576
+
+#EXTINF:-1 tvg-id="waterpolomensseriea1semifinalpossiblygame3" tvg-name="Water polo | Water Polo. Men's Serie A1 Semifinal - possibly Game 3 (19:25)" tvg-logo="https://mediavbr.com/wp-content/uploads/2024/03/headshot-red.jpg" group-title="Eventi Live DLHD",Water polo | Water Polo. Men's Serie A1 Semifinal - possibly Game 3 (19:25)
+https://dlhd.dad/watch.php?id=882
 
 
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",YeÅil Yalova x Gaziantep FK 11:00
