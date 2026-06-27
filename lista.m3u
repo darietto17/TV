@@ -264,6 +264,8 @@ https://vavoo.to/vavoo-iptv/play/24880174054972ad3227fa
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",IMAS TV
 https://vavoo.to/vavoo-iptv/play/20730689949792c706f380
+#EXTINF:-1 tvg-id="inter.tv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/inter-tv-it.png?raw=true" group-title="Sport",INTER TV
+https://vavoo.to/vavoo-iptv/play/29737730766a27b9a63e21
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS (1)
 https://vavoo.to/vavoo-iptv/play/576490047036ac0227958
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS (2)
@@ -311,6 +313,8 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 https://vavoo.to/vavoo-iptv/play/2143522071cfa887e2feb3
 #EXTINF:-1 tvg-id="la7.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7-it.png" group-title="Altro",LA 7 (2)
 https://vavoo.to/vavoo-iptv/play/7755300630832713e7adb
+#EXTINF:-1 tvg-id="la7d.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7d-it.png" group-title="Altro",LA 7 D
+https://vavoo.to/vavoo-iptv/play/881846038948178d71a68
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",LA C ONAIR
 https://vavoo.to/vavoo-iptv/play/1533131501702a3c9003d0
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/lac-tv-it.png?raw=true" group-title="Altro",LA C TV
@@ -345,12 +349,16 @@ https://vavoo.to/vavoo-iptv/play/198956233782673579c94b
 https://vavoo.to/vavoo-iptv/play/3538009430947511be2991
 #EXTINF:-1 tvg-id="milan.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/milan-tv-it.png" group-title="Sport",MILAN TV
 https://vavoo.to/vavoo-iptv/play/36572179483992957fcd47
+#EXTINF:-1 tvg-id="motor.trend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND
+https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
 #EXTINF:-1 tvg-id="mtv.hd.it" tvg-logo="" group-title="Musica",MTV
 https://vavoo.to/vavoo-iptv/play/3212860676dcc8c28a2be1
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (1)
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (2)
 https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD
+https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
 #EXTINF:-1 tvg-id="nick.jr.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini",NICK JR
 https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065
 #EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Altro",NICKELODEON
@@ -532,8 +540,6 @@ https://vavoo.to/vavoo-iptv/play/1810817472eb83e2609e85
 https://vavoo.to/vavoo-iptv/play/2528607377858e5f38ad32
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",RAKUTEN TV DRAMA MOVIES ITALY
 https://vavoo.to/vavoo-iptv/play/3709565277575dc0e24113
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",RAKUTEN TV FAMILY MOVIES ITALY
-https://vavoo.to/vavoo-iptv/play/37898788895c371a08a3b2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",RAKUTEN TV ROMANCE MOVIES ITALY
 https://vavoo.to/vavoo-iptv/play/3147240888262c9b3a94a8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",RAKUTEN TV SCI-FI ITALY
@@ -753,7 +759,9 @@ https://vavoo.to/vavoo-iptv/play/2077387085cfe0f64122dc
 https://vavoo.to/vavoo-iptv/play/210077178262e76f204fa6
 #EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (2)
 https://vavoo.to/vavoo-iptv/play/78546677680f40b76841
-#EXTINF:-1 tvg-id="sky.sport.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO
+#EXTINF:-1 tvg-id="sky.sport.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO (1)
+https://vavoo.to/vavoo-iptv/play/210669162201ec2365574
+#EXTINF:-1 tvg-id="sky.sport.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO (2)
 https://vavoo.to/vavoo-iptv/play/3192996672d2c923be0346
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORTS F1
 https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d
@@ -784,6 +792,8 @@ https://vavoo.to/vavoo-iptv/play/21984103395cacdfaf1d34
 https://vavoo.to/vavoo-iptv/play/2356295928676bcb269bb3
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",STAR CHANNEL
 https://vavoo.to/vavoo-iptv/play/323779351103799e6e03b2
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/star-comedy-pt.png?raw=true" group-title="Altro",STAR COMEDY
+https://vavoo.to/vavoo-iptv/play/151207238423ec1d54e5b8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",STAR CRIME
 https://vavoo.to/vavoo-iptv/play/28436429458ff4e2cc4ae6
 
@@ -862,6 +872,8 @@ https://vavoo.to/vavoo-iptv/play/1670818396815a6c065dd0
 https://vavoo.to/vavoo-iptv/play/1794299695413e7553c574
 
 # BAMBINI
+#EXTINF:-1 tvg-id="" tvg-logo="https://telequattro.medianordest.it/wp-content/uploads/2020/10/T4Logo.png" group-title="Altro",TELEQUATTRO
+https://vavoo.to/vavoo-iptv/play/10839846696ddb422bcd88
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/T%C3%A9l%C3%A9rama_logo.png" group-title="Altro",TELERAMA
 https://vavoo.to/vavoo-iptv/play/4017608910fce4d0302c20
 #EXTINF:-1 tvg-id="" tvg-logo="https://teleromagna.it/images/teleromagna-logo.png" group-title="Altro",TELEROMAGNA
@@ -961,43 +973,31 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-id="fifaworldcupcroatiavsghana" tvg-name="All Soccer Events | FIFA World Cup : Croatia vs Ghana (23:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Croatia_vs_Ghana.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Croatia vs Ghana (23:00)
 https://dlhd.dad/watch.php?id=3047
 
-#EXTINF:-1 tvg-id="fifaworldcuppanamavsengland" tvg-name="All Soccer Events | FIFA World Cup : Panama vs England (23:00)" tvg-logo="https://sandbaggy.com/cdn/shop/files/48-inch-wood-grading-stakes_19_0d589926-ca3c-4ad9-8e32-beda01d7d9d1_4000x.progressive.jpg?v=1688415732" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Panama vs England (23:00)
+#EXTINF:-1 tvg-id="fifaworldcuppanamavsengland" tvg-name="All Soccer Events | FIFA World Cup : Panama vs England (23:00)" tvg-logo="https://i.pinimg.com/originals/62/51/f6/6251f6a0e8973df2ed5f48941473c270.jpg" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Panama vs England (23:00)
 https://dlhd.dad/watch.php?id=3047
 
-#EXTINF:-1 tvg-id="formula1msccruisesaustriangppractice3" tvg-name="Motorsport | Formula 1 : MSC Cruises Austrian GP - Practice 3 (12:30)" tvg-logo="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/07/persona-1-cover.jpg" group-title="Eventi Live DLHD",Motorsport | Formula 1 : MSC Cruises Austrian GP - Practice 3 (12:30)
-https://dlhd.dad/watch.php?id=577
-
-#EXTINF:-1 tvg-id="moto3round11netherlandsqualifying" tvg-name="Motorsport | Moto3 : Round 11 | Netherlands Qualifying (12:45)" tvg-logo="https://pub.mdpi-res.com/jmse/jmse-11-00776/article_deploy/html/images/jmse-11-00776-g003.png?1680522267" group-title="Eventi Live DLHD",Motorsport | Moto3 : Round 11 | Netherlands Qualifying (12:45)
+#EXTINF:-1 tvg-id="moto2round11netherlandsqualifying" tvg-name="Motorsport | Moto2 : Round 11 | Netherlands Qualifying (13:35)" tvg-logo="https://i5.walmartimages.com/seo/Abstract-Landscape-Canvas-Print-Wall-Art-for-Living-Room-Bedroom-Office-Dining-Room-Hallway_dabd7aac-e655-4331-8526-591e113d1aab.a9842f105f322585c9d35cc945ee7c16.png" group-title="Eventi Live DLHD",Motorsport | Moto2 : Round 11 | Netherlands Qualifying (13:35)
 https://dlhd.dad/watch.php?id=575
 
-#EXTINF:-1 tvg-id="moto2round11netherlandsqualifying" tvg-name="Motorsport | Moto2 : Round 11 | Netherlands Qualifying (13:35)" tvg-logo="https://teachitforward.co.uk/wp-content/uploads/2020/09/Investigating-satellite-photos-of-famous-world-landmarks-landmarks.png" group-title="Eventi Live DLHD",Motorsport | Moto2 : Round 11 | Netherlands Qualifying (13:35)
-https://dlhd.dad/watch.php?id=575
-
-#EXTINF:-1 tvg-id="formula2msccruisesaustriangpsprintrace" tvg-name="Motorsport | Formula 2 : MSC Cruises Austrian GP - Sprint Race (14:15)" tvg-logo="https://i.pinimg.com/originals/b4/c5/32/b4c532afd251aab8ff39a9b2196d1891.png" group-title="Eventi Live DLHD",Motorsport | Formula 2 : MSC Cruises Austrian GP - Sprint Race (14:15)
+#EXTINF:-1 tvg-id="formula2msccruisesaustriangpsprintrace" tvg-name="Motorsport | Formula 2 : MSC Cruises Austrian GP - Sprint Race (14:15)" tvg-logo="https://imagescdn.homes.com/i2/Qf618dAqZCKBZ3uPvwImGbxCqp5zFe_ka4fDhfbHjy8/117/kernersville-nc.jpg?p=1" group-title="Eventi Live DLHD",Motorsport | Formula 2 : MSC Cruises Austrian GP - Sprint Race (14:15)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="motogpround11netherlandssprintrace" tvg-name="Motorsport | MotoGP : Round 11 | Netherlands Sprint Race (14:45)" tvg-logo="https://the80sruled.com/wp-content/uploads/2021/03/heres-johnny-1.png" group-title="Eventi Live DLHD",Motorsport | MotoGP : Round 11 | Netherlands Sprint Race (14:45)
+#EXTINF:-1 tvg-id="motogpround11netherlandssprintrace" tvg-name="Motorsport | MotoGP : Round 11 | Netherlands Sprint Race (14:45)" tvg-logo="https://1.bp.blogspot.com/-lO59tdRnzBo/XVHFacdeBZI/AAAAAAACZgw/JmrXYpUlIzIfdJYf7r1xGYAHEexWRMO6QCLcBGAs/s1600/Isamar.png" group-title="Eventi Live DLHD",Motorsport | MotoGP : Round 11 | Netherlands Sprint Race (14:45)
 https://dlhd.dad/watch.php?id=575
 
-#EXTINF:-1 tvg-id="formula1msccruisesaustriangpqualifying" tvg-name="Motorsport | Formula 1 : MSC Cruises Austrian GP - Qualifying (16:00)" tvg-logo="https://fandomwire.com/wp-content/uploads/2023/11/Dog-like-Titan-758x475.jpg" group-title="Eventi Live DLHD",Motorsport | Formula 1 : MSC Cruises Austrian GP - Qualifying (16:00)
+#EXTINF:-1 tvg-id="formula1msccruisesaustriangpqualifying" tvg-name="Motorsport | Formula 1 : MSC Cruises Austrian GP - Qualifying (16:00)" tvg-logo="https://logolook.net/wp-content/uploads/2022/07/F1-Logo.svg" group-title="Eventi Live DLHD",Motorsport | Formula 1 : MSC Cruises Austrian GP - Qualifying (16:00)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="rowinglucerneworldcup1stroundfinals" tvg-name="Sailing / Boating | Rowing. Lucerne World Cup - 1st Round Finals (12:30)" tvg-logo="https://www.tripsavvy.com/thmb/6o6axAHX5zcNpvVWcErvgFKaitg=/5472x3648/filters:fill(auto,1)/LouvresengchyeteoGettyImages-5a14669aaad52b00370c599e.jpg" group-title="Eventi Live DLHD",Sailing / Boating | Rowing. Lucerne World Cup - 1st Round Finals (12:30)
+#EXTINF:-1 tvg-id="canoeingdownhillworldcupmezzanafinals" tvg-name="Sailing / Boating | Canoeing. Downhill World Cup Mezzana: Finals (15:00)" tvg-logo="https://xometry.pro/wp-content/uploads/2025/03/EN-sheet-metal-thickness-gauge-charts-1024x940.png" group-title="Eventi Live DLHD",Sailing / Boating | Canoeing. Downhill World Cup Mezzana: Finals (15:00)
 https://dlhd.dad/watch.php?id=882
 
-#EXTINF:-1 tvg-id="canoeingdownhillworldcupmezzanafinals" tvg-name="Sailing / Boating | Canoeing. Downhill World Cup Mezzana: Finals (15:00)" tvg-logo="https://i.pinimg.com/originals/fb/16/57/fb1657920eb18518545c1ac9a22bfd93.png" group-title="Eventi Live DLHD",Sailing / Boating | Canoeing. Downhill World Cup Mezzana: Finals (15:00)
-https://dlhd.dad/watch.php?id=882
-
-#EXTINF:-1 tvg-id="spanishchampionshipsmassstartrace" tvg-name="Cycling | Spanish Championships mass start race (12:15)" tvg-logo="https://static-ca-cdn.eporner.com/gallery/Hh/Xq/lfnuV4bXqHh/819303-face-full_296x1000.gif" group-title="Eventi Live DLHD",Cycling | Spanish Championships mass start race (12:15)
+#EXTINF:-1 tvg-id="frenchnationalroadchampionshipselitewomensroadracelatourdupin1114km" tvg-name="Cycling | French National Road Championships Elite Women's Road Race | La Tour-du-Pin (111.4km) (14:00)" tvg-logo="https://s2.studylib.es/store/data/006016767_1-4eb7748e4f9f93dc15858c6f1aea6f76.png" group-title="Eventi Live DLHD",Cycling | French National Road Championships Elite Women's Road Race | La Tour-du-Pin (111.4km) (14:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="frenchnationalroadchampionshipselitewomensroadracelatourdupin1114km" tvg-name="Cycling | French National Road Championships Elite Women's Road Race | La Tour-du-Pin (111.4km) (14:00)" tvg-logo="https://teamgroupname.com/wp-content/uploads/2024/02/50-Inspiring-Coding-Team-Names.png" group-title="Eventi Live DLHD",Cycling | French National Road Championships Elite Women's Road Race | La Tour-du-Pin (111.4km) (14:00)
+#EXTINF:-1 tvg-id="bmxracingsarrianseuropeanchampionshipseliteracemenwomen" tvg-name="Cycling | BMX Racing | Sarrians European Championships | Elite Race (Men/Women) (17:20)" tvg-logo="https://i.pinimg.com/originals/76/e8/53/76e853ec56d94bb2c658298a08103c49.jpg" group-title="Eventi Live DLHD",Cycling | BMX Racing | Sarrians European Championships | Elite Race (Men/Women) (17:20)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="bmxracingsarrianseuropeanchampionshipseliteracemenwomen" tvg-name="Cycling | BMX Racing | Sarrians European Championships | Elite Race (Men/Women) (17:20)" tvg-logo="https://imagecdn.realty.com/photos/bluestack/390398441/1.jpg" group-title="Eventi Live DLHD",Cycling | BMX Racing | Sarrians European Championships | Elite Race (Men/Women) (17:20)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="frenchtop14finalstadetoulousainvsmontpellierheraultrc" tvg-name="Rugby Union | French Top 14 Final : Stade Toulousainvs Montpellier Herault RC (21:00)" tvg-logo="https://thumbs.dreamstime.com/z/bowl-natto-traditional-japanese-fermented-soybean-dish-served-over-rice-topped-chopped-green-onions-336062337.jpg?w=992" group-title="Eventi Live DLHD",Rugby Union | French Top 14 Final : Stade Toulousainvs Montpellier Herault RC (21:00)
+#EXTINF:-1 tvg-id="frenchtop14finalstadetoulousainvsmontpellierheraultrc" tvg-name="Rugby Union | French Top 14 Final : Stade Toulousainvs Montpellier Herault RC (21:00)" tvg-logo="https://i.pinimg.com/736x/8b/58/40/8b5840efcfd2aab31c501048dd73d00f.jpg" group-title="Eventi Live DLHD",Rugby Union | French Top 14 Final : Stade Toulousainvs Montpellier Herault RC (21:00)
 https://dlhd.dad/watch.php?id=462
 
 
