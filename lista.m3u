@@ -379,8 +379,6 @@ https://vavoo.to/vavoo-iptv/play/43501686619a1a53c7d14
 https://vavoo.to/vavoo-iptv/play/1727695336cf48b92b7314
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6e7dee025526c334b9280153c418e10e.webp" group-title="Altro",PEER TV ALTO ADIGE
 https://vavoo.to/vavoo-iptv/play/17895220057515b249c059
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",PEOPLE ARE AWESOME
-https://vavoo.to/vavoo-iptv/play/1087345241c8751e395263
 #EXTINF:-1 tvg-id="pesca.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/pesca-it.png?raw=true" group-title="Altro",PESCA
 https://vavoo.to/vavoo-iptv/play/714472867a9a9547f329c
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/caccia-pesca-it.png?raw=true" group-title="Altro",PESCA E CACCIA
@@ -832,8 +830,6 @@ https://vavoo.to/vavoo-iptv/play/87479718111853618b3cd
 https://vavoo.to/vavoo-iptv/play/6164833177424547eff1f
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.teletricolore.it/wp-content/uploads/2018/02/logo.png" group-title="Altro",TELE TRICOLORE
 https://vavoo.to/vavoo-iptv/play/2314613216d218b9f4abd4
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lp10Brud3JZex6CgE4M9c-XcKFY4MrRhcFe9PUn-N4SD4=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",TELE TUSCIASABINA 2000
-https://vavoo.to/vavoo-iptv/play/545707096d82d839e8210
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/TeleArena_logo.png" group-title="Altro",TELEARENA
 https://vavoo.to/vavoo-iptv/play/408156101494ee7f98efdd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.teleartetv.it/web/wp-content/uploads/2023/04/logo_TA.jpg" group-title="Altro",TELEARTE
@@ -970,16 +966,10 @@ https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="2026wimbledonchampionships" tvg-name="🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (12:00)" tvg-logo="https://www.adfm.org/media/cwto1ut1/2026-conference-header.png" group-title="Eventi Live DLHD",🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (12:00)
-https://dlhd.dad/watch.php?id=462
-
-#EXTINF:-1 tvg-id="2026wimbledonchampionships" tvg-name="🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (12:00)" tvg-logo="https://i.ebayimg.com/images/g/k28AAOSwWLBaJ9h7/s-l1600.jpg" group-title="Eventi Live DLHD",🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (12:00)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="fifaworldcup2026" tvg-name="⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (18:00)" tvg-logo="https://clipground.com/images/free-christian-happy-birthday-clipart-1.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (18:00)
+#EXTINF:-1 tvg-id="fifaworldcup2026" tvg-name="⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (18:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Forbidden_Door_(2026)_poster.jpg/250px-Forbidden_Door_(2026)_poster.jpg" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (18:00)
 https://dlhd.dad/watch.php?id=262
 
-#EXTINF:-1 tvg-id="fifaworldcup2026" tvg-name="⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (18:00)" tvg-logo="https://wimg.rule34.xxx/images/1424/9fa66cda592c2fa6f8a19975982fbebc.gif?13186017" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (18:00)
+#EXTINF:-1 tvg-id="fifaworldcup2026" tvg-name="⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (18:00)" tvg-logo="http://mundoninoslatam.com/wp-content/uploads/2022/11/2.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (18:00)
 https://dlhd.dad/watch.php?id=850
 
 #EXTINF:-1 tvg-id="fifaworldcupenglandvscongodr" tvg-name="All Soccer Events | FIFA World Cup : England vs Congo DR (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/England_vs_Congo DR.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : England vs Congo DR (18:00)
@@ -990,12 +980,6 @@ https://dlhd.dad/watch.php?id=850
 
 #EXTINF:-1 tvg-id="fifaworldcupbelgiumvssenegal" tvg-name="All Soccer Events | FIFA World Cup : Belgium vs Senegal (22:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Belgium_vs_Senegal.png" group-title="Eventi Live DLHD",All Soccer Events | FIFA World Cup : Belgium vs Senegal (22:00)
 https://dlhd.dad/watch.php?id=262
-
-#EXTINF:-1 tvg-id="2026wimbledonchampionshipssecondround" tvg-name="Tennis | 2026 Wimbledon Championships Second Round (12:00)" tvg-logo="https://www.adfm.org/media/cwto1ut1/2026-conference-header.png" group-title="Eventi Live DLHD",Tennis | 2026 Wimbledon Championships Second Round (12:00)
-https://dlhd.dad/watch.php?id=462
-
-#EXTINF:-1 tvg-id="2026wimbledonchampionshipssecondround" tvg-name="Tennis | 2026 Wimbledon Championships Second Round (12:00)" tvg-logo="https://www.adfm.org/media/cwto1ut1/2026-conference-header.png" group-title="Eventi Live DLHD",Tennis | 2026 Wimbledon Championships Second Round (12:00)
-https://dlhd.dad/watch.php?id=461
 
 
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",YeÅil Yalova x Gaziantep FK 11:00
