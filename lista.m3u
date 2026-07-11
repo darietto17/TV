@@ -72,6 +72,8 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
 https://vavoo.to/vavoo-iptv/play/3841982646469504c9c5fc
 #EXTINF:-1 tvg-id="boomerang.it" tvg-logo="" group-title="Altro",BOOMERANG
 https://vavoo.to/vavoo-iptv/play/270562780243aa8d36614f
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaMdUB8WEdsRVi_WZLxoi79pqlRef4s9Zehg&s" group-title="Altro",BYOBLU
+https://vavoo.to/vavoo-iptv/play/2826111812745ee617058d
 #EXTINF:-1 tvg-id="caccia.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/caccia-it.png?raw=true" group-title="Altro",CACCIA
 https://vavoo.to/vavoo-iptv/play/1692155417ce364b21d0ca
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/DW0Tvz72-8XZ7rEBVh1jBzwYE1fZhTaowuuxN75Jl8yBtnFkySH1z2T2b7OPlotmHeQ" group-title="Altro",CAFE 24
@@ -167,10 +169,8 @@ https://vavoo.to/vavoo-iptv/play/3037871903561253a95659
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="Film - Serie TV",DISNEY+ FILM
 https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
-#EXTINF:-1 tvg-id="dmax.it" tvg-logo="https://cdn.cookielaw.org/logos/50417659-aa29-4f7f-b59d-f6e887deed53/a32be519-de41-40f4-abed-d2934ba6751b/9a44af24-5ca6-4098-aa95-594755bd7b2d/dmax_logo.png" group-title="Altro",DMAX (1)
+#EXTINF:-1 tvg-id="dmax.it" tvg-logo="https://cdn.cookielaw.org/logos/50417659-aa29-4f7f-b59d-f6e887deed53/a32be519-de41-40f4-abed-d2934ba6751b/9a44af24-5ca6-4098-aa95-594755bd7b2d/dmax_logo.png" group-title="Altro",DMAX
 https://vavoo.to/vavoo-iptv/play/3008151733b9915486ff45
-#EXTINF:-1 tvg-id="dmax.it" tvg-logo="https://cdn.cookielaw.org/logos/50417659-aa29-4f7f-b59d-f6e887deed53/a32be519-de41-40f4-abed-d2934ba6751b/9a44af24-5ca6-4098-aa95-594755bd7b2d/dmax_logo.png" group-title="Altro",DMAX (2)
-https://vavoo.to/vavoo-iptv/play/3803638765756268d23edc
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/%C3%88_live_Brescia_logo.png" group-title="Altro",ELIVE TV BRESCIA
 https://vavoo.to/vavoo-iptv/play/1521821490a62d4e3205da
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/81omr2rZ8+L.png" group-title="Altro",ENTELLA TV
@@ -264,6 +264,10 @@ https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6
 https://vavoo.to/vavoo-iptv/play/24880174054972ad3227fa
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gruppoicaro.it/wp-content/uploads/2020/05/icarotv.png" group-title="Altro",ICARO TV (2)
 https://vavoo.to/vavoo-iptv/play/2392139008947764078821
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",IMAS TV
+https://vavoo.to/vavoo-iptv/play/20730689949792c706f380
+#EXTINF:-1 tvg-id="inter.tv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/inter-tv-it.png?raw=true" group-title="Sport",INTER TV
+https://vavoo.to/vavoo-iptv/play/29737730766a27b9a63e21
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS (1)
 https://vavoo.to/vavoo-iptv/play/576490047036ac0227958
 #EXTINF:-1 tvg-id="iris.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS (2)
@@ -351,7 +355,9 @@ https://vavoo.to/vavoo-iptv/play/36572179483992957fcd47
 https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
 #EXTINF:-1 tvg-id="mtv.hd.it" tvg-logo="" group-title="Musica",MTV
 https://vavoo.to/vavoo-iptv/play/3212860676dcc8c28a2be1
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (1)
+https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (2)
 https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD
 https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
@@ -703,9 +709,7 @@ https://vavoo.to/vavoo-iptv/play/22550838661912f18327a2
 https://vavoo.to/vavoo-iptv/play/29098187562943fdca9002
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 6 (1)
 https://vavoo.to/vavoo-iptv/play/325121729090a7b71fb865
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 6 (1)
-https://vavoo.to/vavoo-iptv/play/325121729090a7b71fb865
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 6 (3)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 6 (2)
 https://vavoo.to/vavoo-iptv/play/39395136840a7593b75855
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 7 (1)
 https://vavoo.to/vavoo-iptv/play/4238969402e69feff53112
@@ -761,8 +765,6 @@ https://vavoo.to/vavoo-iptv/play/78546677680f40b76841
 https://vavoo.to/vavoo-iptv/play/210669162201ec2365574
 #EXTINF:-1 tvg-id="sky.sport.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO (2)
 https://vavoo.to/vavoo-iptv/play/3192996672d2c923be0346
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORTS F1
-https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SUPER TENNIS
 https://vavoo.to/vavoo-iptv/play/55828211836e421b20575
 #EXTINF:-1 tvg-id="sky.tg24.it" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="News",SKY TG 24 (1)
@@ -780,8 +782,6 @@ https://vavoo.to/vavoo-iptv/play/32202484989ac14421915
 https://vavoo.to/vavoo-iptv/play/287379323134c651595371
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA
 https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
-https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.capitaladv.eu/wp-content/uploads/2020/07/LOGO-SPORTITALIA-PLUS-HD_2-1.png" group-title="Sport",SPORTITALIA PLUS
 https://vavoo.to/vavoo-iptv/play/33428493134b007f2ed197
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORTITALIA SOLOCALCIO
@@ -970,10 +970,10 @@ https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="fifaworldcup2026" tvg-name="⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (18:00)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihIj40j9MJ0_UH8cWQ0W8Ypgie8OlrRrEMVDT6urs0ba5_oeXSf6z-DkQdgwphXeMK1VItBQyV7-i-lxK3wQtOjvvYIXwyptQODCvKlVgc72LXinx8a58DIM92fkWeG6SjiGgj9JJNcgmO/s1600/fifa2018.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (18:00)
+#EXTINF:-1 tvg-id="fifaworldcup2026" tvg-name="⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (18:00)" tvg-logo="https://ic-vt-nss.xhcdn.com/a/NzUwMzFmZmJiM2FjNzM3MmM4NjE0MTVhMzQ5YTM0MGY/s(w:2560,h:1440),webp/015/186/161/v2/2560x1440.205.webp" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (18:00)
 https://dlhd.dad/watch.php?id=262
 
-#EXTINF:-1 tvg-id="fifaworldcup2026" tvg-name="⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (18:00)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihIj40j9MJ0_UH8cWQ0W8Ypgie8OlrRrEMVDT6urs0ba5_oeXSf6z-DkQdgwphXeMK1VItBQyV7-i-lxK3wQtOjvvYIXwyptQODCvKlVgc72LXinx8a58DIM92fkWeG6SjiGgj9JJNcgmO/s1600/fifa2018.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (18:00)
+#EXTINF:-1 tvg-id="fifaworldcup2026" tvg-name="⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (18:00)" tvg-logo="https://cdn.sex.com/images/pinporn/2020/12/12/24138491.gif?width=300" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (18:00)
 https://dlhd.dad/watch.php?id=850
 
 #EXTINF:-1 tvg-id="fifaworldcup2026quarterfinal3norwayvsengland" tvg-name="All Soccer Events ⚽ | 🏆 FIFA World Cup 2026 Quarter-final 3 : 🇳🇴 Norway vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England (23:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇳🇴 Norway_vs_🏴󠁧󠁢󠁥󠁮󠁧󠁿 England.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | 🏆 FIFA World Cup 2026 Quarter-final 3 : 🇳🇴 Norway vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England (23:00)
@@ -982,23 +982,8 @@ https://dlhd.dad/watch.php?id=850
 #EXTINF:-1 tvg-id="fifaworldcup2026quarterfinal3norwayvsengland" tvg-name="All Soccer Events ⚽ | 🏆 FIFA World Cup 2026 Quarter-final 3 : 🇳🇴 Norway vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England (23:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇳🇴 Norway_vs_🏴󠁧󠁢󠁥󠁮󠁧󠁿 England.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | 🏆 FIFA World Cup 2026 Quarter-final 3 : 🇳🇴 Norway vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England (23:00)
 https://dlhd.dad/watch.php?id=262
 
-#EXTINF:-1 tvg-id="moto2round11germanyqualifying" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇩🇪 Moto2 | Round 11 | Germany – Qualifying (13:35)" tvg-logo="https://coloringlib.com/wp-content/uploads/2023/08/print-inspirational-quotes-coloring.jpg" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇩🇪 Moto2 | Round 11 | Germany – Qualifying (13:35)
-https://dlhd.dad/watch.php?id=575
-
-#EXTINF:-1 tvg-id="motogpround11germanysprintrace" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇩🇪 MotoGP | Round 11 | Germany – Sprint Race (14:45)" tvg-logo="https://i.pinimg.com/originals/06/9d/79/069d79f720558aa15fa92095b2e05162.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇩🇪 MotoGP | Round 11 | Germany – Sprint Race (14:45)
-https://dlhd.dad/watch.php?id=575
-
-#EXTINF:-1 tvg-id="worldserieschamonixmensandwomensspeedfinal" tvg-name="Climbing 🧗 | 🧗 World Series | Chamonix Men's and Women's Speed | Final (21:00)" tvg-logo="https://cdn.donmai.us/original/74/a8/__tokisaki_mio_and_tokisaki_asaba_original_drawn_by_niliu_chahui__74a80eabf879fc6a1521dad9a235f0f5.jpg" group-title="Eventi Live DLHD",Climbing 🧗 | 🧗 World Series | Chamonix Men's and Women's Speed | Final (21:00)
+#EXTINF:-1 tvg-id="worldserieschamonixmensandwomensspeedfinal" tvg-name="Climbing 🧗 | 🧗 World Series | Chamonix Men's and Women's Speed | Final (21:00)" tvg-logo="https://imggen.eporner.com/3655892/1920/1080/7.jpg" group-title="Eventi Live DLHD",Climbing 🧗 | 🧗 World Series | Chamonix Men's and Women's Speed | Final (21:00)
 https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="tourdefrance2026stage8périgueuxbergeracflatstage182km1150melevation" tvg-name="Cycling 🚵 | 🚴 🇫🇷 Tour de France 2026 | Stage 8: Périgueux → Bergerac | Flat Stage | 182 km | 1,150 m Elevation (13:00)" tvg-logo="https://logodownload.org/wp-content/uploads/2020/04/google-drive-logo-0-1.png" group-title="Eventi Live DLHD",Cycling 🚵 | 🚴 🇫🇷 Tour de France 2026 | Stage 8: Périgueux → Bergerac | Flat Stage | 182 km | 1,150 m Elevation (13:00)
-https://dlhd.dad/watch.php?id=851
-
-#EXTINF:-1 tvg-id="tourdefrance2026stage8périgueuxbergeracflatstage182km1150melevation" tvg-name="Cycling 🚵 | 🚴 🇫🇷 Tour de France 2026 | Stage 8: Périgueux → Bergerac | Flat Stage | 182 km | 1,150 m Elevation (13:00)" tvg-logo="https://static-ca-cdn.eporner.com/photos/577373.jpg" group-title="Eventi Live DLHD",Cycling 🚵 | 🚴 🇫🇷 Tour de France 2026 | Stage 8: Périgueux → Bergerac | Flat Stage | 182 km | 1,150 m Elevation (13:00)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="ucimountainbikeworldseriesvallnordpalarinsalmenselitedownhill" tvg-name="Cycling 🚵 | 🚵 🇦🇩 UCI Mountain Bike World Series | Vallnord–Pal Arinsal | Men's Elite Downhill (13:30)" tvg-logo="https://i.pinimg.com/originals/d2/86/9f/d2869f71111150d1e786c9cc10d938f1.jpg" group-title="Eventi Live DLHD",Cycling 🚵 | 🚵 🇦🇩 UCI Mountain Bike World Series | Vallnord–Pal Arinsal | Men's Elite Downhill (13:30)
-https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="nationschampionshipfijivsengland" tvg-name="Rugby Union 🏉 | 🏉 Nations Championship 🇫🇯 Fiji vs 🏴 England (15:10)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🏉 Nations Championship 🇫🇯 Fiji_vs_🏴 England.png" group-title="Eventi Live DLHD",Rugby Union 🏉 | 🏉 Nations Championship 🇫🇯 Fiji vs 🏴 England (15:10)
 https://dlhd.dad/watch.php?id=462
