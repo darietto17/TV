@@ -11,8 +11,10 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="27.twentyseven.it" tvg-name="27 TWENTY SEVEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/260px-Twentyseven_logo.svg.png" group-title="Mediaset",27 TWENTY SEVEN (MPD)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="27.twentyseven.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/260px-Twentyseven_logo.svg.png" group-title="Mediaset",27 TWENTYSEVEN
+#EXTINF:-1 tvg-id="27.twentyseven.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/260px-Twentyseven_logo.svg.png" group-title="Mediaset",27 TWENTYSEVEN (1)
 https://vavoo.to/vavoo-iptv/play/6087746837741766a74b3
+#EXTINF:-1 tvg-id="27.twentyseven.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/260px-Twentyseven_logo.svg.png" group-title="Mediaset",27 TWENTYSEVEN (2)
+https://vavoo.to/vavoo-iptv/play/80896559d4a6e09d36f1
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvtvtv.ru/icons/51_tv.png" group-title="Musica",51 RADIO TV
 https://vavoo.to/vavoo-iptv/play/42162455520e0fbef4fafe
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",7 YOU & ME
@@ -150,6 +152,8 @@ https://vavoo.to/vavoo-iptv/play/196833914960066715a573
 https://vavoo.to/vavoo-iptv/play/861948627bb3b2465ad5a
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",DAZN 3
+https://vavoo.to/vavoo-iptv/play/6843606058d0cc03250ea
 #EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV (1)
 https://vavoo.to/vavoo-iptv/play/963607327f90ada131395
 #EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV (2)
@@ -353,6 +357,8 @@ https://vavoo.to/vavoo-iptv/play/3538009430947511be2991
 https://vavoo.to/vavoo-iptv/play/36572179483992957fcd47
 #EXTINF:-1 tvg-id="motor.trend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND
 https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
+#EXTINF:-1 tvg-id="mtv.hd.it" tvg-logo="" group-title="Musica",MTV
+https://vavoo.to/vavoo-iptv/play/3212860676dcc8c28a2be1
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (1)
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (2)
@@ -897,8 +903,6 @@ https://vavoo.to/vavoo-iptv/play/3413557893b1ed86e5018c
 https://vavoo.to/vavoo-iptv/play/24181484494b43d448b066
 #EXTINF:-1 tvg-id="topcalcio24.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPHW5VLQDGnNMVZszgWZRqnBSjPUTgAcUltQ&s" group-title="Sport",TOP CALCIO 24
 https://vavoo.to/vavoo-iptv/play/383554932681b8c3d5666a
-
-# DOCUMENTARI
 #EXTINF:-1 tvg-id="top.crime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Mediaset",TOP CRIME (1)
 https://vavoo.to/vavoo-iptv/play/269503091e10b2c24af1d
 #EXTINF:-1 tvg-id="top.crime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Mediaset",TOP CRIME (2)
@@ -910,6 +914,10 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",TRG MEDIA
 https://vavoo.to/vavoo-iptv/play/30209519673b772c86f279
+#EXTINF:-1 tvg-id="" tvg-logo="https://teleromagna.it/Images/logo-tr-sport.jpg" group-title="Sport",TRSPORT
+https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5
+
+# DOCUMENTARI
 #EXTINF:-1 tvg-id="tv2000.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/0/0d/Logo_di_TV2000.png" group-title="Altro",TV 2000
 https://vavoo.to/vavoo-iptv/play/1949044924a6c217960c23
 #EXTINF:-1 tvg-id="tv8.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tv8-it.png" group-title="Altro",TV 8 (1)
@@ -970,19 +978,19 @@ https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="2026wimbledonchampionships" tvg-name="🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (12:00)" tvg-logo="https://www.fergusonpartners.com/wp-content/uploads/2026-e1768585103764.png" group-title="Eventi Live DLHD",🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (12:00)
+#EXTINF:-1 tvg-id="2026wimbledonchampionships" tvg-name="🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (12:00)" tvg-logo="https://i.pinimg.com/736x/d8/4b/4c/d84b4c6c9398455ad1bdcfdaaebc3a46.jpg" group-title="Eventi Live DLHD",🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (12:00)
 https://dlhd.dad/watch.php?id=462
 
-#EXTINF:-1 tvg-id="2026wimbledonchampionships" tvg-name="🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (12:00)" tvg-logo="https://www.fergusonpartners.com/wp-content/uploads/2026-e1768585103764.png" group-title="Eventi Live DLHD",🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (12:00)
+#EXTINF:-1 tvg-id="2026wimbledonchampionships" tvg-name="🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (12:00)" tvg-logo="https://i.pinimg.com/736x/d8/4b/4c/d84b4c6c9398455ad1bdcfdaaebc3a46.jpg" group-title="Eventi Live DLHD",🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (12:00)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="2026wimbledonchampionships" tvg-name="🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (12:00)" tvg-logo="https://www.fergusonpartners.com/wp-content/uploads/2026-e1768585103764.png" group-title="Eventi Live DLHD",🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (12:00)
+#EXTINF:-1 tvg-id="2026wimbledonchampionships" tvg-name="🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (12:00)" tvg-logo="https://i.pinimg.com/736x/d8/4b/4c/d84b4c6c9398455ad1bdcfdaaebc3a46.jpg" group-title="Eventi Live DLHD",🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (12:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="fifaworldcup2026" tvg-name="⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (18:00)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/FIFA-Logo.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (18:00)
+#EXTINF:-1 tvg-id="fifaworldcup2026" tvg-name="⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (18:00)" tvg-logo="https://legionreport.com/wp-content/uploads/2026/06/what-is-fifa-cover.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (18:00)
 https://dlhd.dad/watch.php?id=262
 
-#EXTINF:-1 tvg-id="fifaworldcup2026" tvg-name="⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (18:00)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/FIFA-Logo.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (18:00)
+#EXTINF:-1 tvg-id="fifaworldcup2026" tvg-name="⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (18:00)" tvg-logo="https://legionreport.com/wp-content/uploads/2026/06/what-is-fifa-cover.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (18:00)
 https://dlhd.dad/watch.php?id=850
 
 #EXTINF:-1 tvg-id="fifaworldcup2026quarterfinal3norwayvsengland" tvg-name="All Soccer Events ⚽ | 🏆 FIFA World Cup 2026 Quarter-final 3 : 🇳🇴 Norway vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England (23:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇳🇴 Norway_vs_🏴󠁧󠁢󠁥󠁮󠁧󠁿 England.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | 🏆 FIFA World Cup 2026 Quarter-final 3 : 🇳🇴 Norway vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England (23:00)
@@ -991,49 +999,43 @@ https://dlhd.dad/watch.php?id=850
 #EXTINF:-1 tvg-id="fifaworldcup2026quarterfinal3norwayvsengland" tvg-name="All Soccer Events ⚽ | 🏆 FIFA World Cup 2026 Quarter-final 3 : 🇳🇴 Norway vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England (23:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇳🇴 Norway_vs_🏴󠁧󠁢󠁥󠁮󠁧󠁿 England.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | 🏆 FIFA World Cup 2026 Quarter-final 3 : 🇳🇴 Norway vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England (23:00)
 https://dlhd.dad/watch.php?id=262
 
-#EXTINF:-1 tvg-id="2026wimbledonchampionshipsgentlemensdoublesfinalladiessinglesfinal" tvg-name="Tennis 🎾 | 🎾 2026 Wimbledon Championships: 🌍 Gentlemen's Doubles Final | 🌍 Ladies' Singles Final (12:00)" tvg-logo="https://www.soulginv.com/wp-content/uploads/2021/02/shell-products-1024x576.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 2026 Wimbledon Championships: 🌍 Gentlemen's Doubles Final | 🌍 Ladies' Singles Final (12:00)
+#EXTINF:-1 tvg-id="2026wimbledonchampionshipsgentlemensdoublesfinalladiessinglesfinal" tvg-name="Tennis 🎾 | 🎾 2026 Wimbledon Championships: 🌍 Gentlemen's Doubles Final | 🌍 Ladies' Singles Final (12:00)" tvg-logo="http://www.pngall.com/wp-content/uploads/2016/07/Music-Free-PNG-Image.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 2026 Wimbledon Championships: 🌍 Gentlemen's Doubles Final | 🌍 Ladies' Singles Final (12:00)
 https://dlhd.dad/watch.php?id=462
 
-#EXTINF:-1 tvg-id="2026wimbledonchampionshipsgentlemensdoublesfinalladiessinglesfinal" tvg-name="Tennis 🎾 | 🎾 2026 Wimbledon Championships: 🌍 Gentlemen's Doubles Final | 🌍 Ladies' Singles Final (12:00)" tvg-logo="https://wallpapercave.com/wp/wp11498420.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 2026 Wimbledon Championships: 🌍 Gentlemen's Doubles Final | 🌍 Ladies' Singles Final (12:00)
+#EXTINF:-1 tvg-id="2026wimbledonchampionshipsgentlemensdoublesfinalladiessinglesfinal" tvg-name="Tennis 🎾 | 🎾 2026 Wimbledon Championships: 🌍 Gentlemen's Doubles Final | 🌍 Ladies' Singles Final (12:00)" tvg-logo="https://2.bp.blogspot.com/-PSV3qOvAfjM/Ujrsb-vkPVI/AAAAAAAACvI/33OaqWv2rKk/s1600/Ada+apa+denganmu.PNG" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 2026 Wimbledon Championships: 🌍 Gentlemen's Doubles Final | 🌍 Ladies' Singles Final (12:00)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="2026wimbledonchampionshipsgentlemensdoublesfinalladiessinglesfinal" tvg-name="Tennis 🎾 | 🎾 2026 Wimbledon Championships: 🌍 Gentlemen's Doubles Final | 🌍 Ladies' Singles Final (12:00)" tvg-logo="https://i.pinimg.com/originals/25/23/22/252322d72b4e371e7d1ca1ef0ed3162f.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 2026 Wimbledon Championships: 🌍 Gentlemen's Doubles Final | 🌍 Ladies' Singles Final (12:00)
+#EXTINF:-1 tvg-id="2026wimbledonchampionshipsgentlemensdoublesfinalladiessinglesfinal" tvg-name="Tennis 🎾 | 🎾 2026 Wimbledon Championships: 🌍 Gentlemen's Doubles Final | 🌍 Ladies' Singles Final (12:00)" tvg-logo="https://comicbook.com/wp-content/uploads/sites/4/2023/08/8f72ba8b-3c68-4c6c-99aa-ab62dd4eb9ce.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 2026 Wimbledon Championships: 🌍 Gentlemen's Doubles Final | 🌍 Ladies' Singles Final (12:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="motogpround11germanyfreepractice2" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇩🇪 MotoGP | Round 11 | Germany – Free Practice 2 (08:30)" tvg-logo="https://c8.alamy.com/comp/2P19BM5/toronto-blue-jays-rob-brantly-55-bats-during-a-spring-training-baseball-game-against-the-baltimore-orioles-on-march-1-2023-at-ed-smith-stadium-in-sarasota-florida-mike-janesfour-seam-images-via-ap-2P19BM5.jpg" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇩🇪 MotoGP | Round 11 | Germany – Free Practice 2 (08:30)
+#EXTINF:-1 tvg-id="moto2round11germanyfreepractice2" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇩🇪 Moto2 | Round 11 | Germany – Free Practice 2 (09:20)" tvg-logo="https://itemlevel.net/wp-content/uploads/2025/08/New-GUI-Inventory-in-Lightning-Update-Blox-Fruits.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇩🇪 Moto2 | Round 11 | Germany – Free Practice 2 (09:20)
 https://dlhd.dad/watch.php?id=575
 
-#EXTINF:-1 tvg-id="moto3round11germanyfreepractice2" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇩🇪 Moto3 | Round 11 | Germany – Free Practice 2 (08:35)" tvg-logo="https://ribsculpt.com/wp-content/uploads/2019/06/btb_ribsculpt_after_0018-360x360.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇩🇪 Moto3 | Round 11 | Germany – Free Practice 2 (08:35)
+#EXTINF:-1 tvg-id="moto3round11germanyqualifying" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇩🇪 Moto3 | Round 11 | Germany – Qualifying (12:45)" tvg-logo="https://static.clubs.nfl.com/image/private/f_auto/eagles/ndi7iucgdkcveqxu7adc.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇩🇪 Moto3 | Round 11 | Germany – Qualifying (12:45)
 https://dlhd.dad/watch.php?id=575
 
-#EXTINF:-1 tvg-id="moto2round11germanyfreepractice2" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇩🇪 Moto2 | Round 11 | Germany – Free Practice 2 (09:20)" tvg-logo="https://i.ytimg.com/vi/VP3aK1wdD5M/maxresdefault.jpg" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇩🇪 Moto2 | Round 11 | Germany – Free Practice 2 (09:20)
+#EXTINF:-1 tvg-id="moto2round11germanyqualifying" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇩🇪 Moto2 | Round 11 | Germany – Qualifying (13:35)" tvg-logo="https://static-ca-cdn.eporner.com/gallery/7w/qo/pzuKlieqo7w/512001-perfect-pussy-and-a-sandy-ass.jpg" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇩🇪 Moto2 | Round 11 | Germany – Qualifying (13:35)
 https://dlhd.dad/watch.php?id=575
 
-#EXTINF:-1 tvg-id="moto3round11germanyqualifying" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇩🇪 Moto3 | Round 11 | Germany – Qualifying (12:45)" tvg-logo="http://gunplatt.com/cdn/shop/files/hgpenelope.jpg?v=1734025416" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇩🇪 Moto3 | Round 11 | Germany – Qualifying (12:45)
+#EXTINF:-1 tvg-id="motogpround11germanysprintrace" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇩🇪 MotoGP | Round 11 | Germany – Sprint Race (14:45)" tvg-logo="https://ibb.appdev.web.id/images/2023/12/27/ls_land_03_merry_christmas_cover_14_11zon.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇩🇪 MotoGP | Round 11 | Germany – Sprint Race (14:45)
 https://dlhd.dad/watch.php?id=575
 
-#EXTINF:-1 tvg-id="moto2round11germanyqualifying" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇩🇪 Moto2 | Round 11 | Germany – Qualifying (13:35)" tvg-logo="https://di-uploads-development.dealerinspire.com/hondacarsofbellevue/uploads/2021/02/SEO.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇩🇪 Moto2 | Round 11 | Germany – Qualifying (13:35)
-https://dlhd.dad/watch.php?id=575
-
-#EXTINF:-1 tvg-id="motogpround11germanysprintrace" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇩🇪 MotoGP | Round 11 | Germany – Sprint Race (14:45)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇩🇪 MotoGP | Round 11 | Germany – Sprint Race (14:45)
-https://dlhd.dad/watch.php?id=575
-
-#EXTINF:-1 tvg-id="worldserieschamonixmensandwomensspeedfinal" tvg-name="Climbing 🧗 | 🧗 World Series | Chamonix Men's and Women's Speed | Final (21:00)" tvg-logo="https://wallpaperaccess.com/full/892400.png" group-title="Eventi Live DLHD",Climbing 🧗 | 🧗 World Series | Chamonix Men's and Women's Speed | Final (21:00)
+#EXTINF:-1 tvg-id="worldserieschamonixmensandwomensspeedfinal" tvg-name="Climbing 🧗 | 🧗 World Series | Chamonix Men's and Women's Speed | Final (21:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Climbing 🧗 | 🧗 World Series | Chamonix Men's and Women's Speed | Final (21:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="ucidownhillworldcupwomensjuniorpalarinsal" tvg-name="Cycling 🚵 | 🚵 🇦🇩 UCI Downhill World Cup | Women's Junior | Pal Arinsal (11:00)" tvg-logo="https://thehearthandhomestore.com/wp-content/uploads/2023/09/boho-floor-cushion-reading-nook.png" group-title="Eventi Live DLHD",Cycling 🚵 | 🚵 🇦🇩 UCI Downhill World Cup | Women's Junior | Pal Arinsal (11:00)
+#EXTINF:-1 tvg-id="ucidownhillworldcupwomensjuniorpalarinsal" tvg-name="Cycling 🚵 | 🚵 🇦🇩 UCI Downhill World Cup | Women's Junior | Pal Arinsal (11:00)" tvg-logo="https://www.partsgeek.com/assets/products/fulln/03269257-9BQBFLK1.jpg?7e0c0" group-title="Eventi Live DLHD",Cycling 🚵 | 🚵 🇦🇩 UCI Downhill World Cup | Women's Junior | Pal Arinsal (11:00)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="ucidownhillworldcupwomenselitepalarinsal" tvg-name="Cycling 🚵 | 🚵 🇦🇩 UCI Downhill World Cup | Women's Elite | Pal Arinsal (12:45)" tvg-logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2022/03/power-rangers-dino-super-charge-tv-show-poster.jpg" group-title="Eventi Live DLHD",Cycling 🚵 | 🚵 🇦🇩 UCI Downhill World Cup | Women's Elite | Pal Arinsal (12:45)
+#EXTINF:-1 tvg-id="ucidownhillworldcupwomenselitepalarinsal" tvg-name="Cycling 🚵 | 🚵 🇦🇩 UCI Downhill World Cup | Women's Elite | Pal Arinsal (12:45)" tvg-logo="https://media.okmagazine.com/brand-img/3dNRbHn6V/0x0/britney-spears-danglessunroof-los-angeles-freeway-dui-arrest3-1783709763025.png" group-title="Eventi Live DLHD",Cycling 🚵 | 🚵 🇦🇩 UCI Downhill World Cup | Women's Elite | Pal Arinsal (12:45)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="tourdefrance2026stage8périgueuxbergeracflatstage182km1150melevation" tvg-name="Cycling 🚵 | 🚴 🇫🇷 Tour de France 2026 | Stage 8: Périgueux → Bergerac | Flat Stage | 182 km | 1,150 m Elevation (13:00)" tvg-logo="https://i.pinimg.com/originals/8e/73/bc/8e73bcc98bc1f3c84b31e7c7131d8a3c.png" group-title="Eventi Live DLHD",Cycling 🚵 | 🚴 🇫🇷 Tour de France 2026 | Stage 8: Périgueux → Bergerac | Flat Stage | 182 km | 1,150 m Elevation (13:00)
+#EXTINF:-1 tvg-id="tourdefrance2026stage8périgueuxbergeracflatstage182km1150melevation" tvg-name="Cycling 🚵 | 🚴 🇫🇷 Tour de France 2026 | Stage 8: Périgueux → Bergerac | Flat Stage | 182 km | 1,150 m Elevation (13:00)" tvg-logo="https://crypto-fundraising.info/wp-content/uploads/funds/Funds/Union-Square-Ventures.png" group-title="Eventi Live DLHD",Cycling 🚵 | 🚴 🇫🇷 Tour de France 2026 | Stage 8: Périgueux → Bergerac | Flat Stage | 182 km | 1,150 m Elevation (13:00)
 https://dlhd.dad/watch.php?id=851
 
-#EXTINF:-1 tvg-id="tourdefrance2026stage8périgueuxbergeracflatstage182km1150melevation" tvg-name="Cycling 🚵 | 🚴 🇫🇷 Tour de France 2026 | Stage 8: Périgueux → Bergerac | Flat Stage | 182 km | 1,150 m Elevation (13:00)" tvg-logo="https://ew.com/thmb/xOv2rXc0EVvs6FbMmR2QttGGcZE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/best-monster-movies-101823-9f8e438f4b03435884a49e1283499006.jpg" group-title="Eventi Live DLHD",Cycling 🚵 | 🚴 🇫🇷 Tour de France 2026 | Stage 8: Périgueux → Bergerac | Flat Stage | 182 km | 1,150 m Elevation (13:00)
+#EXTINF:-1 tvg-id="tourdefrance2026stage8périgueuxbergeracflatstage182km1150melevation" tvg-name="Cycling 🚵 | 🚴 🇫🇷 Tour de France 2026 | Stage 8: Périgueux → Bergerac | Flat Stage | 182 km | 1,150 m Elevation (13:00)" tvg-logo="https://www.brandcolorcode.com/images/color-palette/hp.png" group-title="Eventi Live DLHD",Cycling 🚵 | 🚴 🇫🇷 Tour de France 2026 | Stage 8: Périgueux → Bergerac | Flat Stage | 182 km | 1,150 m Elevation (13:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="ucimountainbikeworldseriesvallnordpalarinsalmenselitedownhill" tvg-name="Cycling 🚵 | 🚵 🇦🇩 UCI Mountain Bike World Series | Vallnord–Pal Arinsal | Men's Elite Downhill (13:30)" tvg-logo="https://americansongwriter.com/wp-content/uploads/2021/03/GabrelsEdwardsMcnulty-1024x683.jpeg" group-title="Eventi Live DLHD",Cycling 🚵 | 🚵 🇦🇩 UCI Mountain Bike World Series | Vallnord–Pal Arinsal | Men's Elite Downhill (13:30)
+#EXTINF:-1 tvg-id="ucimountainbikeworldseriesvallnordpalarinsalmenselitedownhill" tvg-name="Cycling 🚵 | 🚵 🇦🇩 UCI Mountain Bike World Series | Vallnord–Pal Arinsal | Men's Elite Downhill (13:30)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/75aa8752-5a10-4272-ac6b-8801136cd4e5/diru6du-805ca918-27a2-44d7-aa6b-31c529235e77.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc1YWE4NzUyLTVhMTAtNDI3Mi1hYzZiLTg4MDExMzZjZDRlNVwvZGlydTZkdS04MDVjYTkxOC0yN2EyLTQ0ZDctYWE2Yi0zMWM1MjkyMzVlNzcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.uheqmEUiOJsv1YmQ-X0RTtUtr1CDCg5C_1Wv2nGDEvM" group-title="Eventi Live DLHD",Cycling 🚵 | 🚵 🇦🇩 UCI Mountain Bike World Series | Vallnord–Pal Arinsal | Men's Elite Downhill (13:30)
 https://dlhd.dad/watch.php?id=879
 
 #EXTINF:-1 tvg-id="nationschampionshipaustraliavsfrance" tvg-name="Rugby Union 🏉 | 🏉 Nations Championship 🇦🇺 Australia vs 🇫🇷 France (09:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🏉 Nations Championship 🇦🇺 Australia_vs_🇫🇷 France.png" group-title="Eventi Live DLHD",Rugby Union 🏉 | 🏉 Nations Championship 🇦🇺 Australia vs 🇫🇷 France (09:30)
