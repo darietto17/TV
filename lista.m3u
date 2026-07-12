@@ -72,8 +72,6 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
 https://vavoo.to/vavoo-iptv/play/3841982646469504c9c5fc
 #EXTINF:-1 tvg-id="boomerang.it" tvg-logo="" group-title="Altro",BOOMERANG
 https://vavoo.to/vavoo-iptv/play/270562780243aa8d36614f
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaMdUB8WEdsRVi_WZLxoi79pqlRef4s9Zehg&s" group-title="Altro",BYOBLU
-https://vavoo.to/vavoo-iptv/play/2826111812745ee617058d
 #EXTINF:-1 tvg-id="caccia.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/caccia-it.png?raw=true" group-title="Altro",CACCIA
 https://vavoo.to/vavoo-iptv/play/1692155417ce364b21d0ca
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/DW0Tvz72-8XZ7rEBVh1jBzwYE1fZhTaowuuxN75Jl8yBtnFkySH1z2T2b7OPlotmHeQ" group-title="Altro",CAFE 24
@@ -107,7 +105,9 @@ https://vavoo.to/vavoo-iptv/play/31075009959a8de9232b11
 https://vavoo.to/vavoo-iptv/play/143172936059b3a0bf594c
 #EXTINF:-1 tvg-id="" tvg-logo="https://radiocarina.it/wp-content/uploads/2024/01/RadioCarina-Vers.2.png" group-title="Altro",CARINA TV
 https://vavoo.to/vavoo-iptv/play/1527236924d8d52d57c2e3
-#EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK
+#EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK (1)
+https://vavoo.to/vavoo-iptv/play/1744435623b422a758373c
+#EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK (2)
 https://vavoo.to/vavoo-iptv/play/1289777017c50e3cf3fd74
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (1)
 https://vavoo.to/vavoo-iptv/play/19872204364fe52737bf18
@@ -150,8 +150,6 @@ https://vavoo.to/vavoo-iptv/play/196833914960066715a573
 https://vavoo.to/vavoo-iptv/play/861948627bb3b2465ad5a
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",DAZN 3
-https://vavoo.to/vavoo-iptv/play/6843606058d0cc03250ea
 #EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV (1)
 https://vavoo.to/vavoo-iptv/play/963607327f90ada131395
 #EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV (2)
@@ -357,9 +355,7 @@ https://vavoo.to/vavoo-iptv/play/36572179483992957fcd47
 https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
 #EXTINF:-1 tvg-id="mtv.hd.it" tvg-logo="" group-title="Musica",MTV
 https://vavoo.to/vavoo-iptv/play/3212860676dcc8c28a2be1
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (1)
-https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO
 https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari",NAT GEO WILD
 https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2
@@ -542,8 +538,6 @@ https://vavoo.to/vavoo-iptv/play/1810817472eb83e2609e85
 https://vavoo.to/vavoo-iptv/play/2528607377858e5f38ad32
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",RAKUTEN TV DRAMA MOVIES ITALY
 https://vavoo.to/vavoo-iptv/play/3709565277575dc0e24113
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",RAKUTEN TV FAMILY MOVIES ITALY
-https://vavoo.to/vavoo-iptv/play/37898788895c371a08a3b2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",RAKUTEN TV ROMANCE MOVIES ITALY
 https://vavoo.to/vavoo-iptv/play/3147240888262c9b3a94a8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",RAKUTEN TV SCI-FI ITALY
@@ -554,10 +548,8 @@ https://vavoo.to/vavoo-iptv/play/2181370916661ad3ef41e2
 https://vavoo.to/vavoo-iptv/play/4031388312f5ebcfc7dc6d
 #EXTINF:-1 tvg-id="rdssocialtv.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png" group-title="Musica",RDS SOCIAL TV
 https://vavoo.to/vavoo-iptv/play/36560804080912cdf76cbf
-#EXTINF:-1 tvg-id="real.time.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro",REAL TIME (1)
+#EXTINF:-1 tvg-id="real.time.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro",REAL TIME
 https://vavoo.to/vavoo-iptv/play/157497519660249c278f94
-#EXTINF:-1 tvg-id="real.time.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro",REAL TIME (2)
-https://vavoo.to/vavoo-iptv/play/2251241999722578d55332
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Reggio_TV_logo.png/640px-Reggio_TV_logo.png" group-title="Altro",REGGIO TV
 https://vavoo.to/vavoo-iptv/play/216554978929adb39fe170
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rei-tv-it.png?raw=true" group-title="Altro",REI TV
@@ -587,9 +579,7 @@ https://vavoo.to/vavoo-iptv/play/2209352147379c000ac415
 https://vavoo.to/vavoo-iptv/play/24556102030a38fc13c387
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1 (2)
 https://vavoo.to/vavoo-iptv/play/22903950460d6b257bf610
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2 (1)
-https://vavoo.to/vavoo-iptv/play/3590183307ca309aa6be37
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2 (2)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2
 https://vavoo.to/vavoo-iptv/play/3475299702c52e31a7073f
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/7PzluYVAEVOCNzGYGkewkKI3PA0PkCKAc9KUZGfYzAbZnQLnlPAE5iQBMZEUi7ZKwJc" group-title="Altro",RTC TELECALABRIA
 https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc
@@ -701,9 +691,13 @@ https://vavoo.to/vavoo-iptv/play/525374356eb78c097e6a2
 https://vavoo.to/vavoo-iptv/play/15369343494e510eea4a0
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 3 (2)
 https://vavoo.to/vavoo-iptv/play/573618724778189abe38c
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 4 (1)
 https://vavoo.to/vavoo-iptv/play/31379908902c3fc54d6e13
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 4 (2)
+https://vavoo.to/vavoo-iptv/play/2416993844407639cb4e74
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 5 (1)
+https://vavoo.to/vavoo-iptv/play/22550838661912f18327a2
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 5 (2)
 https://vavoo.to/vavoo-iptv/play/29098187562943fdca9002
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 6 (1)
 https://vavoo.to/vavoo-iptv/play/325121729090a7b71fb865
@@ -790,8 +784,6 @@ https://vavoo.to/vavoo-iptv/play/33428493134b007f2ed197
 https://vavoo.to/vavoo-iptv/play/21984103395cacdfaf1d34
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ST EUROPE CHANNEL
 https://vavoo.to/vavoo-iptv/play/2356295928676bcb269bb3
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",STAR CHANNEL
-https://vavoo.to/vavoo-iptv/play/323779351103799e6e03b2
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/star-comedy-pt.png?raw=true" group-title="Altro",STAR COMEDY
 https://vavoo.to/vavoo-iptv/play/151207238423ec1d54e5b8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",STAR CRIME
@@ -968,6 +960,60 @@ https://vavoo.to/vavoo-iptv/play/3069499316a3427a69a204
 https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb
 
 # MEDIASET
+
+#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
+https://example.com.m3u8
+
+#EXTINF:-1 tvg-id="2026wimbledonchampionships" tvg-name="🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (12:00)" tvg-logo="https://1000logos.net/wp-content/uploads/2023/05/World-Cup-2026-Emblem.png" group-title="Eventi Live DLHD",🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (12:00)
+https://dlhd.dad/watch.php?id=462
+
+#EXTINF:-1 tvg-id="2026wimbledonchampionships" tvg-name="🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (12:00)" tvg-logo="https://1000logos.net/wp-content/uploads/2023/05/World-Cup-2026-Emblem.png" group-title="Eventi Live DLHD",🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (12:00)
+https://dlhd.dad/watch.php?id=461
+
+#EXTINF:-1 tvg-id="2026wimbledonchampionships" tvg-name="🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (12:00)" tvg-logo="https://1000logos.net/wp-content/uploads/2023/05/World-Cup-2026-Emblem.png" group-title="Eventi Live DLHD",🎾 Tennis Wimbledon Championships 2026 🎾 | 2026 Wimbledon Championships (12:00)
+https://dlhd.dad/watch.php?id=576
+
+#EXTINF:-1 tvg-id="fifaworldcup2026" tvg-name="⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (18:00)" tvg-logo="https://vortex-sport.nl/wp-content/uploads/2026/06/Nation-and-group-specific-environmental-stress-at-the-2026-FIFA-World-Cup.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (18:00)
+https://dlhd.dad/watch.php?id=262
+
+#EXTINF:-1 tvg-id="fifaworldcup2026" tvg-name="⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (18:00)" tvg-logo="https://vortex-sport.nl/wp-content/uploads/2026/06/Nation-and-group-specific-environmental-stress-at-the-2026-FIFA-World-Cup.png" group-title="Eventi Live DLHD",⚽ FIFA World Cup 2026 🏆 | FIFA World Cup 2026 (18:00)
+https://dlhd.dad/watch.php?id=850
+
+#EXTINF:-1 tvg-id="2026wimbledonchampionshipsladiesdoublesfinalgentssinglesfinal" tvg-name="Tennis 🎾 | 🎾 2026 Wimbledon Championships Ladies Doubles Final / Gents Singles Final (12:00)" tvg-logo="https://i.pinimg.com/originals/81/c9/6d/81c96d5eea1ff256e13d1bde40b78539.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 2026 Wimbledon Championships Ladies Doubles Final / Gents Singles Final (12:00)
+https://dlhd.dad/watch.php?id=462
+
+#EXTINF:-1 tvg-id="2026wimbledonchampionshipsladiesdoublesfinalgentssinglesfinal" tvg-name="Tennis 🎾 | 🎾 2026 Wimbledon Championships Ladies Doubles Final / Gents Singles Final (12:00)" tvg-logo="https://viperslots.com/wp-content/uploads/2023/11/Rainy-1536x681.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 2026 Wimbledon Championships Ladies Doubles Final / Gents Singles Final (12:00)
+https://dlhd.dad/watch.php?id=461
+
+#EXTINF:-1 tvg-id="2026wimbledonchampionshipsladiesdoublesfinalgentssinglesfinal" tvg-name="Tennis 🎾 | 🎾 2026 Wimbledon Championships Ladies Doubles Final / Gents Singles Final (12:00)" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/martha_speaks.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 2026 Wimbledon Championships Ladies Doubles Final / Gents Singles Final (12:00)
+https://dlhd.dad/watch.php?id=576
+
+#EXTINF:-1 tvg-id="motogpround11germanywarmup" tvg-name="Motorsport 🏎️🏁 | 🏍️ MotoGP | Round 11 | Germany – Warm Up (09:30)" tvg-logo="https://people.com/thmb/afP-BnTiZPRH3csjWM0hZBgQ5CM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(960x445:962x447)/How-Did-Amal-George-Clooney-Meet-inside-Lawyer-Actors-Early-Days-as-Penpals-01-2f9533d5215e4d5cbcfbc8f51534544d.jpg" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ MotoGP | Round 11 | Germany – Warm Up (09:30)
+https://dlhd.dad/watch.php?id=575
+
+#EXTINF:-1 tvg-id="moto3round11germanyrace" tvg-name="Motorsport 🏎️🏁 | 🏍️ Moto3 | Round 11 | Germany – Race (10:00)" tvg-logo="http://coloropedia.com/wp-content/uploads/2021/12/central-missouri-mules-logo.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ Moto3 | Round 11 | Germany – Race (10:00)
+https://dlhd.dad/watch.php?id=575
+
+#EXTINF:-1 tvg-id="moto2round11germanyrace" tvg-name="Motorsport 🏎️🏁 | 🏍️ Moto2 | Round 11 | Germany – Race (12:00)" tvg-logo="https://image.tensorartassets.com/cdn-cgi/image/w=600/model_showcase/0/40172c65-e87d-493f-0824-2a5593001b6c.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ Moto2 | Round 11 | Germany – Race (12:00)
+https://dlhd.dad/watch.php?id=575
+
+#EXTINF:-1 tvg-id="motogpround11germanyrace" tvg-name="Motorsport 🏎️🏁 | 🏍️ MotoGP | Round 11 | Germany – Race (13:15)" tvg-logo="https://www.greatestphysiques.com/wp-content/uploads/2019/02/Paige-Spiranac.08.jpg" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ MotoGP | Round 11 | Germany – Race (13:15)
+https://dlhd.dad/watch.php?id=575
+
+#EXTINF:-1 tvg-id="fiawec6hoursofsãopaulorace" tvg-name="Motorsport 🏎️🏁 | 🏎️ FIA WEC | 6 Hours of São Paulo – Race (18:30)" tvg-logo="https://www.mapnations.com/countries/usa/states/indiana/maps/indiana-map.jpg" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ FIA WEC | 6 Hours of São Paulo – Race (18:30)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="ifscclimbingworldcupchamonixmensampwomensleadfinals" tvg-name="Climbing 🧗 | 🧗 IFSC Climbing World Cup : 🇫🇷 Chamonix – Men's &amp; Women's Lead Finals (20:30)" tvg-logo="https://i.redd.it/ein6c2p8wnq41.png" group-title="Eventi Live DLHD",Climbing 🧗 | 🧗 IFSC Climbing World Cup : 🇫🇷 Chamonix – Men's &amp; Women's Lead Finals (20:30)
+https://dlhd.dad/watch.php?id=879
+
+#EXTINF:-1 tvg-id="ucimountainbikeworldseriespalarinsalwomenselitecrosscountryolympicxco" tvg-name="Cycling 🚵 | 🚵 UCI Mountain Bike World Series : 🇦🇩 Pal Arinsal – Women's Elite Cross-country Olympic (XCO) (13:00)" tvg-logo="https://www.queenmarys.org/app/uploads/2020/04/Netball-e1586193488527.jpg" group-title="Eventi Live DLHD",Cycling 🚵 | 🚵 UCI Mountain Bike World Series : 🇦🇩 Pal Arinsal – Women's Elite Cross-country Olympic (XCO) (13:00)
+https://dlhd.dad/watch.php?id=879
+
+#EXTINF:-1 tvg-id="tourdefrance2026stage9malemortusselhilly185km3300melevation" tvg-name="Cycling 🚵 | 🚴 Tour de France 2026 : 🇫🇷 Stage 9 – Malemort → Ussel (Hilly) • 185 km • 3,300 m Elevation (13:30)" tvg-logo="https://luckyandme.com/cdn/shop/products/ryan-boxers-youth-nautical-group-4000px_2048x.jpg?v=1746751552" group-title="Eventi Live DLHD",Cycling 🚵 | 🚴 Tour de France 2026 : 🇫🇷 Stage 9 – Malemort → Ussel (Hilly) • 185 km • 3,300 m Elevation (13:30)
+https://dlhd.dad/watch.php?id=878
+
+#EXTINF:-1 tvg-id="ucimountainbikeworldseriespalarinsalmenselitecrosscountryolympicxco" tvg-name="Cycling 🚵 | 🚵 UCI Mountain Bike World Series : 🇦🇩 Pal Arinsal – Men's Elite Cross-country Olympic (XCO) (15:15)" tvg-logo="https://i.pinimg.com/originals/e8/55/86/e85586c2b866e7c639ef433ef6a57cc7.jpg" group-title="Eventi Live DLHD",Cycling 🚵 | 🚵 UCI Mountain Bike World Series : 🇦🇩 Pal Arinsal – Men's Elite Cross-country Olympic (XCO) (15:15)
+https://dlhd.dad/watch.php?id=879
 
 
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",YeÅil Yalova x Gaziantep FK 11:00
