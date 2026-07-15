@@ -29,6 +29,8 @@ https://vavoo.to/vavoo-iptv/play/13516316035c18ca000fe1
 https://vavoo.to/vavoo-iptv/play/15558564102ab0cc0f61cf
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ALICE
 https://vavoo.to/vavoo-iptv/play/3092239866ed8b329f2cdf
+#EXTINF:-1 tvg-id="almatv.it" tvg-logo="" group-title="Altro",ALMA TV
+https://vavoo.to/vavoo-iptv/play/41311137232a677f05622a
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSdt3E_MmezXRKr7QOUEr0leEcErbaNGqbog&s" group-title="Altro",ALTO ADIGE TV
 https://vavoo.to/vavoo-iptv/play/68845853044f9c95e43e
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.omceo.bg.it/images/loghi/antenna-2.png" group-title="Altro",ANTENNA 2
@@ -103,6 +105,8 @@ https://vavoo.to/vavoo-iptv/play/2749478718a361866152ca
 https://vavoo.to/vavoo-iptv/play/31075009959a8de9232b11
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",CANALE DIECI
 https://vavoo.to/vavoo-iptv/play/143172936059b3a0bf594c
+#EXTINF:-1 tvg-id="" tvg-logo="https://radiocarina.it/wp-content/uploads/2024/01/RadioCarina-Vers.2.png" group-title="Altro",CARINA TV
+https://vavoo.to/vavoo-iptv/play/1527236924d8d52d57c2e3
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK (1)
 https://vavoo.to/vavoo-iptv/play/1744435623b422a758373c
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK (2)
@@ -148,9 +152,13 @@ https://vavoo.to/vavoo-iptv/play/196833914960066715a573
 https://vavoo.to/vavoo-iptv/play/861948627bb3b2465ad5a
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",DAZN 3
+https://vavoo.to/vavoo-iptv/play/6843606058d0cc03250ea
 #EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV
 https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319
-#EXTINF:-1 tvg-id="discovery.channel.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="discovery.channel.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL (1)
+https://vavoo.to/vavoo-iptv/play/1955739367e1de6e90adc1
+#EXTINF:-1 tvg-id="discovery.channel.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL (2)
 https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
 #EXTINF:-1 tvg-id="focus.it" tvg-name="DISCOVERY FOCUS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Documentari",DISCOVERY FOCUS (MPD)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
@@ -347,8 +355,6 @@ https://vavoo.to/vavoo-iptv/play/3538009430947511be2991
 https://vavoo.to/vavoo-iptv/play/36572179483992957fcd47
 #EXTINF:-1 tvg-id="motor.trend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND
 https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
-#EXTINF:-1 tvg-id="mtv.hd.it" tvg-logo="" group-title="Musica",MTV
-https://vavoo.to/vavoo-iptv/play/3212860676dcc8c28a2be1
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (1)
 https://vavoo.to/vavoo-iptv/play/1735702308f63b4637e8ce
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (2)
@@ -426,9 +432,7 @@ https://vavoo.to/vavoo-iptv/play/246253359a81d94887441
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="rai3.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Rai",RAI 3 (1)
-https://vavoo.to/vavoo-iptv/play/1324733956dd45e42ab076
-#EXTINF:-1 tvg-id="rai3.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Rai",RAI 3 (2)
+#EXTINF:-1 tvg-id="rai3.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Rai",RAI 3
 https://vavoo.to/vavoo-iptv/play/869117599e36bb7de752c
 #EXTINF:-1 tvg-id="rai3.it" tvg-name="RAI 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-3-it.png" group-title="Rai",RAI 3 (MPD)
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -958,18 +962,6 @@ https://vavoo.to/vavoo-iptv/play/3069499316a3427a69a204
 https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb
 
 # MEDIASET
-
-#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
-https://example.com.m3u8
-
-#EXTINF:-1 tvg-id="fifaworldcupsemifinal2englandvsargentina" tvg-name="All Soccer Events ⚽ | 🏆 FIFA World Cup Semi-final 2: 🏴 England vs 🇦🇷 Argentina (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🏴 England_vs_🇦🇷 Argentina.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | 🏆 FIFA World Cup Semi-final 2: 🏴 England vs 🇦🇷 Argentina (21:00)
-https://dlhd.dad/watch.php?id=850
-
-#EXTINF:-1 tvg-id="fifaworldcupsemifinal2englandvsargentina" tvg-name="All Soccer Events ⚽ | 🏆 FIFA World Cup Semi-final 2: 🏴 England vs 🇦🇷 Argentina (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🏴 England_vs_🇦🇷 Argentina.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | 🏆 FIFA World Cup Semi-final 2: 🏴 England vs 🇦🇷 Argentina (21:00)
-https://dlhd.dad/watch.php?id=262
-
-#EXTINF:-1 tvg-id="fifaworldcupsemifinal2englandvsargentina" tvg-name="All Soccer Events ⚽ | 🏆 FIFA World Cup Semi-final 2: 🏴 England vs 🇦🇷 Argentina (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🏴 England_vs_🇦🇷 Argentina.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | 🏆 FIFA World Cup Semi-final 2: 🏴 England vs 🇦🇷 Argentina (21:00)
-https://dlhd.dad/watch.php?id=5065
 
 
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",YeÅil Yalova x Gaziantep FK 11:00
