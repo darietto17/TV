@@ -43,8 +43,6 @@ https://vavoo.to/vavoo-iptv/play/430570853d0b7479b224d
 https://vavoo.to/vavoo-iptv/play/3267376899f976b1a231c0
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN8by3YXjCGJQaxT6b-cgZ872BjY_NLIrALA&s" group-title="Altro",AVENGERS GRIMM CHANNEL
 https://vavoo.to/vavoo-iptv/play/1506307932300e27c2fd43
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/baby-tv-es.png?raw=true" group-title="Bambini",BABY TV
-https://vavoo.to/vavoo-iptv/play/226572794257a18add58e4
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",BBC SERIES
 https://vavoo.to/vavoo-iptv/play/1640233647b0779ba035a1
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",BBC TOP GEAR ITALY
@@ -552,8 +550,10 @@ https://vavoo.to/vavoo-iptv/play/2181370916661ad3ef41e2
 https://vavoo.to/vavoo-iptv/play/4031388312f5ebcfc7dc6d
 #EXTINF:-1 tvg-id="rdssocialtv.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png" group-title="Musica",RDS SOCIAL TV
 https://vavoo.to/vavoo-iptv/play/36560804080912cdf76cbf
-#EXTINF:-1 tvg-id="real.time.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro",REAL TIME
+#EXTINF:-1 tvg-id="real.time.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro",REAL TIME (1)
 https://vavoo.to/vavoo-iptv/play/157497519660249c278f94
+#EXTINF:-1 tvg-id="real.time.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/real-time-it.png" group-title="Altro",REAL TIME (2)
+https://vavoo.to/vavoo-iptv/play/2251241999722578d55332
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Reggio_TV_logo.png/640px-Reggio_TV_logo.png" group-title="Altro",REGGIO TV
 https://vavoo.to/vavoo-iptv/play/216554978929adb39fe170
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rei-tv-it.png?raw=true" group-title="Altro",REI TV
@@ -788,8 +788,6 @@ https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
 https://vavoo.to/vavoo-iptv/play/33428493134b007f2ed197
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORTITALIA SOLOCALCIO
 https://vavoo.to/vavoo-iptv/play/21984103395cacdfaf1d34
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ST EUROPE CHANNEL
-https://vavoo.to/vavoo-iptv/play/2356295928676bcb269bb3
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",STAR CHANNEL
 https://vavoo.to/vavoo-iptv/play/323779351103799e6e03b2
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/star-comedy-pt.png?raw=true" group-title="Altro",STAR COMEDY
@@ -874,8 +872,6 @@ https://vavoo.to/vavoo-iptv/play/1794299695413e7553c574
 # BAMBINI
 #EXTINF:-1 tvg-id="" tvg-logo="https://telequattro.medianordest.it/wp-content/uploads/2020/10/T4Logo.png" group-title="Altro",TELEQUATTRO
 https://vavoo.to/vavoo-iptv/play/10839846696ddb422bcd88
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/T%C3%A9l%C3%A9rama_logo.png" group-title="Altro",TELERAMA
-https://vavoo.to/vavoo-iptv/play/4017608910fce4d0302c20
 #EXTINF:-1 tvg-id="" tvg-logo="https://teleromagna.it/images/teleromagna-logo.png" group-title="Altro",TELEROMAGNA
 https://vavoo.to/vavoo-iptv/play/279439224488ada9f3a1b3
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",TELESPAZIO TV
@@ -972,13 +968,13 @@ https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="atp250kitzbühelatp250estorilwta250hamburgwta250pragueearlyrounds" tvg-name="Tennis 🎾 | 🎾 ATP 250 Kitzbühel • ATP 250 Estoril • WTA 250 Hamburg • WTA 250 Prague : Early Rounds (12:00)" tvg-logo="https://i.pinimg.com/236x/4d/e3/14/4de314b3e2cf070f31f280b0003e2e6d.jpg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 ATP 250 Kitzbühel • ATP 250 Estoril • WTA 250 Hamburg • WTA 250 Prague : Early Rounds (12:00)
+#EXTINF:-1 tvg-id="atp250kitzbühelatp250estorilwta250hamburgwta250pragueearlyrounds" tvg-name="Tennis 🎾 | 🎾 ATP 250 Kitzbühel • ATP 250 Estoril • WTA 250 Hamburg • WTA 250 Prague : Early Rounds (12:00)" tvg-logo="https://2.bp.blogspot.com/-PSV3qOvAfjM/Ujrsb-vkPVI/AAAAAAAACvI/33OaqWv2rKk/s1600/Ada+apa+denganmu.PNG" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 ATP 250 Kitzbühel • ATP 250 Estoril • WTA 250 Hamburg • WTA 250 Prague : Early Rounds (12:00)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="atp250kitzbühelatp250estorilwta250hamburgwta250pragueearlyrounds" tvg-name="Tennis 🎾 | 🎾 ATP 250 Kitzbühel • ATP 250 Estoril • WTA 250 Hamburg • WTA 250 Prague : Early Rounds (12:00)" tvg-logo="https://www.pinclipart.com/picdir/big/6-64408_heart-clipart-clipart-slanted-circle-png-download.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 ATP 250 Kitzbühel • ATP 250 Estoril • WTA 250 Hamburg • WTA 250 Prague : Early Rounds (12:00)
+#EXTINF:-1 tvg-id="atp250kitzbühelatp250estorilwta250hamburgwta250pragueearlyrounds" tvg-name="Tennis 🎾 | 🎾 ATP 250 Kitzbühel • ATP 250 Estoril • WTA 250 Hamburg • WTA 250 Prague : Early Rounds (12:00)" tvg-logo="https://cruiseradio.net/wp-content/uploads/2023/12/msc-cruise-ships-by-age-1030x687.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 ATP 250 Kitzbühel • ATP 250 Estoril • WTA 250 Hamburg • WTA 250 Prague : Early Rounds (12:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="tourdefrance2026stage16individualtimetrialitt26km500melevationgain" tvg-name="Cycling 🚵 | 🚴 Tour de France 2026 🇫🇷 Stage 16 – Individual Time Trial (ITT) | 📏 26 km | ⛰️ 500 m elevation gain (13:00)" tvg-logo="https://alimg.szlcsc.com/upload/public/pdf/image/20210607/C2837297_00D8D267C644AB33690C798CA58B6487/C2837297_00D8D267C644AB33690C798CA58B6487_0002.png" group-title="Eventi Live DLHD",Cycling 🚵 | 🚴 Tour de France 2026 🇫🇷 Stage 16 – Individual Time Trial (ITT) | 📏 26 km | ⛰️ 500 m elevation gain (13:00)
+#EXTINF:-1 tvg-id="tourdefrance2026stage16individualtimetrialitt26km500melevationgain" tvg-name="Cycling 🚵 | 🚴 Tour de France 2026 🇫🇷 Stage 16 – Individual Time Trial (ITT) | 📏 26 km | ⛰️ 500 m elevation gain (13:00)" tvg-logo="https://2.bp.blogspot.com/-PSV3qOvAfjM/Ujrsb-vkPVI/AAAAAAAACvI/33OaqWv2rKk/s1600/Ada+apa+denganmu.PNG" group-title="Eventi Live DLHD",Cycling 🚵 | 🚴 Tour de France 2026 🇫🇷 Stage 16 – Individual Time Trial (ITT) | 📏 26 km | ⛰️ 500 m elevation gain (13:00)
 https://dlhd.dad/watch.php?id=878
 
 
