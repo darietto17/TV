@@ -70,6 +70,8 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
 https://vavoo.to/vavoo-iptv/play/3841982646469504c9c5fc
 #EXTINF:-1 tvg-id="boomerang.it" tvg-logo="" group-title="Altro",BOOMERANG
 https://vavoo.to/vavoo-iptv/play/270562780243aa8d36614f
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaMdUB8WEdsRVi_WZLxoi79pqlRef4s9Zehg&s" group-title="Altro",BYOBLU
+https://vavoo.to/vavoo-iptv/play/2826111812745ee617058d
 #EXTINF:-1 tvg-id="caccia.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/caccia-it.png?raw=true" group-title="Altro",CACCIA
 https://vavoo.to/vavoo-iptv/play/1692155417ce364b21d0ca
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/DW0Tvz72-8XZ7rEBVh1jBzwYE1fZhTaowuuxN75Jl8yBtnFkySH1z2T2b7OPlotmHeQ" group-title="Altro",CAFE 24
@@ -148,8 +150,6 @@ https://vavoo.to/vavoo-iptv/play/196833914960066715a573
 https://vavoo.to/vavoo-iptv/play/861948627bb3b2465ad5a
 #EXTINF:-1 tvg-id="dazn.1.it.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Dazn-logo.png" group-title="Sport",DAZN 1
 https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",DAZN 3
-https://vavoo.to/vavoo-iptv/play/6843606058d0cc03250ea
 #EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV (1)
 https://vavoo.to/vavoo-iptv/play/963607327f90ada131395
 #EXTINF:-1 tvg-id="deejay.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Musica",DEEJAY TV (2)
@@ -187,8 +187,6 @@ https://vavoo.to/vavoo-iptv/play/273312373c6b3b01f31cf
 https://vavoo.to/vavoo-iptv/play/35697313256d80f80b732e
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/9/93/Eurotv.png" group-title="Altro",EURO TV
 https://vavoo.to/vavoo-iptv/play/422225837740225c1416e8
-#EXTINF:-1 tvg-id="euronews.it" tvg-logo="https://play-lh.googleusercontent.com/Mi8GAQIp3x94VcvbxZNsK-CTNhHy1zmo51pmME5KkkK4WgN4aQhM1FlNgLZUMD4VAXhL" group-title="News",EURONEWS
-https://vavoo.to/vavoo-iptv/play/49095557997f00b59c5b8
 #EXTINF:-1 tvg-id="eurosport1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (1)
 https://vavoo.to/vavoo-iptv/play/34813468571b25fb16646d
 #EXTINF:-1 tvg-id="eurosport1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Sport",EUROSPORT 1 (2)
@@ -524,6 +522,8 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&force
 https://vavoo.to/vavoo-iptv/play/178550192490bfbe154312
 #EXTINF:-1 tvg-id="raiyoyo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Rai",RAI YOYO (2)
 https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
+
+# NEWS
 #EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="RAI YOYO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Rai",RAI YOYO (MPD)
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
@@ -655,7 +655,9 @@ https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
 https://vavoo.to/vavoo-iptv/play/28721519114f66aff68e22
 #EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (2)
 https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
-#EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24
+#EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24 (1)
+https://vavoo.to/vavoo-iptv/play/2236517134d5e218f6528e
+#EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24 (2)
 https://vavoo.to/vavoo-iptv/play/16998765309700e7076450
 #EXTINF:-1 tvg-id="sky.crime.it" tvg-logo="" group-title="Film - Serie TV",SKY CRIME
 https://vavoo.to/vavoo-iptv/play/354961873760dbb54cfa7
@@ -729,7 +731,9 @@ https://vavoo.to/vavoo-iptv/play/344556251909fe0b312736
 https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3
 #EXTINF:-1 tvg-id="sky.sport.arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (2)
 https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6
-#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO
+#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (1)
+https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
+#EXTINF:-1 tvg-id="sky.sport.calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (2)
 https://vavoo.to/vavoo-iptv/play/449990998077a7691828f
 #EXTINF:-1 tvg-id="sky.sport.f1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1
 https://vavoo.to/vavoo-iptv/play/42467740561588897497f2
@@ -791,7 +795,7 @@ https://vavoo.to/vavoo-iptv/play/151207238423ec1d54e5b8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",STAR CRIME
 https://vavoo.to/vavoo-iptv/play/28436429458ff4e2cc4ae6
 
-# NEWS
+# RAI
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/star-life-ar.png?raw=true" group-title="Altro",STAR LIFE
 https://vavoo.to/vavoo-iptv/play/3946128844a366ea9809f0
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.stereo5.it/2022/wp-content/uploads/2023/02/LOGO-NUOVO-2023-2.png" group-title="Altro",STEREO 5 TV
@@ -928,8 +932,6 @@ https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStj45lIWvQ0KFzv6jyIP9vOZgPnWQirEl6dw&s" group-title="News",TV7 NEWS
 https://vavoo.to/vavoo-iptv/play/28023290645ecbd632b9ce
-
-# RAI
 #EXTINF:-1 tvg-id="" tvg-logo="https://massimoemanuelli.com/wp-content/uploads/2017/10/tva-vi-2.png" group-title="Altro",TVA VICENZA (1)
 https://vavoo.to/vavoo-iptv/play/3071392662a754d82b0840
 #EXTINF:-1 tvg-id="" tvg-logo="https://massimoemanuelli.com/wp-content/uploads/2017/10/tva-vi-2.png" group-title="Altro",TVA VICENZA (2)
@@ -981,46 +983,37 @@ https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="clubfriendlystandardliègevsjuventus" tvg-name="Club Friendly ⚽ | ⚽ 🇧🇪 Club Friendly : Standard Liège 🇧🇪 vs Juventus 🇮🇹 (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Standard Liège 🇧🇪_vs_Juventus 🇮🇹.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🇧🇪 Club Friendly : Standard Liège 🇧🇪 vs Juventus 🇮🇹 (20:00)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="atpkitzbühelfinalampatpestorilwtahamburgwtapraguesemifinals" tvg-name="Tennis 🎾 | 🎾 ATP Kitzbühel Final &amp; ATP Estoril / WTA Hamburg / WTA Prague Semi-finals (13:00)" tvg-logo="https://img.directindustry.com/pdf/repository_di/11639/3811a-compact-hardness-tester-345769_1mg.jpg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 ATP Kitzbühel Final &amp; ATP Estoril / WTA Hamburg / WTA Prague Semi-finals (13:00)
+#EXTINF:-1 tvg-id="atpkitzbühelfinalampatpestorilwtahamburgwtapraguesemifinals" tvg-name="Tennis 🎾 | 🎾 ATP Kitzbühel Final &amp; ATP Estoril / WTA Hamburg / WTA Prague Semi-finals (13:00)" tvg-logo="https://www.uttarakhandi.com/wp-content/uploads/Badrinath_photo.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 ATP Kitzbühel Final &amp; ATP Estoril / WTA Hamburg / WTA Prague Semi-finals (13:00)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="atpkitzbühelfinalampatpestorilwtahamburgwtapraguesemifinals" tvg-name="Tennis 🎾 | 🎾 ATP Kitzbühel Final &amp; ATP Estoril / WTA Hamburg / WTA Prague Semi-finals (13:00)" tvg-logo="https://i.stack.imgur.com/OS8YX.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 ATP Kitzbühel Final &amp; ATP Estoril / WTA Hamburg / WTA Prague Semi-finals (13:00)
+#EXTINF:-1 tvg-id="atpkitzbühelfinalampatpestorilwtahamburgwtapraguesemifinals" tvg-name="Tennis 🎾 | 🎾 ATP Kitzbühel Final &amp; ATP Estoril / WTA Hamburg / WTA Prague Semi-finals (13:00)" tvg-logo="https://wikibio.in/wp-content/uploads/2023/09/Dharmendra-Pradhan-1.jpg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 ATP Kitzbühel Final &amp; ATP Estoril / WTA Hamburg / WTA Prague Semi-finals (13:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="formula3awshungariangrandprixsprintrace" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 3 : AWS Hungarian Grand Prix – Sprint Race (10:05)" tvg-logo="https://static.vecteezy.com/system/resources/previews/015/055/690/large_2x/sailboat-sailing-in-the-mediterranean-sea-calm-waters-free-photo.jpg" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 3 : AWS Hungarian Grand Prix – Sprint Race (10:05)
+#EXTINF:-1 tvg-id="formula1awshungariangrandprixpractice3" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 1 : AWS Hungarian Grand Prix – Practice 3 (12:30)" tvg-logo="https://photos.zillowstatic.com/fp/54abbc51c0bb58e535bd76e4b7bd4cb0-p_e.jpg" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 1 : AWS Hungarian Grand Prix – Practice 3 (12:30)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="formula3awshungariangrandprixsprintrace" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 3 : AWS Hungarian Grand Prix – Sprint Race (10:05)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8a30824c-5998-4a89-81bb-d179f9e0503c/dh288qw-673b1138-8cce-4576-b779-d53a074619fe.png/v1/fill/w_878,h_910,q_70,strp/half_body___pose_reference_drawing___1_by_thechieftainshand_dh288qw-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjgwMCIsInBhdGgiOiJcL2ZcLzhhMzA4MjRjLTU5OTgtNGE4OS04MWJiLWQxNzlmOWUwNTAzY1wvZGgyODhxdy02NzNiMTEzOC04Y2NlLTQ1NzYtYjc3OS1kNTNhMDc0NjE5ZmUucG5nIiwid2lkdGgiOiI8PTI3MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.NmrEVPzc712gv8N45lTe9uhSZBOLItBxeruRhWVmJi0" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 3 : AWS Hungarian Grand Prix – Sprint Race (10:05)
+#EXTINF:-1 tvg-id="formula1awshungariangrandprixpractice3" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 1 : AWS Hungarian Grand Prix – Practice 3 (12:30)" tvg-logo="https://d3rw207pwvlq3a.cloudfront.net/attachments/000/193/680/original/image.png?1626273491" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 1 : AWS Hungarian Grand Prix – Practice 3 (12:30)
 https://dlhd.dad/watch.php?id=3047
 
-#EXTINF:-1 tvg-id="formula1awshungariangrandprixpractice3" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 1 : AWS Hungarian Grand Prix – Practice 3 (12:30)" tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/d/dc/Walt_Disney_Animation_Studios_Logo_(Wreck-It_Ralph).jpg/revision/latest/scale-to-width-down/1200?cb=20250122004703" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 1 : AWS Hungarian Grand Prix – Practice 3 (12:30)
+#EXTINF:-1 tvg-id="formula2awshungariangrandprixsprintrace" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 2 : AWS Hungarian Grand Prix – Sprint Race (14:15)" tvg-logo="https://d20ohkaloyme4g.cloudfront.net/img/document_thumbnails/f2cc21e0e79330c0a5907a071b95279a/thumb_1200_3000.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 2 : AWS Hungarian Grand Prix – Sprint Race (14:15)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="formula1awshungariangrandprixpractice3" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 1 : AWS Hungarian Grand Prix – Practice 3 (12:30)" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2022-12/nba-canada--ce131630-c1ab-4fe2-bfe1-875b00bd5503.png?itok=3-SJ_Xhv" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 1 : AWS Hungarian Grand Prix – Practice 3 (12:30)
+#EXTINF:-1 tvg-id="formula2awshungariangrandprixsprintrace" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 2 : AWS Hungarian Grand Prix – Sprint Race (14:15)" tvg-logo="https://dropinblog.net/34251073/files/featured/42575660_How_To_Grow_Green_Onions_From_Seed.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 2 : AWS Hungarian Grand Prix – Sprint Race (14:15)
 https://dlhd.dad/watch.php?id=3047
 
-#EXTINF:-1 tvg-id="formula2awshungariangrandprixsprintrace" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 2 : AWS Hungarian Grand Prix – Sprint Race (14:15)" tvg-logo="https://views4you.com/wp-content/uploads/2023/02/How-to-Make-a-YouTube-Video-Step-by-Step-Guide.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 2 : AWS Hungarian Grand Prix – Sprint Race (14:15)
+#EXTINF:-1 tvg-id="formula1awshungariangrandprixqualifying" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 1 : AWS Hungarian Grand Prix – Qualifying (16:00)" tvg-logo="https://wallpaperset.com/w/full/4/7/4/464485.jpg" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 1 : AWS Hungarian Grand Prix – Qualifying (16:00)
 https://dlhd.dad/watch.php?id=577
 
-#EXTINF:-1 tvg-id="formula2awshungariangrandprixsprintrace" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 2 : AWS Hungarian Grand Prix – Sprint Race (14:15)" tvg-logo="https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3663628258110032986" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 2 : AWS Hungarian Grand Prix – Sprint Race (14:15)
-https://dlhd.dad/watch.php?id=3047
-
-#EXTINF:-1 tvg-id="formula1awshungariangrandprixqualifying" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 1 : AWS Hungarian Grand Prix – Qualifying (16:00)" tvg-logo="https://mikaelkorpela.fi/wp-content/uploads/2025/01/f7923-trustroots-logo.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 1 : AWS Hungarian Grand Prix – Qualifying (16:00)
-https://dlhd.dad/watch.php?id=577
-
-#EXTINF:-1 tvg-id="tourdefrancestage20mountain171km5450m" tvg-name="Cycling 🚴 | 🚴 Tour de France : Stage 20 – Mountain | 171 km | 5,450 m (11:30)" tvg-logo="https://s2.pictoa.com/media/galleries/290/149/2901495fe363fd49b1f/37698405fe363fed3fb5.jpg" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 Tour de France : Stage 20 – Mountain | 171 km | 5,450 m (11:30)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="fieworldchampionshipshongkongday1" tvg-name="Fencing 🤺 | 🤺 FIE World Championships – Hong Kong : Day 1 (12:30)" tvg-logo="https://i.pinimg.com/originals/56/e2/81/56e281d8ad5459a384f2e9040c61667d.jpg" group-title="Eventi Live DLHD",Fencing 🤺 | 🤺 FIE World Championships – Hong Kong : Day 1 (12:30)
+#EXTINF:-1 tvg-id="fieworldchampionshipshongkongday1" tvg-name="Fencing 🤺 | 🤺 FIE World Championships – Hong Kong : Day 1 (12:30)" tvg-logo="https://image2.slideserve.com/4301159/celebrations-or-special-ceremonies-l.jpg" group-title="Eventi Live DLHD",Fencing 🤺 | 🤺 FIE World Championships – Hong Kong : Day 1 (12:30)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="worldtriathlonchampionshipserieslondonwomenssprint" tvg-name="Triathlon 🏊🚴🏃 | 🏊🚴🏃 World Triathlon Championship Series – London : Women's Sprint (15:15)" tvg-logo="https://www.nowfoods.com/sites/default/files/styles/cloudzoom_image/public/2023-02/2392_mainimage.png?itok=yAhXVsEW" group-title="Eventi Live DLHD",Triathlon 🏊🚴🏃 | 🏊🚴🏃 World Triathlon Championship Series – London : Women's Sprint (15:15)
+#EXTINF:-1 tvg-id="worldtriathlonchampionshipserieslondonwomenssprint" tvg-name="Triathlon 🏊🚴🏃 | 🏊🚴🏃 World Triathlon Championship Series – London : Women's Sprint (15:15)" tvg-logo="https://content.tomplay.com/preview/2023/09/Dion_pour_que_tu_maimes_encore_ea_piano_solo_fl_nata_v1_20-09-23_0001.png" group-title="Eventi Live DLHD",Triathlon 🏊🚴🏃 | 🏊🚴🏃 World Triathlon Championship Series – London : Women's Sprint (15:15)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="worldtriathlonchampionshipserieslondonmenssprint" tvg-name="Triathlon 🏊🚴🏃 | 🏊🚴🏃 World Triathlon Championship Series – London : Men's Sprint (17:00)" tvg-logo="https://americanbobcat.blog/wp-content/uploads/2023/10/planet-mercury-_surface.png?w=1024" group-title="Eventi Live DLHD",Triathlon 🏊🚴🏃 | 🏊🚴🏃 World Triathlon Championship Series – London : Men's Sprint (17:00)
+#EXTINF:-1 tvg-id="worldtriathlonchampionshipserieslondonmenssprint" tvg-name="Triathlon 🏊🚴🏃 | 🏊🚴🏃 World Triathlon Championship Series – London : Men's Sprint (17:00)" tvg-logo="https://animalko.com/wp-content/uploads/2025/03/The-10-Best-Pet-Frogs-For-Beginners-1080x562.jpg" group-title="Eventi Live DLHD",Triathlon 🏊🚴🏃 | 🏊🚴🏃 World Triathlon Championship Series – London : Men's Sprint (17:00)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="commonwealthgamesglasgowday2s2swimmingampparaswimming" tvg-name="Water Sports 🏊 | 🏊 Commonwealth Games Glasgow – Day 2 S2: Swimming &amp; Para Swimming (20:00)" tvg-logo="http://celeb.gate.cc/media/cache/original/upload/a/r/arabella-nova-xxx-20214.png" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 Commonwealth Games Glasgow – Day 2 S2: Swimming &amp; Para Swimming (20:00)
+#EXTINF:-1 tvg-id="commonwealthgamesglasgowday2s2swimmingampparaswimming" tvg-name="Water Sports 🏊 | 🏊 Commonwealth Games Glasgow – Day 2 S2: Swimming &amp; Para Swimming (20:00)" tvg-logo="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/10/suguru-geto.png" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 Commonwealth Games Glasgow – Day 2 S2: Swimming &amp; Para Swimming (20:00)
 https://dlhd.dad/watch.php?id=878
 
 
