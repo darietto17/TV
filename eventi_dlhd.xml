@@ -1,3 +1,164 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ClubFriendlyBurnleyvsTorino">
+    <display-name>⚽ 🤝 Club Friendly: 🏴 Burnley vs 🇮🇹 Torino</display-name>
+  </channel>
+  <programme start="20260802000000 +0200" stop="20260802160000 +0200" channel="ClubFriendlyBurnleyvsTorino">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">⚽ 🤝 Club Friendly: 🏴 Burnley vs 🇮🇹 Torino.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260802160000 +0200" stop="20260802180000 +0200" channel="ClubFriendlyBurnleyvsTorino">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🤝 Club Friendly: 🏴 Burnley vs 🇮🇹 Torino</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
+  <channel id="ClubFriendlyAscolivsLazio">
+    <display-name>⚽ 🤝 Club Friendly: 🇮🇹 Ascoli vs 🇮🇹 Lazio</display-name>
+  </channel>
+  <programme start="20260802000000 +0200" stop="20260802204500 +0200" channel="ClubFriendlyAscolivsLazio">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ 🤝 Club Friendly: 🇮🇹 Ascoli vs 🇮🇹 Lazio.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260802204500 +0200" stop="20260802224500 +0200" channel="ClubFriendlyAscolivsLazio">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🤝 Club Friendly: 🇮🇹 Ascoli vs 🇮🇹 Lazio</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
+  <channel id="WashingtonDCATPSinglesFinalWTASinglesFinalampATPDoublesFinal">
+    <display-name>🎾 🇺🇸 Washington, D.C.: ATP Singles Final, WTA Singles Final &amp; ATP Doubles Final</display-name>
+  </channel>
+  <programme start="20260802000000 +0200" stop="20260802170000 +0200" channel="WashingtonDCATPSinglesFinalWTASinglesFinalampATPDoublesFinal">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">🎾 🇺🇸 Washington, D.C.: ATP Singles Final, WTA Singles Final &amp; ATP Doubles Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260802170000 +0200" stop="20260802190000 +0200" channel="WashingtonDCATPSinglesFinalWTASinglesFinalampATPDoublesFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 🇺🇸 Washington, D.C.: ATP Singles Final, WTA Singles Final &amp; ATP Doubles Final</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <channel id="WashingtonOpenFinal">
+    <display-name>🎾 🇺🇸 Washington Open: Final</display-name>
+  </channel>
+  <programme start="20260803000000 +0200" stop="20260803020000 +0200" channel="WashingtonOpenFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 🇺🇸 Washington Open: Final</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <channel id="CanadaATPWTA1stRound">
+    <display-name>🎾 🇨🇦 Canada ATP/WTA: 1st Round</display-name>
+  </channel>
+  <programme start="20260803000000 +0200" stop="20260803010000 +0200" channel="CanadaATPWTA1stRound">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">🎾 🇨🇦 Canada ATP/WTA: 1st Round.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260803010000 +0200" stop="20260803030000 +0200" channel="CanadaATPWTA1stRound">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 🇨🇦 Canada ATP/WTA: 1st Round</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <programme start="20260803000000 +0200" stop="20260803010000 +0200" channel="CanadaATPWTA1stRound">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">🎾 🇨🇦 Canada ATP/WTA: 1st Round.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260803010000 +0200" stop="20260803030000 +0200" channel="CanadaATPWTA1stRound">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 🇨🇦 Canada ATP/WTA: 1st Round</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <channel id="FIMMotocrossWorldChampionshipMXGPRace2">
+    <display-name>🏍️ 🌍 FIM Motocross World Championship: MXGP – Race 2</display-name>
+  </channel>
+  <programme start="20260802000000 +0200" stop="20260802170000 +0200" channel="FIMMotocrossWorldChampionshipMXGPRace2">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">🏍️ 🌍 FIM Motocross World Championship: MXGP – Race 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260802170000 +0200" stop="20260802190000 +0200" channel="FIMMotocrossWorldChampionshipMXGPRace2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏍️ 🌍 FIM Motocross World Championship: MXGP – Race 2</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="ShanghaiMastersFinalAfternoonSession">
+    <display-name>🎱 🇨🇳 Shanghai Masters: Final – Afternoon Session</display-name>
+  </channel>
+  <programme start="20260802000000 +0200" stop="20260802080000 +0200" channel="ShanghaiMastersFinalAfternoonSession">
+    <title lang="it">Inizia alle 08:00.</title>
+    <desc lang="it">🎱 🇨🇳 Shanghai Masters: Final – Afternoon Session.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260802080000 +0200" stop="20260802100000 +0200" channel="ShanghaiMastersFinalAfternoonSession">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎱 🇨🇳 Shanghai Masters: Final – Afternoon Session</desc>
+    <category lang="it">Snooker 🎱</category>
+  </programme>
+  <channel id="ShanghaiMastersFinalEveningSession">
+    <display-name>🎱 🇨🇳 Shanghai Masters: Final – Evening Session</display-name>
+  </channel>
+  <programme start="20260802000000 +0200" stop="20260802140000 +0200" channel="ShanghaiMastersFinalEveningSession">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">🎱 🇨🇳 Shanghai Masters: Final – Evening Session.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260802140000 +0200" stop="20260802160000 +0200" channel="ShanghaiMastersFinalEveningSession">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎱 🇨🇳 Shanghai Masters: Final – Evening Session</desc>
+    <category lang="it">Snooker 🎱</category>
+  </programme>
+  <channel id="UIMF1H2OWorldChampionship2026GrandPrixofKyrgyzstanDay2Race">
+    <display-name>🚤 🇰🇬 UIM F1H2O World Championship 2026: Grand Prix of Kyrgyzstan – Day 2 Race</display-name>
+  </channel>
+  <programme start="20260802000000 +0200" stop="20260802110000 +0200" channel="UIMF1H2OWorldChampionship2026GrandPrixofKyrgyzstanDay2Race">
+    <title lang="it">Inizia alle 11:00.</title>
+    <desc lang="it">🚤 🇰🇬 UIM F1H2O World Championship 2026: Grand Prix of Kyrgyzstan – Day 2 Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260802110000 +0200" stop="20260802130000 +0200" channel="UIMF1H2OWorldChampionship2026GrandPrixofKyrgyzstanDay2Race">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚤 🇰🇬 UIM F1H2O World Championship 2026: Grand Prix of Kyrgyzstan – Day 2 Race</desc>
+    <category lang="it">Sailing ⛵/ Boating 🚤</category>
+  </programme>
+  <channel id="TourofDenmarkStage5MenKgetoRdovre1362km">
+    <display-name>🚴 🇩🇰 Tour of Denmark: Stage 5 Men – Køge to Rødovre (136.2 km)</display-name>
+  </channel>
+  <programme start="20260802000000 +0200" stop="20260802133000 +0200" channel="TourofDenmarkStage5MenKgetoRdovre1362km">
+    <title lang="it">Inizia alle 13:30.</title>
+    <desc lang="it">🚴 🇩🇰 Tour of Denmark: Stage 5 Men – Køge to Rødovre (136.2 km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260802133000 +0200" stop="20260802153000 +0200" channel="TourofDenmarkStage5MenKgetoRdovre1362km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 🇩🇰 Tour of Denmark: Stage 5 Men – Køge to Rødovre (136.2 km)</desc>
+    <category lang="it">Cycling 🚴</category>
+  </programme>
+  <channel id="TourdeFranceWomenwithZwiftStage2AigletoGeneva149km">
+    <display-name>🚴 🇫🇷 Tour de France Women with Zwift: Stage 2 – Aigle to Geneva (149 km)</display-name>
+  </channel>
+  <programme start="20260802000000 +0200" stop="20260802153000 +0200" channel="TourdeFranceWomenwithZwiftStage2AigletoGeneva149km">
+    <title lang="it">Inizia alle 15:30.</title>
+    <desc lang="it">🚴 🇫🇷 Tour de France Women with Zwift: Stage 2 – Aigle to Geneva (149 km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260802153000 +0200" stop="20260802173000 +0200" channel="TourdeFranceWomenwithZwiftStage2AigletoGeneva149km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 🇫🇷 Tour de France Women with Zwift: Stage 2 – Aigle to Geneva (149 km)</desc>
+    <category lang="it">Cycling 🚴</category>
+  </programme>
+  <channel id="FISSkiJumpingGrandPrixWisaHS134MensCompetitionDay2">
+    <display-name>⛷️ 🇵🇱 FIS Ski Jumping Grand Prix: Wisła HS134 – Men's Competition | Day 2</display-name>
+  </channel>
+  <programme start="20260802000000 +0200" stop="20260802143000 +0200" channel="FISSkiJumpingGrandPrixWisaHS134MensCompetitionDay2">
+    <title lang="it">Inizia alle 14:30.</title>
+    <desc lang="it">⛷️ 🇵🇱 FIS Ski Jumping Grand Prix: Wisła HS134 – Men's Competition | Day 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260802143000 +0200" stop="20260802163000 +0200" channel="FISSkiJumpingGrandPrixWisaHS134MensCompetitionDay2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⛷️ 🇵🇱 FIS Ski Jumping Grand Prix: Wisła HS134 – Men's Competition | Day 2</desc>
+    <category lang="it">Ski Jumping ⛷️</category>
+  </programme>
 </tv>
