@@ -1,28 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ClubFriendlyBurnleyvsTorino">
-    <display-name>⚽ 🤝 Club Friendly: 🏴 Burnley vs 🇮🇹 Torino</display-name>
-  </channel>
-  <programme start="20260802000000 +0200" stop="20260802160000 +0200" channel="ClubFriendlyBurnleyvsTorino">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">⚽ 🤝 Club Friendly: 🏴 Burnley vs 🇮🇹 Torino.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260802160000 +0200" stop="20260802180000 +0200" channel="ClubFriendlyBurnleyvsTorino">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🤝 Club Friendly: 🏴 Burnley vs 🇮🇹 Torino</desc>
-    <category lang="it">Club Friendly ⚽</category>
-  </programme>
-  <programme start="20260802000000 +0200" stop="20260802160000 +0200" channel="ClubFriendlyBurnleyvsTorino">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">⚽ 🤝 Club Friendly: 🏴 Burnley vs 🇮🇹 Torino.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260802160000 +0200" stop="20260802180000 +0200" channel="ClubFriendlyBurnleyvsTorino">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🤝 Club Friendly: 🏴 Burnley vs 🇮🇹 Torino</desc>
-    <category lang="it">Club Friendly ⚽</category>
-  </programme>
   <channel id="ClubFriendlyAscolivsLazio">
     <display-name>⚽ 🤝 Club Friendly: 🇮🇹 Ascoli vs 🇮🇹 Lazio</display-name>
   </channel>
@@ -45,19 +22,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">⚽ 🤝 Club Friendly: 🇮🇹 Ascoli vs 🇮🇹 Lazio</desc>
     <category lang="it">Club Friendly ⚽</category>
-  </programme>
-  <channel id="WashingtonDCATPSinglesFinalWTASinglesFinalampATPDoublesFinal">
-    <display-name>🎾 🇺🇸 Washington, D.C.: ATP Singles Final, WTA Singles Final &amp; ATP Doubles Final</display-name>
-  </channel>
-  <programme start="20260802000000 +0200" stop="20260802170000 +0200" channel="WashingtonDCATPSinglesFinalWTASinglesFinalampATPDoublesFinal">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">🎾 🇺🇸 Washington, D.C.: ATP Singles Final, WTA Singles Final &amp; ATP Doubles Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260802170000 +0200" stop="20260802190000 +0200" channel="WashingtonDCATPSinglesFinalWTASinglesFinalampATPDoublesFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎾 🇺🇸 Washington, D.C.: ATP Singles Final, WTA Singles Final &amp; ATP Doubles Final</desc>
-    <category lang="it">Tennis 🎾</category>
   </programme>
   <channel id="WashingtonOpenFinal">
     <display-name>🎾 🇺🇸 Washington Open: Final</display-name>
@@ -89,31 +53,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">🎾 🇨🇦 Canada ATP/WTA: 1st Round</desc>
     <category lang="it">Tennis 🎾</category>
-  </programme>
-  <channel id="FIMMotocrossWorldChampionshipMXGPRace2">
-    <display-name>🏍️ 🌍 FIM Motocross World Championship: MXGP – Race 2</display-name>
-  </channel>
-  <programme start="20260802000000 +0200" stop="20260802170000 +0200" channel="FIMMotocrossWorldChampionshipMXGPRace2">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">🏍️ 🌍 FIM Motocross World Championship: MXGP – Race 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260802170000 +0200" stop="20260802190000 +0200" channel="FIMMotocrossWorldChampionshipMXGPRace2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏍️ 🌍 FIM Motocross World Championship: MXGP – Race 2</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
-  <channel id="TourdeFranceWomenwithZwiftStage2AigletoGeneva149km">
-    <display-name>🚴 🇫🇷 Tour de France Women with Zwift: Stage 2 – Aigle to Geneva (149 km)</display-name>
-  </channel>
-  <programme start="20260802000000 +0200" stop="20260802153000 +0200" channel="TourdeFranceWomenwithZwiftStage2AigletoGeneva149km">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">🚴 🇫🇷 Tour de France Women with Zwift: Stage 2 – Aigle to Geneva (149 km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260802153000 +0200" stop="20260802173000 +0200" channel="TourdeFranceWomenwithZwiftStage2AigletoGeneva149km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🚴 🇫🇷 Tour de France Women with Zwift: Stage 2 – Aigle to Geneva (149 km)</desc>
-    <category lang="it">Cycling 🚴</category>
   </programme>
 </tv>
