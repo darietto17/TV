@@ -103,19 +103,6 @@
     <desc lang="it">🏍️ 🌍 FIM Motocross World Championship: MXGP – Race 2</desc>
     <category lang="it">Motorsport 🏎️🏁</category>
   </programme>
-  <channel id="ShanghaiMastersFinalEveningSession">
-    <display-name>🎱 🇨🇳 Shanghai Masters: Final – Evening Session</display-name>
-  </channel>
-  <programme start="20260802000000 +0200" stop="20260802140000 +0200" channel="ShanghaiMastersFinalEveningSession">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">🎱 🇨🇳 Shanghai Masters: Final – Evening Session.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260802140000 +0200" stop="20260802160000 +0200" channel="ShanghaiMastersFinalEveningSession">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎱 🇨🇳 Shanghai Masters: Final – Evening Session</desc>
-    <category lang="it">Snooker 🎱</category>
-  </programme>
   <channel id="TourdeFranceWomenwithZwiftStage2AigletoGeneva149km">
     <display-name>🚴 🇫🇷 Tour de France Women with Zwift: Stage 2 – Aigle to Geneva (149 km)</display-name>
   </channel>
@@ -128,18 +115,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">🚴 🇫🇷 Tour de France Women with Zwift: Stage 2 – Aigle to Geneva (149 km)</desc>
     <category lang="it">Cycling 🚴</category>
-  </programme>
-  <channel id="FISSkiJumpingGrandPrixWisaHS134MensCompetitionDay2">
-    <display-name>⛷️ 🇵🇱 FIS Ski Jumping Grand Prix: Wisła HS134 – Men's Competition | Day 2</display-name>
-  </channel>
-  <programme start="20260802000000 +0200" stop="20260802143000 +0200" channel="FISSkiJumpingGrandPrixWisaHS134MensCompetitionDay2">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">⛷️ 🇵🇱 FIS Ski Jumping Grand Prix: Wisła HS134 – Men's Competition | Day 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260802143000 +0200" stop="20260802163000 +0200" channel="FISSkiJumpingGrandPrixWisaHS134MensCompetitionDay2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⛷️ 🇵🇱 FIS Ski Jumping Grand Prix: Wisła HS134 – Men's Competition | Day 2</desc>
-    <category lang="it">Ski Jumping ⛷️</category>
   </programme>
 </tv>
