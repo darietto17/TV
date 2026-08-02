@@ -1,34 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="WashingtonOpenFinal">
-    <display-name>🎾 🇺🇸 Washington Open: Final</display-name>
-  </channel>
-  <programme start="20260803000000 +0200" stop="20260803020000 +0200" channel="WashingtonOpenFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎾 🇺🇸 Washington Open: Final</desc>
-    <category lang="it">Tennis 🎾</category>
-  </programme>
-  <channel id="CanadaATPWTA1stRound">
-    <display-name>🎾 🇨🇦 Canada ATP/WTA: 1st Round</display-name>
-  </channel>
-  <programme start="20260803000000 +0200" stop="20260803010000 +0200" channel="CanadaATPWTA1stRound">
-    <title lang="it">Inizia alle 01:00.</title>
-    <desc lang="it">🎾 🇨🇦 Canada ATP/WTA: 1st Round.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260803010000 +0200" stop="20260803030000 +0200" channel="CanadaATPWTA1stRound">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎾 🇨🇦 Canada ATP/WTA: 1st Round</desc>
-    <category lang="it">Tennis 🎾</category>
-  </programme>
-  <programme start="20260803000000 +0200" stop="20260803010000 +0200" channel="CanadaATPWTA1stRound">
-    <title lang="it">Inizia alle 01:00.</title>
-    <desc lang="it">🎾 🇨🇦 Canada ATP/WTA: 1st Round.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260803010000 +0200" stop="20260803030000 +0200" channel="CanadaATPWTA1stRound">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎾 🇨🇦 Canada ATP/WTA: 1st Round</desc>
-    <category lang="it">Tennis 🎾</category>
-  </programme>
 </tv>
