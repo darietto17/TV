@@ -1,28 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ClubFriendlyAscolivsLazio">
-    <display-name>⚽ 🤝 Club Friendly: 🇮🇹 Ascoli vs 🇮🇹 Lazio</display-name>
-  </channel>
-  <programme start="20260802000000 +0200" stop="20260802204500 +0200" channel="ClubFriendlyAscolivsLazio">
-    <title lang="it">Inizia alle 20:45.</title>
-    <desc lang="it">⚽ 🤝 Club Friendly: 🇮🇹 Ascoli vs 🇮🇹 Lazio.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260802204500 +0200" stop="20260802224500 +0200" channel="ClubFriendlyAscolivsLazio">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🤝 Club Friendly: 🇮🇹 Ascoli vs 🇮🇹 Lazio</desc>
-    <category lang="it">Club Friendly ⚽</category>
-  </programme>
-  <programme start="20260802000000 +0200" stop="20260802204500 +0200" channel="ClubFriendlyAscolivsLazio">
-    <title lang="it">Inizia alle 20:45.</title>
-    <desc lang="it">⚽ 🤝 Club Friendly: 🇮🇹 Ascoli vs 🇮🇹 Lazio.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260802204500 +0200" stop="20260802224500 +0200" channel="ClubFriendlyAscolivsLazio">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🤝 Club Friendly: 🇮🇹 Ascoli vs 🇮🇹 Lazio</desc>
-    <category lang="it">Club Friendly ⚽</category>
-  </programme>
   <channel id="WashingtonOpenFinal">
     <display-name>🎾 🇺🇸 Washington Open: Final</display-name>
   </channel>
