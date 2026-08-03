@@ -1,3 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ATPMontrealampWTA1000TorontoDay1Session1">
+    <display-name>🎾 ATP Montreal &amp; WTA 1000 Toronto : Day 1, Session 1</display-name>
+  </channel>
+  <programme start="20260803000000 +0200" stop="20260803170000 +0200" channel="ATPMontrealampWTA1000TorontoDay1Session1">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">🎾 ATP Montreal &amp; WTA 1000 Toronto : Day 1, Session 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260803170000 +0200" stop="20260803190000 +0200" channel="ATPMontrealampWTA1000TorontoDay1Session1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 ATP Montreal &amp; WTA 1000 Toronto : Day 1, Session 1</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <programme start="20260803000000 +0200" stop="20260803170000 +0200" channel="ATPMontrealampWTA1000TorontoDay1Session1">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">🎾 ATP Montreal &amp; WTA 1000 Toronto : Day 1, Session 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260803170000 +0200" stop="20260803190000 +0200" channel="ATPMontrealampWTA1000TorontoDay1Session1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 ATP Montreal &amp; WTA 1000 Toronto : Day 1, Session 1</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <channel id="ATPMontrealampWTA1000TorontoDay1Session2">
+    <display-name>🎾 ATP Montreal &amp; WTA 1000 Toronto : Day 1, Session 2</display-name>
+  </channel>
+  <programme start="20260804000000 +0200" stop="20260804010000 +0200" channel="ATPMontrealampWTA1000TorontoDay1Session2">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">🎾 ATP Montreal &amp; WTA 1000 Toronto : Day 1, Session 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260804010000 +0200" stop="20260804030000 +0200" channel="ATPMontrealampWTA1000TorontoDay1Session2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 ATP Montreal &amp; WTA 1000 Toronto : Day 1, Session 2</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <programme start="20260804000000 +0200" stop="20260804010000 +0200" channel="ATPMontrealampWTA1000TorontoDay1Session2">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">🎾 ATP Montreal &amp; WTA 1000 Toronto : Day 1, Session 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260804010000 +0200" stop="20260804030000 +0200" channel="ATPMontrealampWTA1000TorontoDay1Session2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 ATP Montreal &amp; WTA 1000 Toronto : Day 1, Session 2</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <channel id="TourofPolandStage1GdyniatoKoszalin234km">
+    <display-name>🚴 Tour of Poland : Stage 1 – Gdynia to Koszalin (234 km)</display-name>
+  </channel>
+  <programme start="20260803000000 +0200" stop="20260803101500 +0200" channel="TourofPolandStage1GdyniatoKoszalin234km">
+    <title lang="it">Inizia alle 10:15.</title>
+    <desc lang="it">🚴 Tour of Poland : Stage 1 – Gdynia to Koszalin (234 km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260803101500 +0200" stop="20260803121500 +0200" channel="TourofPolandStage1GdyniatoKoszalin234km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 Tour of Poland : Stage 1 – Gdynia to Koszalin (234 km)</desc>
+    <category lang="it">Cycling 🚴</category>
+  </programme>
+  <channel id="TourdeFranceWomenwithZwiftStage3GenevatoPoligny157km">
+    <display-name>🚴 Tour de France Women with Zwift : Stage 3 – Geneva to Poligny (157 km)</display-name>
+  </channel>
+  <programme start="20260803000000 +0200" stop="20260803153000 +0200" channel="TourdeFranceWomenwithZwiftStage3GenevatoPoligny157km">
+    <title lang="it">Inizia alle 15:30.</title>
+    <desc lang="it">🚴 Tour de France Women with Zwift : Stage 3 – Geneva to Poligny (157 km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260803153000 +0200" stop="20260803173000 +0200" channel="TourdeFranceWomenwithZwiftStage3GenevatoPoligny157km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 Tour de France Women with Zwift : Stage 3 – Geneva to Poligny (157 km)</desc>
+    <category lang="it">Cycling 🚴</category>
+  </programme>
+  <channel id="DivingWomens10mPlatformPreliminary">
+    <display-name>🏊 Diving : Women's 10m Platform Preliminary</display-name>
+  </channel>
+  <programme start="20260803000000 +0200" stop="20260803130000 +0200" channel="DivingWomens10mPlatformPreliminary">
+    <title lang="it">Inizia alle 13:00.</title>
+    <desc lang="it">🏊 Diving : Women's 10m Platform Preliminary.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260803130000 +0200" stop="20260803150000 +0200" channel="DivingWomens10mPlatformPreliminary">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏊 Diving : Women's 10m Platform Preliminary</desc>
+    <category lang="it">Water Sports 🏊</category>
+  </programme>
+  <programme start="20260803000000 +0200" stop="20260803130000 +0200" channel="DivingWomens10mPlatformPreliminary">
+    <title lang="it">Inizia alle 13:00.</title>
+    <desc lang="it">🏊 Diving : Women's 10m Platform Preliminary.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260803130000 +0200" stop="20260803150000 +0200" channel="DivingWomens10mPlatformPreliminary">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏊 Diving : Women's 10m Platform Preliminary</desc>
+    <category lang="it">Water Sports 🏊</category>
+  </programme>
+  <channel id="DivingMensSpringboardSynchronizedFinal">
+    <display-name>🏊 Diving : Men's Springboard Synchronized Final</display-name>
+  </channel>
+  <programme start="20260803000000 +0200" stop="20260803190000 +0200" channel="DivingMensSpringboardSynchronizedFinal">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">🏊 Diving : Men's Springboard Synchronized Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260803190000 +0200" stop="20260803210000 +0200" channel="DivingMensSpringboardSynchronizedFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏊 Diving : Men's Springboard Synchronized Final</desc>
+    <category lang="it">Water Sports 🏊</category>
+  </programme>
 </tv>
