@@ -81,6 +81,8 @@ https://vavoo.to/vavoo-iptv/play/25326356590c9338734e4b
 https://vavoo.to/vavoo-iptv/play/116299718d713a2de061f
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="Altro",BLOOMBERG TV 4K
 https://vavoo.to/vavoo-iptv/play/3911047486fb5f634d6343
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",BLOOMBERG TV EMEA LIVE EVENT
+https://vavoo.to/vavoo-iptv/play/2530106969945d13737132
 #EXTINF:-1 tvg-id="boing.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING (1)
 https://vavoo.to/vavoo-iptv/play/33735102423e6e76be9ed3
 #EXTINF:-1 tvg-id="boing.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/boing-it.png" group-title="Bambini",BOING (2)
@@ -133,8 +135,6 @@ https://vavoo.to/vavoo-iptv/play/2749478718a361866152ca
 https://vavoo.to/vavoo-iptv/play/31075009959a8de9232b11
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",CANALE 88 MADEINBO
 https://vavoo.to/vavoo-iptv/play/888430169ea2f335c3171
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",CANALE TELECHIARA
-https://vavoo.to/vavoo-iptv/play/3065008757a139b0fed8ff
 #EXTINF:-1 tvg-id="" tvg-logo="https://radiocarina.it/wp-content/uploads/2024/01/RadioCarina-Vers.2.png" group-title="Altro",CARINA TV
 https://vavoo.to/vavoo-iptv/play/1527236924d8d52d57c2e3
 #EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK (1)
@@ -383,8 +383,6 @@ https://vavoo.to/vavoo-iptv/play/3894526183af41b9b1aebc
 https://vavoo.to/vavoo-iptv/play/22109966031d6de269f9b8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",LA TR3 MARSALA
 https://vavoo.to/vavoo-iptv/play/322737388601b884f9662d
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",LAC NEWS 24
-https://vavoo.to/vavoo-iptv/play/37228730056bf7e93438b
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",LAZIO TV 13
 https://vavoo.to/vavoo-iptv/play/56652751299dc0b400d5c
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",LE CRONACHE TV
@@ -439,8 +437,10 @@ https://vavoo.to/vavoo-iptv/play/41987887706cc8d9c7ddd3
 https://vavoo.to/vavoo-iptv/play/304085498822d221b3965
 #EXTINF:-1 tvg-id="nick.jr.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini",NICK JR
 https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065
-#EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Altro",NICKELODEON
+#EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Altro",NICKELODEON (1)
 https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c
+#EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Altro",NICKELODEON (2)
+https://vavoo.to/vavoo-iptv/play/30731921955c34b3a330ec
 #EXTINF:-1 tvg-id="nove.it" tvg-logo="" group-title="Altro",NOVE
 https://vavoo.to/vavoo-iptv/play/867216452ba4d42b41ada
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/570326948497195008/Wf6DPfFP_400x400.jpeg" group-title="Musica",OL3 RADIO
@@ -632,14 +632,12 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&force
 https://vavoo.to/vavoo-iptv/play/178550192490bfbe154312
 #EXTINF:-1 tvg-id="raiyoyo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Rai",RAI YOYO (2)
 https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
+
+# NEWS
 #EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="RAI YOYO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Rai",RAI YOYO (MPD)
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN ACTION MOVIES
-https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film - Serie TV",RAKUTEN COMEDY MOVIES
-https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",RAKUTEN TV ACTION MOVIES ITALY
 https://vavoo.to/vavoo-iptv/play/6057450468326830cabb4
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",RAKUTEN TV ASIAN CINEMA ITALY
@@ -703,10 +701,8 @@ https://vavoo.to/vavoo-iptv/play/2209352147379c000ac415
 https://vavoo.to/vavoo-iptv/play/24556102030a38fc13c387
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1 (2)
 https://vavoo.to/vavoo-iptv/play/22903950460d6b257bf610
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2 (1)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2
 https://vavoo.to/vavoo-iptv/play/3590183307ca309aa6be37
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2 (2)
-https://vavoo.to/vavoo-iptv/play/3475299702c52e31a7073f
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/7PzluYVAEVOCNzGYGkewkKI3PA0PkCKAc9KUZGfYzAbZnQLnlPAE5iQBMZEUi7ZKwJc" group-title="Altro",RTC TELECALABRIA
 https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc
 #EXTINF:-1 tvg-id="rtl.102.5.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rtl-1025-it.png" group-title="Musica",RTL 102.5 (1)
@@ -887,6 +883,8 @@ https://vavoo.to/vavoo-iptv/play/78546677680f40b76841
 https://vavoo.to/vavoo-iptv/play/210669162201ec2365574
 #EXTINF:-1 tvg-id="sky.sport.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO (2)
 https://vavoo.to/vavoo-iptv/play/3192996672d2c923be0346
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",SKY SPORTS 24
+https://vavoo.to/vavoo-iptv/play/34936071312c994246f2bd
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORTS F1
 https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SUPER TENNIS
@@ -910,6 +908,8 @@ https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82
 https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.capitaladv.eu/wp-content/uploads/2020/07/LOGO-SPORTITALIA-PLUS-HD_2-1.png" group-title="Sport",SPORTITALIA PLUS
 https://vavoo.to/vavoo-iptv/play/33428493134b007f2ed197
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORTITALIA SOLOCALCIO
+https://vavoo.to/vavoo-iptv/play/21984103395cacdfaf1d34
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ST EUROPE CHANNEL
 https://vavoo.to/vavoo-iptv/play/2356295928676bcb269bb3
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",STAR CHANNEL
@@ -919,7 +919,7 @@ https://vavoo.to/vavoo-iptv/play/151207238423ec1d54e5b8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",STAR CRIME
 https://vavoo.to/vavoo-iptv/play/28436429458ff4e2cc4ae6
 
-# NEWS
+# RAI
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/star-life-ar.png?raw=true" group-title="Altro",STAR LIFE
 https://vavoo.to/vavoo-iptv/play/3946128844a366ea9809f0
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.stereo5.it/2022/wp-content/uploads/2023/02/LOGO-NUOVO-2023-2.png" group-title="Altro",STEREO 5 TV (1)
@@ -1080,8 +1080,6 @@ https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStj45lIWvQ0KFzv6jyIP9vOZgPnWQirEl6dw&s" group-title="News",TV7 NEWS
 https://vavoo.to/vavoo-iptv/play/28023290645ecbd632b9ce
-
-# RAI
 #EXTINF:-1 tvg-id="" tvg-logo="https://massimoemanuelli.com/wp-content/uploads/2017/10/tva-vi-2.png" group-title="Altro",TVA VICENZA (1)
 https://vavoo.to/vavoo-iptv/play/3071392662a754d82b0840
 #EXTINF:-1 tvg-id="" tvg-logo="https://massimoemanuelli.com/wp-content/uploads/2017/10/tva-vi-2.png" group-title="Altro",TVA VICENZA (2)
@@ -1120,34 +1118,22 @@ https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="atpnationalbankopenmontrealampwta1000torontoday2session1" tvg-name="Tennis 🎾 | 🎾 ATP National Bank Open (Montreal) &amp; WTA 1000 (Toronto) : Day 2, Session 1 (17:00)" tvg-logo="https://schedule2026.com/wp-content/uploads/2025/02/favicon-ss.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 ATP National Bank Open (Montreal) &amp; WTA 1000 (Toronto) : Day 2, Session 1 (17:00)
+#EXTINF:-1 tvg-id="atpnationalbankopenmontrealampwta1000torontoday2session1" tvg-name="Tennis 🎾 | 🎾 ATP National Bank Open (Montreal) &amp; WTA 1000 (Toronto) : Day 2, Session 1 (17:00)" tvg-logo="https://i.pinimg.com/originals/d7/6f/61/d76f6187dac60d2cf1996929b22eab72.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 ATP National Bank Open (Montreal) &amp; WTA 1000 (Toronto) : Day 2, Session 1 (17:00)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="atpnationalbankopenmontrealampwta1000torontoday2session1" tvg-name="Tennis 🎾 | 🎾 ATP National Bank Open (Montreal) &amp; WTA 1000 (Toronto) : Day 2, Session 1 (17:00)" tvg-logo="http://ancensored.com/sites/default/files/images/galleries/_ver100/data/pic/00/01/02/brigitte_lahaie_1977_arsene_lupin_11.jpg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 ATP National Bank Open (Montreal) &amp; WTA 1000 (Toronto) : Day 2, Session 1 (17:00)
+#EXTINF:-1 tvg-id="atpnationalbankopenmontrealampwta1000torontoday2session1" tvg-name="Tennis 🎾 | 🎾 ATP National Bank Open (Montreal) &amp; WTA 1000 (Toronto) : Day 2, Session 1 (17:00)" tvg-logo="http://www.marybearshop.com/cdn/shop/files/DSC06634copy_1200x1200.jpg?v=1715372201" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 ATP National Bank Open (Montreal) &amp; WTA 1000 (Toronto) : Day 2, Session 1 (17:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="tourofpolandstage2menmidzyzdrojeszczecin1508km" tvg-name="Cycling 🚴 | 🚴 Tour of Poland : Stage 2 Men | Międzyzdroje → Szczecin (150.8 km) (12:00)" tvg-logo="https://amiablefoods.com/wp-content/uploads/papaitan-recipe-card.jpg" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 Tour of Poland : Stage 2 Men | Międzyzdroje → Szczecin (150.8 km) (12:00)
+#EXTINF:-1 tvg-id="tourdefrancewomenwithzwiftstage4womengevreychambertindijonitt21km" tvg-name="Cycling 🚴 | 🚴 Tour de France Women with Zwift : Stage 4 Women | Gevrey-Chambertin → Dijon (ITT, 21 km) (15:30)" tvg-logo="https://thumb-nss.xhcdn.com/a/yyFO_7BuVsz9vwhzssWJTg/025/894/800/v2/2560x1440.202.webp" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 Tour de France Women with Zwift : Stage 4 Women | Gevrey-Chambertin → Dijon (ITT, 21 km) (15:30)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="tourdefrancewomenwithzwiftstage4womengevreychambertindijonitt21km" tvg-name="Cycling 🚴 | 🚴 Tour de France Women with Zwift : Stage 4 Women | Gevrey-Chambertin → Dijon (ITT, 21 km) (15:30)" tvg-logo="https://yenxemay.vn/wp-content/uploads/2023/11/hinh-anh-xe-do-sirius-cuc-ngau-cap-nhat-moi-nhat-11-696x522.jpg" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 Tour de France Women with Zwift : Stage 4 Women | Gevrey-Chambertin → Dijon (ITT, 21 km) (15:30)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="europeanswimmingchampionshipsmens10kmfinal150min" tvg-name="Water Sports 🏊 | 🏊 European Swimming Championships : Men's 10km Final (150 min) (10:00)" tvg-logo="https://d33wubrfki0l68.cloudfront.net/da26eecc2dacb8edcdd9c9274f8bfb1a5c6ecbf7/bd211/files/touchpadwin10.png" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 European Swimming Championships : Men's 10km Final (150 min) (10:00)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="europeanswimmingchampionshipsmens10kmfinal150min" tvg-name="Water Sports 🏊 | 🏊 European Swimming Championships : Men's 10km Final (150 min) (10:00)" tvg-logo="https://www.rifleshootermag.com/files/2018/08/ThompsonCenterEncore.jpg" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 European Swimming Championships : Men's 10km Final (150 min) (10:00)
-https://dlhd.dad/watch.php?id=462
-
-#EXTINF:-1 tvg-id="swimmingchampionshipswomens10mplatformfinal" tvg-name="Water Sports 🏊 | 🏊 Swimming Championships : Women's 10m Platform Final (11:00)" tvg-logo="https://www.the360mag.com/wp-content/uploads/2023/09/wp-16948376492255676319801880929599-1024x683.jpg" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 Swimming Championships : Women's 10m Platform Final (11:00)
+#EXTINF:-1 tvg-id="europeanswimmingchampionshipswomens3mspringboardpreliminary" tvg-name="Water Sports 🏊 | 🏊 European Swimming Championships : Women's 3m Springboard Preliminary (12:30)" tvg-logo="https://c8.alamy.com/comp/EGMYN0/a-view-from-the-water-of-new-york-skyline-EGMYN0.jpg" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 European Swimming Championships : Women's 3m Springboard Preliminary (12:30)
 https://dlhd.dad/watch.php?id=460
 
-#EXTINF:-1 tvg-id="europeanswimmingchampionshipswomens3mspringboardpreliminary" tvg-name="Water Sports 🏊 | 🏊 European Swimming Championships : Women's 3m Springboard Preliminary (12:30)" tvg-logo="https://png.pngtree.com/png-clipart/20230609/original/pngtree-landscape-coloring-pages--village-outline-sketch-drawing-vector-png-image_9183500.png" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 European Swimming Championships : Women's 3m Springboard Preliminary (12:30)
-https://dlhd.dad/watch.php?id=460
-
-#EXTINF:-1 tvg-id="europeanswimmingchampionshipswomens10kmfinal" tvg-name="Water Sports 🏊 | 🏊 European Swimming Championships : Women's 10km Final (14:30)" tvg-logo="https://2.bp.blogspot.com/-PSV3qOvAfjM/Ujrsb-vkPVI/AAAAAAAACvI/33OaqWv2rKk/s1600/Ada+apa+denganmu.PNG" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 European Swimming Championships : Women's 10km Final (14:30)
+#EXTINF:-1 tvg-id="europeanswimmingchampionshipswomens10kmfinal" tvg-name="Water Sports 🏊 | 🏊 European Swimming Championships : Women's 10km Final (14:30)" tvg-logo="https://i.pinimg.com/736x/e5/92/18/e592184bccd11ab4da3a2ed0b9b5a845.jpg" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 European Swimming Championships : Women's 10km Final (14:30)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="europeanswimmingchampionshipswomens10kmfinal" tvg-name="Water Sports 🏊 | 🏊 European Swimming Championships : Women's 10km Final (14:30)" tvg-logo="https://cdn.weasyl.com/~dragonhuntx/submissions/1141555/4e94c7058224e2254749b135fa34e34dc2614fc99f8894cb922f5b23744eed06/dragonhuntx-undertale-spoiler-surface-sunset.png" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 European Swimming Championships : Women's 10km Final (14:30)
+#EXTINF:-1 tvg-id="europeanswimmingchampionshipswomens10kmfinal" tvg-name="Water Sports 🏊 | 🏊 European Swimming Championships : Women's 10km Final (14:30)" tvg-logo="http://78.media.tumblr.com/55528230c3a1536af0020ddbe5106959/tumblr_nql0h2rEU71rmez56o4_400.gif" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 European Swimming Championships : Women's 10km Final (14:30)
 https://dlhd.dad/watch.php?id=462
 
 
