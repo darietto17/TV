@@ -1,41 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ClubFriendlyLaziovsOstiaMareLidocalcio">
-    <display-name>⚽ 🌍 Club Friendly : Lazio vs Ostia Mare Lidocalcio</display-name>
-  </channel>
-  <programme start="20260805000000 +0200" stop="20260805180000 +0200" channel="ClubFriendlyLaziovsOstiaMareLidocalcio">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">⚽ 🌍 Club Friendly : Lazio vs Ostia Mare Lidocalcio.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260805180000 +0200" stop="20260805200000 +0200" channel="ClubFriendlyLaziovsOstiaMareLidocalcio">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🌍 Club Friendly : Lazio vs Ostia Mare Lidocalcio</desc>
-    <category lang="it">Club Friendly ⚽</category>
-  </programme>
-  <channel id="ClubFriendlyNapolivsOsasuna">
-    <display-name>⚽ 🌍 Club Friendly : Napoli 🇮🇹 vs Osasuna 🇪🇸</display-name>
-  </channel>
-  <programme start="20260805000000 +0200" stop="20260805183000 +0200" channel="ClubFriendlyNapolivsOsasuna">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">⚽ 🌍 Club Friendly : Napoli 🇮🇹 vs Osasuna 🇪🇸.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260805183000 +0200" stop="20260805203000 +0200" channel="ClubFriendlyNapolivsOsasuna">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🌍 Club Friendly : Napoli 🇮🇹 vs Osasuna 🇪🇸</desc>
-    <category lang="it">Club Friendly ⚽</category>
-  </programme>
-  <programme start="20260805000000 +0200" stop="20260805183000 +0200" channel="ClubFriendlyNapolivsOsasuna">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">⚽ 🌍 Club Friendly : Napoli 🇮🇹 vs Osasuna 🇪🇸.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260805183000 +0200" stop="20260805203000 +0200" channel="ClubFriendlyNapolivsOsasuna">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🌍 Club Friendly : Napoli 🇮🇹 vs Osasuna 🇪🇸</desc>
-    <category lang="it">Club Friendly ⚽</category>
-  </programme>
   <channel id="ATPNationalBankOpenMontrealampWTA1000TorontoDay3Session2">
     <display-name>🎾 🇨🇦 ATP National Bank Open Montreal &amp; WTA 1000 Toronto : Day 3 - Session 2</display-name>
   </channel>
