@@ -1,3 +1,173 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ClubFriendlyACMilanvsInterMilan">
+    <display-name>⚽ 🌍 Club Friendly : AC Milan 🇮🇹 vs Inter Milan 🇮🇹</display-name>
+  </channel>
+  <programme start="20260805000000 +0200" stop="20260805130000 +0200" channel="ClubFriendlyACMilanvsInterMilan">
+    <title lang="it">Inizia alle 13:00.</title>
+    <desc lang="it">⚽ 🌍 Club Friendly : AC Milan 🇮🇹 vs Inter Milan 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260805130000 +0200" stop="20260805150000 +0200" channel="ClubFriendlyACMilanvsInterMilan">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🌍 Club Friendly : AC Milan 🇮🇹 vs Inter Milan 🇮🇹</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
+  <programme start="20260805000000 +0200" stop="20260805130000 +0200" channel="ClubFriendlyACMilanvsInterMilan">
+    <title lang="it">Inizia alle 13:00.</title>
+    <desc lang="it">⚽ 🌍 Club Friendly : AC Milan 🇮🇹 vs Inter Milan 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260805130000 +0200" stop="20260805150000 +0200" channel="ClubFriendlyACMilanvsInterMilan">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🌍 Club Friendly : AC Milan 🇮🇹 vs Inter Milan 🇮🇹</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
+  <channel id="ClubFriendlyChelseavsJuventus">
+    <display-name>⚽ 🌍 Club Friendly : Chelsea 🏴 vs Juventus 🇮🇹</display-name>
+  </channel>
+  <programme start="20260805000000 +0200" stop="20260805133000 +0200" channel="ClubFriendlyChelseavsJuventus">
+    <title lang="it">Inizia alle 13:30.</title>
+    <desc lang="it">⚽ 🌍 Club Friendly : Chelsea 🏴 vs Juventus 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260805133000 +0200" stop="20260805153000 +0200" channel="ClubFriendlyChelseavsJuventus">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🌍 Club Friendly : Chelsea 🏴 vs Juventus 🇮🇹</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
+  <channel id="ClubFriendlyNapolivsOsasuna">
+    <display-name>⚽ 🌍 Club Friendly : Napoli 🇮🇹 vs Osasuna 🇪🇸</display-name>
+  </channel>
+  <programme start="20260805000000 +0200" stop="20260805183000 +0200" channel="ClubFriendlyNapolivsOsasuna">
+    <title lang="it">Inizia alle 18:30.</title>
+    <desc lang="it">⚽ 🌍 Club Friendly : Napoli 🇮🇹 vs Osasuna 🇪🇸.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260805183000 +0200" stop="20260805203000 +0200" channel="ClubFriendlyNapolivsOsasuna">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🌍 Club Friendly : Napoli 🇮🇹 vs Osasuna 🇪🇸</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
+  <channel id="ATPNationalBankOpenMontrealampWTA1000TorontoDay3Session1">
+    <display-name>🎾 🇨🇦 ATP National Bank Open Montreal &amp; WTA 1000 Toronto : Day 3 - Session 1</display-name>
+  </channel>
+  <programme start="20260805000000 +0200" stop="20260805170000 +0200" channel="ATPNationalBankOpenMontrealampWTA1000TorontoDay3Session1">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">🎾 🇨🇦 ATP National Bank Open Montreal &amp; WTA 1000 Toronto : Day 3 - Session 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260805170000 +0200" stop="20260805190000 +0200" channel="ATPNationalBankOpenMontrealampWTA1000TorontoDay3Session1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 🇨🇦 ATP National Bank Open Montreal &amp; WTA 1000 Toronto : Day 3 - Session 1</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <programme start="20260805000000 +0200" stop="20260805170000 +0200" channel="ATPNationalBankOpenMontrealampWTA1000TorontoDay3Session1">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">🎾 🇨🇦 ATP National Bank Open Montreal &amp; WTA 1000 Toronto : Day 3 - Session 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260805170000 +0200" stop="20260805190000 +0200" channel="ATPNationalBankOpenMontrealampWTA1000TorontoDay3Session1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 🇨🇦 ATP National Bank Open Montreal &amp; WTA 1000 Toronto : Day 3 - Session 1</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <channel id="ATPNationalBankOpenMontrealampWTA1000TorontoDay3Session2">
+    <display-name>🎾 🇨🇦 ATP National Bank Open Montreal &amp; WTA 1000 Toronto : Day 3 - Session 2</display-name>
+  </channel>
+  <programme start="20260806000000 +0200" stop="20260806010000 +0200" channel="ATPNationalBankOpenMontrealampWTA1000TorontoDay3Session2">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">🎾 🇨🇦 ATP National Bank Open Montreal &amp; WTA 1000 Toronto : Day 3 - Session 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260806010000 +0200" stop="20260806030000 +0200" channel="ATPNationalBankOpenMontrealampWTA1000TorontoDay3Session2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 🇨🇦 ATP National Bank Open Montreal &amp; WTA 1000 Toronto : Day 3 - Session 2</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <programme start="20260806000000 +0200" stop="20260806010000 +0200" channel="ATPNationalBankOpenMontrealampWTA1000TorontoDay3Session2">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">🎾 🇨🇦 ATP National Bank Open Montreal &amp; WTA 1000 Toronto : Day 3 - Session 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260806010000 +0200" stop="20260806030000 +0200" channel="ATPNationalBankOpenMontrealampWTA1000TorontoDay3Session2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 🇨🇦 ATP National Bank Open Montreal &amp; WTA 1000 Toronto : Day 3 - Session 2</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <channel id="TourofPolandStage3MenGorzwWielkopolskiZielonaGra1935km">
+    <display-name>🚴 🇵🇱 Tour of Poland : Stage 3 Men | Gorzów Wielkopolski → Zielona Góra (193.5km)</display-name>
+  </channel>
+  <programme start="20260805000000 +0200" stop="20260805120000 +0200" channel="TourofPolandStage3MenGorzwWielkopolskiZielonaGra1935km">
+    <title lang="it">Inizia alle 12:00.</title>
+    <desc lang="it">🚴 🇵🇱 Tour of Poland : Stage 3 Men | Gorzów Wielkopolski → Zielona Góra (193.5km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260805120000 +0200" stop="20260805140000 +0200" channel="TourofPolandStage3MenGorzwWielkopolskiZielonaGra1935km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 🇵🇱 Tour of Poland : Stage 3 Men | Gorzów Wielkopolski → Zielona Góra (193.5km)</desc>
+    <category lang="it">Cycling Poland🚴</category>
+  </programme>
+  <channel id="TourdeFranceFemmesavecZwiftStage5WomenMconBellevilleenBeaujolais140km">
+    <display-name>🚴 🇫🇷 Tour de France Femmes avec Zwift : Stage 5 | Women | Mâcon → Belleville-en-Beaujolais (140km)</display-name>
+  </channel>
+  <programme start="20260805000000 +0200" stop="20260805133000 +0200" channel="TourdeFranceFemmesavecZwiftStage5WomenMconBellevilleenBeaujolais140km">
+    <title lang="it">Inizia alle 13:30.</title>
+    <desc lang="it">🚴 🇫🇷 Tour de France Femmes avec Zwift : Stage 5 | Women | Mâcon → Belleville-en-Beaujolais (140km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260805133000 +0200" stop="20260805153000 +0200" channel="TourdeFranceFemmesavecZwiftStage5WomenMconBellevilleenBeaujolais140km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 🇫🇷 Tour de France Femmes avec Zwift : Stage 5 | Women | Mâcon → Belleville-en-Beaujolais (140km)</desc>
+    <category lang="it">Cycling France🚴</category>
+  </programme>
+  <channel id="Paris2026OpenWaterSwimmingMens5kmFinal">
+    <display-name>🏊 🇫🇷 Paris 2026 Open Water Swimming : Men's 5km Final</display-name>
+  </channel>
+  <programme start="20260805000000 +0200" stop="20260805100000 +0200" channel="Paris2026OpenWaterSwimmingMens5kmFinal">
+    <title lang="it">Inizia alle 10:00.</title>
+    <desc lang="it">🏊 🇫🇷 Paris 2026 Open Water Swimming : Men's 5km Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260805100000 +0200" stop="20260805120000 +0200" channel="Paris2026OpenWaterSwimmingMens5kmFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏊 🇫🇷 Paris 2026 Open Water Swimming : Men's 5km Final</desc>
+    <category lang="it">Water Sports 🏊</category>
+  </programme>
+  <programme start="20260805000000 +0200" stop="20260805100000 +0200" channel="Paris2026OpenWaterSwimmingMens5kmFinal">
+    <title lang="it">Inizia alle 10:00.</title>
+    <desc lang="it">🏊 🇫🇷 Paris 2026 Open Water Swimming : Men's 5km Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260805100000 +0200" stop="20260805120000 +0200" channel="Paris2026OpenWaterSwimmingMens5kmFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏊 🇫🇷 Paris 2026 Open Water Swimming : Men's 5km Final</desc>
+    <category lang="it">Water Sports 🏊</category>
+  </programme>
+  <channel id="EuropeanArtisticSwimmingChampionshipsTeamTechnicalFinal">
+    <display-name>🤽 🇪🇺 European Artistic Swimming Championships : Team Technical Final</display-name>
+  </channel>
+  <programme start="20260805000000 +0200" stop="20260805103000 +0200" channel="EuropeanArtisticSwimmingChampionshipsTeamTechnicalFinal">
+    <title lang="it">Inizia alle 10:30.</title>
+    <desc lang="it">🤽 🇪🇺 European Artistic Swimming Championships : Team Technical Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260805103000 +0200" stop="20260805123000 +0200" channel="EuropeanArtisticSwimmingChampionshipsTeamTechnicalFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🤽 🇪🇺 European Artistic Swimming Championships : Team Technical Final</desc>
+    <category lang="it">Water Sports 🏊</category>
+  </programme>
+  <channel id="Paris2026OpenWaterSwimmingWomens5kmFinal">
+    <display-name>🏊 🇫🇷 Paris 2026 Open Water Swimming : Women's 5km Final</display-name>
+  </channel>
+  <programme start="20260805000000 +0200" stop="20260805143000 +0200" channel="Paris2026OpenWaterSwimmingWomens5kmFinal">
+    <title lang="it">Inizia alle 14:30.</title>
+    <desc lang="it">🏊 🇫🇷 Paris 2026 Open Water Swimming : Women's 5km Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260805143000 +0200" stop="20260805163000 +0200" channel="Paris2026OpenWaterSwimmingWomens5kmFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏊 🇫🇷 Paris 2026 Open Water Swimming : Women's 5km Final</desc>
+    <category lang="it">Water Sports 🏊</category>
+  </programme>
 </tv>
