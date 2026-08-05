@@ -23,6 +23,16 @@
     <desc lang="it">⚽ 🌍 Club Friendly : AC Milan 🇮🇹 vs Inter Milan 🇮🇹</desc>
     <category lang="it">Club Friendly ⚽</category>
   </programme>
+  <programme start="20260805000000 +0200" stop="20260805130000 +0200" channel="ClubFriendlyACMilanvsInterMilan">
+    <title lang="it">Inizia alle 13:00.</title>
+    <desc lang="it">⚽ 🌍 Club Friendly : AC Milan 🇮🇹 vs Inter Milan 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260805130000 +0200" stop="20260805150000 +0200" channel="ClubFriendlyACMilanvsInterMilan">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🌍 Club Friendly : AC Milan 🇮🇹 vs Inter Milan 🇮🇹</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
   <channel id="ClubFriendlyChelseavsJuventus">
     <display-name>⚽ 🌍 Club Friendly : Chelsea 🏴 vs Juventus 🇮🇹</display-name>
   </channel>
@@ -36,9 +46,42 @@
     <desc lang="it">⚽ 🌍 Club Friendly : Chelsea 🏴 vs Juventus 🇮🇹</desc>
     <category lang="it">Club Friendly ⚽</category>
   </programme>
+  <programme start="20260805000000 +0200" stop="20260805133000 +0200" channel="ClubFriendlyChelseavsJuventus">
+    <title lang="it">Inizia alle 13:30.</title>
+    <desc lang="it">⚽ 🌍 Club Friendly : Chelsea 🏴 vs Juventus 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260805133000 +0200" stop="20260805153000 +0200" channel="ClubFriendlyChelseavsJuventus">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🌍 Club Friendly : Chelsea 🏴 vs Juventus 🇮🇹</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
+  <channel id="ClubFriendlyLaziovsOstiaMareLidocalcio">
+    <display-name>⚽ 🌍 Club Friendly : Lazio vs Ostia Mare Lidocalcio</display-name>
+  </channel>
+  <programme start="20260805000000 +0200" stop="20260805180000 +0200" channel="ClubFriendlyLaziovsOstiaMareLidocalcio">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">⚽ 🌍 Club Friendly : Lazio vs Ostia Mare Lidocalcio.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260805180000 +0200" stop="20260805200000 +0200" channel="ClubFriendlyLaziovsOstiaMareLidocalcio">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🌍 Club Friendly : Lazio vs Ostia Mare Lidocalcio</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
   <channel id="ClubFriendlyNapolivsOsasuna">
     <display-name>⚽ 🌍 Club Friendly : Napoli 🇮🇹 vs Osasuna 🇪🇸</display-name>
   </channel>
+  <programme start="20260805000000 +0200" stop="20260805183000 +0200" channel="ClubFriendlyNapolivsOsasuna">
+    <title lang="it">Inizia alle 18:30.</title>
+    <desc lang="it">⚽ 🌍 Club Friendly : Napoli 🇮🇹 vs Osasuna 🇪🇸.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260805183000 +0200" stop="20260805203000 +0200" channel="ClubFriendlyNapolivsOsasuna">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🌍 Club Friendly : Napoli 🇮🇹 vs Osasuna 🇪🇸</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
   <programme start="20260805000000 +0200" stop="20260805183000 +0200" channel="ClubFriendlyNapolivsOsasuna">
     <title lang="it">Inizia alle 18:30.</title>
     <desc lang="it">⚽ 🌍 Club Friendly : Napoli 🇮🇹 vs Osasuna 🇪🇸.</desc>
