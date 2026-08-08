@@ -23,6 +23,16 @@
     <desc lang="it">⚽ 🇮🇹 Club Friendly : Juventus 🇮🇹 vs Internazionale 🇮🇹</desc>
     <category lang="it">Club Friendly ⚽</category>
   </programme>
+  <programme start="20260808000000 +0200" stop="20260808130000 +0200" channel="ClubFriendlyJuventusvsInternazionale">
+    <title lang="it">Inizia alle 13:00.</title>
+    <desc lang="it">⚽ 🇮🇹 Club Friendly : Juventus 🇮🇹 vs Internazionale 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260808130000 +0200" stop="20260808150000 +0200" channel="ClubFriendlyJuventusvsInternazionale">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Club Friendly : Juventus 🇮🇹 vs Internazionale 🇮🇹</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
   <channel id="ClubFriendlyChelseavsMilan">
     <display-name>⚽ 🏴 Club Friendly : Chelsea 🏴 vs Milan 🇮🇹</display-name>
   </channel>
@@ -34,6 +44,29 @@
   <programme start="20260808140000 +0200" stop="20260808160000 +0200" channel="ClubFriendlyChelseavsMilan">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">⚽ 🏴 Club Friendly : Chelsea 🏴 vs Milan 🇮🇹</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
+  <programme start="20260808000000 +0200" stop="20260808140000 +0200" channel="ClubFriendlyChelseavsMilan">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">⚽ 🏴 Club Friendly : Chelsea 🏴 vs Milan 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260808140000 +0200" stop="20260808160000 +0200" channel="ClubFriendlyChelseavsMilan">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🏴 Club Friendly : Chelsea 🏴 vs Milan 🇮🇹</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
+  <channel id="ClubFriendlyBrightonampHoveAlbionvsRoma">
+    <display-name>⚽ 🏴 Club Friendly : Brighton &amp; Hove Albion 🏴 vs Roma 🇮🇹</display-name>
+  </channel>
+  <programme start="20260808000000 +0200" stop="20260808160000 +0200" channel="ClubFriendlyBrightonampHoveAlbionvsRoma">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">⚽ 🏴 Club Friendly : Brighton &amp; Hove Albion 🏴 vs Roma 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260808160000 +0200" stop="20260808180000 +0200" channel="ClubFriendlyBrightonampHoveAlbionvsRoma">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🏴 Club Friendly : Brighton &amp; Hove Albion 🏴 vs Roma 🇮🇹</desc>
     <category lang="it">Club Friendly ⚽</category>
   </programme>
   <channel id="ClubFriendlySchalke04vsAtalanta">
@@ -52,6 +85,16 @@
   <channel id="ClubFriendlyUdinesevsNottinghamForest">
     <display-name>⚽ 🇮🇹 Club Friendly : Udinese 🇮🇹 vs Nottingham Forest 🏴</display-name>
   </channel>
+  <programme start="20260808000000 +0200" stop="20260808200000 +0200" channel="ClubFriendlyUdinesevsNottinghamForest">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">⚽ 🇮🇹 Club Friendly : Udinese 🇮🇹 vs Nottingham Forest 🏴.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260808200000 +0200" stop="20260808220000 +0200" channel="ClubFriendlyUdinesevsNottinghamForest">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Club Friendly : Udinese 🇮🇹 vs Nottingham Forest 🏴</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
   <programme start="20260808000000 +0200" stop="20260808200000 +0200" channel="ClubFriendlyUdinesevsNottinghamForest">
     <title lang="it">Inizia alle 20:00.</title>
     <desc lang="it">⚽ 🇮🇹 Club Friendly : Udinese 🇮🇹 vs Nottingham Forest 🏴.</desc>
@@ -98,6 +141,16 @@
     <desc lang="it">⚽ 🇮🇹 Club Friendly : Napoli 🇮🇹 vs Celta de Vigo 🇪🇸</desc>
     <category lang="it">Club Friendly ⚽</category>
   </programme>
+  <programme start="20260808000000 +0200" stop="20260808210000 +0200" channel="ClubFriendlyNapolivsCeltadeVigo">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">⚽ 🇮🇹 Club Friendly : Napoli 🇮🇹 vs Celta de Vigo 🇪🇸.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260808210000 +0200" stop="20260808230000 +0200" channel="ClubFriendlyNapolivsCeltadeVigo">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Club Friendly : Napoli 🇮🇹 vs Celta de Vigo 🇪🇸</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
   <channel id="ClubFriendlyBarcelonavsNottinghamForest">
     <display-name>⚽ 🇪🇸 Club Friendly : Barcelona 🇪🇸 vs Nottingham Forest 🏴</display-name>
   </channel>
@@ -121,9 +174,29 @@
     <desc lang="it">⚽ 🇪🇸 Club Friendly : Barcelona 🇪🇸 vs Nottingham Forest 🏴</desc>
     <category lang="it">Club Friendly ⚽</category>
   </programme>
+  <programme start="20260808000000 +0200" stop="20260808210000 +0200" channel="ClubFriendlyBarcelonavsNottinghamForest">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">⚽ 🇪🇸 Club Friendly : Barcelona 🇪🇸 vs Nottingham Forest 🏴.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260808210000 +0200" stop="20260808230000 +0200" channel="ClubFriendlyBarcelonavsNottinghamForest">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇪🇸 Club Friendly : Barcelona 🇪🇸 vs Nottingham Forest 🏴</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
   <channel id="ClubFriendlyUdinesevsBarcelona">
     <display-name>⚽ 🇮🇹 Club Friendly : Udinese 🇮🇹 vs Barcelona 🇪🇸</display-name>
   </channel>
+  <programme start="20260808000000 +0200" stop="20260808220000 +0200" channel="ClubFriendlyUdinesevsBarcelona">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">⚽ 🇮🇹 Club Friendly : Udinese 🇮🇹 vs Barcelona 🇪🇸.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260808220000 +0200" stop="20260809000000 +0200" channel="ClubFriendlyUdinesevsBarcelona">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Club Friendly : Udinese 🇮🇹 vs Barcelona 🇪🇸</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
   <programme start="20260808000000 +0200" stop="20260808220000 +0200" channel="ClubFriendlyUdinesevsBarcelona">
     <title lang="it">Inizia alle 22:00.</title>
     <desc lang="it">⚽ 🇮🇹 Club Friendly : Udinese 🇮🇹 vs Barcelona 🇪🇸.</desc>
