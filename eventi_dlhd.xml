@@ -263,32 +263,6 @@
     <desc lang="it">🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 - Toronto : Day 6, Session 2</desc>
     <category lang="it">Tennis 🎾</category>
   </programme>
-  <channel id="Moto2Round12GreatBritainFreePractice2">
-    <display-name>🏍️ 🇬🇧 Moto2 : Round 12 | Great Britain Free Practice 2</display-name>
-  </channel>
-  <programme start="20260808000000 +0200" stop="20260808112000 +0200" channel="Moto2Round12GreatBritainFreePractice2">
-    <title lang="it">Inizia alle 11:20.</title>
-    <desc lang="it">🏍️ 🇬🇧 Moto2 : Round 12 | Great Britain Free Practice 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260808112000 +0200" stop="20260808132000 +0200" channel="Moto2Round12GreatBritainFreePractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏍️ 🇬🇧 Moto2 : Round 12 | Great Britain Free Practice 2</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
-  <channel id="MotoGPRound12GreatBritainQualifying">
-    <display-name>🏍️ 🇬🇧 MotoGP : Round 12 | Great Britain Qualifying</display-name>
-  </channel>
-  <programme start="20260808000000 +0200" stop="20260808120000 +0200" channel="MotoGPRound12GreatBritainQualifying">
-    <title lang="it">Inizia alle 12:00.</title>
-    <desc lang="it">🏍️ 🇬🇧 MotoGP : Round 12 | Great Britain Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260808120000 +0200" stop="20260808140000 +0200" channel="MotoGPRound12GreatBritainQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏍️ 🇬🇧 MotoGP : Round 12 | Great Britain Qualifying</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
   <channel id="Moto3Round12GreatBritainQualifying">
     <display-name>🏍️ 🇬🇧 Moto3 : Round 12 | Great Britain Qualifying</display-name>
   </channel>
@@ -327,19 +301,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">🏍️ 🇬🇧 MotoGP : Round 12 | Great Britain Sprint Race</desc>
     <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
-  <channel id="TrailGoldenTrailWorldSeriesSierreZinal">
-    <display-name>🏃 🇨🇭 Trail : Golden Trail World Series - Sierre-Zinal</display-name>
-  </channel>
-  <programme start="20260808000000 +0200" stop="20260808114500 +0200" channel="TrailGoldenTrailWorldSeriesSierreZinal">
-    <title lang="it">Inizia alle 11:45.</title>
-    <desc lang="it">🏃 🇨🇭 Trail : Golden Trail World Series - Sierre-Zinal.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260808114500 +0200" stop="20260808134500 +0200" channel="TrailGoldenTrailWorldSeriesSierreZinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏃 🇨🇭 Trail : Golden Trail World Series - Sierre-Zinal</desc>
-    <category lang="it">Athletics 🏃</category>
   </programme>
   <channel id="TourofPolandMenStage6BukovinaResortBukowinaTatrzaska1256km">
     <display-name>🚴 🇵🇱 Tour of Poland Men : Stage 6 | Bukovina Resort - Bukowina Tatrzańska (125.6km)</display-name>
