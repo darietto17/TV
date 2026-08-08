@@ -1,3 +1,385 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ClubFriendlyJuventusvsInternazionale">
+    <display-name>⚽ 🇮🇹 Club Friendly : Juventus 🇮🇹 vs Internazionale 🇮🇹</display-name>
+  </channel>
+  <programme start="20260808000000 +0200" stop="20260808130000 +0200" channel="ClubFriendlyJuventusvsInternazionale">
+    <title lang="it">Inizia alle 13:00.</title>
+    <desc lang="it">⚽ 🇮🇹 Club Friendly : Juventus 🇮🇹 vs Internazionale 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260808130000 +0200" stop="20260808150000 +0200" channel="ClubFriendlyJuventusvsInternazionale">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Club Friendly : Juventus 🇮🇹 vs Internazionale 🇮🇹</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
+  <programme start="20260808000000 +0200" stop="20260808130000 +0200" channel="ClubFriendlyJuventusvsInternazionale">
+    <title lang="it">Inizia alle 13:00.</title>
+    <desc lang="it">⚽ 🇮🇹 Club Friendly : Juventus 🇮🇹 vs Internazionale 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260808130000 +0200" stop="20260808150000 +0200" channel="ClubFriendlyJuventusvsInternazionale">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Club Friendly : Juventus 🇮🇹 vs Internazionale 🇮🇹</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
+  <channel id="ClubFriendlyChelseavsMilan">
+    <display-name>⚽ 🏴 Club Friendly : Chelsea 🏴 vs Milan 🇮🇹</display-name>
+  </channel>
+  <programme start="20260808000000 +0200" stop="20260808140000 +0200" channel="ClubFriendlyChelseavsMilan">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">⚽ 🏴 Club Friendly : Chelsea 🏴 vs Milan 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260808140000 +0200" stop="20260808160000 +0200" channel="ClubFriendlyChelseavsMilan">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🏴 Club Friendly : Chelsea 🏴 vs Milan 🇮🇹</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
+  <channel id="ClubFriendlySchalke04vsAtalanta">
+    <display-name>⚽ 🇩🇪 Club Friendly : Schalke 04 🇩🇪 vs Atalanta 🇮🇹</display-name>
+  </channel>
+  <programme start="20260808000000 +0200" stop="20260808170000 +0200" channel="ClubFriendlySchalke04vsAtalanta">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">⚽ 🇩🇪 Club Friendly : Schalke 04 🇩🇪 vs Atalanta 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260808170000 +0200" stop="20260808190000 +0200" channel="ClubFriendlySchalke04vsAtalanta">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇩🇪 Club Friendly : Schalke 04 🇩🇪 vs Atalanta 🇮🇹</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
+  <channel id="ClubFriendlyUdinesevsNottinghamForest">
+    <display-name>⚽ 🇮🇹 Club Friendly : Udinese 🇮🇹 vs Nottingham Forest 🏴</display-name>
+  </channel>
+  <programme start="20260808000000 +0200" stop="20260808200000 +0200" channel="ClubFriendlyUdinesevsNottinghamForest">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">⚽ 🇮🇹 Club Friendly : Udinese 🇮🇹 vs Nottingham Forest 🏴.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260808200000 +0200" stop="20260808220000 +0200" channel="ClubFriendlyUdinesevsNottinghamForest">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Club Friendly : Udinese 🇮🇹 vs Nottingham Forest 🏴</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
+  <programme start="20260808000000 +0200" stop="20260808200000 +0200" channel="ClubFriendlyUdinesevsNottinghamForest">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">⚽ 🇮🇹 Club Friendly : Udinese 🇮🇹 vs Nottingham Forest 🏴.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260808200000 +0200" stop="20260808220000 +0200" channel="ClubFriendlyUdinesevsNottinghamForest">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Club Friendly : Udinese 🇮🇹 vs Nottingham Forest 🏴</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
+  <channel id="ClubFriendlyCagliarivsNice">
+    <display-name>⚽ 🇮🇹 Club Friendly : Cagliari 🇮🇹 vs Nice 🇫🇷</display-name>
+  </channel>
+  <programme start="20260808000000 +0200" stop="20260808203000 +0200" channel="ClubFriendlyCagliarivsNice">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">⚽ 🇮🇹 Club Friendly : Cagliari 🇮🇹 vs Nice 🇫🇷.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260808203000 +0200" stop="20260808223000 +0200" channel="ClubFriendlyCagliarivsNice">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Club Friendly : Cagliari 🇮🇹 vs Nice 🇫🇷</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
+  <channel id="ClubFriendlyNapolivsCeltadeVigo">
+    <display-name>⚽ 🇮🇹 Club Friendly : Napoli 🇮🇹 vs Celta de Vigo 🇪🇸</display-name>
+  </channel>
+  <programme start="20260808000000 +0200" stop="20260808210000 +0200" channel="ClubFriendlyNapolivsCeltadeVigo">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">⚽ 🇮🇹 Club Friendly : Napoli 🇮🇹 vs Celta de Vigo 🇪🇸.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260808210000 +0200" stop="20260808230000 +0200" channel="ClubFriendlyNapolivsCeltadeVigo">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Club Friendly : Napoli 🇮🇹 vs Celta de Vigo 🇪🇸</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
+  <channel id="ClubFriendlyBarcelonavsNottinghamForest">
+    <display-name>⚽ 🇪🇸 Club Friendly : Barcelona 🇪🇸 vs Nottingham Forest 🏴</display-name>
+  </channel>
+  <programme start="20260808000000 +0200" stop="20260808210000 +0200" channel="ClubFriendlyBarcelonavsNottinghamForest">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">⚽ 🇪🇸 Club Friendly : Barcelona 🇪🇸 vs Nottingham Forest 🏴.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260808210000 +0200" stop="20260808230000 +0200" channel="ClubFriendlyBarcelonavsNottinghamForest">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇪🇸 Club Friendly : Barcelona 🇪🇸 vs Nottingham Forest 🏴</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
+  <programme start="20260808000000 +0200" stop="20260808210000 +0200" channel="ClubFriendlyBarcelonavsNottinghamForest">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">⚽ 🇪🇸 Club Friendly : Barcelona 🇪🇸 vs Nottingham Forest 🏴.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260808210000 +0200" stop="20260808230000 +0200" channel="ClubFriendlyBarcelonavsNottinghamForest">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇪🇸 Club Friendly : Barcelona 🇪🇸 vs Nottingham Forest 🏴</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
+  <channel id="ClubFriendlyUdinesevsBarcelona">
+    <display-name>⚽ 🇮🇹 Club Friendly : Udinese 🇮🇹 vs Barcelona 🇪🇸</display-name>
+  </channel>
+  <programme start="20260808000000 +0200" stop="20260808220000 +0200" channel="ClubFriendlyUdinesevsBarcelona">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">⚽ 🇮🇹 Club Friendly : Udinese 🇮🇹 vs Barcelona 🇪🇸.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260808220000 +0200" stop="20260809000000 +0200" channel="ClubFriendlyUdinesevsBarcelona">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Club Friendly : Udinese 🇮🇹 vs Barcelona 🇪🇸</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
+  <programme start="20260808000000 +0200" stop="20260808220000 +0200" channel="ClubFriendlyUdinesevsBarcelona">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">⚽ 🇮🇹 Club Friendly : Udinese 🇮🇹 vs Barcelona 🇪🇸.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260808220000 +0200" stop="20260809000000 +0200" channel="ClubFriendlyUdinesevsBarcelona">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Club Friendly : Udinese 🇮🇹 vs Barcelona 🇪🇸</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
+  <channel id="ATPMontrealATPNationalBankOpenWTA1000TorontoDay6Session1">
+    <display-name>🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 - Toronto : Day 6, Session 1</display-name>
+  </channel>
+  <programme start="20260808000000 +0200" stop="20260808183000 +0200" channel="ATPMontrealATPNationalBankOpenWTA1000TorontoDay6Session1">
+    <title lang="it">Inizia alle 18:30.</title>
+    <desc lang="it">🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 - Toronto : Day 6, Session 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260808183000 +0200" stop="20260808203000 +0200" channel="ATPMontrealATPNationalBankOpenWTA1000TorontoDay6Session1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 - Toronto : Day 6, Session 1</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <programme start="20260808000000 +0200" stop="20260808183000 +0200" channel="ATPMontrealATPNationalBankOpenWTA1000TorontoDay6Session1">
+    <title lang="it">Inizia alle 18:30.</title>
+    <desc lang="it">🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 - Toronto : Day 6, Session 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260808183000 +0200" stop="20260808203000 +0200" channel="ATPMontrealATPNationalBankOpenWTA1000TorontoDay6Session1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 - Toronto : Day 6, Session 1</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <channel id="ATPMontrealATPNationalBankOpenWTA1000TorontoDay6Session2">
+    <display-name>🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 - Toronto : Day 6, Session 2</display-name>
+  </channel>
+  <programme start="20260809000000 +0200" stop="20260809010000 +0200" channel="ATPMontrealATPNationalBankOpenWTA1000TorontoDay6Session2">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 - Toronto : Day 6, Session 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260809010000 +0200" stop="20260809030000 +0200" channel="ATPMontrealATPNationalBankOpenWTA1000TorontoDay6Session2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 - Toronto : Day 6, Session 2</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <programme start="20260809000000 +0200" stop="20260809010000 +0200" channel="ATPMontrealATPNationalBankOpenWTA1000TorontoDay6Session2">
+    <title lang="it">Inizia alle 01:00.</title>
+    <desc lang="it">🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 - Toronto : Day 6, Session 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260809010000 +0200" stop="20260809030000 +0200" channel="ATPMontrealATPNationalBankOpenWTA1000TorontoDay6Session2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 - Toronto : Day 6, Session 2</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <channel id="MotoGPRound12GreatBritainFreePractice2">
+    <display-name>🏍️ 🇬🇧 MotoGP : Round 12 | Great Britain Free Practice 2</display-name>
+  </channel>
+  <programme start="20260808000000 +0200" stop="20260808103000 +0200" channel="MotoGPRound12GreatBritainFreePractice2">
+    <title lang="it">Inizia alle 10:30.</title>
+    <desc lang="it">🏍️ 🇬🇧 MotoGP : Round 12 | Great Britain Free Practice 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260808103000 +0200" stop="20260808123000 +0200" channel="MotoGPRound12GreatBritainFreePractice2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏍️ 🇬🇧 MotoGP : Round 12 | Great Britain Free Practice 2</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="Moto3Round12GreatBritainFreePractice2">
+    <display-name>🏍️ 🇬🇧 Moto3 : Round 12 | Great Britain Free Practice 2</display-name>
+  </channel>
+  <programme start="20260808000000 +0200" stop="20260808103500 +0200" channel="Moto3Round12GreatBritainFreePractice2">
+    <title lang="it">Inizia alle 10:35.</title>
+    <desc lang="it">🏍️ 🇬🇧 Moto3 : Round 12 | Great Britain Free Practice 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260808103500 +0200" stop="20260808123500 +0200" channel="Moto3Round12GreatBritainFreePractice2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏍️ 🇬🇧 Moto3 : Round 12 | Great Britain Free Practice 2</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="Moto2Round12GreatBritainFreePractice2">
+    <display-name>🏍️ 🇬🇧 Moto2 : Round 12 | Great Britain Free Practice 2</display-name>
+  </channel>
+  <programme start="20260808000000 +0200" stop="20260808112000 +0200" channel="Moto2Round12GreatBritainFreePractice2">
+    <title lang="it">Inizia alle 11:20.</title>
+    <desc lang="it">🏍️ 🇬🇧 Moto2 : Round 12 | Great Britain Free Practice 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260808112000 +0200" stop="20260808132000 +0200" channel="Moto2Round12GreatBritainFreePractice2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏍️ 🇬🇧 Moto2 : Round 12 | Great Britain Free Practice 2</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="MotoGPRound12GreatBritainQualifying">
+    <display-name>🏍️ 🇬🇧 MotoGP : Round 12 | Great Britain Qualifying</display-name>
+  </channel>
+  <programme start="20260808000000 +0200" stop="20260808120000 +0200" channel="MotoGPRound12GreatBritainQualifying">
+    <title lang="it">Inizia alle 12:00.</title>
+    <desc lang="it">🏍️ 🇬🇧 MotoGP : Round 12 | Great Britain Qualifying.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260808120000 +0200" stop="20260808140000 +0200" channel="MotoGPRound12GreatBritainQualifying">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏍️ 🇬🇧 MotoGP : Round 12 | Great Britain Qualifying</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="Moto3Round12GreatBritainQualifying">
+    <display-name>🏍️ 🇬🇧 Moto3 : Round 12 | Great Britain Qualifying</display-name>
+  </channel>
+  <programme start="20260808000000 +0200" stop="20260808144500 +0200" channel="Moto3Round12GreatBritainQualifying">
+    <title lang="it">Inizia alle 14:45.</title>
+    <desc lang="it">🏍️ 🇬🇧 Moto3 : Round 12 | Great Britain Qualifying.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260808144500 +0200" stop="20260808164500 +0200" channel="Moto3Round12GreatBritainQualifying">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏍️ 🇬🇧 Moto3 : Round 12 | Great Britain Qualifying</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="Moto2Round12GreatBritainQualifying">
+    <display-name>🏍️ 🇬🇧 Moto2 : Round 12 | Great Britain Qualifying</display-name>
+  </channel>
+  <programme start="20260808000000 +0200" stop="20260808160000 +0200" channel="Moto2Round12GreatBritainQualifying">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">🏍️ 🇬🇧 Moto2 : Round 12 | Great Britain Qualifying.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260808160000 +0200" stop="20260808180000 +0200" channel="Moto2Round12GreatBritainQualifying">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏍️ 🇬🇧 Moto2 : Round 12 | Great Britain Qualifying</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="MotoGPRound12GreatBritainSprintRace">
+    <display-name>🏍️ 🇬🇧 MotoGP : Round 12 | Great Britain Sprint Race</display-name>
+  </channel>
+  <programme start="20260808000000 +0200" stop="20260808164500 +0200" channel="MotoGPRound12GreatBritainSprintRace">
+    <title lang="it">Inizia alle 16:45.</title>
+    <desc lang="it">🏍️ 🇬🇧 MotoGP : Round 12 | Great Britain Sprint Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260808164500 +0200" stop="20260808184500 +0200" channel="MotoGPRound12GreatBritainSprintRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏍️ 🇬🇧 MotoGP : Round 12 | Great Britain Sprint Race</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="ChinaOpenRound1">
+    <display-name>🎱 🇨🇳 China Open : Round 1</display-name>
+  </channel>
+  <programme start="20260808000000 +0200" stop="20260808080000 +0200" channel="ChinaOpenRound1">
+    <title lang="it">Inizia alle 08:00.</title>
+    <desc lang="it">🎱 🇨🇳 China Open : Round 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260808080000 +0200" stop="20260808100000 +0200" channel="ChinaOpenRound1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎱 🇨🇳 China Open : Round 1</desc>
+    <category lang="it">Snooker 🎱</category>
+  </programme>
+  <channel id="TrailGoldenTrailWorldSeriesSierreZinal">
+    <display-name>🏃 🇨🇭 Trail : Golden Trail World Series - Sierre-Zinal</display-name>
+  </channel>
+  <programme start="20260808000000 +0200" stop="20260808114500 +0200" channel="TrailGoldenTrailWorldSeriesSierreZinal">
+    <title lang="it">Inizia alle 11:45.</title>
+    <desc lang="it">🏃 🇨🇭 Trail : Golden Trail World Series - Sierre-Zinal.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260808114500 +0200" stop="20260808134500 +0200" channel="TrailGoldenTrailWorldSeriesSierreZinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏃 🇨🇭 Trail : Golden Trail World Series - Sierre-Zinal</desc>
+    <category lang="it">Athletics 🏃</category>
+  </programme>
+  <channel id="TourofPolandMenStage6BukovinaResortBukowinaTatrzaska1256km">
+    <display-name>🚴 🇵🇱 Tour of Poland Men : Stage 6 | Bukovina Resort - Bukowina Tatrzańska (125.6km)</display-name>
+  </channel>
+  <programme start="20260808000000 +0200" stop="20260808130000 +0200" channel="TourofPolandMenStage6BukovinaResortBukowinaTatrzaska1256km">
+    <title lang="it">Inizia alle 13:00.</title>
+    <desc lang="it">🚴 🇵🇱 Tour of Poland Men : Stage 6 | Bukovina Resort - Bukowina Tatrzańska (125.6km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260808130000 +0200" stop="20260808150000 +0200" channel="TourofPolandMenStage6BukovinaResortBukowinaTatrzaska1256km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 🇵🇱 Tour of Poland Men : Stage 6 | Bukovina Resort - Bukowina Tatrzańska (125.6km)</desc>
+    <category lang="it">Cycling 🚴</category>
+  </programme>
+  <channel id="TourdeFranceWomenwithZwiftStage8WomenSisteronNice175km">
+    <display-name>🚴 🇫🇷 Tour de France Women with Zwift : Stage 8 | Women | Sisteron – Nice (175km)</display-name>
+  </channel>
+  <programme start="20260808000000 +0200" stop="20260808153000 +0200" channel="TourdeFranceWomenwithZwiftStage8WomenSisteronNice175km">
+    <title lang="it">Inizia alle 15:30.</title>
+    <desc lang="it">🚴 🇫🇷 Tour de France Women with Zwift : Stage 8 | Women | Sisteron – Nice (175km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260808153000 +0200" stop="20260808173000 +0200" channel="TourdeFranceWomenwithZwiftStage8WomenSisteronNice175km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 🇫🇷 Tour de France Women with Zwift : Stage 8 | Women | Sisteron – Nice (175km)</desc>
+    <category lang="it">Cycling 🚴</category>
+  </programme>
+  <channel id="EuropeanOpenWaterSwimmingChampionshipsMixedRelaysFinal">
+    <display-name>🏊 🇪🇺 European Open Water Swimming Championships Mixed Relays Final</display-name>
+  </channel>
+  <programme start="20260808000000 +0200" stop="20260808100000 +0200" channel="EuropeanOpenWaterSwimmingChampionshipsMixedRelaysFinal">
+    <title lang="it">Inizia alle 10:00.</title>
+    <desc lang="it">🏊 🇪🇺 European Open Water Swimming Championships Mixed Relays Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260808100000 +0200" stop="20260808120000 +0200" channel="EuropeanOpenWaterSwimmingChampionshipsMixedRelaysFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏊 🇪🇺 European Open Water Swimming Championships Mixed Relays Final</desc>
+    <category lang="it">Water Sports 🏊</category>
+  </programme>
+  <programme start="20260808000000 +0200" stop="20260808100000 +0200" channel="EuropeanOpenWaterSwimmingChampionshipsMixedRelaysFinal">
+    <title lang="it">Inizia alle 10:00.</title>
+    <desc lang="it">🏊 🇪🇺 European Open Water Swimming Championships Mixed Relays Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260808100000 +0200" stop="20260808120000 +0200" channel="EuropeanOpenWaterSwimmingChampionshipsMixedRelaysFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏊 🇪🇺 European Open Water Swimming Championships Mixed Relays Final</desc>
+    <category lang="it">Water Sports 🏊</category>
+  </programme>
+  <channel id="Womens20mR3R4SwimmingEuropeanChampionshipsTuffiGrandiAltezzeWomens20m">
+    <display-name>🏊 🇪🇺 Women's 20m R3-R4 Swimming European Championships Tuffi Grandi Altezze Women's 20m</display-name>
+  </channel>
+  <programme start="20260808000000 +0200" stop="20260808133000 +0200" channel="Womens20mR3R4SwimmingEuropeanChampionshipsTuffiGrandiAltezzeWomens20m">
+    <title lang="it">Inizia alle 13:30.</title>
+    <desc lang="it">🏊 🇪🇺 Women's 20m R3-R4 Swimming European Championships Tuffi Grandi Altezze Women's 20m.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260808133000 +0200" stop="20260808153000 +0200" channel="Womens20mR3R4SwimmingEuropeanChampionshipsTuffiGrandiAltezzeWomens20m">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏊 🇪🇺 Women's 20m R3-R4 Swimming European Championships Tuffi Grandi Altezze Women's 20m</desc>
+    <category lang="it">Water Sports 🏊</category>
+  </programme>
+  <channel id="Paris2026OpenWaterSwimmingMixedRelaysFinal">
+    <display-name>🏊 🇫🇷 Paris 2026 Open Water Swimming Mixed Relays Final</display-name>
+  </channel>
+  <programme start="20260808000000 +0200" stop="20260808180000 +0200" channel="Paris2026OpenWaterSwimmingMixedRelaysFinal">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">🏊 🇫🇷 Paris 2026 Open Water Swimming Mixed Relays Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260808180000 +0200" stop="20260808200000 +0200" channel="Paris2026OpenWaterSwimmingMixedRelaysFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏊 🇫🇷 Paris 2026 Open Water Swimming Mixed Relays Final</desc>
+    <category lang="it">Water Sports 🏊</category>
+  </programme>
 </tv>
