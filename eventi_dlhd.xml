@@ -69,19 +69,6 @@
     <desc lang="it">🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 - Toronto : Day 7, Session 2</desc>
     <category lang="it">Tennis 🎾</category>
   </programme>
-  <channel id="Moto3Round12GreatBritainRace">
-    <display-name>🏍️ 🇬🇧 Moto3 : Round 12 - Great Britain Race</display-name>
-  </channel>
-  <programme start="20260809000000 +0200" stop="20260809151500 +0200" channel="Moto3Round12GreatBritainRace">
-    <title lang="it">Inizia alle 15:15.</title>
-    <desc lang="it">🏍️ 🇬🇧 Moto3 : Round 12 - Great Britain Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260809151500 +0200" stop="20260809171500 +0200" channel="Moto3Round12GreatBritainRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏍️ 🇬🇧 Moto3 : Round 12 - Great Britain Race</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
   <channel id="WorldJuniorAthleticsChampionshipsFinalDayOregon">
     <display-name>🏃 🇺🇸 World Junior Athletics Championships : Final Day - Oregon</display-name>
   </channel>
@@ -95,32 +82,6 @@
     <desc lang="it">🏃 🇺🇸 World Junior Athletics Championships : Final Day - Oregon</desc>
     <category lang="it">Athletics 🏃</category>
   </programme>
-  <channel id="TourdeFranceWomenwithZwiftStage9WomenNice99km">
-    <display-name>🚴 🇫🇷 Tour de France Women with Zwift : Stage 9 - Women - Nice (99km)</display-name>
-  </channel>
-  <programme start="20260809000000 +0200" stop="20260809154500 +0200" channel="TourdeFranceWomenwithZwiftStage9WomenNice99km">
-    <title lang="it">Inizia alle 15:45.</title>
-    <desc lang="it">🚴 🇫🇷 Tour de France Women with Zwift : Stage 9 - Women - Nice (99km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260809154500 +0200" stop="20260809174500 +0200" channel="TourdeFranceWomenwithZwiftStage9WomenNice99km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🚴 🇫🇷 Tour de France Women with Zwift : Stage 9 - Women - Nice (99km)</desc>
-    <category lang="it">Cycling 🚴</category>
-  </programme>
-  <channel id="LondonPremierPadelP1WomensFinal">
-    <display-name>🎾 🇬🇧 London Premier Padel P1 : Women's Final</display-name>
-  </channel>
-  <programme start="20260809000000 +0200" stop="20260809150000 +0200" channel="LondonPremierPadelP1WomensFinal">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">🎾 🇬🇧 London Premier Padel P1 : Women's Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260809150000 +0200" stop="20260809170000 +0200" channel="LondonPremierPadelP1WomensFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎾 🇬🇧 London Premier Padel P1 : Women's Final</desc>
-    <category lang="it">Squash 🏸</category>
-  </programme>
   <channel id="LondonPremierPadelP1MensFinal">
     <display-name>🎾 🇬🇧 London Premier Padel P1 : Men's Final</display-name>
   </channel>
@@ -133,19 +94,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">🎾 🇬🇧 London Premier Padel P1 : Men's Final</desc>
     <category lang="it">Squash 🏸</category>
-  </programme>
-  <channel id="EuropeanAquaticsParis2026ArtisticSwimmingTeamFinal">
-    <display-name>🏊 🇫🇷 European Aquatics Paris 2026 : Artistic Swimming Team Final</display-name>
-  </channel>
-  <programme start="20260809000000 +0200" stop="20260809153000 +0200" channel="EuropeanAquaticsParis2026ArtisticSwimmingTeamFinal">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">🏊 🇫🇷 European Aquatics Paris 2026 : Artistic Swimming Team Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260809153000 +0200" stop="20260809173000 +0200" channel="EuropeanAquaticsParis2026ArtisticSwimmingTeamFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏊 🇫🇷 European Aquatics Paris 2026 : Artistic Swimming Team Final</desc>
-    <category lang="it">Water Sports 🏊</category>
   </programme>
   <channel id="EuropeanSwimmingChampionships3mSynchronizedMixedFinal">
     <display-name>🏊 🇪🇺 European Swimming Championships : 3m Synchronized Mixed Final</display-name>
