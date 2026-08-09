@@ -82,19 +82,6 @@
     <desc lang="it">🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 - Toronto : Day 7, Session 2</desc>
     <category lang="it">Tennis 🎾</category>
   </programme>
-  <channel id="MotoGPRound12GreatBritainWarmUp">
-    <display-name>🏍️ 🇬🇧 MotoGP : Round 12 - Great Britain Warm Up</display-name>
-  </channel>
-  <programme start="20260809000000 +0200" stop="20260809103000 +0200" channel="MotoGPRound12GreatBritainWarmUp">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">🏍️ 🇬🇧 MotoGP : Round 12 - Great Britain Warm Up.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260809103000 +0200" stop="20260809123000 +0200" channel="MotoGPRound12GreatBritainWarmUp">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏍️ 🇬🇧 MotoGP : Round 12 - Great Britain Warm Up</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
   <channel id="Moto2Round12GreatBritainRace">
     <display-name>🏍️ 🇬🇧 Moto2 : Round 12 - Great Britain Race</display-name>
   </channel>
@@ -198,29 +185,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">🎾 🇬🇧 London Premier Padel P1 : Men's Final</desc>
     <category lang="it">Squash 🏸</category>
-  </programme>
-  <channel id="EuropeanSwimmingChampionshipsMens10mPlatformSynchroFinal">
-    <display-name>🏊 🇪🇺 European Swimming Championships : Men's 10m Platform Synchro Final</display-name>
-  </channel>
-  <programme start="20260809000000 +0200" stop="20260809100000 +0200" channel="EuropeanSwimmingChampionshipsMens10mPlatformSynchroFinal">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">🏊 🇪🇺 European Swimming Championships : Men's 10m Platform Synchro Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260809100000 +0200" stop="20260809120000 +0200" channel="EuropeanSwimmingChampionshipsMens10mPlatformSynchroFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏊 🇪🇺 European Swimming Championships : Men's 10m Platform Synchro Final</desc>
-    <category lang="it">Water Sports 🏊</category>
-  </programme>
-  <programme start="20260809000000 +0200" stop="20260809100000 +0200" channel="EuropeanSwimmingChampionshipsMens10mPlatformSynchroFinal">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">🏊 🇪🇺 European Swimming Championships : Men's 10m Platform Synchro Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260809100000 +0200" stop="20260809120000 +0200" channel="EuropeanSwimmingChampionshipsMens10mPlatformSynchroFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏊 🇪🇺 European Swimming Championships : Men's 10m Platform Synchro Final</desc>
-    <category lang="it">Water Sports 🏊</category>
   </programme>
   <channel id="EuropeanDivingChampionshipsMens3mSpringboardFinal">
     <display-name>🏊 🇪🇺 European Diving Championships : Men's 3m Springboard Final</display-name>
