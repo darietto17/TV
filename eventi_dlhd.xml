@@ -82,19 +82,6 @@
     <desc lang="it">🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 - Toronto : Day 7, Session 2</desc>
     <category lang="it">Tennis 🎾</category>
   </programme>
-  <channel id="Moto2Round12GreatBritainRace">
-    <display-name>🏍️ 🇬🇧 Moto2 : Round 12 - Great Britain Race</display-name>
-  </channel>
-  <programme start="20260809000000 +0200" stop="20260809110000 +0200" channel="Moto2Round12GreatBritainRace">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">🏍️ 🇬🇧 Moto2 : Round 12 - Great Britain Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260809110000 +0200" stop="20260809130000 +0200" channel="Moto2Round12GreatBritainRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏍️ 🇬🇧 Moto2 : Round 12 - Great Britain Race</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
   <channel id="MotoGPRound12GreatBritainRace">
     <display-name>🏍️ 🇬🇧 MotoGP : Round 12 - Great Britain Race</display-name>
   </channel>
@@ -134,19 +121,6 @@
     <desc lang="it">🏃 🇺🇸 World Junior Athletics Championships : Final Day - Oregon</desc>
     <category lang="it">Athletics 🏃</category>
   </programme>
-  <channel id="TourofPolandStage7MenWieliczkaITT124km">
-    <display-name>🚴 🇵🇱 Tour of Poland : Stage 7 - Men - Wieliczka (ITT, 12.4km)</display-name>
-  </channel>
-  <programme start="20260809000000 +0200" stop="20260809130000 +0200" channel="TourofPolandStage7MenWieliczkaITT124km">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">🚴 🇵🇱 Tour of Poland : Stage 7 - Men - Wieliczka (ITT, 12.4km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260809130000 +0200" stop="20260809150000 +0200" channel="TourofPolandStage7MenWieliczkaITT124km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🚴 🇵🇱 Tour of Poland : Stage 7 - Men - Wieliczka (ITT, 12.4km)</desc>
-    <category lang="it">Cycling 🚴</category>
-  </programme>
   <channel id="TourdeFranceWomenwithZwiftStage9WomenNice99km">
     <display-name>🚴 🇫🇷 Tour de France Women with Zwift : Stage 9 - Women - Nice (99km)</display-name>
   </channel>
@@ -185,19 +159,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">🎾 🇬🇧 London Premier Padel P1 : Men's Final</desc>
     <category lang="it">Squash 🏸</category>
-  </programme>
-  <channel id="EuropeanDivingChampionshipsMens3mSpringboardFinal">
-    <display-name>🏊 🇪🇺 European Diving Championships : Men's 3m Springboard Final</display-name>
-  </channel>
-  <programme start="20260809000000 +0200" stop="20260809124500 +0200" channel="EuropeanDivingChampionshipsMens3mSpringboardFinal">
-    <title lang="it">Inizia alle 12:45.</title>
-    <desc lang="it">🏊 🇪🇺 European Diving Championships : Men's 3m Springboard Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260809124500 +0200" stop="20260809144500 +0200" channel="EuropeanDivingChampionshipsMens3mSpringboardFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏊 🇪🇺 European Diving Championships : Men's 3m Springboard Final</desc>
-    <category lang="it">Water Sports 🏊</category>
   </programme>
   <channel id="EuropeanAquaticsParis2026ArtisticSwimmingTeamFinal">
     <display-name>🏊 🇫🇷 European Aquatics Paris 2026 : Artistic Swimming Team Final</display-name>
