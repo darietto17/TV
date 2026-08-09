@@ -23,19 +23,6 @@
     <desc lang="it">⚽ 🌍 Club Friendly : Frosinone 🇮🇹 vs Lazio 🇮🇹</desc>
     <category lang="it">Club Friendly ⚽</category>
   </programme>
-  <channel id="GermanyBundesliga2FCStPaulivsSpVggGreutherFrth">
-    <display-name>⚽ 🇩🇪 Germany - Bundesliga 2 : FC St. Pauli 🇩🇪 vs SpVgg Greuther Fürth 🇩🇪</display-name>
-  </channel>
-  <programme start="20260809000000 +0200" stop="20260809133000 +0200" channel="GermanyBundesliga2FCStPaulivsSpVggGreutherFrth">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">⚽ 🇩🇪 Germany - Bundesliga 2 : FC St. Pauli 🇩🇪 vs SpVgg Greuther Fürth 🇩🇪.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260809133000 +0200" stop="20260809153000 +0200" channel="GermanyBundesliga2FCStPaulivsSpVggGreutherFrth">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🇩🇪 Germany - Bundesliga 2 : FC St. Pauli 🇩🇪 vs SpVgg Greuther Fürth 🇩🇪</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
   <channel id="ATPMontrealATPNationalBankOpenWTA1000TorontoDay7Session1">
     <display-name>🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 - Toronto : Day 7, Session 1</display-name>
   </channel>
@@ -81,19 +68,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 - Toronto : Day 7, Session 2</desc>
     <category lang="it">Tennis 🎾</category>
-  </programme>
-  <channel id="MotoGPRound12GreatBritainRace">
-    <display-name>🏍️ 🇬🇧 MotoGP : Round 12 - Great Britain Race</display-name>
-  </channel>
-  <programme start="20260809000000 +0200" stop="20260809131500 +0200" channel="MotoGPRound12GreatBritainRace">
-    <title lang="it">Inizia alle 13:15.</title>
-    <desc lang="it">🏍️ 🇬🇧 MotoGP : Round 12 - Great Britain Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260809131500 +0200" stop="20260809151500 +0200" channel="MotoGPRound12GreatBritainRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏍️ 🇬🇧 MotoGP : Round 12 - Great Britain Race</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
   </programme>
   <channel id="Moto3Round12GreatBritainRace">
     <display-name>🏍️ 🇬🇧 Moto3 : Round 12 - Great Britain Race</display-name>
