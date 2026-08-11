@@ -1,38 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ClubFriendlyJuventusvsPalermo">
-    <display-name>⚽ 🇮🇹 Club Friendly : Juventus 🇮🇹 vs Palermo 🇮🇹</display-name>
-  </channel>
-  <programme start="20260811000000 +0200" stop="20260811120000 +0200" channel="ClubFriendlyJuventusvsPalermo">
-    <title lang="it">Inizia alle 12:00.</title>
-    <desc lang="it">⚽ 🇮🇹 Club Friendly : Juventus 🇮🇹 vs Palermo 🇮🇹.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260811120000 +0200" stop="20260811140000 +0200" channel="ClubFriendlyJuventusvsPalermo">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🇮🇹 Club Friendly : Juventus 🇮🇹 vs Palermo 🇮🇹</desc>
-    <category lang="it">Club Friendly ⚽</category>
-  </programme>
-  <programme start="20260811000000 +0200" stop="20260811120000 +0200" channel="ClubFriendlyJuventusvsPalermo">
-    <title lang="it">Inizia alle 12:00.</title>
-    <desc lang="it">⚽ 🇮🇹 Club Friendly : Juventus 🇮🇹 vs Palermo 🇮🇹.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260811120000 +0200" stop="20260811140000 +0200" channel="ClubFriendlyJuventusvsPalermo">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🇮🇹 Club Friendly : Juventus 🇮🇹 vs Palermo 🇮🇹</desc>
-    <category lang="it">Club Friendly ⚽</category>
-  </programme>
-  <programme start="20260811000000 +0200" stop="20260811120000 +0200" channel="ClubFriendlyJuventusvsPalermo">
-    <title lang="it">Inizia alle 12:00.</title>
-    <desc lang="it">⚽ 🇮🇹 Club Friendly : Juventus 🇮🇹 vs Palermo 🇮🇹.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260811120000 +0200" stop="20260811140000 +0200" channel="ClubFriendlyJuventusvsPalermo">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🇮🇹 Club Friendly : Juventus 🇮🇹 vs Palermo 🇮🇹</desc>
-    <category lang="it">Club Friendly ⚽</category>
-  </programme>
   <channel id="ATPMontrealATPNationalBankOpenWTA1000TorontoQuarterfinal">
     <display-name>🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 - Toronto : Quarter-final</display-name>
   </channel>
@@ -88,19 +55,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">🎱 🇨🇳 China Open : Chris Wakelin 🇬🇧 vs Tom Ford 🇬🇧</desc>
     <category lang="it">Snooker 🎱</category>
-  </programme>
-  <channel id="EuropeanAthleticsChampionshipsBirminghamDay2DaySession">
-    <display-name>🏃 🇬🇧 European Athletics Championships Birmingham : Day 2 - Day Session</display-name>
-  </channel>
-  <programme start="20260811000000 +0200" stop="20260811113000 +0200" channel="EuropeanAthleticsChampionshipsBirminghamDay2DaySession">
-    <title lang="it">Inizia alle 11:30.</title>
-    <desc lang="it">🏃 🇬🇧 European Athletics Championships Birmingham : Day 2 - Day Session.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260811113000 +0200" stop="20260811133000 +0200" channel="EuropeanAthleticsChampionshipsBirminghamDay2DaySession">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏃 🇬🇧 European Athletics Championships Birmingham : Day 2 - Day Session</desc>
-    <category lang="it">Athletics 🏃</category>
   </programme>
   <channel id="EuropeanAthleticsChampionshipsBirminghamDay2NightSession">
     <display-name>🏃 🇬🇧 European Athletics Championships Birmingham : Day 2 - Night Session</display-name>
