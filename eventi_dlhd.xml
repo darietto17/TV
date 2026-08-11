@@ -23,6 +23,16 @@
     <desc lang="it">⚽ 🇮🇹 Club Friendly : Juventus 🇮🇹 vs Palermo 🇮🇹</desc>
     <category lang="it">Club Friendly ⚽</category>
   </programme>
+  <programme start="20260811000000 +0200" stop="20260811120000 +0200" channel="ClubFriendlyJuventusvsPalermo">
+    <title lang="it">Inizia alle 12:00.</title>
+    <desc lang="it">⚽ 🇮🇹 Club Friendly : Juventus 🇮🇹 vs Palermo 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260811120000 +0200" stop="20260811140000 +0200" channel="ClubFriendlyJuventusvsPalermo">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Club Friendly : Juventus 🇮🇹 vs Palermo 🇮🇹</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
   <channel id="ATPMontrealATPNationalBankOpenWTA1000TorontoQuarterfinal">
     <display-name>🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 - Toronto : Quarter-final</display-name>
   </channel>
