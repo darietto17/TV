@@ -1,3 +1,140 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="UEFASuperCupPSGvsAstonVilla">
+    <display-name>⚽ 🇫🇷🏴 UEFA Super Cup: PSG 🇫🇷 vs Aston Villa 🏴</display-name>
+  </channel>
+  <programme start="20260812000000 +0200" stop="20260812210000 +0200" channel="UEFASuperCupPSGvsAstonVilla">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">⚽ 🇫🇷🏴 UEFA Super Cup: PSG 🇫🇷 vs Aston Villa 🏴.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260812210000 +0200" stop="20260812230000 +0200" channel="UEFASuperCupPSGvsAstonVilla">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇫🇷🏴 UEFA Super Cup: PSG 🇫🇷 vs Aston Villa 🏴</desc>
+    <category lang="it">UEFA Super Cup ⚽</category>
+  </programme>
+  <channel id="ClubFriendlyNapolivsAris">
+    <display-name>⚽ 🇮🇹🇬🇷 Club Friendly: Napoli 🇮🇹 vs Aris 🇬🇷</display-name>
+  </channel>
+  <programme start="20260812000000 +0200" stop="20260812210000 +0200" channel="ClubFriendlyNapolivsAris">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">⚽ 🇮🇹🇬🇷 Club Friendly: Napoli 🇮🇹 vs Aris 🇬🇷.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260812210000 +0200" stop="20260812230000 +0200" channel="ClubFriendlyNapolivsAris">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹🇬🇷 Club Friendly: Napoli 🇮🇹 vs Aris 🇬🇷</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
+  <programme start="20260812000000 +0200" stop="20260812210000 +0200" channel="ClubFriendlyNapolivsAris">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">⚽ 🇮🇹🇬🇷 Club Friendly: Napoli 🇮🇹 vs Aris 🇬🇷.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260812210000 +0200" stop="20260812230000 +0200" channel="ClubFriendlyNapolivsAris">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹🇬🇷 Club Friendly: Napoli 🇮🇹 vs Aris 🇬🇷</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
+  <channel id="ATPMontrealATPNationalBankOpenWTA1000TorontoSemifinal1">
+    <display-name>🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 - Toronto | Semi-final 1</display-name>
+  </channel>
+  <programme start="20260812000000 +0200" stop="20260812220000 +0200" channel="ATPMontrealATPNationalBankOpenWTA1000TorontoSemifinal1">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 - Toronto | Semi-final 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260812220000 +0200" stop="20260813000000 +0200" channel="ATPMontrealATPNationalBankOpenWTA1000TorontoSemifinal1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 - Toronto | Semi-final 1</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <programme start="20260812000000 +0200" stop="20260812220000 +0200" channel="ATPMontrealATPNationalBankOpenWTA1000TorontoSemifinal1">
+    <title lang="it">Inizia alle 22:00.</title>
+    <desc lang="it">🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 - Toronto | Semi-final 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260812220000 +0200" stop="20260813000000 +0200" channel="ATPMontrealATPNationalBankOpenWTA1000TorontoSemifinal1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 - Toronto | Semi-final 1</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <channel id="ChinaOpenZhouYuelongvsLiuHongyu">
+    <display-name>🎱 🇨🇳 China Open: Zhou Yuelong 🇨🇳 vs Liu Hongyu 🇨🇳</display-name>
+  </channel>
+  <programme start="20260812000000 +0200" stop="20260812080000 +0200" channel="ChinaOpenZhouYuelongvsLiuHongyu">
+    <title lang="it">Inizia alle 08:00.</title>
+    <desc lang="it">🎱 🇨🇳 China Open: Zhou Yuelong 🇨🇳 vs Liu Hongyu 🇨🇳.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260812080000 +0200" stop="20260812100000 +0200" channel="ChinaOpenZhouYuelongvsLiuHongyu">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎱 🇨🇳 China Open: Zhou Yuelong 🇨🇳 vs Liu Hongyu 🇨🇳</desc>
+    <category lang="it">Snooker 🎱</category>
+  </programme>
+  <channel id="ChinaOpenNopponSaengkhamvsRonnieOSullivan">
+    <display-name>🎱 🇨🇳 China Open: Noppon Saengkham 🇹🇭 vs Ronnie O'Sullivan 🏴</display-name>
+  </channel>
+  <programme start="20260812000000 +0200" stop="20260812133000 +0200" channel="ChinaOpenNopponSaengkhamvsRonnieOSullivan">
+    <title lang="it">Inizia alle 13:30.</title>
+    <desc lang="it">🎱 🇨🇳 China Open: Noppon Saengkham 🇹🇭 vs Ronnie O'Sullivan 🏴.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260812133000 +0200" stop="20260812153000 +0200" channel="ChinaOpenNopponSaengkhamvsRonnieOSullivan">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎱 🇨🇳 China Open: Noppon Saengkham 🇹🇭 vs Ronnie O'Sullivan 🏴</desc>
+    <category lang="it">Snooker 🎱</category>
+  </programme>
+  <channel id="EuropeanChampionshipsBirminghamDay3DaySession">
+    <display-name>🏃 🇬🇧 European Championships Birmingham | Day 3 | Day Session</display-name>
+  </channel>
+  <programme start="20260812000000 +0200" stop="20260812113000 +0200" channel="EuropeanChampionshipsBirminghamDay3DaySession">
+    <title lang="it">Inizia alle 11:30.</title>
+    <desc lang="it">🏃 🇬🇧 European Championships Birmingham | Day 3 | Day Session.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260812113000 +0200" stop="20260812133000 +0200" channel="EuropeanChampionshipsBirminghamDay3DaySession">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏃 🇬🇧 European Championships Birmingham | Day 3 | Day Session</desc>
+    <category lang="it">Athletics 🏃</category>
+  </programme>
+  <channel id="EuropeanChampionshipsBirminghamDay3NightSession">
+    <display-name>🏃 🇬🇧 European Championships Birmingham | Day 3 | Night Session</display-name>
+  </channel>
+  <programme start="20260812000000 +0200" stop="20260812200000 +0200" channel="EuropeanChampionshipsBirminghamDay3NightSession">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">🏃 🇬🇧 European Championships Birmingham | Day 3 | Night Session.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260812200000 +0200" stop="20260812220000 +0200" channel="EuropeanChampionshipsBirminghamDay3NightSession">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏃 🇬🇧 European Championships Birmingham | Day 3 | Night Session</desc>
+    <category lang="it">Athletics 🏃</category>
+  </programme>
+  <channel id="OpenWaterSwimmingEuropeanAquaticSportsChampionshipsFinal5KMMen">
+    <display-name>🏊 🇪🇺 Open Water Swimming European Aquatic Sports Championships Final 5 KM Men</display-name>
+  </channel>
+  <programme start="20260812000000 +0200" stop="20260812100000 +0200" channel="OpenWaterSwimmingEuropeanAquaticSportsChampionshipsFinal5KMMen">
+    <title lang="it">Inizia alle 10:00.</title>
+    <desc lang="it">🏊 🇪🇺 Open Water Swimming European Aquatic Sports Championships Final 5 KM Men.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260812100000 +0200" stop="20260812120000 +0200" channel="OpenWaterSwimmingEuropeanAquaticSportsChampionshipsFinal5KMMen">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏊 🇪🇺 Open Water Swimming European Aquatic Sports Championships Final 5 KM Men</desc>
+    <category lang="it">Water Sports 🏊</category>
+  </programme>
+  <channel id="Paris2026SwimmingPoolSemifinalsandFinals">
+    <display-name>🏊 🇫🇷 Paris 2026 Swimming Pool Semifinals and Finals</display-name>
+  </channel>
+  <programme start="20260812000000 +0200" stop="20260812140000 +0200" channel="Paris2026SwimmingPoolSemifinalsandFinals">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">🏊 🇫🇷 Paris 2026 Swimming Pool Semifinals and Finals.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260812140000 +0200" stop="20260812160000 +0200" channel="Paris2026SwimmingPoolSemifinalsandFinals">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏊 🇫🇷 Paris 2026 Swimming Pool Semifinals and Finals</desc>
+    <category lang="it">Water Sports 🏊</category>
+  </programme>
 </tv>
