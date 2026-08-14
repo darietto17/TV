@@ -1,3 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ItalyCoppaItaliaParmavsCatania">
+    <display-name>⚽ 🇮🇹 Italy - Coppa Italia : Parma 🇮🇹 vs Catania 🇮🇹</display-name>
+  </channel>
+  <programme start="20260814000000 +0200" stop="20260814233000 +0200" channel="ItalyCoppaItaliaParmavsCatania">
+    <title lang="it">Inizia alle 23:30.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Parma 🇮🇹 vs Catania 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260814233000 +0200" stop="20260815013000 +0200" channel="ItalyCoppaItaliaParmavsCatania">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Parma 🇮🇹 vs Catania 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalyCoppaItaliaCagliarivsArezzo">
+    <display-name>⚽ 🇮🇹 Italy - Coppa Italia : Cagliari 🇮🇹 vs Arezzo 🇮🇹</display-name>
+  </channel>
+  <programme start="20260815000000 +0200" stop="20260815020000 +0200" channel="ItalyCoppaItaliaCagliarivsArezzo">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Cagliari 🇮🇹 vs Arezzo 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20260815000000 +0200" stop="20260815020000 +0200" channel="ItalyCoppaItaliaCagliarivsArezzo">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Cagliari 🇮🇹 vs Arezzo 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="2026CincinnatiOpenTennisATPWTA1stRound">
+    <display-name>🎾 🇺🇸 2026 Cincinnati Open Tennis ATP/WTA : 1st Round</display-name>
+  </channel>
+  <programme start="20260814000000 +0200" stop="20260814223000 +0200" channel="2026CincinnatiOpenTennisATPWTA1stRound">
+    <title lang="it">Inizia alle 22:30.</title>
+    <desc lang="it">🎾 🇺🇸 2026 Cincinnati Open Tennis ATP/WTA : 1st Round.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260814223000 +0200" stop="20260815003000 +0200" channel="2026CincinnatiOpenTennisATPWTA1stRound">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 🇺🇸 2026 Cincinnati Open Tennis ATP/WTA : 1st Round</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <programme start="20260814000000 +0200" stop="20260814223000 +0200" channel="2026CincinnatiOpenTennisATPWTA1stRound">
+    <title lang="it">Inizia alle 22:30.</title>
+    <desc lang="it">🎾 🇺🇸 2026 Cincinnati Open Tennis ATP/WTA : 1st Round.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260814223000 +0200" stop="20260815003000 +0200" channel="2026CincinnatiOpenTennisATPWTA1stRound">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 🇺🇸 2026 Cincinnati Open Tennis ATP/WTA : 1st Round</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <channel id="ChinaOpenQuarterFinal">
+    <display-name>🎱 🇨🇳 China Open : Quarter-Final</display-name>
+  </channel>
+  <programme start="20260814000000 +0200" stop="20260814133000 +0200" channel="ChinaOpenQuarterFinal">
+    <title lang="it">Inizia alle 13:30.</title>
+    <desc lang="it">🎱 🇨🇳 China Open : Quarter-Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260814133000 +0200" stop="20260814153000 +0200" channel="ChinaOpenQuarterFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎱 🇨🇳 China Open : Quarter-Final</desc>
+    <category lang="it">Snooker 🎱</category>
+  </programme>
+  <programme start="20260814153000 +0200" stop="20260814190000 +0200" channel="ChinaOpenQuarterFinal">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">🎱 🇨🇳 China Open : Quarter-Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260814190000 +0200" stop="20260814210000 +0200" channel="ChinaOpenQuarterFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎱 🇨🇳 China Open : Quarter-Final</desc>
+    <category lang="it">Snooker 🎱</category>
+  </programme>
+  <channel id="EuropeanAthleticsChampionshipsDay5AlexanderStadium">
+    <display-name>🏃 🇪🇺 European Athletics Championships : Day 5 - Alexander Stadium</display-name>
+  </channel>
+  <programme start="20260814000000 +0200" stop="20260814170000 +0200" channel="EuropeanAthleticsChampionshipsDay5AlexanderStadium">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">🏃 🇪🇺 European Athletics Championships : Day 5 - Alexander Stadium.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260814170000 +0200" stop="20260814190000 +0200" channel="EuropeanAthleticsChampionshipsDay5AlexanderStadium">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏃 🇪🇺 European Athletics Championships : Day 5 - Alexander Stadium</desc>
+    <category lang="it">Athletics 🏃</category>
+  </programme>
+  <channel id="MedalCeremoniesDay5Birmingham2026EuropeanAthleticsChampionships">
+    <display-name>🏃 🇪🇺 Medal Ceremonies : Day 5 - Birmingham 2026 European Athletics Championships</display-name>
+  </channel>
+  <programme start="20260815000000 +0200" stop="20260815013000 +0200" channel="MedalCeremoniesDay5Birmingham2026EuropeanAthleticsChampionships">
+    <title lang="it">Inizia alle 01:30.</title>
+    <desc lang="it">🏃 🇪🇺 Medal Ceremonies : Day 5 - Birmingham 2026 European Athletics Championships.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260815013000 +0200" stop="20260815033000 +0200" channel="MedalCeremoniesDay5Birmingham2026EuropeanAthleticsChampionships">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏃 🇪🇺 Medal Ceremonies : Day 5 - Birmingham 2026 European Athletics Championships</desc>
+    <category lang="it">Athletics 🏃</category>
+  </programme>
+  <channel id="ArcticRaceofNorwayStage2MenBIVesterlenAndenes1792km">
+    <display-name>🚴 🇳🇴 Arctic Race of Norway : Stage 2 Men | Bø I Vesterålen - Andenes (179.2km)</display-name>
+  </channel>
+  <programme start="20260814000000 +0200" stop="20260814190000 +0200" channel="ArcticRaceofNorwayStage2MenBIVesterlenAndenes1792km">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">🚴 🇳🇴 Arctic Race of Norway : Stage 2 Men | Bø I Vesterålen - Andenes (179.2km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260814190000 +0200" stop="20260814210000 +0200" channel="ArcticRaceofNorwayStage2MenBIVesterlenAndenes1792km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 🇳🇴 Arctic Race of Norway : Stage 2 Men | Bø I Vesterålen - Andenes (179.2km)</desc>
+    <category lang="it">Cycling 🚴</category>
+  </programme>
+  <channel id="CzechTourStage2MenMladBoleslavJetd155km">
+    <display-name>🚴 🇨🇿 Czech Tour : Stage 2 Men | Mladá Boleslav - Ještěd (155km)</display-name>
+  </channel>
+  <programme start="20260814000000 +0200" stop="20260814210000 +0200" channel="CzechTourStage2MenMladBoleslavJetd155km">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">🚴 🇨🇿 Czech Tour : Stage 2 Men | Mladá Boleslav - Ještěd (155km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260814210000 +0200" stop="20260814230000 +0200" channel="CzechTourStage2MenMladBoleslavJetd155km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 🇨🇿 Czech Tour : Stage 2 Men | Mladá Boleslav - Ještěd (155km)</desc>
+    <category lang="it">Cycling 🚴</category>
+  </programme>
 </tv>
