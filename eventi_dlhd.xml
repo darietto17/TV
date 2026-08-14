@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ClubFriendlyAtalantavsAthleticClub">
+    <display-name>⚽ 🌍 Club Friendly : Atalanta 🇮🇹 vs Athletic Club 🇪🇸</display-name>
+  </channel>
+  <programme start="20260814000000 +0200" stop="20260814204500 +0200" channel="ClubFriendlyAtalantavsAthleticClub">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ 🌍 Club Friendly : Atalanta 🇮🇹 vs Athletic Club 🇪🇸.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260814204500 +0200" stop="20260814224500 +0200" channel="ClubFriendlyAtalantavsAthleticClub">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🌍 Club Friendly : Atalanta 🇮🇹 vs Athletic Club 🇪🇸</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
+  <programme start="20260814000000 +0200" stop="20260814204500 +0200" channel="ClubFriendlyAtalantavsAthleticClub">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ 🌍 Club Friendly : Atalanta 🇮🇹 vs Athletic Club 🇪🇸.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260814204500 +0200" stop="20260814224500 +0200" channel="ClubFriendlyAtalantavsAthleticClub">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🌍 Club Friendly : Atalanta 🇮🇹 vs Athletic Club 🇪🇸</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
+  <channel id="ItalyCoppaItaliaSerieCVadovsInterII">
+    <display-name>⚽ 🇮🇹 Italy - Coppa Italia Serie C : Vado 🇮🇹 vs Inter II 🇮🇹</display-name>
+  </channel>
+  <programme start="20260814000000 +0200" stop="20260814210000 +0200" channel="ItalyCoppaItaliaSerieCVadovsInterII">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia Serie C : Vado 🇮🇹 vs Inter II 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260814210000 +0200" stop="20260814230000 +0200" channel="ItalyCoppaItaliaSerieCVadovsInterII">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia Serie C : Vado 🇮🇹 vs Inter II 🇮🇹</desc>
+    <category lang="it">Coppa Italia ⚽</category>
+  </programme>
   <channel id="ItalyCoppaItaliaParmavsCatania">
     <display-name>⚽ 🇮🇹 Italy - Coppa Italia : Parma 🇮🇹 vs Catania 🇮🇹</display-name>
   </channel>
@@ -26,27 +62,14 @@
     <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Cagliari 🇮🇹 vs Arezzo 🇮🇹</desc>
     <category lang="it">All Soccer Events ⚽</category>
   </programme>
-  <channel id="ClubFriendlyAtalantavsAthleticClub">
-    <display-name>⚽ 🌍 Club Friendly : Atalanta 🇮🇹 vs Athletic Club 🇪🇸</display-name>
-  </channel>
-  <programme start="20260814000000 +0200" stop="20260814204500 +0200" channel="ClubFriendlyAtalantavsAthleticClub">
-    <title lang="it">Inizia alle 20:45.</title>
-    <desc lang="it">⚽ 🌍 Club Friendly : Atalanta 🇮🇹 vs Athletic Club 🇪🇸.</desc>
+  <programme start="20260814000000 +0200" stop="20260814183000 +0200" channel="ItalyCoppaItaliaCagliarivsArezzo">
+    <title lang="it">Inizia alle 18:30.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Cagliari 🇮🇹 vs Arezzo 🇮🇹.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260814204500 +0200" stop="20260814224500 +0200" channel="ClubFriendlyAtalantavsAthleticClub">
+  <programme start="20260814183000 +0200" stop="20260814203000 +0200" channel="ItalyCoppaItaliaCagliarivsArezzo">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🌍 Club Friendly : Atalanta 🇮🇹 vs Athletic Club 🇪🇸</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
-  <programme start="20260814000000 +0200" stop="20260814204500 +0200" channel="ClubFriendlyAtalantavsAthleticClub">
-    <title lang="it">Inizia alle 20:45.</title>
-    <desc lang="it">⚽ 🌍 Club Friendly : Atalanta 🇮🇹 vs Athletic Club 🇪🇸.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260814204500 +0200" stop="20260814224500 +0200" channel="ClubFriendlyAtalantavsAthleticClub">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🌍 Club Friendly : Atalanta 🇮🇹 vs Athletic Club 🇪🇸</desc>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Cagliari 🇮🇹 vs Arezzo 🇮🇹</desc>
     <category lang="it">All Soccer Events ⚽</category>
   </programme>
   <channel id="ItalyCoppaItaliaMonzavsAvellino">
@@ -62,22 +85,19 @@
     <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Monza 🇮🇹 vs Avellino 🇮🇹</desc>
     <category lang="it">All Soccer Events ⚽</category>
   </programme>
-  <channel id="ItalyCoppaItaliaSerieCVadovsInterII">
-    <display-name>⚽ 🇮🇹 Italy - Coppa Italia Serie C : Vado 🇮🇹 vs Inter II 🇮🇹</display-name>
-  </channel>
-  <programme start="20260814000000 +0200" stop="20260814210000 +0200" channel="ItalyCoppaItaliaSerieCVadovsInterII">
-    <title lang="it">Inizia alle 21:00.</title>
-    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia Serie C : Vado 🇮🇹 vs Inter II 🇮🇹.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260814210000 +0200" stop="20260814230000 +0200" channel="ItalyCoppaItaliaSerieCVadovsInterII">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia Serie C : Vado 🇮🇹 vs Inter II 🇮🇹</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
   <channel id="ItalyCoppaItaliaFiorentinavsBenevento">
     <display-name>⚽ 🇮🇹 Italy - Coppa Italia : Fiorentina 🇮🇹 vs Benevento 🇮🇹</display-name>
   </channel>
+  <programme start="20260814000000 +0200" stop="20260814211500 +0200" channel="ItalyCoppaItaliaFiorentinavsBenevento">
+    <title lang="it">Inizia alle 21:15.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Fiorentina 🇮🇹 vs Benevento 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260814211500 +0200" stop="20260814231500 +0200" channel="ItalyCoppaItaliaFiorentinavsBenevento">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Fiorentina 🇮🇹 vs Benevento 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
   <programme start="20260814000000 +0200" stop="20260814211500 +0200" channel="ItalyCoppaItaliaFiorentinavsBenevento">
     <title lang="it">Inizia alle 21:15.</title>
     <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Fiorentina 🇮🇹 vs Benevento 🇮🇹.</desc>
@@ -123,19 +143,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">🏃 🇪🇺 Medal Ceremonies : Day 5 - Birmingham 2026 European Athletics Championships</desc>
     <category lang="it">Athletics 🏃</category>
-  </programme>
-  <channel id="CzechTourStage2MenMladBoleslavJetd155km">
-    <display-name>🚴 🇨🇿 Czech Tour : Stage 2 Men | Mladá Boleslav - Ještěd (155km)</display-name>
-  </channel>
-  <programme start="20260814000000 +0200" stop="20260814153000 +0200" channel="CzechTourStage2MenMladBoleslavJetd155km">
-    <title lang="it">Inizia alle 15:30.</title>
-    <desc lang="it">🚴 🇨🇿 Czech Tour : Stage 2 Men | Mladá Boleslav - Ještěd (155km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260814153000 +0200" stop="20260814173000 +0200" channel="CzechTourStage2MenMladBoleslavJetd155km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🚴 🇨🇿 Czech Tour : Stage 2 Men | Mladá Boleslav - Ještěd (155km)</desc>
-    <category lang="it">Cycling 🚴</category>
   </programme>
   <channel id="EuropeanAquaticsChampionshipsDay5">
     <display-name>🏊 🇪🇺 European Aquatics Championships : Day 5</display-name>
