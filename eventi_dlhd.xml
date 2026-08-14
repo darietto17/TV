@@ -1,170 +1,215 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ATPWTACincinnatiOpenLindnerFamilyTennisCenter">
-    <display-name>🎾 🇺🇸 ATP/WTA Cincinnati Open – Lindner Family Tennis Center 🇺🇸</display-name>
+  <channel id="ItalyCoppaItaliaParmavsCatania">
+    <display-name>⚽ 🇮🇹 Italy - Coppa Italia : Parma 🇮🇹 vs Catania 🇮🇹</display-name>
   </channel>
-  <programme start="20260814000000 +0200" stop="20260814170000 +0200" channel="ATPWTACincinnatiOpenLindnerFamilyTennisCenter">
+  <programme start="20260814000000 +0200" stop="20260814180000 +0200" channel="ItalyCoppaItaliaParmavsCatania">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Parma 🇮🇹 vs Catania 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260814180000 +0200" stop="20260814200000 +0200" channel="ItalyCoppaItaliaParmavsCatania">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Parma 🇮🇹 vs Catania 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalyCoppaItaliaCagliarivsArezzo">
+    <display-name>⚽ 🇮🇹 Italy - Coppa Italia : Cagliari 🇮🇹 vs Arezzo 🇮🇹</display-name>
+  </channel>
+  <programme start="20260814000000 +0200" stop="20260814183000 +0200" channel="ItalyCoppaItaliaCagliarivsArezzo">
+    <title lang="it">Inizia alle 18:30.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Cagliari 🇮🇹 vs Arezzo 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260814183000 +0200" stop="20260814203000 +0200" channel="ItalyCoppaItaliaCagliarivsArezzo">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Cagliari 🇮🇹 vs Arezzo 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ClubFriendlyAtalantavsAthleticClub">
+    <display-name>⚽ 🌍 Club Friendly : Atalanta 🇮🇹 vs Athletic Club 🇪🇸</display-name>
+  </channel>
+  <programme start="20260814000000 +0200" stop="20260814204500 +0200" channel="ClubFriendlyAtalantavsAthleticClub">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ 🌍 Club Friendly : Atalanta 🇮🇹 vs Athletic Club 🇪🇸.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260814204500 +0200" stop="20260814224500 +0200" channel="ClubFriendlyAtalantavsAthleticClub">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🌍 Club Friendly : Atalanta 🇮🇹 vs Athletic Club 🇪🇸</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20260814000000 +0200" stop="20260814204500 +0200" channel="ClubFriendlyAtalantavsAthleticClub">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ 🌍 Club Friendly : Atalanta 🇮🇹 vs Athletic Club 🇪🇸.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260814204500 +0200" stop="20260814224500 +0200" channel="ClubFriendlyAtalantavsAthleticClub">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🌍 Club Friendly : Atalanta 🇮🇹 vs Athletic Club 🇪🇸</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalyCoppaItaliaMonzavsAvellino">
+    <display-name>⚽ 🇮🇹 Italy - Coppa Italia : Monza 🇮🇹 vs Avellino 🇮🇹</display-name>
+  </channel>
+  <programme start="20260814000000 +0200" stop="20260814204500 +0200" channel="ItalyCoppaItaliaMonzavsAvellino">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Monza 🇮🇹 vs Avellino 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260814204500 +0200" stop="20260814224500 +0200" channel="ItalyCoppaItaliaMonzavsAvellino">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Monza 🇮🇹 vs Avellino 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalyCoppaItaliaSerieCVadovsInterII">
+    <display-name>⚽ 🇮🇹 Italy - Coppa Italia Serie C : Vado 🇮🇹 vs Inter II 🇮🇹</display-name>
+  </channel>
+  <programme start="20260814000000 +0200" stop="20260814210000 +0200" channel="ItalyCoppaItaliaSerieCVadovsInterII">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia Serie C : Vado 🇮🇹 vs Inter II 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260814210000 +0200" stop="20260814230000 +0200" channel="ItalyCoppaItaliaSerieCVadovsInterII">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia Serie C : Vado 🇮🇹 vs Inter II 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalyCoppaItaliaFiorentinavsBenevento">
+    <display-name>⚽ 🇮🇹 Italy - Coppa Italia : Fiorentina 🇮🇹 vs Benevento 🇮🇹</display-name>
+  </channel>
+  <programme start="20260814000000 +0200" stop="20260814211500 +0200" channel="ItalyCoppaItaliaFiorentinavsBenevento">
+    <title lang="it">Inizia alle 21:15.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Fiorentina 🇮🇹 vs Benevento 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260814211500 +0200" stop="20260814231500 +0200" channel="ItalyCoppaItaliaFiorentinavsBenevento">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Fiorentina 🇮🇹 vs Benevento 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="2026CincinnatiOpenTennisATPWTA1stRound">
+    <display-name>🎾 🇺🇸 2026 Cincinnati Open Tennis ATP/WTA : 1st Round</display-name>
+  </channel>
+  <programme start="20260814000000 +0200" stop="20260814170000 +0200" channel="2026CincinnatiOpenTennisATPWTA1stRound">
     <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">🎾 🇺🇸 ATP/WTA Cincinnati Open – Lindner Family Tennis Center 🇺🇸.</desc>
+    <desc lang="it">🎾 🇺🇸 2026 Cincinnati Open Tennis ATP/WTA : 1st Round.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260814170000 +0200" stop="20260814190000 +0200" channel="ATPWTACincinnatiOpenLindnerFamilyTennisCenter">
+  <programme start="20260814170000 +0200" stop="20260814190000 +0200" channel="2026CincinnatiOpenTennisATPWTA1stRound">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎾 🇺🇸 ATP/WTA Cincinnati Open – Lindner Family Tennis Center 🇺🇸</desc>
+    <desc lang="it">🎾 🇺🇸 2026 Cincinnati Open Tennis ATP/WTA : 1st Round</desc>
     <category lang="it">Tennis 🎾</category>
   </programme>
-  <programme start="20260814000000 +0200" stop="20260814170000 +0200" channel="ATPWTACincinnatiOpenLindnerFamilyTennisCenter">
+  <programme start="20260814000000 +0200" stop="20260814170000 +0200" channel="2026CincinnatiOpenTennisATPWTA1stRound">
     <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">🎾 🇺🇸 ATP/WTA Cincinnati Open – Lindner Family Tennis Center 🇺🇸.</desc>
+    <desc lang="it">🎾 🇺🇸 2026 Cincinnati Open Tennis ATP/WTA : 1st Round.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260814170000 +0200" stop="20260814190000 +0200" channel="ATPWTACincinnatiOpenLindnerFamilyTennisCenter">
+  <programme start="20260814170000 +0200" stop="20260814190000 +0200" channel="2026CincinnatiOpenTennisATPWTA1stRound">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎾 🇺🇸 ATP/WTA Cincinnati Open – Lindner Family Tennis Center 🇺🇸</desc>
+    <desc lang="it">🎾 🇺🇸 2026 Cincinnati Open Tennis ATP/WTA : 1st Round</desc>
     <category lang="it">Tennis 🎾</category>
   </programme>
-  <channel id="ATPMontrealATPNationalBankOpenWTA1000TorontoFinal">
-    <display-name>🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 Toronto – Final 🇨🇦</display-name>
+  <channel id="ChinaOpenQuarterFinal">
+    <display-name>🎱 🇨🇳 China Open : Quarter-Final</display-name>
   </channel>
-  <programme start="20260815000000 +0200" stop="20260815010000 +0200" channel="ATPMontrealATPNationalBankOpenWTA1000TorontoFinal">
-    <title lang="it">Inizia alle 01:00.</title>
-    <desc lang="it">🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 Toronto – Final 🇨🇦.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260815010000 +0200" stop="20260815030000 +0200" channel="ATPMontrealATPNationalBankOpenWTA1000TorontoFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 Toronto – Final 🇨🇦</desc>
-    <category lang="it">Tennis 🎾</category>
-  </programme>
-  <programme start="20260815000000 +0200" stop="20260815010000 +0200" channel="ATPMontrealATPNationalBankOpenWTA1000TorontoFinal">
-    <title lang="it">Inizia alle 01:00.</title>
-    <desc lang="it">🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 Toronto – Final 🇨🇦.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260815010000 +0200" stop="20260815030000 +0200" channel="ATPMontrealATPNationalBankOpenWTA1000TorontoFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 Toronto – Final 🇨🇦</desc>
-    <category lang="it">Tennis 🎾</category>
-  </programme>
-  <channel id="ChinaOpenRound2">
-    <display-name>🎱 🇨🇳 China Open: Round 2 🇨🇳</display-name>
-  </channel>
-  <programme start="20260814000000 +0200" stop="20260814133000 +0200" channel="ChinaOpenRound2">
+  <programme start="20260814000000 +0200" stop="20260814133000 +0200" channel="ChinaOpenQuarterFinal">
     <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">🎱 🇨🇳 China Open: Round 2 🇨🇳.</desc>
+    <desc lang="it">🎱 🇨🇳 China Open : Quarter-Final.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260814133000 +0200" stop="20260814153000 +0200" channel="ChinaOpenRound2">
+  <programme start="20260814133000 +0200" stop="20260814153000 +0200" channel="ChinaOpenQuarterFinal">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎱 🇨🇳 China Open: Round 2 🇨🇳</desc>
+    <desc lang="it">🎱 🇨🇳 China Open : Quarter-Final</desc>
     <category lang="it">Snooker 🎱</category>
   </programme>
-  <channel id="EuropeanChampionshipBirminghamDay4">
-    <display-name>🏃 🇬🇧 European Championship Birmingham | Day 4 🇬🇧</display-name>
+  <channel id="MedalCeremoniesDay5Birmingham2026EuropeanAthleticsChampionships">
+    <display-name>🏃 🇪🇺 Medal Ceremonies : Day 5 - Birmingham 2026 European Athletics Championships</display-name>
   </channel>
-  <programme start="20260814000000 +0200" stop="20260814113000 +0200" channel="EuropeanChampionshipBirminghamDay4">
-    <title lang="it">Inizia alle 11:30.</title>
-    <desc lang="it">🏃 🇬🇧 European Championship Birmingham | Day 4 🇬🇧.</desc>
+  <programme start="20260814000000 +0200" stop="20260814200000 +0200" channel="MedalCeremoniesDay5Birmingham2026EuropeanAthleticsChampionships">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">🏃 🇪🇺 Medal Ceremonies : Day 5 - Birmingham 2026 European Athletics Championships.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260814113000 +0200" stop="20260814133000 +0200" channel="EuropeanChampionshipBirminghamDay4">
+  <programme start="20260814200000 +0200" stop="20260814220000 +0200" channel="MedalCeremoniesDay5Birmingham2026EuropeanAthleticsChampionships">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏃 🇬🇧 European Championship Birmingham | Day 4 🇬🇧</desc>
+    <desc lang="it">🏃 🇪🇺 Medal Ceremonies : Day 5 - Birmingham 2026 European Athletics Championships</desc>
     <category lang="it">Athletics 🏃</category>
   </programme>
-  <programme start="20260814133000 +0200" stop="20260814191000 +0200" channel="EuropeanChampionshipBirminghamDay4">
-    <title lang="it">Inizia alle 19:10.</title>
-    <desc lang="it">🏃 🇬🇧 European Championship Birmingham | Day 4 🇬🇧.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260814191000 +0200" stop="20260814211000 +0200" channel="EuropeanChampionshipBirminghamDay4">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏃 🇬🇧 European Championship Birmingham | Day 4 🇬🇧</desc>
-    <category lang="it">Athletics 🏃</category>
-  </programme>
-  <channel id="CzechTourStage1MenPragueKarlovyVary16321km">
-    <display-name>🚴 🇨🇿 Czech Tour | Stage 1 Men | Prague – Karlovy Vary (163.21 km) 🇨🇿</display-name>
+  <channel id="ArcticRaceofNorwayStage2MenBIVesterlenAndenes1792km">
+    <display-name>🚴 🇳🇴 Arctic Race of Norway : Stage 2 Men | Bø I Vesterålen - Andenes (179.2km)</display-name>
   </channel>
-  <programme start="20260814000000 +0200" stop="20260814150000 +0200" channel="CzechTourStage1MenPragueKarlovyVary16321km">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">🚴 🇨🇿 Czech Tour | Stage 1 Men | Prague – Karlovy Vary (163.21 km) 🇨🇿.</desc>
+  <programme start="20260814000000 +0200" stop="20260814133000 +0200" channel="ArcticRaceofNorwayStage2MenBIVesterlenAndenes1792km">
+    <title lang="it">Inizia alle 13:30.</title>
+    <desc lang="it">🚴 🇳🇴 Arctic Race of Norway : Stage 2 Men | Bø I Vesterålen - Andenes (179.2km).</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260814150000 +0200" stop="20260814170000 +0200" channel="CzechTourStage1MenPragueKarlovyVary16321km">
+  <programme start="20260814133000 +0200" stop="20260814153000 +0200" channel="ArcticRaceofNorwayStage2MenBIVesterlenAndenes1792km">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🚴 🇨🇿 Czech Tour | Stage 1 Men | Prague – Karlovy Vary (163.21 km) 🇨🇿</desc>
+    <desc lang="it">🚴 🇳🇴 Arctic Race of Norway : Stage 2 Men | Bø I Vesterålen - Andenes (179.2km)</desc>
     <category lang="it">Cycling 🚴</category>
   </programme>
-  <channel id="ArcticRaceofNorwayStage1MenEvenesMyre1817km">
-    <display-name>🚴 🇳🇴 Arctic Race of Norway | Stage 1 Men | Evenes – Myre (181.7 km) 🇳🇴</display-name>
+  <channel id="CzechTourStage2MenMladBoleslavJetd155km">
+    <display-name>🚴 🇨🇿 Czech Tour : Stage 2 Men | Mladá Boleslav - Ještěd (155km)</display-name>
   </channel>
-  <programme start="20260814000000 +0200" stop="20260814161500 +0200" channel="ArcticRaceofNorwayStage1MenEvenesMyre1817km">
-    <title lang="it">Inizia alle 16:15.</title>
-    <desc lang="it">🚴 🇳🇴 Arctic Race of Norway | Stage 1 Men | Evenes – Myre (181.7 km) 🇳🇴.</desc>
+  <programme start="20260814000000 +0200" stop="20260814153000 +0200" channel="CzechTourStage2MenMladBoleslavJetd155km">
+    <title lang="it">Inizia alle 15:30.</title>
+    <desc lang="it">🚴 🇨🇿 Czech Tour : Stage 2 Men | Mladá Boleslav - Ještěd (155km).</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260814161500 +0200" stop="20260814181500 +0200" channel="ArcticRaceofNorwayStage1MenEvenesMyre1817km">
+  <programme start="20260814153000 +0200" stop="20260814173000 +0200" channel="CzechTourStage2MenMladBoleslavJetd155km">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🚴 🇳🇴 Arctic Race of Norway | Stage 1 Men | Evenes – Myre (181.7 km) 🇳🇴</desc>
+    <desc lang="it">🚴 🇨🇿 Czech Tour : Stage 2 Men | Mladá Boleslav - Ještěd (155km)</desc>
     <category lang="it">Cycling 🚴</category>
   </programme>
-  <channel id="Paris2026SwimmingPoolSemifinalsandFinals">
-    <display-name>🏊 🇫🇷 Paris 2026 Swimming Pool Semifinals and Finals 🇫🇷</display-name>
+  <channel id="EuropeanAquaticsParis2026ArtisticSwimmingTeamFinal">
+    <display-name>🏊 🇪🇺 European Aquatics Paris 2026 : Artistic Swimming Team Final</display-name>
   </channel>
-  <programme start="20260814000000 +0200" stop="20260814140000 +0200" channel="Paris2026SwimmingPoolSemifinalsandFinals">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">🏊 🇫🇷 Paris 2026 Swimming Pool Semifinals and Finals 🇫🇷.</desc>
+  <programme start="20260814000000 +0200" stop="20260814141500 +0200" channel="EuropeanAquaticsParis2026ArtisticSwimmingTeamFinal">
+    <title lang="it">Inizia alle 14:15.</title>
+    <desc lang="it">🏊 🇪🇺 European Aquatics Paris 2026 : Artistic Swimming Team Final.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260814140000 +0200" stop="20260814160000 +0200" channel="Paris2026SwimmingPoolSemifinalsandFinals">
+  <programme start="20260814141500 +0200" stop="20260814161500 +0200" channel="EuropeanAquaticsParis2026ArtisticSwimmingTeamFinal">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏊 🇫🇷 Paris 2026 Swimming Pool Semifinals and Finals 🇫🇷</desc>
+    <desc lang="it">🏊 🇪🇺 European Aquatics Paris 2026 : Artistic Swimming Team Final</desc>
     <category lang="it">Water Sports 🏊</category>
   </programme>
-  <channel id="EuropeanSwimmingChampionshipsEuropeanAquaticsParis2026">
-    <display-name>🏊 🇫🇷 European Swimming Championships – European Aquatics Paris 2026 🇫🇷</display-name>
+  <channel id="EuropeanAquaticsChampionshipsDay5">
+    <display-name>🏊 🇪🇺 European Aquatics Championships : Day 5</display-name>
   </channel>
-  <programme start="20260814000000 +0200" stop="20260814170000 +0200" channel="EuropeanSwimmingChampionshipsEuropeanAquaticsParis2026">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">🏊 🇫🇷 European Swimming Championships – European Aquatics Paris 2026 🇫🇷.</desc>
+  <programme start="20260814000000 +0200" stop="20260814180500 +0200" channel="EuropeanAquaticsChampionshipsDay5">
+    <title lang="it">Inizia alle 18:05.</title>
+    <desc lang="it">🏊 🇪🇺 European Aquatics Championships : Day 5.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260814170000 +0200" stop="20260814190000 +0200" channel="EuropeanSwimmingChampionshipsEuropeanAquaticsParis2026">
+  <programme start="20260814180500 +0200" stop="20260814200500 +0200" channel="EuropeanAquaticsChampionshipsDay5">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏊 🇫🇷 European Swimming Championships – European Aquatics Paris 2026 🇫🇷</desc>
+    <desc lang="it">🏊 🇪🇺 European Aquatics Championships : Day 5</desc>
     <category lang="it">Water Sports 🏊</category>
   </programme>
-  <channel id="EuropeanSwimmingChampionshipsEuropeanAquaticsParis2026ArtisticSwimmingAcrobatic">
-    <display-name>🏊 🇫🇷 European Swimming Championships – European Aquatics Paris 2026 – Artistic Swimming Acrobatic 🇫🇷</display-name>
+  <programme start="20260814000000 +0200" stop="20260814180500 +0200" channel="EuropeanAquaticsChampionshipsDay5">
+    <title lang="it">Inizia alle 18:05.</title>
+    <desc lang="it">🏊 🇪🇺 European Aquatics Championships : Day 5.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260814180500 +0200" stop="20260814200500 +0200" channel="EuropeanAquaticsChampionshipsDay5">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏊 🇪🇺 European Aquatics Championships : Day 5</desc>
+    <category lang="it">Water Sports 🏊</category>
+  </programme>
+  <channel id="EuropeanAquaticsParis2026ArtisticSwimmingAcrobaticProgram">
+    <display-name>🏊 🇪🇺 European Aquatics Paris 2026 : Artistic Swimming Acrobatic Program</display-name>
   </channel>
-  <programme start="20260814000000 +0200" stop="20260814210000 +0200" channel="EuropeanSwimmingChampionshipsEuropeanAquaticsParis2026ArtisticSwimmingAcrobatic">
-    <title lang="it">Inizia alle 21:00.</title>
-    <desc lang="it">🏊 🇫🇷 European Swimming Championships – European Aquatics Paris 2026 – Artistic Swimming Acrobatic 🇫🇷.</desc>
+  <programme start="20260814000000 +0200" stop="20260814212000 +0200" channel="EuropeanAquaticsParis2026ArtisticSwimmingAcrobaticProgram">
+    <title lang="it">Inizia alle 21:20.</title>
+    <desc lang="it">🏊 🇪🇺 European Aquatics Paris 2026 : Artistic Swimming Acrobatic Program.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260814210000 +0200" stop="20260814230000 +0200" channel="EuropeanSwimmingChampionshipsEuropeanAquaticsParis2026ArtisticSwimmingAcrobatic">
+  <programme start="20260814212000 +0200" stop="20260814232000 +0200" channel="EuropeanAquaticsParis2026ArtisticSwimmingAcrobaticProgram">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏊 🇫🇷 European Swimming Championships – European Aquatics Paris 2026 – Artistic Swimming Acrobatic 🇫🇷</desc>
-    <category lang="it">Water Sports 🏊</category>
-  </programme>
-  <programme start="20260814160000 +0200" stop="20260814220000 +0200" channel="Paris2026SwimmingPoolSemifinalsandFinals">
-    <title lang="it">Inizia alle 22:00.</title>
-    <desc lang="it">🏊 🇫🇷 Paris 2026 Swimming Pool Semifinals and Finals 🇫🇷.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260814220000 +0200" stop="20260815000000 +0200" channel="Paris2026SwimmingPoolSemifinalsandFinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏊 🇫🇷 Paris 2026 Swimming Pool Semifinals and Finals 🇫🇷</desc>
-    <category lang="it">Water Sports 🏊</category>
-  </programme>
-  <programme start="20260814000000 +0200" stop="20260814220000 +0200" channel="Paris2026SwimmingPoolSemifinalsandFinals">
-    <title lang="it">Inizia alle 22:00.</title>
-    <desc lang="it">🏊 🇫🇷 Paris 2026 Swimming Pool Semifinals and Finals 🇫🇷.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260814220000 +0200" stop="20260815000000 +0200" channel="Paris2026SwimmingPoolSemifinalsandFinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏊 🇫🇷 Paris 2026 Swimming Pool Semifinals and Finals 🇫🇷</desc>
+    <desc lang="it">🏊 🇪🇺 European Aquatics Paris 2026 : Artistic Swimming Acrobatic Program</desc>
     <category lang="it">Water Sports 🏊</category>
   </programme>
 </tv>
