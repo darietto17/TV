@@ -1,28 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ClubFriendlyInternazionalevsRealBetis">
-    <display-name>⚽ 🌍 Club Friendly : Internazionale 🇮🇹 vs Real Betis 🇪🇸</display-name>
-  </channel>
-  <programme start="20260815000000 +0200" stop="20260815193000 +0200" channel="ClubFriendlyInternazionalevsRealBetis">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">⚽ 🌍 Club Friendly : Internazionale 🇮🇹 vs Real Betis 🇪🇸.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260815193000 +0200" stop="20260815213000 +0200" channel="ClubFriendlyInternazionalevsRealBetis">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🌍 Club Friendly : Internazionale 🇮🇹 vs Real Betis 🇪🇸</desc>
-    <category lang="it">Club Friendly ⚽</category>
-  </programme>
-  <programme start="20260815000000 +0200" stop="20260815193000 +0200" channel="ClubFriendlyInternazionalevsRealBetis">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">⚽ 🌍 Club Friendly : Internazionale 🇮🇹 vs Real Betis 🇪🇸.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260815193000 +0200" stop="20260815213000 +0200" channel="ClubFriendlyInternazionalevsRealBetis">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🌍 Club Friendly : Internazionale 🇮🇹 vs Real Betis 🇪🇸</desc>
-    <category lang="it">Club Friendly ⚽</category>
-  </programme>
   <channel id="ItalyCoppaItaliaVeneziavsModena">
     <display-name>⚽ 🇮🇹 Italy - Coppa Italia : Venezia 🇮🇹 vs Modena 🇮🇹</display-name>
   </channel>
