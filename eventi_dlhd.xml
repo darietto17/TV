@@ -1,28 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ClubFriendlyManchesterUnitedvsMilan">
-    <display-name>⚽ 🌍 Club Friendly : Manchester United 🏴 vs Milan 🇮🇹</display-name>
-  </channel>
-  <programme start="20260815000000 +0200" stop="20260815164500 +0200" channel="ClubFriendlyManchesterUnitedvsMilan">
-    <title lang="it">Inizia alle 16:45.</title>
-    <desc lang="it">⚽ 🌍 Club Friendly : Manchester United 🏴 vs Milan 🇮🇹.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260815164500 +0200" stop="20260815184500 +0200" channel="ClubFriendlyManchesterUnitedvsMilan">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🌍 Club Friendly : Manchester United 🏴 vs Milan 🇮🇹</desc>
-    <category lang="it">Club Friendly ⚽</category>
-  </programme>
-  <programme start="20260815000000 +0200" stop="20260815164500 +0200" channel="ClubFriendlyManchesterUnitedvsMilan">
-    <title lang="it">Inizia alle 16:45.</title>
-    <desc lang="it">⚽ 🌍 Club Friendly : Manchester United 🏴 vs Milan 🇮🇹.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260815164500 +0200" stop="20260815184500 +0200" channel="ClubFriendlyManchesterUnitedvsMilan">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🌍 Club Friendly : Manchester United 🏴 vs Milan 🇮🇹</desc>
-    <category lang="it">Club Friendly ⚽</category>
-  </programme>
   <channel id="ClubFriendlyInternazionalevsRealBetis">
     <display-name>⚽ 🌍 Club Friendly : Internazionale 🇮🇹 vs Real Betis 🇪🇸</display-name>
   </channel>
@@ -45,52 +22,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">⚽ 🌍 Club Friendly : Internazionale 🇮🇹 vs Real Betis 🇪🇸</desc>
     <category lang="it">Club Friendly ⚽</category>
-  </programme>
-  <channel id="ItalyCoppaItaliaCatanzarovsSdtirol">
-    <display-name>⚽ 🇮🇹 Italy - Coppa Italia : Catanzaro 🇮🇹 vs Südtirol 🇮🇹</display-name>
-  </channel>
-  <programme start="20260815000000 +0200" stop="20260815180000 +0200" channel="ItalyCoppaItaliaCatanzarovsSdtirol">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Catanzaro 🇮🇹 vs Südtirol 🇮🇹.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260815180000 +0200" stop="20260815200000 +0200" channel="ItalyCoppaItaliaCatanzarovsSdtirol">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Catanzaro 🇮🇹 vs Südtirol 🇮🇹</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
-  <programme start="20260815000000 +0200" stop="20260815180000 +0200" channel="ItalyCoppaItaliaCatanzarovsSdtirol">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Catanzaro 🇮🇹 vs Südtirol 🇮🇹.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260815180000 +0200" stop="20260815200000 +0200" channel="ItalyCoppaItaliaCatanzarovsSdtirol">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Catanzaro 🇮🇹 vs Südtirol 🇮🇹</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
-  <channel id="ItalyCoppaItaliaUdinesevsCalcioPadova">
-    <display-name>⚽ 🇮🇹 Italy - Coppa Italia : Udinese 🇮🇹 vs Calcio Padova 🇮🇹</display-name>
-  </channel>
-  <programme start="20260815000000 +0200" stop="20260815183000 +0200" channel="ItalyCoppaItaliaUdinesevsCalcioPadova">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Udinese 🇮🇹 vs Calcio Padova 🇮🇹.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260815183000 +0200" stop="20260815203000 +0200" channel="ItalyCoppaItaliaUdinesevsCalcioPadova">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Udinese 🇮🇹 vs Calcio Padova 🇮🇹</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
-  <programme start="20260815000000 +0200" stop="20260815183000 +0200" channel="ItalyCoppaItaliaUdinesevsCalcioPadova">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Udinese 🇮🇹 vs Calcio Padova 🇮🇹.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260815183000 +0200" stop="20260815203000 +0200" channel="ItalyCoppaItaliaUdinesevsCalcioPadova">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Udinese 🇮🇹 vs Calcio Padova 🇮🇹</desc>
-    <category lang="it">All Soccer Events ⚽</category>
   </programme>
   <channel id="ItalyCoppaItaliaVeneziavsModena">
     <display-name>⚽ 🇮🇹 Italy - Coppa Italia : Venezia 🇮🇹 vs Modena 🇮🇹</display-name>
@@ -138,42 +69,6 @@
     <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Torino 🇮🇹 vs Carrarese 🇮🇹</desc>
     <category lang="it">All Soccer Events ⚽</category>
   </programme>
-  <channel id="2026CincinnatiOpenTennisATPWTA2ndRound">
-    <display-name>🎾 2026 Cincinnati Open Tennis ATP/WTA : 2nd Round</display-name>
-  </channel>
-  <programme start="20260815000000 +0200" stop="20260815170000 +0200" channel="2026CincinnatiOpenTennisATPWTA2ndRound">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">🎾 2026 Cincinnati Open Tennis ATP/WTA : 2nd Round.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260815170000 +0200" stop="20260815190000 +0200" channel="2026CincinnatiOpenTennisATPWTA2ndRound">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎾 2026 Cincinnati Open Tennis ATP/WTA : 2nd Round</desc>
-    <category lang="it">Tennis 🎾</category>
-  </programme>
-  <programme start="20260815000000 +0200" stop="20260815170000 +0200" channel="2026CincinnatiOpenTennisATPWTA2ndRound">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">🎾 2026 Cincinnati Open Tennis ATP/WTA : 2nd Round.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260815170000 +0200" stop="20260815190000 +0200" channel="2026CincinnatiOpenTennisATPWTA2ndRound">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎾 2026 Cincinnati Open Tennis ATP/WTA : 2nd Round</desc>
-    <category lang="it">Tennis 🎾</category>
-  </programme>
-  <channel id="EuropeanAthleticsChampionships6thDaySession">
-    <display-name>🏃 European Athletics Championships : 6th Day Session</display-name>
-  </channel>
-  <programme start="20260815000000 +0200" stop="20260815170000 +0200" channel="EuropeanAthleticsChampionships6thDaySession">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">🏃 European Athletics Championships : 6th Day Session.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260815170000 +0200" stop="20260815190000 +0200" channel="EuropeanAthleticsChampionships6thDaySession">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏃 European Athletics Championships : 6th Day Session</desc>
-    <category lang="it">Athletics 🏃</category>
-  </programme>
   <channel id="EuropeanAthleticsChampionshipsDay6AlexanderStadium">
     <display-name>🏃 European Athletics Championships : Day 6 – Alexander Stadium</display-name>
   </channel>
@@ -186,41 +81,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">🏃 European Athletics Championships : Day 6 – Alexander Stadium</desc>
     <category lang="it">Athletics 🏃</category>
-  </programme>
-  <channel id="ArcticRaceofNorwayStage3MenStokmarknesStorheiaSummitMelbu1425km">
-    <display-name>🚴 🇳🇴 Arctic Race of Norway : Stage 3 Men | Stokmarknes - Storheia Summit (Melbu) (142.5km)</display-name>
-  </channel>
-  <programme start="20260815000000 +0200" stop="20260815170000 +0200" channel="ArcticRaceofNorwayStage3MenStokmarknesStorheiaSummitMelbu1425km">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">🚴 🇳🇴 Arctic Race of Norway : Stage 3 Men | Stokmarknes - Storheia Summit (Melbu) (142.5km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260815170000 +0200" stop="20260815190000 +0200" channel="ArcticRaceofNorwayStage3MenStokmarknesStorheiaSummitMelbu1425km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🚴 🇳🇴 Arctic Race of Norway : Stage 3 Men | Stokmarknes - Storheia Summit (Melbu) (142.5km)</desc>
-    <category lang="it">Cycling 🚴</category>
-  </programme>
-  <channel id="SwimmingEuropeanChampionshipsParis2026EveningSession">
-    <display-name>🏊 Swimming: European Championships Paris 2026 : Evening Session</display-name>
-  </channel>
-  <programme start="20260815000000 +0200" stop="20260815182500 +0200" channel="SwimmingEuropeanChampionshipsParis2026EveningSession">
-    <title lang="it">Inizia alle 18:25.</title>
-    <desc lang="it">🏊 Swimming: European Championships Paris 2026 : Evening Session.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260815182500 +0200" stop="20260815202500 +0200" channel="SwimmingEuropeanChampionshipsParis2026EveningSession">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏊 Swimming: European Championships Paris 2026 : Evening Session</desc>
-    <category lang="it">Water Sports 🏊</category>
-  </programme>
-  <programme start="20260815000000 +0200" stop="20260815182500 +0200" channel="SwimmingEuropeanChampionshipsParis2026EveningSession">
-    <title lang="it">Inizia alle 18:25.</title>
-    <desc lang="it">🏊 Swimming: European Championships Paris 2026 : Evening Session.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260815182500 +0200" stop="20260815202500 +0200" channel="SwimmingEuropeanChampionshipsParis2026EveningSession">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏊 Swimming: European Championships Paris 2026 : Evening Session</desc>
-    <category lang="it">Water Sports 🏊</category>
   </programme>
 </tv>
