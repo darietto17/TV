@@ -133,9 +133,7 @@ https://vavoo.to/vavoo-iptv/play/31075009959a8de9232b11
 https://vavoo.to/vavoo-iptv/play/888430169ea2f335c3171
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",CANALE TELECHIARA
 https://vavoo.to/vavoo-iptv/play/3065008757a139b0fed8ff
-#EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK (1)
-https://vavoo.to/vavoo-iptv/play/1744435623b422a758373c
-#EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK (2)
+#EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK
 https://vavoo.to/vavoo-iptv/play/1289777017c50e3cf3fd74
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (1)
 https://vavoo.to/vavoo-iptv/play/19872204364fe52737bf18
@@ -453,10 +451,8 @@ https://vavoo.to/vavoo-iptv/play/1641481816a8a66ad9baf6
 https://vavoo.to/vavoo-iptv/play/3471319012d308ec0dc636
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tvdream.net/img/orlertv.png" group-title="Altro",ORLER TV (2)
 https://vavoo.to/vavoo-iptv/play/3559987993c0367839ba38
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/padre-pio-tv-it.png?raw=true" group-title="Altro",PADRE PIO TV (1)
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/padre-pio-tv-it.png?raw=true" group-title="Altro",PADRE PIO TV
 https://vavoo.to/vavoo-iptv/play/43501686619a1a53c7d14
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/padre-pio-tv-it.png?raw=true" group-title="Altro",PADRE PIO TV (2)
-https://vavoo.to/vavoo-iptv/play/35598126040bce17c0686
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",PAROLE DI VITA
 https://vavoo.to/vavoo-iptv/play/1727695336cf48b92b7314
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6e7dee025526c334b9280153c418e10e.webp" group-title="Altro",PEER TV ALTO ADIGE
@@ -496,6 +492,8 @@ https://vavoo.to/vavoo-iptv/play/1586498225ea507133231c
 https://vavoo.to/vavoo-iptv/play/233974719353ecd6eb8de1
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica",RADIO BIRIKINA TV
 https://vavoo.to/vavoo-iptv/play/3197904019c35737034d0e
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Radio_Capital_-_Logo_2019.svg.png/revision/latest?cb=20190815181629" group-title="Musica",RADIO CAPITAL
+https://vavoo.to/vavoo-iptv/play/4214417458dc0729ae47d
 #EXTINF:-1 tvg-id="radiofreccia.hd.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/radio-freccia-it.png?raw=true" group-title="Musica",RADIO FRECCIA
 https://vavoo.to/vavoo-iptv/play/1711134994a4ab3e165de3
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica",RADIO IBIZA TV
@@ -506,8 +504,6 @@ https://vavoo.to/vavoo-iptv/play/1119525899d2181e2bff52
 https://vavoo.to/vavoo-iptv/play/15694139179634c11062a2
 #EXTINF:-1 tvg-id="radio.italia.tv.hd.it" tvg-logo="" group-title="Musica",RADIO ITALIA TV
 https://vavoo.to/vavoo-iptv/play/39657019376a0123c5f968
-#EXTINF:-1 tvg-id="radiomontecarlo.it" tvg-logo="" group-title="Musica",RADIO MONTE CARLO
-https://vavoo.to/vavoo-iptv/play/36504228878f7128ca6771
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica",RADIO NUMBER ONE
 https://vavoo.to/vavoo-iptv/play/20943914064f53073f1ec3
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica",RADIO STUDIO DELTA TV
@@ -524,10 +520,8 @@ https://vavoo.to/vavoo-iptv/play/122565375973a967da4f03
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="rai2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Rai",RAI 2 (1)
+#EXTINF:-1 tvg-id="rai2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Rai",RAI 2
 https://vavoo.to/vavoo-iptv/play/1939210164cf0608420d67
-#EXTINF:-1 tvg-id="rai2.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Rai",RAI 2 (2)
-https://vavoo.to/vavoo-iptv/play/246253359a81d94887441
 #EXTINF:-1 tvg-id="rai2.it" tvg-name="RAI 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-2-it.png" group-title="Rai",RAI 2 (MPD)
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
@@ -540,9 +534,7 @@ https://vavoo.to/vavoo-iptv/play/869117599e36bb7de752c
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="rai4.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Rai",RAI 4 (1)
-https://vavoo.to/vavoo-iptv/play/4241820180667f1d89110e
-#EXTINF:-1 tvg-id="rai4.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Rai",RAI 4 (2)
+#EXTINF:-1 tvg-id="rai4.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Rai",RAI 4
 https://vavoo.to/vavoo-iptv/play/2179822223e6f7fefa408e
 #EXTINF:-1 tvg-id="rai4.it" tvg-name="RAI 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-4-it.png" group-title="Rai",RAI 4 (MPD)
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -703,9 +695,7 @@ https://vavoo.to/vavoo-iptv/play/3590183307ca309aa6be37
 https://vavoo.to/vavoo-iptv/play/3475299702c52e31a7073f
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/7PzluYVAEVOCNzGYGkewkKI3PA0PkCKAc9KUZGfYzAbZnQLnlPAE5iQBMZEUi7ZKwJc" group-title="Altro",RTC TELECALABRIA
 https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc
-#EXTINF:-1 tvg-id="rtl.102.5.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rtl-1025-it.png" group-title="Musica",RTL 102.5 (1)
-https://vavoo.to/vavoo-iptv/play/3168132911491b6a85a6e2
-#EXTINF:-1 tvg-id="rtl.102.5.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rtl-1025-it.png" group-title="Musica",RTL 102.5 (2)
+#EXTINF:-1 tvg-id="rtl.102.5.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rtl-1025-it.png" group-title="Musica",RTL 102.5
 https://vavoo.to/vavoo-iptv/play/1729811452a70dafd8f6ba
 
 # SPORT
@@ -767,10 +757,8 @@ https://vavoo.to/vavoo-iptv/play/2451443049820d9180f232
 https://vavoo.to/vavoo-iptv/play/18209975559b8c5058ae7f
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE (2)
 https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
-#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (1)
+#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO
 https://vavoo.to/vavoo-iptv/play/28721519114f66aff68e22
-#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (2)
-https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
 #EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24 (1)
 https://vavoo.to/vavoo-iptv/play/2236517134d5e218f6528e
 #EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24 (2)
@@ -789,8 +777,6 @@ https://vavoo.to/vavoo-iptv/play/1492183364e2c25c729efa
 https://vavoo.to/vavoo-iptv/play/4272937805ce3f4b8a4a12
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 10 (2)
 https://vavoo.to/vavoo-iptv/play/2268489342059d1f4882c8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 11
-https://vavoo.to/vavoo-iptv/play/3285185277cd2292829163
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 12
 https://vavoo.to/vavoo-iptv/play/2221901869db7a5b77a267
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 13
@@ -881,10 +867,6 @@ https://vavoo.to/vavoo-iptv/play/78546677680f40b76841
 https://vavoo.to/vavoo-iptv/play/210669162201ec2365574
 #EXTINF:-1 tvg-id="sky.sport.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO (2)
 https://vavoo.to/vavoo-iptv/play/3192996672d2c923be0346
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",SKY SPORTS 24
-https://vavoo.to/vavoo-iptv/play/34936071312c994246f2bd
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORTS F1
-https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SUPER TENNIS
 https://vavoo.to/vavoo-iptv/play/55828211836e421b20575
 #EXTINF:-1 tvg-id="sky.tg24.it" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="News",SKY TG 24 (1)
@@ -1037,6 +1019,8 @@ https://vavoo.to/vavoo-iptv/play/3413557893b1ed86e5018c
 https://vavoo.to/vavoo-iptv/play/24181484494b43d448b066
 #EXTINF:-1 tvg-id="topcalcio24.it" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPHW5VLQDGnNMVZszgWZRqnBSjPUTgAcUltQ&s" group-title="Sport",TOP CALCIO 24
 https://vavoo.to/vavoo-iptv/play/383554932681b8c3d5666a
+
+# DOCUMENTARI
 #EXTINF:-1 tvg-id="top.crime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Mediaset",TOP CRIME (1)
 https://vavoo.to/vavoo-iptv/play/269503091e10b2c24af1d
 #EXTINF:-1 tvg-id="top.crime.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/top-crime-it.png" group-title="Mediaset",TOP CRIME (2)
@@ -1048,10 +1032,6 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",TRG MEDIA
 https://vavoo.to/vavoo-iptv/play/30209519673b772c86f279
-#EXTINF:-1 tvg-id="" tvg-logo="https://teleromagna.it/Images/logo-tr-sport.jpg" group-title="Sport",TRSPORT
-https://vavoo.to/vavoo-iptv/play/3613140620a139097e4b5
-
-# DOCUMENTARI
 #EXTINF:-1 tvg-id="tv2000.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/0/0d/Logo_di_TV2000.png" group-title="Altro",TV 2000
 https://vavoo.to/vavoo-iptv/play/1949044924a6c217960c23
 #EXTINF:-1 tvg-id="tv8.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tv8-it.png" group-title="Altro",TV 8 (1)
@@ -1122,67 +1102,82 @@ https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="clubfriendlymanchesterunitedvsmilan" tvg-name="Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Manchester United 🏴 vs Milan 🇮🇹 (16:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Manchester United 🏴_vs_Milan 🇮🇹.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Manchester United 🏴 vs Milan 🇮🇹 (16:45)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="clubfriendlyinternazionalevsrealbetis" tvg-name="Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Internazionale 🇮🇹 vs Real Betis 🇪🇸 (19:30)" tvg-logo="https://png.pngtree.com/png-clipart/20200224/original/pngtree-ruler-icon-cartoon-style-png-image_5240650.jpg" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Internazionale 🇮🇹 vs Real Betis 🇪🇸 (19:30)
+#EXTINF:-1 tvg-id="clubfriendlyinternazionalevsrealbetis" tvg-name="Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Internazionale 🇮🇹 vs Real Betis 🇪🇸 (19:30)" tvg-logo="https://10y.macromicro.me/images/logo.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Internazionale 🇮🇹 vs Real Betis 🇪🇸 (19:30)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="italycoppaitaliacatanzarovssüdtirol" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Catanzaro 🇮🇹 vs Südtirol 🇮🇹 (18:00)" tvg-logo="https://static1.srcdn.com/wordpress/wp-content/uploads/Cast-of-Rocky-Horror.jpg" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Catanzaro 🇮🇹 vs Südtirol 🇮🇹 (18:00)
+#EXTINF:-1 tvg-id="clubfriendlyinternazionalevsrealbetis" tvg-name="Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Internazionale 🇮🇹 vs Real Betis 🇪🇸 (19:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Internazionale 🇮🇹_vs_Real Betis 🇪🇸.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Internazionale 🇮🇹 vs Real Betis 🇪🇸 (19:30)
+https://dlhd.dad/watch.php?id=3047
+
+#EXTINF:-1 tvg-id="italycoppaitaliacatanzarovssüdtirol" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Catanzaro 🇮🇹 vs Südtirol 🇮🇹 (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Catanzaro 🇮🇹_vs_Südtirol 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Catanzaro 🇮🇹 vs Südtirol 🇮🇹 (18:00)
 https://dlhd.dad/watch.php?id=857
+
+#EXTINF:-1 tvg-id="italycoppaitaliacatanzarovssüdtirol" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Catanzaro 🇮🇹 vs Südtirol 🇮🇹 (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Catanzaro 🇮🇹_vs_Südtirol 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Catanzaro 🇮🇹 vs Südtirol 🇮🇹 (18:00)
+https://dlhd.dad/watch.php?id=3046
 
 #EXTINF:-1 tvg-id="italycoppaitaliaudinesevscalciopadova" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Udinese 🇮🇹 vs Calcio Padova 🇮🇹 (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Udinese 🇮🇹_vs_Calcio Padova 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Udinese 🇮🇹 vs Calcio Padova 🇮🇹 (18:30)
 https://dlhd.dad/watch.php?id=854
 
+#EXTINF:-1 tvg-id="italycoppaitaliaudinesevscalciopadova" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Udinese 🇮🇹 vs Calcio Padova 🇮🇹 (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Udinese 🇮🇹_vs_Calcio Padova 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Udinese 🇮🇹 vs Calcio Padova 🇮🇹 (18:30)
+https://dlhd.dad/watch.php?id=3045
+
 #EXTINF:-1 tvg-id="italycoppaitaliaveneziavsmodena" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Venezia 🇮🇹 vs Modena 🇮🇹 (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Venezia 🇮🇹_vs_Modena 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Venezia 🇮🇹 vs Modena 🇮🇹 (20:45)
 https://dlhd.dad/watch.php?id=857
+
+#EXTINF:-1 tvg-id="italycoppaitaliaveneziavsmodena" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Venezia 🇮🇹 vs Modena 🇮🇹 (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Venezia 🇮🇹_vs_Modena 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Venezia 🇮🇹 vs Modena 🇮🇹 (20:45)
+https://dlhd.dad/watch.php?id=3046
 
 #EXTINF:-1 tvg-id="italycoppaitaliatorinovscarrarese" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Torino 🇮🇹 vs Carrarese 🇮🇹 (21:15)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Torino 🇮🇹_vs_Carrarese 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Torino 🇮🇹 vs Carrarese 🇮🇹 (21:15)
 https://dlhd.dad/watch.php?id=854
 
-#EXTINF:-1 tvg-id="2026cincinnatiopentennisatpwta2ndround" tvg-name="Tennis 🎾 | 🎾 2026 Cincinnati Open Tennis ATP/WTA : 2nd Round (17:00)" tvg-logo="https://www.speedystreetsolutions.com/media/catalog/product/cache/e8155219ae2d4b364c7e093a50cc452b/1/_/1.4-1000x1000_1_1.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 2026 Cincinnati Open Tennis ATP/WTA : 2nd Round (17:00)
+#EXTINF:-1 tvg-id="italycoppaitaliatorinovscarrarese" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Torino 🇮🇹 vs Carrarese 🇮🇹 (21:15)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Torino 🇮🇹_vs_Carrarese 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Torino 🇮🇹 vs Carrarese 🇮🇹 (21:15)
+https://dlhd.dad/watch.php?id=3045
+
+#EXTINF:-1 tvg-id="2026cincinnatiopentennisatpwta2ndround" tvg-name="Tennis 🎾 | 🎾 2026 Cincinnati Open Tennis ATP/WTA : 2nd Round (17:00)" tvg-logo="https://i.pinimg.com/originals/45/52/29/455229e184de755af2ea19ebf8407210.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 2026 Cincinnati Open Tennis ATP/WTA : 2nd Round (17:00)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="2026cincinnatiopentennisatpwta2ndround" tvg-name="Tennis 🎾 | 🎾 2026 Cincinnati Open Tennis ATP/WTA : 2nd Round (17:00)" tvg-logo="https://www.soccernews.nl/wp-content/uploads/2022/10/david-neres-benfica-24-10-2022-869x580.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 2026 Cincinnati Open Tennis ATP/WTA : 2nd Round (17:00)
+#EXTINF:-1 tvg-id="2026cincinnatiopentennisatpwta2ndround" tvg-name="Tennis 🎾 | 🎾 2026 Cincinnati Open Tennis ATP/WTA : 2nd Round (17:00)" tvg-logo="https://coloringonly.com/images/imgcolor/labubu-art-toy-coloring-page.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 2026 Cincinnati Open Tennis ATP/WTA : 2nd Round (17:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="chinaopensemifinal" tvg-name="Snooker 🎱 | 🎱 China Open : Semi-Final (08:00)" tvg-logo="https://www.nationalbuscharter.com/static/national-cbc-cdn/1743145739main_20-bus.png" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 China Open : Semi-Final (08:00)
+#EXTINF:-1 tvg-id="chinaopensemifinal" tvg-name="Snooker 🎱 | 🎱 China Open : Semi-Final (08:00)" tvg-logo="https://www.pngkey.com/png/full/240-2401440_spongebob-squarepants-personajes-de-bob-esponja-png.png" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 China Open : Semi-Final (08:00)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="chinaopensemifinal" tvg-name="Snooker 🎱 | 🎱 China Open : Semi-Final (13:30)" tvg-logo="https://thespun.com/.image/t_share/MTgzMTI4ODgwMjYwNTg4OTYz/charly-arnolt-on-espn.png" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 China Open : Semi-Final (13:30)
+#EXTINF:-1 tvg-id="chinaopensemifinal" tvg-name="Snooker 🎱 | 🎱 China Open : Semi-Final (13:30)" tvg-logo="https://i.pinimg.com/originals/be/b6/86/beb68638fe0a09d509d6ef5b735769b1.png" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 China Open : Semi-Final (13:30)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="europeanathleticschampionshipsmenslongjumpday2" tvg-name="Athletics 🏃 | 🏃 European Athletics Championships : Men's Long Jump – Day 2 (06:30)" tvg-logo="https://2.bp.blogspot.com/-PSV3qOvAfjM/Ujrsb-vkPVI/AAAAAAAACvI/33OaqWv2rKk/s1600/Ada+apa+denganmu.PNG" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 European Athletics Championships : Men's Long Jump – Day 2 (06:30)
+#EXTINF:-1 tvg-id="europeanathleticschampionshipsmenslongjumpday2" tvg-name="Athletics 🏃 | 🏃 European Athletics Championships : Men's Long Jump – Day 2 (06:30)" tvg-logo="https://www.girlsgonehallmark.com/wp-content/uploads/2025/06/Alison-Sweeneys-best-hallmark-movies.png" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 European Athletics Championships : Men's Long Jump – Day 2 (06:30)
 https://dlhd.dad/watch.php?id=462
 
-#EXTINF:-1 tvg-id="birmingham2026europeanathleticschampionshipsheptathlonlongjumpb" tvg-name="Athletics 🏃 | 🏃 Birmingham 2026 European Athletics Championships : Heptathlon | Long Jump B (11:15)" tvg-logo="https://images.sftcdn.net/images/t_app-cover-l,f_auto/p/795e5431-b14b-45ca-bd06-2d83d20c6c47/2057412682/dadju-meilleurs-chansons-screenshot.png" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 Birmingham 2026 European Athletics Championships : Heptathlon | Long Jump B (11:15)
+#EXTINF:-1 tvg-id="birmingham2026europeanathleticschampionshipsheptathlonlongjumpb" tvg-name="Athletics 🏃 | 🏃 Birmingham 2026 European Athletics Championships : Heptathlon | Long Jump B (11:15)" tvg-logo="https://png.pngtree.com/png-vector/20220726/ourlarge/pngtree-illustration-of-a-colorful-concept-icon-for-artificial-intelligence-using-vector-drawings-vector-png-image_38080750.png" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 Birmingham 2026 European Athletics Championships : Heptathlon | Long Jump B (11:15)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="europeanchampionshipsbirminghamround6morningsession" tvg-name="Athletics 🏃 | 🏃 European Championships Birmingham : Round 6 – Morning Session (14:00)" tvg-logo="https://wallpapers.com/images/hd/poppy-montgomery-white-dress-event-4p3ug0r79qf29u30.jpg" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 European Championships Birmingham : Round 6 – Morning Session (14:00)
+#EXTINF:-1 tvg-id="europeanchampionshipsbirminghamround6morningsession" tvg-name="Athletics 🏃 | 🏃 European Championships Birmingham : Round 6 – Morning Session (14:00)" tvg-logo="https://download.logo.wine/logo/Agnico_Eagle_Mines_Limited/Agnico_Eagle_Mines_Limited-Logo.wine.png" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 European Championships Birmingham : Round 6 – Morning Session (14:00)
 https://dlhd.dad/watch.php?id=882
 
-#EXTINF:-1 tvg-id="europeanchampionshipsbirminghamround6morningsession" tvg-name="Athletics 🏃 | 🏃 European Championships Birmingham : Round 6 – Morning Session (14:00)" tvg-logo="https://i.etsystatic.com/33086949/r/il/1b9a58/4303847922/il_fullxfull.4303847922_2imj.jpg" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 European Championships Birmingham : Round 6 – Morning Session (14:00)
+#EXTINF:-1 tvg-id="europeanchampionshipsbirminghamround6morningsession" tvg-name="Athletics 🏃 | 🏃 European Championships Birmingham : Round 6 – Morning Session (14:00)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b8a435bf-08ee-471d-91fe-3c6e50697a5a/dhfdq9c-3a1db838-1b40-487e-a024-d0b1d67757b8.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I4YTQzNWJmLTA4ZWUtNDcxZC05MWZlLTNjNmU1MDY5N2E1YVwvZGhmZHE5Yy0zYTFkYjgzOC0xYjQwLTQ4N2UtYTAyNC1kMGIxZDY3NzU3YjgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.dwVdJ_ne4gzpMITazxL4T_gBK4bB-35d3wSC7kZ16pM" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 European Championships Birmingham : Round 6 – Morning Session (14:00)
 https://dlhd.dad/watch.php?id=462
 
-#EXTINF:-1 tvg-id="europeanathleticschampionships6thdaysession" tvg-name="Athletics 🏃 | 🏃 European Athletics Championships : 6th Day Session (17:00)" tvg-logo="https://southamericabackpacker.com/wp-content/uploads/2023/02/South-American-festival-1200x800.jpg" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 European Athletics Championships : 6th Day Session (17:00)
+#EXTINF:-1 tvg-id="europeanathleticschampionships6thdaysession" tvg-name="Athletics 🏃 | 🏃 European Athletics Championships : 6th Day Session (17:00)" tvg-logo="https://cdn1.slideserve.com/3111262/the-roles-of-a-school-counselor-l.jpg" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 European Athletics Championships : 6th Day Session (17:00)
 https://dlhd.dad/watch.php?id=462
 
-#EXTINF:-1 tvg-id="europeanathleticschampionshipsday6alexanderstadium" tvg-name="Athletics 🏃 | 🏃 European Athletics Championships : Day 6 – Alexander Stadium (20:45)" tvg-logo="https://static.wikia.nocookie.net/bewitched/images/3/30/Linda_Gaye_Scott.jpeg/revision/latest/scale-to-width-down/1200?cb=20250211090937" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 European Athletics Championships : Day 6 – Alexander Stadium (20:45)
+#EXTINF:-1 tvg-id="europeanathleticschampionshipsday6alexanderstadium" tvg-name="Athletics 🏃 | 🏃 European Athletics Championships : Day 6 – Alexander Stadium (20:45)" tvg-logo="https://tiermaker.com/images/tier-lists-2021/973753/dbd-killer-fun-tierlist-966062-1620259017.png" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 European Athletics Championships : Day 6 – Alexander Stadium (20:45)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="arcticraceofnorwaystage3menstokmarknesstorheiasummitmelbu1425km" tvg-name="Cycling 🚴 | 🚴 🇳🇴 Arctic Race of Norway : Stage 3 Men | Stokmarknes - Storheia Summit (Melbu) (142.5km) (14:15)" tvg-logo="https://m.media-amazon.com/images/S/aplus-media-library-service-media/b688ca6c-6eb8-469f-a0dd-3a0a47b17b67.__CR0,0,970,600_PT0_SX970_V1___.png" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 🇳🇴 Arctic Race of Norway : Stage 3 Men | Stokmarknes - Storheia Summit (Melbu) (142.5km) (14:15)
+#EXTINF:-1 tvg-id="arcticraceofnorwaystage3menstokmarknesstorheiasummitmelbu1425km" tvg-name="Cycling 🚴 | 🚴 🇳🇴 Arctic Race of Norway : Stage 3 Men | Stokmarknes - Storheia Summit (Melbu) (142.5km) (14:15)" tvg-logo="https://www.loginvsi.com/wp-content/uploads/2025/05/Hydra-header-by-login-VSI.png" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 🇳🇴 Arctic Race of Norway : Stage 3 Men | Stokmarknes - Storheia Summit (Melbu) (142.5km) (14:15)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="czechtourstage3menpardubicedlouhéstrán1708km" tvg-name="Cycling 🚴 | 🚴 🇨🇿 Czech Tour : Stage 3 Men | Pardubice - Dlouhé Stráně (170.8 km) (15:30)" tvg-logo="https://i.pinimg.com/736x/8a/7b/23/8a7b23ca35c0c968777190e1a85cb110.jpg" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 🇨🇿 Czech Tour : Stage 3 Men | Pardubice - Dlouhé Stráně (170.8 km) (15:30)
+#EXTINF:-1 tvg-id="czechtourstage3menpardubicedlouhéstrán1708km" tvg-name="Cycling 🚴 | 🚴 🇨🇿 Czech Tour : Stage 3 Men | Pardubice - Dlouhé Stráně (170.8 km) (15:30)" tvg-logo="https://oyster.ignimgs.com/mediawiki/apis.ign.com/pokemon-legends-z-a/0/05/Mega_Pokemon_Legends_Z-A51.png" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 🇨🇿 Czech Tour : Stage 3 Men | Pardubice - Dlouhé Stráně (170.8 km) (15:30)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="arcticraceofnorwaystage3menstokmarknesstorheiasummitmelbu1425km" tvg-name="Cycling 🚴 | 🚴 🇳🇴 Arctic Race of Norway : Stage 3 Men | Stokmarknes - Storheia Summit (Melbu) (142.5km) (17:00)" tvg-logo="https://www.giantfreakinrobot.com/wp-content/uploads/2022/12/Screen-Shot-2022-12-30-at-8.29.37-AM.png" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 🇳🇴 Arctic Race of Norway : Stage 3 Men | Stokmarknes - Storheia Summit (Melbu) (142.5km) (17:00)
+#EXTINF:-1 tvg-id="arcticraceofnorwaystage3menstokmarknesstorheiasummitmelbu1425km" tvg-name="Cycling 🚴 | 🚴 🇳🇴 Arctic Race of Norway : Stage 3 Men | Stokmarknes - Storheia Summit (Melbu) (142.5km) (17:00)" tvg-logo="https://img.freepik.com/premium-photo/medina-saudi-arabia-11-may-2017-green-dome-close-up-prophet-mohammed-mosque-al-masjid-nabawi_845403-7.jpg?w=2000" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 🇳🇴 Arctic Race of Norway : Stage 3 Men | Stokmarknes - Storheia Summit (Melbu) (142.5km) (17:00)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="europeanswimmingchampionshipsaquaticsparis2026mens10mplatformdivingfinal" tvg-name="Water Sports 🏊 | 🏊 European Swimming Championships Aquatics Paris 2026 : Men's 10m Platform Diving Final (16:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Insignia_of_a_United_States_Coast_Guard_senior_chief_petty_officer.svg/960px-Insignia_of_a_United_States_Coast_Guard_senior_chief_petty_officer.svg.png" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 European Swimming Championships Aquatics Paris 2026 : Men's 10m Platform Diving Final (16:00)
+#EXTINF:-1 tvg-id="europeanswimmingchampionshipsaquaticsparis2026mens10mplatformdivingfinal" tvg-name="Water Sports 🏊 | 🏊 European Swimming Championships Aquatics Paris 2026 : Men's 10m Platform Diving Final (16:00)" tvg-logo="https://ontheworldmap.com/africa/africa-political-map.jpg" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 European Swimming Championships Aquatics Paris 2026 : Men's 10m Platform Diving Final (16:00)
 https://dlhd.dad/watch.php?id=882
 
-#EXTINF:-1 tvg-id="swimmingeuropeanchampionshipsparis2026eveningsession" tvg-name="Water Sports 🏊 | 🏊 Swimming: European Championships Paris 2026 : Evening Session (18:25)" tvg-logo="https://www.playasmexico.com.mx/wp-content/uploads/2021/05/3-1.png" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 Swimming: European Championships Paris 2026 : Evening Session (18:25)
+#EXTINF:-1 tvg-id="swimmingeuropeanchampionshipsparis2026eveningsession" tvg-name="Water Sports 🏊 | 🏊 Swimming: European Championships Paris 2026 : Evening Session (18:25)" tvg-logo="https://minecraft.fr/wp-content/uploads/2021/02/paper-minecraft-table-enchantement.png" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 Swimming: European Championships Paris 2026 : Evening Session (18:25)
 https://dlhd.dad/watch.php?id=882
 
-#EXTINF:-1 tvg-id="swimmingeuropeanchampionshipsparis2026eveningsession" tvg-name="Water Sports 🏊 | 🏊 Swimming: European Championships Paris 2026 : Evening Session (18:25)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/ZahnarztAlen5690_Kofferdam.JPG/250px-ZahnarztAlen5690_Kofferdam.JPG" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 Swimming: European Championships Paris 2026 : Evening Session (18:25)
+#EXTINF:-1 tvg-id="swimmingeuropeanchampionshipsparis2026eveningsession" tvg-name="Water Sports 🏊 | 🏊 Swimming: European Championships Paris 2026 : Evening Session (18:25)" tvg-logo="http://www.rookieparenting.com/wp-content/uploads/coin2.png" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 Swimming: European Championships Paris 2026 : Evening Session (18:25)
 https://dlhd.dad/watch.php?id=851
 
 
