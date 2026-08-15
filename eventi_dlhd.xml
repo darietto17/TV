@@ -161,42 +161,6 @@
     <desc lang="it">🎾 2026 Cincinnati Open Tennis ATP/WTA : 2nd Round</desc>
     <category lang="it">Tennis 🎾</category>
   </programme>
-  <channel id="ChinaOpenSemiFinal">
-    <display-name>🎱 China Open : Semi-Final</display-name>
-  </channel>
-  <programme start="20260815000000 +0200" stop="20260815133000 +0200" channel="ChinaOpenSemiFinal">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">🎱 China Open : Semi-Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260815133000 +0200" stop="20260815153000 +0200" channel="ChinaOpenSemiFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎱 China Open : Semi-Final</desc>
-    <category lang="it">Snooker 🎱</category>
-  </programme>
-  <channel id="EuropeanChampionshipsBirminghamRound6MorningSession">
-    <display-name>🏃 European Championships Birmingham : Round 6 – Morning Session</display-name>
-  </channel>
-  <programme start="20260815000000 +0200" stop="20260815140000 +0200" channel="EuropeanChampionshipsBirminghamRound6MorningSession">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">🏃 European Championships Birmingham : Round 6 – Morning Session.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260815140000 +0200" stop="20260815160000 +0200" channel="EuropeanChampionshipsBirminghamRound6MorningSession">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏃 European Championships Birmingham : Round 6 – Morning Session</desc>
-    <category lang="it">Athletics 🏃</category>
-  </programme>
-  <programme start="20260815000000 +0200" stop="20260815140000 +0200" channel="EuropeanChampionshipsBirminghamRound6MorningSession">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">🏃 European Championships Birmingham : Round 6 – Morning Session.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260815140000 +0200" stop="20260815160000 +0200" channel="EuropeanChampionshipsBirminghamRound6MorningSession">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏃 European Championships Birmingham : Round 6 – Morning Session</desc>
-    <category lang="it">Athletics 🏃</category>
-  </programme>
   <channel id="EuropeanAthleticsChampionships6thDaySession">
     <display-name>🏃 European Athletics Championships : 6th Day Session</display-name>
   </channel>
@@ -223,19 +187,6 @@
     <desc lang="it">🏃 European Athletics Championships : Day 6 – Alexander Stadium</desc>
     <category lang="it">Athletics 🏃</category>
   </programme>
-  <channel id="ArcticRaceofNorwayStage3MenStokmarknesStorheiaSummitMelbu1425km">
-    <display-name>🚴 🇳🇴 Arctic Race of Norway : Stage 3 Men | Stokmarknes - Storheia Summit (Melbu) (142.5km)</display-name>
-  </channel>
-  <programme start="20260815000000 +0200" stop="20260815141500 +0200" channel="ArcticRaceofNorwayStage3MenStokmarknesStorheiaSummitMelbu1425km">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">🚴 🇳🇴 Arctic Race of Norway : Stage 3 Men | Stokmarknes - Storheia Summit (Melbu) (142.5km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260815141500 +0200" stop="20260815161500 +0200" channel="ArcticRaceofNorwayStage3MenStokmarknesStorheiaSummitMelbu1425km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🚴 🇳🇴 Arctic Race of Norway : Stage 3 Men | Stokmarknes - Storheia Summit (Melbu) (142.5km)</desc>
-    <category lang="it">Cycling 🚴</category>
-  </programme>
   <channel id="CzechTourStage3MenPardubiceDlouhStrn1708km">
     <display-name>🚴 🇨🇿 Czech Tour : Stage 3 Men | Pardubice - Dlouhé Stráně (170.8 km)</display-name>
   </channel>
@@ -249,7 +200,10 @@
     <desc lang="it">🚴 🇨🇿 Czech Tour : Stage 3 Men | Pardubice - Dlouhé Stráně (170.8 km)</desc>
     <category lang="it">Cycling 🚴</category>
   </programme>
-  <programme start="20260815161500 +0200" stop="20260815170000 +0200" channel="ArcticRaceofNorwayStage3MenStokmarknesStorheiaSummitMelbu1425km">
+  <channel id="ArcticRaceofNorwayStage3MenStokmarknesStorheiaSummitMelbu1425km">
+    <display-name>🚴 🇳🇴 Arctic Race of Norway : Stage 3 Men | Stokmarknes - Storheia Summit (Melbu) (142.5km)</display-name>
+  </channel>
+  <programme start="20260815000000 +0200" stop="20260815170000 +0200" channel="ArcticRaceofNorwayStage3MenStokmarknesStorheiaSummitMelbu1425km">
     <title lang="it">Inizia alle 17:00.</title>
     <desc lang="it">🚴 🇳🇴 Arctic Race of Norway : Stage 3 Men | Stokmarknes - Storheia Summit (Melbu) (142.5km).</desc>
     <category lang="it">Annuncio</category>
