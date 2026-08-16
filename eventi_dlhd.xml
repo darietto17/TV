@@ -1,3 +1,327 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ClubFriendlyLiverpoolvsComo">
+    <display-name>⚽ Club Friendly : Liverpool 🇬🇧 vs Como 🇮🇹</display-name>
+  </channel>
+  <programme start="20260816000000 +0200" stop="20260816190000 +0200" channel="ClubFriendlyLiverpoolvsComo">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">⚽ Club Friendly : Liverpool 🇬🇧 vs Como 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260816190000 +0200" stop="20260816210000 +0200" channel="ClubFriendlyLiverpoolvsComo">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ Club Friendly : Liverpool 🇬🇧 vs Como 🇮🇹</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
+  <programme start="20260816000000 +0200" stop="20260816190000 +0200" channel="ClubFriendlyLiverpoolvsComo">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">⚽ Club Friendly : Liverpool 🇬🇧 vs Como 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260816190000 +0200" stop="20260816210000 +0200" channel="ClubFriendlyLiverpoolvsComo">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ Club Friendly : Liverpool 🇬🇧 vs Como 🇮🇹</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
+  <channel id="GermanyBundesliga2Hannover96vsWolfsburg">
+    <display-name>⚽ 🇩🇪 Germany - Bundesliga 2 : Hannover 96 🇩🇪 vs Wolfsburg 🇩🇪</display-name>
+  </channel>
+  <programme start="20260816000000 +0200" stop="20260816133000 +0200" channel="GermanyBundesliga2Hannover96vsWolfsburg">
+    <title lang="it">Inizia alle 13:30.</title>
+    <desc lang="it">⚽ 🇩🇪 Germany - Bundesliga 2 : Hannover 96 🇩🇪 vs Wolfsburg 🇩🇪.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260816133000 +0200" stop="20260816153000 +0200" channel="GermanyBundesliga2Hannover96vsWolfsburg">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇩🇪 Germany - Bundesliga 2 : Hannover 96 🇩🇪 vs Wolfsburg 🇩🇪</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20260816000000 +0200" stop="20260816133000 +0200" channel="GermanyBundesliga2Hannover96vsWolfsburg">
+    <title lang="it">Inizia alle 13:30.</title>
+    <desc lang="it">⚽ 🇩🇪 Germany - Bundesliga 2 : Hannover 96 🇩🇪 vs Wolfsburg 🇩🇪.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260816133000 +0200" stop="20260816153000 +0200" channel="GermanyBundesliga2Hannover96vsWolfsburg">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇩🇪 Germany - Bundesliga 2 : Hannover 96 🇩🇪 vs Wolfsburg 🇩🇪</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalyCoppaItaliaFrosinonevsJuveStabia">
+    <display-name>⚽ 🇮🇹 Italy - Coppa Italia : Frosinone 🇮🇹 vs Juve Stabia 🇮🇹</display-name>
+  </channel>
+  <programme start="20260816000000 +0200" stop="20260816180000 +0200" channel="ItalyCoppaItaliaFrosinonevsJuveStabia">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Frosinone 🇮🇹 vs Juve Stabia 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260816180000 +0200" stop="20260816200000 +0200" channel="ItalyCoppaItaliaFrosinonevsJuveStabia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Frosinone 🇮🇹 vs Juve Stabia 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20260816000000 +0200" stop="20260816180000 +0200" channel="ItalyCoppaItaliaFrosinonevsJuveStabia">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Frosinone 🇮🇹 vs Juve Stabia 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260816180000 +0200" stop="20260816200000 +0200" channel="ItalyCoppaItaliaFrosinonevsJuveStabia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Frosinone 🇮🇹 vs Juve Stabia 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalyCoppaItaliaGenoavsAscoli">
+    <display-name>⚽ 🇮🇹 Italy - Coppa Italia : Genoa 🇮🇹 vs Ascoli 🇮🇹</display-name>
+  </channel>
+  <programme start="20260816000000 +0200" stop="20260816183000 +0200" channel="ItalyCoppaItaliaGenoavsAscoli">
+    <title lang="it">Inizia alle 18:30.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Genoa 🇮🇹 vs Ascoli 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260816183000 +0200" stop="20260816203000 +0200" channel="ItalyCoppaItaliaGenoavsAscoli">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Genoa 🇮🇹 vs Ascoli 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20260816000000 +0200" stop="20260816183000 +0200" channel="ItalyCoppaItaliaGenoavsAscoli">
+    <title lang="it">Inizia alle 18:30.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Genoa 🇮🇹 vs Ascoli 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260816183000 +0200" stop="20260816203000 +0200" channel="ItalyCoppaItaliaGenoavsAscoli">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Genoa 🇮🇹 vs Ascoli 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalyCoppaItaliaVeronavsVirtusEntella">
+    <display-name>⚽ 🇮🇹 Italy - Coppa Italia : Verona 🇮🇹 vs Virtus Entella 🇮🇹</display-name>
+  </channel>
+  <programme start="20260816000000 +0200" stop="20260816204500 +0200" channel="ItalyCoppaItaliaVeronavsVirtusEntella">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Verona 🇮🇹 vs Virtus Entella 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260816204500 +0200" stop="20260816224500 +0200" channel="ItalyCoppaItaliaVeronavsVirtusEntella">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Verona 🇮🇹 vs Virtus Entella 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20260816000000 +0200" stop="20260816204500 +0200" channel="ItalyCoppaItaliaVeronavsVirtusEntella">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Verona 🇮🇹 vs Virtus Entella 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260816204500 +0200" stop="20260816224500 +0200" channel="ItalyCoppaItaliaVeronavsVirtusEntella">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Verona 🇮🇹 vs Virtus Entella 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalyCoppaItaliaLaziovsMantova">
+    <display-name>⚽ 🇮🇹 Italy - Coppa Italia : Lazio 🇮🇹 vs Mantova 🇮🇹</display-name>
+  </channel>
+  <programme start="20260816000000 +0200" stop="20260816211500 +0200" channel="ItalyCoppaItaliaLaziovsMantova">
+    <title lang="it">Inizia alle 21:15.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Lazio 🇮🇹 vs Mantova 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260816211500 +0200" stop="20260816231500 +0200" channel="ItalyCoppaItaliaLaziovsMantova">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Lazio 🇮🇹 vs Mantova 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20260816000000 +0200" stop="20260816211500 +0200" channel="ItalyCoppaItaliaLaziovsMantova">
+    <title lang="it">Inizia alle 21:15.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Lazio 🇮🇹 vs Mantova 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260816211500 +0200" stop="20260816231500 +0200" channel="ItalyCoppaItaliaLaziovsMantova">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Lazio 🇮🇹 vs Mantova 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="2026CincinnatiOpenTennisATPWTA2ndRound">
+    <display-name>🎾 2026 Cincinnati Open Tennis ATP/WTA : 2nd Round</display-name>
+  </channel>
+  <programme start="20260816000000 +0200" stop="20260816170000 +0200" channel="2026CincinnatiOpenTennisATPWTA2ndRound">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">🎾 2026 Cincinnati Open Tennis ATP/WTA : 2nd Round.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260816170000 +0200" stop="20260816190000 +0200" channel="2026CincinnatiOpenTennisATPWTA2ndRound">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 2026 Cincinnati Open Tennis ATP/WTA : 2nd Round</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <programme start="20260816000000 +0200" stop="20260816170000 +0200" channel="2026CincinnatiOpenTennisATPWTA2ndRound">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">🎾 2026 Cincinnati Open Tennis ATP/WTA : 2nd Round.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260816170000 +0200" stop="20260816190000 +0200" channel="2026CincinnatiOpenTennisATPWTA2ndRound">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 2026 Cincinnati Open Tennis ATP/WTA : 2nd Round</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <channel id="ChinaOpenFinalMorningSession">
+    <display-name>🎱 China Open | Final | Morning Session</display-name>
+  </channel>
+  <programme start="20260816000000 +0200" stop="20260816080000 +0200" channel="ChinaOpenFinalMorningSession">
+    <title lang="it">Inizia alle 08:00.</title>
+    <desc lang="it">🎱 China Open | Final | Morning Session.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260816080000 +0200" stop="20260816100000 +0200" channel="ChinaOpenFinalMorningSession">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎱 China Open | Final | Morning Session</desc>
+    <category lang="it">Snooker 🎱</category>
+  </programme>
+  <channel id="ChinaOpenFinal">
+    <display-name>🎱 China Open | Final</display-name>
+  </channel>
+  <programme start="20260816000000 +0200" stop="20260816133000 +0200" channel="ChinaOpenFinal">
+    <title lang="it">Inizia alle 13:30.</title>
+    <desc lang="it">🎱 China Open | Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260816133000 +0200" stop="20260816153000 +0200" channel="ChinaOpenFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎱 China Open | Final</desc>
+    <category lang="it">Snooker 🎱</category>
+  </programme>
+  <channel id="EuropeanAthleticsChampionshipsDay7AlexanderStadium">
+    <display-name>🏃 European Athletics Championships : Day 7 - Alexander Stadium</display-name>
+  </channel>
+  <programme start="20260816000000 +0200" stop="20260816083000 +0200" channel="EuropeanAthleticsChampionshipsDay7AlexanderStadium">
+    <title lang="it">Inizia alle 08:30.</title>
+    <desc lang="it">🏃 European Athletics Championships : Day 7 - Alexander Stadium.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260816083000 +0200" stop="20260816103000 +0200" channel="EuropeanAthleticsChampionshipsDay7AlexanderStadium">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏃 European Athletics Championships : Day 7 - Alexander Stadium</desc>
+    <category lang="it">Athletics 🏃</category>
+  </programme>
+  <channel id="FromBirminghamEnglandMensTripleJump">
+    <display-name>🏃 From Birmingham, England : Men's Triple Jump</display-name>
+  </channel>
+  <programme start="20260816000000 +0200" stop="20260816113000 +0200" channel="FromBirminghamEnglandMensTripleJump">
+    <title lang="it">Inizia alle 11:30.</title>
+    <desc lang="it">🏃 From Birmingham, England : Men's Triple Jump.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260816113000 +0200" stop="20260816133000 +0200" channel="FromBirminghamEnglandMensTripleJump">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏃 From Birmingham, England : Men's Triple Jump</desc>
+    <category lang="it">Athletics 🏃</category>
+  </programme>
+  <programme start="20260816133000 +0200" stop="20260816160000 +0200" channel="FromBirminghamEnglandMensTripleJump">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">🏃 From Birmingham, England : Men's Triple Jump.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260816160000 +0200" stop="20260816180000 +0200" channel="FromBirminghamEnglandMensTripleJump">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏃 From Birmingham, England : Men's Triple Jump</desc>
+    <category lang="it">Athletics 🏃</category>
+  </programme>
+  <channel id="Birmingham2026EuropeanAthleticsChampionshipsMedalCeremoniesDay7">
+    <display-name>🏃 Birmingham 2026 European Athletics Championships Medal Ceremonies | Day 7</display-name>
+  </channel>
+  <programme start="20260816000000 +0200" stop="20260816193000 +0200" channel="Birmingham2026EuropeanAthleticsChampionshipsMedalCeremoniesDay7">
+    <title lang="it">Inizia alle 19:30.</title>
+    <desc lang="it">🏃 Birmingham 2026 European Athletics Championships Medal Ceremonies | Day 7.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260816193000 +0200" stop="20260816213000 +0200" channel="Birmingham2026EuropeanAthleticsChampionshipsMedalCeremoniesDay7">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏃 Birmingham 2026 European Athletics Championships Medal Ceremonies | Day 7</desc>
+    <category lang="it">Athletics 🏃</category>
+  </programme>
+  <channel id="CzechTourStage4MenKromPustevny1602km">
+    <display-name>🚴 Czech Tour | Stage 4 Men | Kroměříž – Pustevny (160.2 km)</display-name>
+  </channel>
+  <programme start="20260816000000 +0200" stop="20260816130000 +0200" channel="CzechTourStage4MenKromPustevny1602km">
+    <title lang="it">Inizia alle 13:00.</title>
+    <desc lang="it">🚴 Czech Tour | Stage 4 Men | Kroměříž – Pustevny (160.2 km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260816130000 +0200" stop="20260816150000 +0200" channel="CzechTourStage4MenKromPustevny1602km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 Czech Tour | Stage 4 Men | Kroměříž – Pustevny (160.2 km)</desc>
+    <category lang="it">Cycling 🚴</category>
+  </programme>
+  <channel id="HamburgCyclassicsMenBuxtehudeHamburg206km">
+    <display-name>🚴 Hamburg Cyclassics Men | Buxtehude - Hamburg (206 km)</display-name>
+  </channel>
+  <programme start="20260816000000 +0200" stop="20260816134500 +0200" channel="HamburgCyclassicsMenBuxtehudeHamburg206km">
+    <title lang="it">Inizia alle 13:45.</title>
+    <desc lang="it">🚴 Hamburg Cyclassics Men | Buxtehude - Hamburg (206 km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260816134500 +0200" stop="20260816154500 +0200" channel="HamburgCyclassicsMenBuxtehudeHamburg206km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 Hamburg Cyclassics Men | Buxtehude - Hamburg (206 km)</desc>
+    <category lang="it">Cycling 🚴</category>
+  </programme>
+  <channel id="ArcticRaceofNorwayStage4MenSortlandNarvik1908km">
+    <display-name>🚴 Arctic Race of Norway | Stage 4 Men | Sortland - Narvik (190.8 km)</display-name>
+  </channel>
+  <programme start="20260816000000 +0200" stop="20260816161500 +0200" channel="ArcticRaceofNorwayStage4MenSortlandNarvik1908km">
+    <title lang="it">Inizia alle 16:15.</title>
+    <desc lang="it">🚴 Arctic Race of Norway | Stage 4 Men | Sortland - Narvik (190.8 km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260816161500 +0200" stop="20260816181500 +0200" channel="ArcticRaceofNorwayStage4MenSortlandNarvik1908km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 Arctic Race of Norway | Stage 4 Men | Sortland - Narvik (190.8 km)</desc>
+    <category lang="it">Cycling 🚴</category>
+  </programme>
+  <channel id="Paris2026SwimmingPoolBattery">
+    <display-name>🏊 Paris 2026 Swimming Pool Battery</display-name>
+  </channel>
+  <programme start="20260816000000 +0200" stop="20260816093000 +0200" channel="Paris2026SwimmingPoolBattery">
+    <title lang="it">Inizia alle 09:30.</title>
+    <desc lang="it">🏊 Paris 2026 Swimming Pool Battery.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260816093000 +0200" stop="20260816113000 +0200" channel="Paris2026SwimmingPoolBattery">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏊 Paris 2026 Swimming Pool Battery</desc>
+    <category lang="it">Water Sports 🏊</category>
+  </programme>
+  <channel id="EuropeanAquaticsParis2026ArtisticSwimmingAcrobaticProgram">
+    <display-name>🏊 European Aquatics Paris 2026 - Artistic Swimming Acrobatic Program</display-name>
+  </channel>
+  <programme start="20260816000000 +0200" stop="20260816140000 +0200" channel="EuropeanAquaticsParis2026ArtisticSwimmingAcrobaticProgram">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">🏊 European Aquatics Paris 2026 - Artistic Swimming Acrobatic Program.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260816140000 +0200" stop="20260816160000 +0200" channel="EuropeanAquaticsParis2026ArtisticSwimmingAcrobaticProgram">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏊 European Aquatics Paris 2026 - Artistic Swimming Acrobatic Program</desc>
+    <category lang="it">Water Sports 🏊</category>
+  </programme>
+  <programme start="20260816000000 +0200" stop="20260816140000 +0200" channel="EuropeanAquaticsParis2026ArtisticSwimmingAcrobaticProgram">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">🏊 European Aquatics Paris 2026 - Artistic Swimming Acrobatic Program.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260816140000 +0200" stop="20260816160000 +0200" channel="EuropeanAquaticsParis2026ArtisticSwimmingAcrobaticProgram">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏊 European Aquatics Paris 2026 - Artistic Swimming Acrobatic Program</desc>
+    <category lang="it">Water Sports 🏊</category>
+  </programme>
+  <channel id="SwimmingEuropeanChampionshipsParis2026Day7EveningSession">
+    <display-name>🏊 Swimming: European Championships - Paris 2026 Day 7 - Evening Session</display-name>
+  </channel>
+  <programme start="20260816000000 +0200" stop="20260816182500 +0200" channel="SwimmingEuropeanChampionshipsParis2026Day7EveningSession">
+    <title lang="it">Inizia alle 18:25.</title>
+    <desc lang="it">🏊 Swimming: European Championships - Paris 2026 Day 7 - Evening Session.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260816182500 +0200" stop="20260816202500 +0200" channel="SwimmingEuropeanChampionshipsParis2026Day7EveningSession">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏊 Swimming: European Championships - Paris 2026 Day 7 - Evening Session</desc>
+    <category lang="it">Water Sports 🏊</category>
+  </programme>
 </tv>
