@@ -161,19 +161,6 @@
     <desc lang="it">🎾 2026 Cincinnati Open Tennis ATP/WTA : 2nd Round</desc>
     <category lang="it">Tennis 🎾</category>
   </programme>
-  <channel id="ChinaOpenFinalMorningSession">
-    <display-name>🎱 China Open | Final | Morning Session</display-name>
-  </channel>
-  <programme start="20260816000000 +0200" stop="20260816080000 +0200" channel="ChinaOpenFinalMorningSession">
-    <title lang="it">Inizia alle 08:00.</title>
-    <desc lang="it">🎱 China Open | Final | Morning Session.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260816080000 +0200" stop="20260816100000 +0200" channel="ChinaOpenFinalMorningSession">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎱 China Open | Final | Morning Session</desc>
-    <category lang="it">Snooker 🎱</category>
-  </programme>
   <channel id="ChinaOpenFinal">
     <display-name>🎱 China Open | Final</display-name>
   </channel>
@@ -186,19 +173,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">🎱 China Open | Final</desc>
     <category lang="it">Snooker 🎱</category>
-  </programme>
-  <channel id="EuropeanAthleticsChampionshipsDay7AlexanderStadium">
-    <display-name>🏃 European Athletics Championships : Day 7 - Alexander Stadium</display-name>
-  </channel>
-  <programme start="20260816000000 +0200" stop="20260816083000 +0200" channel="EuropeanAthleticsChampionshipsDay7AlexanderStadium">
-    <title lang="it">Inizia alle 08:30.</title>
-    <desc lang="it">🏃 European Athletics Championships : Day 7 - Alexander Stadium.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260816083000 +0200" stop="20260816103000 +0200" channel="EuropeanAthleticsChampionshipsDay7AlexanderStadium">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏃 European Athletics Championships : Day 7 - Alexander Stadium</desc>
-    <category lang="it">Athletics 🏃</category>
   </programme>
   <channel id="FromBirminghamEnglandMensTripleJump">
     <display-name>🏃 From Birmingham, England : Men's Triple Jump</display-name>
