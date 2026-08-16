@@ -417,8 +417,6 @@ https://vavoo.to/vavoo-iptv/play/3538009430947511be2991
 https://vavoo.to/vavoo-iptv/play/36572179483992957fcd47
 #EXTINF:-1 tvg-id="motor.trend.it" tvg-logo="" group-title="Altro",MOTOR TREND
 https://vavoo.to/vavoo-iptv/play/3445330307a7cadcf08dbd
-#EXTINF:-1 tvg-id="motor.trend.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/2560px-Motor_Trend_logo.svg.png" group-title="Altro",MOTORTREND
-https://vavoo.to/vavoo-iptv/play/375872832303fd120c6f38
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",MS MOTOR
 https://vavoo.to/vavoo-iptv/play/39352793540cc70e97548d
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-it.png" group-title="Documentari",NAT GEO (1)
@@ -1022,6 +1020,8 @@ https://vavoo.to/vavoo-iptv/play/10839846696ddb422bcd88
 https://vavoo.to/vavoo-iptv/play/4017608910fce4d0302c20
 #EXTINF:-1 tvg-id="" tvg-logo="https://teleromagna.it/images/teleromagna-logo.png" group-title="Altro",TELEROMAGNA
 https://vavoo.to/vavoo-iptv/play/279439224488ada9f3a1b3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",TELESPAZIO TV
+https://vavoo.to/vavoo-iptv/play/38676564387b48bdb05ad
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.teletricolore.it/wp-content/uploads/2018/02/logo.png" group-title="Altro",TELETRICOLORE
 https://vavoo.to/vavoo-iptv/play/2521763009f0e0ef1051a6
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",TELETUTTO
@@ -1031,7 +1031,9 @@ https://vavoo.to/vavoo-iptv/play/1785098768e3514b1dbecc
 #EXTINF:-1 tvg-id="tgcom24.it" tvg-name="TG COM 24" tvg-logo="https://yt3.hgoogleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="News",TG COM 24 (MPD)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="tg.norba.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tg-norba-24-it.png" group-title="News",TG NORBA 24
+#EXTINF:-1 tvg-id="tg.norba.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tg-norba-24-it.png" group-title="News",TG NORBA 24 (1)
+https://vavoo.to/vavoo-iptv/play/33797298178cac7afa180a
+#EXTINF:-1 tvg-id="tg.norba.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/tg-norba-24-it.png" group-title="News",TG NORBA 24 (2)
 https://vavoo.to/vavoo-iptv/play/3413557893b1ed86e5018c
 #EXTINF:-1 tvg-id="tgcom24.it" tvg-logo="https://yt3.hgoogleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="News",TGCOM 24
 https://vavoo.to/vavoo-iptv/play/24181484494b43d448b066
@@ -1152,46 +1154,40 @@ https://dlhd.dad/watch.php?id=854
 #EXTINF:-1 tvg-id="italycoppaitalialaziovsmantova" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Lazio 🇮🇹 vs Mantova 🇮🇹 (21:15)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lazio 🇮🇹_vs_Mantova 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Lazio 🇮🇹 vs Mantova 🇮🇹 (21:15)
 https://dlhd.dad/watch.php?id=3045
 
-#EXTINF:-1 tvg-id="2026cincinnatiopentennisatpwta2ndround" tvg-name="Tennis 🎾 | 🎾 2026 Cincinnati Open Tennis ATP/WTA : 2nd Round (17:00)" tvg-logo="https://m.media-amazon.com/images/S/aplus-media-library-service-media/622fe1d0-e614-486e-ba14-d20f8bf34352.__CR0,0,1464,600_PT0_SX1464_V1___.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 2026 Cincinnati Open Tennis ATP/WTA : 2nd Round (17:00)
+#EXTINF:-1 tvg-id="2026cincinnatiopentennisatpwta2ndround" tvg-name="Tennis 🎾 | 🎾 2026 Cincinnati Open Tennis ATP/WTA : 2nd Round (17:00)" tvg-logo="https://img.odcdn.com.br/wp-content/uploads/2025/06/feliz-dia-dos-namorados-frases-e-cartes-para-enviar-pelo-whatsapp-em-2025.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 2026 Cincinnati Open Tennis ATP/WTA : 2nd Round (17:00)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="2026cincinnatiopentennisatpwta2ndround" tvg-name="Tennis 🎾 | 🎾 2026 Cincinnati Open Tennis ATP/WTA : 2nd Round (17:00)" tvg-logo="https://i.pinimg.com/originals/48/b6/a4/48b6a4ca6be086cae2276c5e2784c998.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 2026 Cincinnati Open Tennis ATP/WTA : 2nd Round (17:00)
+#EXTINF:-1 tvg-id="2026cincinnatiopentennisatpwta2ndround" tvg-name="Tennis 🎾 | 🎾 2026 Cincinnati Open Tennis ATP/WTA : 2nd Round (17:00)" tvg-logo="https://i.pinimg.com/originals/82/62/69/8262698640c3c429fce83314e31837d9.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 2026 Cincinnati Open Tennis ATP/WTA : 2nd Round (17:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="chinaopenfinal" tvg-name="Snooker 🎱 | 🎱 China Open | Final (13:30)" tvg-logo="https://skincashier.com/blog/wp-content/uploads/sites/9/2024/11/skincashier-AWP-_-Dragon-Lore.png" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 China Open | Final (13:30)
+#EXTINF:-1 tvg-id="chinaopenfinal" tvg-name="Snooker 🎱 | 🎱 China Open | Final (13:30)" tvg-logo="https://d22fxaf9t8d39k.cloudfront.net/6dffdbb2723513ad5fea6130bea85a1d35110e947bdd5ce67dcf68dfe6ca7a61176286.png" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 China Open | Final (13:30)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="europeanathleticschampionshipsday7alexanderstadium" tvg-name="Athletics 🏃 | 🏃 European Athletics Championships : Day 7 - Alexander Stadium (08:30)" tvg-logo="https://rockykanaka.com/wp-content/uploads/2023/10/Screen-Shot-2023-10-11-at-1.37.52-PM-768x826.png" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 European Athletics Championships : Day 7 - Alexander Stadium (08:30)
+#EXTINF:-1 tvg-id="frombirminghamenglandmenstriplejump" tvg-name="Athletics 🏃 | 🏃 From Birmingham, England : Men's Triple Jump (11:30)" tvg-logo="https://cfm.yidio.com/images/tv/27608/1103015/episode-image-400x225.jpg" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 From Birmingham, England : Men's Triple Jump (11:30)
+https://dlhd.dad/watch.php?id=462
+
+#EXTINF:-1 tvg-id="frombirminghamenglandmenstriplejump" tvg-name="Athletics 🏃 | 🏃 From Birmingham, England : Men's Triple Jump (16:00)" tvg-logo="https://i.pinimg.com/originals/21/d0/8b/21d08b0f3685125d51e1d7901f7c3d9e.png" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 From Birmingham, England : Men's Triple Jump (16:00)
+https://dlhd.dad/watch.php?id=462
+
+#EXTINF:-1 tvg-id="birmingham2026europeanathleticschampionshipsmedalceremoniesday7" tvg-name="Athletics 🏃 | 🏃 Birmingham 2026 European Athletics Championships Medal Ceremonies | Day 7 (19:30)" tvg-logo="https://nukaseeds.cz/wp-content/uploads/2023/02/Cannabis-indica-leaf-nukaseeds.png" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 Birmingham 2026 European Athletics Championships Medal Ceremonies | Day 7 (19:30)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="frombirminghamenglandmenstriplejump" tvg-name="Athletics 🏃 | 🏃 From Birmingham, England : Men's Triple Jump (11:30)" tvg-logo="https://images.vexels.com/content/118479/preview/television-test-screen-no-signal-vector-illustration-4fd9d0.png" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 From Birmingham, England : Men's Triple Jump (11:30)
-https://dlhd.dad/watch.php?id=462
-
-#EXTINF:-1 tvg-id="frombirminghamenglandmenstriplejump" tvg-name="Athletics 🏃 | 🏃 From Birmingham, England : Men's Triple Jump (16:00)" tvg-logo="https://i.ytimg.com/vi/zJZupbxrW3E/maxresdefault.jpg" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 From Birmingham, England : Men's Triple Jump (16:00)
-https://dlhd.dad/watch.php?id=462
-
-#EXTINF:-1 tvg-id="birmingham2026europeanathleticschampionshipsmedalceremoniesday7" tvg-name="Athletics 🏃 | 🏃 Birmingham 2026 European Athletics Championships Medal Ceremonies | Day 7 (19:30)" tvg-logo="https://www.positiverealist.com/wp-content/uploads/2026/01/Lean-vs-Skinny-Body-Type-Comparison-positive-realist-1024x683.png" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 Birmingham 2026 European Athletics Championships Medal Ceremonies | Day 7 (19:30)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="czechtourstage4menkromípustevny1602km" tvg-name="Cycling 🚴 | 🚴 Czech Tour | Stage 4 Men | Kroměříž – Pustevny (160.2 km) (13:00)" tvg-logo="https://21worlds.com/wp-content/uploads/2024/07/1721241118.png" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 Czech Tour | Stage 4 Men | Kroměříž – Pustevny (160.2 km) (13:00)
+#EXTINF:-1 tvg-id="czechtourstage4menkromípustevny1602km" tvg-name="Cycling 🚴 | 🚴 Czech Tour | Stage 4 Men | Kroměříž – Pustevny (160.2 km) (13:00)" tvg-logo="https://eutravelinfo.com/wp-content/uploads/2026/03/BEST-Things-to-Do-in-Andorra.png" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 Czech Tour | Stage 4 Men | Kroměříž – Pustevny (160.2 km) (13:00)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="hamburgcyclassicsmenbuxtehudehamburg206km" tvg-name="Cycling 🚴 | 🚴 Hamburg Cyclassics Men | Buxtehude - Hamburg (206 km) (13:45)" tvg-logo="https://static1.srcdn.com/wordpress/wp-content/uploads/2020/09/diane-kruger-Helen-Troy.jpg" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 Hamburg Cyclassics Men | Buxtehude - Hamburg (206 km) (13:45)
+#EXTINF:-1 tvg-id="hamburgcyclassicsmenbuxtehudehamburg206km" tvg-name="Cycling 🚴 | 🚴 Hamburg Cyclassics Men | Buxtehude - Hamburg (206 km) (13:45)" tvg-logo="https://evidence.ero.govt.nz/media/d3tirrgi/te-kahu-whakahaumaru-cover.png?rnd=133505325293830000" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 Hamburg Cyclassics Men | Buxtehude - Hamburg (206 km) (13:45)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="arcticraceofnorwaystage4mensortlandnarvik1908km" tvg-name="Cycling 🚴 | 🚴 Arctic Race of Norway | Stage 4 Men | Sortland - Narvik (190.8 km) (16:15)" tvg-logo="https://i.pinimg.com/originals/78/7f/74/787f740052d2d06ffc8e91a5a3e75d98.png" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 Arctic Race of Norway | Stage 4 Men | Sortland - Narvik (190.8 km) (16:15)
+#EXTINF:-1 tvg-id="arcticraceofnorwaystage4mensortlandnarvik1908km" tvg-name="Cycling 🚴 | 🚴 Arctic Race of Norway | Stage 4 Men | Sortland - Narvik (190.8 km) (16:15)" tvg-logo="https://i.etsystatic.com/17952893/r/il/7458c2/2633587903/il_1080xN.2633587903_81lp.jpg" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 Arctic Race of Norway | Stage 4 Men | Sortland - Narvik (190.8 km) (16:15)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="paris2026swimmingpoolbattery" tvg-name="Water Sports 🏊 | 🏊 Paris 2026 Swimming Pool Battery (09:30)" tvg-logo="https://cdn.sex.com/images/pinporn/2016/01/15/14781737.gif?width=300" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 Paris 2026 Swimming Pool Battery (09:30)
-https://dlhd.dad/watch.php?id=462
-
-#EXTINF:-1 tvg-id="europeanaquaticsparis2026artisticswimmingacrobaticprogram" tvg-name="Water Sports 🏊 | 🏊 European Aquatics Paris 2026 - Artistic Swimming Acrobatic Program (14:00)" tvg-logo="https://www.immigrationeu.com/wp-content/uploads/sites/1018/2025/04/andorra-600x338.png" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 European Aquatics Paris 2026 - Artistic Swimming Acrobatic Program (14:00)
+#EXTINF:-1 tvg-id="europeanaquaticsparis2026artisticswimmingacrobaticprogram" tvg-name="Water Sports 🏊 | 🏊 European Aquatics Paris 2026 - Artistic Swimming Acrobatic Program (14:00)" tvg-logo="https://i.ytimg.com/vi/KakkjQ1GoFY/maxresdefault.jpg" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 European Aquatics Paris 2026 - Artistic Swimming Acrobatic Program (14:00)
 https://dlhd.dad/watch.php?id=882
 
-#EXTINF:-1 tvg-id="europeanaquaticsparis2026artisticswimmingacrobaticprogram" tvg-name="Water Sports 🏊 | 🏊 European Aquatics Paris 2026 - Artistic Swimming Acrobatic Program (14:00)" tvg-logo="https://influencer-phinf.pstatic.net/MjAyNTAzMDZfMjE0/MDAxNzQxMjAzNjI2NTYy.Lkploy_Kg_tjeGVUqokuPWZIaxWnCAP-IFsTjlFwI5Yg.EoPwitMoxJ_xHOTgi6sOUkSMnfcVguC6KMkww9Kg8t0g.PNG/d1d9.png?type=w700" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 European Aquatics Paris 2026 - Artistic Swimming Acrobatic Program (14:00)
+#EXTINF:-1 tvg-id="europeanaquaticsparis2026artisticswimmingacrobaticprogram" tvg-name="Water Sports 🏊 | 🏊 European Aquatics Paris 2026 - Artistic Swimming Acrobatic Program (14:00)" tvg-logo="https://evidence.ero.govt.nz/media/d3tirrgi/te-kahu-whakahaumaru-cover.png?rnd=133505325293830000" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 European Aquatics Paris 2026 - Artistic Swimming Acrobatic Program (14:00)
 https://dlhd.dad/watch.php?id=460
 
-#EXTINF:-1 tvg-id="swimmingeuropeanchampionshipsparis2026day7eveningsession" tvg-name="Water Sports 🏊 | 🏊 Swimming: European Championships - Paris 2026 Day 7 - Evening Session (18:25)" tvg-logo="https://stripesblog.com/wp-content/uploads/2025/11/cartoon-characters-with-pink-hair.webp" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 Swimming: European Championships - Paris 2026 Day 7 - Evening Session (18:25)
+#EXTINF:-1 tvg-id="swimmingeuropeanchampionshipsparis2026day7eveningsession" tvg-name="Water Sports 🏊 | 🏊 Swimming: European Championships - Paris 2026 Day 7 - Evening Session (18:25)" tvg-logo="https://totalvitalitymedical.com/wp-content/uploads/2022/05/standing-hamstring-stretch.png" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 Swimming: European Championships - Paris 2026 Day 7 - Evening Session (18:25)
 https://dlhd.dad/watch.php?id=851
 
 
