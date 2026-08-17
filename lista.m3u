@@ -108,12 +108,6 @@ https://vavoo.to/vavoo-iptv/play/466718273d17d85003ebc
 https://vavoo.to/vavoo-iptv/play/3914444703fd1a0c69d728
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",CANALE 2 ALTAMURA
 https://vavoo.to/vavoo-iptv/play/1251695137b2f1b46ebe5b
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",CANALE 21 CAMPANIA
-https://vavoo.to/vavoo-iptv/play/390600788675c13850cd70
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROcfjFIqjwxnG9AbEhJ6gwKb6IprmlFnF9aQ&s" group-title="Altro",CANALE 21 EXTRA
-https://vavoo.to/vavoo-iptv/play/24545581364a76ecd911e4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",CANALE 21 LAZIO
-https://vavoo.to/vavoo-iptv/play/36744884556a262b65d9c9
 #EXTINF:-1 tvg-id="canale.5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset",CANALE 5 (1)
 https://vavoo.to/vavoo-iptv/play/15341618078b08a3db572d
 #EXTINF:-1 tvg-id="canale.5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset",CANALE 5 (2)
@@ -201,8 +195,6 @@ https://vavoo.to/vavoo-iptv/play/97773955c19a27b2c14d
 https://vavoo.to/vavoo-iptv/play/1574591400f5a3b24c62fc
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentari",DISCOVERY NOVE (BACKUP)
 https://vavoo.to/vavoo-iptv/play/626836488bc21fb731967
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentari",DISCOVERY SCIENCE
-https://vavoo.to/vavoo-iptv/play/3088028964c224fe0b97aa
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png" group-title="Film - Serie TV",DISNEY+ FILM
 https://vavoo.to/vavoo-iptv/play/1264775727d4145aa36927
 #EXTINF:-1 tvg-id="dmax.it" tvg-logo="https://cdn.cookielaw.org/logos/50417659-aa29-4f7f-b59d-f6e887deed53/a32be519-de41-40f4-abed-d2934ba6751b/9a44af24-5ca6-4098-aa95-594755bd7b2d/dmax_logo.png" group-title="Altro",DMAX (1)
@@ -290,8 +282,6 @@ https://vavoo.to/vavoo-iptv/play/40604994550f228d5b9b59
 https://vavoo.to/vavoo-iptv/play/2470759321a8c43b171125
 #EXTINF:-1 tvg-id="" tvg-logo="https://ennapress.it/wp-content/uploads/2020/10/globus.png" group-title="Altro",GLOBUS TELEVISION
 https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSjSJx2Wah0-hfWbBn4_C79K5I0600lcD8zw&s" group-title="Altro",GOLD TV
-https://vavoo.to/vavoo-iptv/play/2854396316c4fc7fe60f75
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",GRANDE FRATELLO
 https://vavoo.to/vavoo-iptv/play/130018905764f20a1f9289
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.telegranducato.it/wp-content/uploads/img_struttura_sito/logo_granducato_ridotto.png" group-title="Altro",GRANDUCATO
@@ -490,6 +480,8 @@ https://vavoo.to/vavoo-iptv/play/12325656817eefaf17ef24
 https://vavoo.to/vavoo-iptv/play/37244398612811f0050926
 #EXTINF:-1 tvg-id="radio.105.it" tvg-logo="" group-title="Musica",RADIO 105
 https://vavoo.to/vavoo-iptv/play/679401461e3249bea621c
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica",RADIO 24
+https://vavoo.to/vavoo-iptv/play/1586498225ea507133231c
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvtvtv.ru/icons/51_tv.png" group-title="Musica",RADIO 51
 https://vavoo.to/vavoo-iptv/play/233974719353ecd6eb8de1
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica",RADIO BIRIKINA TV
@@ -767,7 +759,9 @@ https://vavoo.to/vavoo-iptv/play/2451443049820d9180f232
 https://vavoo.to/vavoo-iptv/play/18209975559b8c5058ae7f
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE (2)
 https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
-#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO
+#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (1)
+https://vavoo.to/vavoo-iptv/play/28721519114f66aff68e22
+#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (2)
 https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
 #EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24 (1)
 https://vavoo.to/vavoo-iptv/play/2236517134d5e218f6528e
@@ -879,6 +873,8 @@ https://vavoo.to/vavoo-iptv/play/78546677680f40b76841
 https://vavoo.to/vavoo-iptv/play/210669162201ec2365574
 #EXTINF:-1 tvg-id="sky.sport.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO (2)
 https://vavoo.to/vavoo-iptv/play/3192996672d2c923be0346
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",SKY SPORTS 24
+https://vavoo.to/vavoo-iptv/play/34936071312c994246f2bd
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORTS F1
 https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Sport_Golf_Logo_2022.svg/2560px-Sky_Sport_Golf_Logo_2022.svg.png" group-title="Sport",SKY SPORTS GOLF
@@ -942,8 +938,10 @@ https://vavoo.to/vavoo-iptv/play/2900362153b8a056cb86c0
 https://vavoo.to/vavoo-iptv/play/8491244640295fc9ea282
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_ebhZMV4eYibx6UpVDOt1KOlmhOPYBh0gKw&s" group-title="Altro",SUPERSIX LOMBARDIA (2)
 https://vavoo.to/vavoo-iptv/play/3531610572045662aa1174
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.abruzzi.tv/logo-abruzzi.png" group-title="Altro",TELE ABRUZZO
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.abruzzi.tv/logo-abruzzi.png" group-title="Altro",TELE ABRUZZO (1)
 https://vavoo.to/vavoo-iptv/play/16683935829997b8a7bc92
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.abruzzi.tv/logo-abruzzi.png" group-title="Altro",TELE ABRUZZO (2)
+https://vavoo.to/vavoo-iptv/play/18735208961b5fab514ef8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Telechiara-logo.png" group-title="Altro",TELE CHIARA (1)
 https://vavoo.to/vavoo-iptv/play/2487986216af30aedb116a
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Telechiara-logo.png" group-title="Altro",TELE CHIARA (2)
@@ -1020,6 +1018,8 @@ https://vavoo.to/vavoo-iptv/play/38676564387b48bdb05ad
 https://vavoo.to/vavoo-iptv/play/2521763009f0e0ef1051a6
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",TELETUTTO
 https://vavoo.to/vavoo-iptv/play/3271666551331132c8bfab
+#EXTINF:-1 tvg-id="tgcom24.it" tvg-logo="https://yt3.hgoogleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="News",TG COM 24
+https://vavoo.to/vavoo-iptv/play/1785098768e3514b1dbecc
 #EXTINF:-1 tvg-id="tgcom24.it" tvg-name="TG COM 24" tvg-logo="https://yt3.hgoogleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="News",TG COM 24 (MPD)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 
@@ -1110,24 +1110,6 @@ https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="clubfriendlyjuventusvsjuventusnextgen" tvg-name="All Soccer Events ⚽ | ⚽ Club Friendly : Juventus 🇮🇹 vs Juventus Next Gen 🇮🇹 (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Juventus 🇮🇹_vs_Juventus Next Gen 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Club Friendly : Juventus 🇮🇹 vs Juventus Next Gen 🇮🇹 (18:00)
-https://dlhd.dad/watch.php?id=870
-
-#EXTINF:-1 tvg-id="clubfriendlyjuventusvsjuventusnextgen" tvg-name="All Soccer Events ⚽ | ⚽ Club Friendly : Juventus 🇮🇹 vs Juventus Next Gen 🇮🇹 (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Juventus 🇮🇹_vs_Juventus Next Gen 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Club Friendly : Juventus 🇮🇹 vs Juventus Next Gen 🇮🇹 (18:00)
-https://dlhd.dad/watch.php?id=3047
-
-#EXTINF:-1 tvg-id="italycoppaitaliapisavsempoli" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Pisa 🇮🇹 vs Empoli 🇮🇹 (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pisa 🇮🇹_vs_Empoli 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Pisa 🇮🇹 vs Empoli 🇮🇹 (18:00)
-https://dlhd.dad/watch.php?id=857
-
-#EXTINF:-1 tvg-id="italycoppaitaliapisavsempoli" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Pisa 🇮🇹 vs Empoli 🇮🇹 (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pisa 🇮🇹_vs_Empoli 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Pisa 🇮🇹 vs Empoli 🇮🇹 (18:00)
-https://dlhd.dad/watch.php?id=3046
-
-#EXTINF:-1 tvg-id="italycoppaitaliasassuolovscesena" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Sassuolo 🇮🇹 vs Cesena 🇮🇹 (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sassuolo 🇮🇹_vs_Cesena 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Sassuolo 🇮🇹 vs Cesena 🇮🇹 (18:30)
-https://dlhd.dad/watch.php?id=854
-
-#EXTINF:-1 tvg-id="italycoppaitaliasassuolovscesena" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Sassuolo 🇮🇹 vs Cesena 🇮🇹 (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Sassuolo 🇮🇹_vs_Cesena 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Sassuolo 🇮🇹 vs Cesena 🇮🇹 (18:30)
-https://dlhd.dad/watch.php?id=3045
-
 #EXTINF:-1 tvg-id="italycoppaitaliacremonesevssampdoria" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Cremonese 🇮🇹 vs Sampdoria 🇮🇹 (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cremonese 🇮🇹_vs_Sampdoria 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Cremonese 🇮🇹 vs Sampdoria 🇮🇹 (20:45)
 https://dlhd.dad/watch.php?id=857
 
@@ -1140,13 +1122,7 @@ https://dlhd.dad/watch.php?id=854
 #EXTINF:-1 tvg-id="italycoppaitaliapalermovslecce" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Palermo 🇮🇹 vs Lecce 🇮🇹 (21:15)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Palermo 🇮🇹_vs_Lecce 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Palermo 🇮🇹 vs Lecce 🇮🇹 (21:15)
 https://dlhd.dad/watch.php?id=3045
 
-#EXTINF:-1 tvg-id="2026cincinnatiopentennisatpwta3rdroundampdoubles1stround" tvg-name="Tennis 🎾 | 🎾 2026 Cincinnati Open Tennis ATP/WTA : 3rd Round &amp; Doubles 1st Round (17:00)" tvg-logo="https://lawenforcement.mossberg.com/media/catalog/product/cache/e481e64536a684f69707b47f11cbf51f/8/3/83015_990_spx_pro_series_magpul_14.375_2700x650_3_.jpg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 2026 Cincinnati Open Tennis ATP/WTA : 3rd Round &amp; Doubles 1st Round (17:00)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="2026cincinnatiopentennisatpwta3rdroundampdoubles1stround" tvg-name="Tennis 🎾 | 🎾 2026 Cincinnati Open Tennis ATP/WTA : 3rd Round &amp; Doubles 1st Round (17:00)" tvg-logo="https://www.imagemlegal.com.br/wp-content/uploads/2020/01/Star-Wars-Moldura-PNG.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 2026 Cincinnati Open Tennis ATP/WTA : 3rd Round &amp; Doubles 1st Round (17:00)
-https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="womenslongjumpfinalbirmingham" tvg-name="Athletics 🏃 | 🏃 Women's Long Jump Final : Birmingham (19:00)" tvg-logo="https://us.rule34.xxx/samples/2972/sample_bc31851c128a5197672b18f766626995.jpg?10930148" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 Women's Long Jump Final : Birmingham (19:00)
+#EXTINF:-1 tvg-id="womenslongjumpfinalbirmingham" tvg-name="Athletics 🏃 | 🏃 Women's Long Jump Final : Birmingham (19:00)" tvg-logo="https://cars.usnews.com/pics/size/0x0/images/Auto/izmo/i159617107/2026_gmc_yukon_tempcontrol.jpg" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 Women's Long Jump Final : Birmingham (19:00)
 https://dlhd.dad/watch.php?id=462
 
 
