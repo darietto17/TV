@@ -1,3 +1,154 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ClubFriendlyJuventusvsJuventusNextGen">
+    <display-name>⚽ Club Friendly : Juventus 🇮🇹 vs Juventus Next Gen 🇮🇹</display-name>
+  </channel>
+  <programme start="20260817000000 +0200" stop="20260817180000 +0200" channel="ClubFriendlyJuventusvsJuventusNextGen">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">⚽ Club Friendly : Juventus 🇮🇹 vs Juventus Next Gen 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260817180000 +0200" stop="20260817200000 +0200" channel="ClubFriendlyJuventusvsJuventusNextGen">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ Club Friendly : Juventus 🇮🇹 vs Juventus Next Gen 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20260817000000 +0200" stop="20260817180000 +0200" channel="ClubFriendlyJuventusvsJuventusNextGen">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">⚽ Club Friendly : Juventus 🇮🇹 vs Juventus Next Gen 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260817180000 +0200" stop="20260817200000 +0200" channel="ClubFriendlyJuventusvsJuventusNextGen">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ Club Friendly : Juventus 🇮🇹 vs Juventus Next Gen 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalyCoppaItaliaPisavsEmpoli">
+    <display-name>⚽ 🇮🇹 Italy Coppa Italia : Pisa 🇮🇹 vs Empoli 🇮🇹</display-name>
+  </channel>
+  <programme start="20260817000000 +0200" stop="20260817180000 +0200" channel="ItalyCoppaItaliaPisavsEmpoli">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy Coppa Italia : Pisa 🇮🇹 vs Empoli 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260817180000 +0200" stop="20260817200000 +0200" channel="ItalyCoppaItaliaPisavsEmpoli">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy Coppa Italia : Pisa 🇮🇹 vs Empoli 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20260817000000 +0200" stop="20260817180000 +0200" channel="ItalyCoppaItaliaPisavsEmpoli">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy Coppa Italia : Pisa 🇮🇹 vs Empoli 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260817180000 +0200" stop="20260817200000 +0200" channel="ItalyCoppaItaliaPisavsEmpoli">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy Coppa Italia : Pisa 🇮🇹 vs Empoli 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalyCoppaItaliaSassuolovsCesena">
+    <display-name>⚽ 🇮🇹 Italy Coppa Italia : Sassuolo 🇮🇹 vs Cesena 🇮🇹</display-name>
+  </channel>
+  <programme start="20260817000000 +0200" stop="20260817183000 +0200" channel="ItalyCoppaItaliaSassuolovsCesena">
+    <title lang="it">Inizia alle 18:30.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy Coppa Italia : Sassuolo 🇮🇹 vs Cesena 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260817183000 +0200" stop="20260817203000 +0200" channel="ItalyCoppaItaliaSassuolovsCesena">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy Coppa Italia : Sassuolo 🇮🇹 vs Cesena 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20260817000000 +0200" stop="20260817183000 +0200" channel="ItalyCoppaItaliaSassuolovsCesena">
+    <title lang="it">Inizia alle 18:30.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy Coppa Italia : Sassuolo 🇮🇹 vs Cesena 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260817183000 +0200" stop="20260817203000 +0200" channel="ItalyCoppaItaliaSassuolovsCesena">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy Coppa Italia : Sassuolo 🇮🇹 vs Cesena 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalyCoppaItaliaCremonesevsSampdoria">
+    <display-name>⚽ 🇮🇹 Italy Coppa Italia : Cremonese 🇮🇹 vs Sampdoria 🇮🇹</display-name>
+  </channel>
+  <programme start="20260817000000 +0200" stop="20260817204500 +0200" channel="ItalyCoppaItaliaCremonesevsSampdoria">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy Coppa Italia : Cremonese 🇮🇹 vs Sampdoria 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260817204500 +0200" stop="20260817224500 +0200" channel="ItalyCoppaItaliaCremonesevsSampdoria">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy Coppa Italia : Cremonese 🇮🇹 vs Sampdoria 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20260817000000 +0200" stop="20260817204500 +0200" channel="ItalyCoppaItaliaCremonesevsSampdoria">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy Coppa Italia : Cremonese 🇮🇹 vs Sampdoria 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260817204500 +0200" stop="20260817224500 +0200" channel="ItalyCoppaItaliaCremonesevsSampdoria">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy Coppa Italia : Cremonese 🇮🇹 vs Sampdoria 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalyCoppaItaliaPalermovsLecce">
+    <display-name>⚽ 🇮🇹 Italy Coppa Italia : Palermo 🇮🇹 vs Lecce 🇮🇹</display-name>
+  </channel>
+  <programme start="20260817000000 +0200" stop="20260817211500 +0200" channel="ItalyCoppaItaliaPalermovsLecce">
+    <title lang="it">Inizia alle 21:15.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy Coppa Italia : Palermo 🇮🇹 vs Lecce 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260817211500 +0200" stop="20260817231500 +0200" channel="ItalyCoppaItaliaPalermovsLecce">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy Coppa Italia : Palermo 🇮🇹 vs Lecce 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20260817000000 +0200" stop="20260817211500 +0200" channel="ItalyCoppaItaliaPalermovsLecce">
+    <title lang="it">Inizia alle 21:15.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy Coppa Italia : Palermo 🇮🇹 vs Lecce 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260817211500 +0200" stop="20260817231500 +0200" channel="ItalyCoppaItaliaPalermovsLecce">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy Coppa Italia : Palermo 🇮🇹 vs Lecce 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="2026CincinnatiOpenTennisATPWTA3rdRoundampDoubles1stRound">
+    <display-name>🎾 2026 Cincinnati Open Tennis ATP/WTA : 3rd Round &amp; Doubles 1st Round</display-name>
+  </channel>
+  <programme start="20260817000000 +0200" stop="20260817170000 +0200" channel="2026CincinnatiOpenTennisATPWTA3rdRoundampDoubles1stRound">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">🎾 2026 Cincinnati Open Tennis ATP/WTA : 3rd Round &amp; Doubles 1st Round.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260817170000 +0200" stop="20260817190000 +0200" channel="2026CincinnatiOpenTennisATPWTA3rdRoundampDoubles1stRound">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 2026 Cincinnati Open Tennis ATP/WTA : 3rd Round &amp; Doubles 1st Round</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <programme start="20260817000000 +0200" stop="20260817170000 +0200" channel="2026CincinnatiOpenTennisATPWTA3rdRoundampDoubles1stRound">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">🎾 2026 Cincinnati Open Tennis ATP/WTA : 3rd Round &amp; Doubles 1st Round.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260817170000 +0200" stop="20260817190000 +0200" channel="2026CincinnatiOpenTennisATPWTA3rdRoundampDoubles1stRound">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 2026 Cincinnati Open Tennis ATP/WTA : 3rd Round &amp; Doubles 1st Round</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <channel id="WomensLongJumpFinalBirmingham">
+    <display-name>🏃 Women's Long Jump Final : Birmingham</display-name>
+  </channel>
+  <programme start="20260817000000 +0200" stop="20260817190000 +0200" channel="WomensLongJumpFinalBirmingham">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">🏃 Women's Long Jump Final : Birmingham.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260817190000 +0200" stop="20260817210000 +0200" channel="WomensLongJumpFinalBirmingham">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏃 Women's Long Jump Final : Birmingham</desc>
+    <category lang="it">Athletics 🏃</category>
+  </programme>
 </tv>
