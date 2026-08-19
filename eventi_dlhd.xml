@@ -1,3 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="EuropeUEFAChampionsLeagueCelticvsLASKLinz">
+    <display-name>⚽ 🏴 Europe - UEFA Champions League : Celtic 🏴 vs LASK Linz 🇦🇹</display-name>
+  </channel>
+  <programme start="20260819000000 +0200" stop="20260819210000 +0200" channel="EuropeUEFAChampionsLeagueCelticvsLASKLinz">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">⚽ 🏴 Europe - UEFA Champions League : Celtic 🏴 vs LASK Linz 🇦🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260819210000 +0200" stop="20260819230000 +0200" channel="EuropeUEFAChampionsLeagueCelticvsLASKLinz">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🏴 Europe - UEFA Champions League : Celtic 🏴 vs LASK Linz 🇦🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ATPWTACincinnatiOpenLindnerFamilyTennisCenter">
+    <display-name>🎾 🇺🇸 ATP / WTA Cincinnati Open - Lindner Family Tennis Center</display-name>
+  </channel>
+  <programme start="20260819000000 +0200" stop="20260819170000 +0200" channel="ATPWTACincinnatiOpenLindnerFamilyTennisCenter">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">🎾 🇺🇸 ATP / WTA Cincinnati Open - Lindner Family Tennis Center.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260819170000 +0200" stop="20260819190000 +0200" channel="ATPWTACincinnatiOpenLindnerFamilyTennisCenter">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 🇺🇸 ATP / WTA Cincinnati Open - Lindner Family Tennis Center</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <programme start="20260819000000 +0200" stop="20260819170000 +0200" channel="ATPWTACincinnatiOpenLindnerFamilyTennisCenter">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">🎾 🇺🇸 ATP / WTA Cincinnati Open - Lindner Family Tennis Center.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260819170000 +0200" stop="20260819190000 +0200" channel="ATPWTACincinnatiOpenLindnerFamilyTennisCenter">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 🇺🇸 ATP / WTA Cincinnati Open - Lindner Family Tennis Center</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <channel id="MLBPittsburghPiratesvsDetroitTigers">
+    <display-name>⚾ 🇺🇸 MLB : Pittsburgh Pirates 🇺🇸 vs Detroit Tigers 🇺🇸</display-name>
+  </channel>
+  <programme start="20260819000000 +0200" stop="20260819183500 +0200" channel="MLBPittsburghPiratesvsDetroitTigers">
+    <title lang="it">Inizia alle 18:35.</title>
+    <desc lang="it">⚾ 🇺🇸 MLB : Pittsburgh Pirates 🇺🇸 vs Detroit Tigers 🇺🇸.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260819183500 +0200" stop="20260819203500 +0200" channel="MLBPittsburghPiratesvsDetroitTigers">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚾ 🇺🇸 MLB : Pittsburgh Pirates 🇺🇸 vs Detroit Tigers 🇺🇸</desc>
+    <category lang="it">Baseball (MLB) ⚾</category>
+  </programme>
+  <channel id="TourofBritainWomenStage1Cockermouth1589km">
+    <display-name>🚴 🇬🇧 Tour of Britain Women | Stage 1 Cockermouth (158.9km)</display-name>
+  </channel>
+  <programme start="20260819000000 +0200" stop="20260819114500 +0200" channel="TourofBritainWomenStage1Cockermouth1589km">
+    <title lang="it">Inizia alle 11:45.</title>
+    <desc lang="it">🚴 🇬🇧 Tour of Britain Women | Stage 1 Cockermouth (158.9km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260819114500 +0200" stop="20260819134500 +0200" channel="TourofBritainWomenStage1Cockermouth1589km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 🇬🇧 Tour of Britain Women | Stage 1 Cockermouth (158.9km)</desc>
+    <category lang="it">Cycling 🚴</category>
+  </programme>
+  <channel id="WomensArtisticGymnasticsWorldChampionshipsinZagrebSpecialtyFinals">
+    <display-name>🤸 🇭🇷 Women's Artistic Gymnastics: World Championships in Zagreb, Specialty Finals</display-name>
+  </channel>
+  <programme start="20260819000000 +0200" stop="20260819103000 +0200" channel="WomensArtisticGymnasticsWorldChampionshipsinZagrebSpecialtyFinals">
+    <title lang="it">Inizia alle 10:30.</title>
+    <desc lang="it">🤸 🇭🇷 Women's Artistic Gymnastics: World Championships in Zagreb, Specialty Finals.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260819103000 +0200" stop="20260819123000 +0200" channel="WomensArtisticGymnasticsWorldChampionshipsinZagrebSpecialtyFinals">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🤸 🇭🇷 Women's Artistic Gymnastics: World Championships in Zagreb, Specialty Finals</desc>
+    <category lang="it">Gymnastics 🤸</category>
+  </programme>
 </tv>
