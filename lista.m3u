@@ -112,6 +112,8 @@ https://vavoo.to/vavoo-iptv/play/3914444703fd1a0c69d728
 https://vavoo.to/vavoo-iptv/play/1251695137b2f1b46ebe5b
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",CANALE 21 CAMPANIA
 https://vavoo.to/vavoo-iptv/play/390600788675c13850cd70
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROcfjFIqjwxnG9AbEhJ6gwKb6IprmlFnF9aQ&s" group-title="Altro",CANALE 21 EXTRA
+https://vavoo.to/vavoo-iptv/play/24545581364a76ecd911e4
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",CANALE 21 LAZIO
 https://vavoo.to/vavoo-iptv/play/36744884556a262b65d9c9
 #EXTINF:-1 tvg-id="canale.5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset",CANALE 5 (1)
@@ -186,6 +188,8 @@ https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319
 https://vavoo.to/vavoo-iptv/play/1955739367e1de6e90adc1
 #EXTINF:-1 tvg-id="discovery.channel.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL (2)
 https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentari",DISCOVERY DMAX
+https://vavoo.to/vavoo-iptv/play/3710269273f954671dec53
 #EXTINF:-1 tvg-id="focus.it" tvg-name="DISCOVERY FOCUS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Documentari",DISCOVERY FOCUS (MPD)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
 
@@ -268,8 +272,10 @@ https://vavoo.to/vavoo-iptv/play/21132730647ae733a10331
 https://vavoo.to/vavoo-iptv/play/3439223610a4fec93d907a
 #EXTINF:-1 tvg-id="focus.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Mediaset",FOCUS (3)
 https://vavoo.to/vavoo-iptv/play/29825504332b9997336c1e
-#EXTINF:-1 tvg-id="food.network.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Altro",FOOD NETWORK
+#EXTINF:-1 tvg-id="food.network.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Altro",FOOD NETWORK (1)
 https://vavoo.to/vavoo-iptv/play/2820683351b557bc63df61
+#EXTINF:-1 tvg-id="food.network.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png" group-title="Altro",FOOD NETWORK (2)
+https://vavoo.to/vavoo-iptv/play/276786104991c55564696b
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/fox-it.png" group-title="Film - Serie TV",FOX
 https://vavoo.to/vavoo-iptv/play/56316060941df205a0842
 #EXTINF:-1 tvg-id="frisbee.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/frisbee-it.png" group-title="Bambini",FRISBEE
@@ -429,8 +435,10 @@ https://vavoo.to/vavoo-iptv/play/41987887706cc8d9c7ddd3
 https://vavoo.to/vavoo-iptv/play/304085498822d221b3965
 #EXTINF:-1 tvg-id="nick.jr.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini",NICK JR
 https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065
-#EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Altro",NICKELODEON
+#EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Altro",NICKELODEON (1)
 https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c
+#EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Altro",NICKELODEON (2)
+https://vavoo.to/vavoo-iptv/play/30731921955c34b3a330ec
 #EXTINF:-1 tvg-id="nove.it" tvg-logo="" group-title="Altro",NOVE
 https://vavoo.to/vavoo-iptv/play/867216452ba4d42b41ada
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/570326948497195008/Wf6DPfFP_400x400.jpeg" group-title="Musica",OL3 RADIO
@@ -765,9 +773,7 @@ https://vavoo.to/vavoo-iptv/play/2451443049820d9180f232
 https://vavoo.to/vavoo-iptv/play/18209975559b8c5058ae7f
 #EXTINF:-1 tvg-id="sky.cinema.suspense.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film - Serie TV",SKY CINEMA SUSPENSE (2)
 https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06
-#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (1)
-https://vavoo.to/vavoo-iptv/play/28721519114f66aff68e22
-#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO (2)
+#EXTINF:-1 tvg-id="sky.cinema.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film - Serie TV",SKY CINEMA UNO
 https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676
 #EXTINF:-1 tvg-id="sky.cinema.uno.+24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film - Serie TV",SKY CINEMA UNO +24 (1)
 https://vavoo.to/vavoo-iptv/play/2236517134d5e218f6528e
@@ -948,10 +954,8 @@ https://vavoo.to/vavoo-iptv/play/3531610572045662aa1174
 https://vavoo.to/vavoo-iptv/play/16683935829997b8a7bc92
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.abruzzi.tv/logo-abruzzi.png" group-title="Altro",TELE ABRUZZO (2)
 https://vavoo.to/vavoo-iptv/play/18735208961b5fab514ef8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Telechiara-logo.png" group-title="Altro",TELE CHIARA (1)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Telechiara-logo.png" group-title="Altro",TELE CHIARA
 https://vavoo.to/vavoo-iptv/play/2487986216af30aedb116a
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Telechiara-logo.png" group-title="Altro",TELE CHIARA (2)
-https://vavoo.to/vavoo-iptv/play/2521825076452ac13ce197
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.telefriuli.it/wp-content/uploads/2022/11/logo_telefriuli_positivo.png" group-title="Altro",TELE FRIULI
 https://vavoo.to/vavoo-iptv/play/35518823447060ba68f520
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.teleliguriasud.it/sito/wp-content/uploads/2024/10/LOGO-RETINA.png" group-title="Altro",TELE LIGURIA SUD
@@ -1122,16 +1126,19 @@ https://dlhd.dad/watch.php?id=870
 #EXTINF:-1 tvg-id="uefaconferenceleagueatalantavshapoeltelaviv" tvg-name="UEFA Conference League ⚽ | ⚽ 🇮🇹 UEFA Conference League : Atalanta 🇮🇹 vs Hapoel Tel Aviv 🇮🇱 (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Atalanta 🇮🇹_vs_Hapoel Tel Aviv 🇮🇱.png" group-title="Eventi Live DLHD",UEFA Conference League ⚽ | ⚽ 🇮🇹 UEFA Conference League : Atalanta 🇮🇹 vs Hapoel Tel Aviv 🇮🇱 (20:30)
 https://dlhd.dad/watch.php?id=17
 
-#EXTINF:-1 tvg-id="masters1000cincinnatiquarterfinals" tvg-name="Tennis 🎾 | 🎾 🇺🇸 Masters 1000 Cincinnati | Quarterfinals (19:00)" tvg-logo="http://www.navalunderseamuseum.org/wp-content/uploads/2016/09/WTUS_PostWWII_mk48_pic.jpg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇺🇸 Masters 1000 Cincinnati | Quarterfinals (19:00)
+#EXTINF:-1 tvg-id="uefaconferenceleagueatalantavshapoeltelaviv" tvg-name="UEFA Conference League ⚽ | ⚽ 🇮🇹 UEFA Conference League : Atalanta 🇮🇹 vs Hapoel Tel Aviv 🇮🇱 (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Atalanta 🇮🇹_vs_Hapoel Tel Aviv 🇮🇱.png" group-title="Eventi Live DLHD",UEFA Conference League ⚽ | ⚽ 🇮🇹 UEFA Conference League : Atalanta 🇮🇹 vs Hapoel Tel Aviv 🇮🇱 (20:30)
+https://dlhd.dad/watch.php?id=3047
+
+#EXTINF:-1 tvg-id="masters1000cincinnatiquarterfinals" tvg-name="Tennis 🎾 | 🎾 🇺🇸 Masters 1000 Cincinnati | Quarterfinals (19:00)" tvg-logo="https://static.wikia.nocookie.net/rainbowsix/images/8/8d/DENARI_ICON_HIGH_RES.png/revision/latest/scale-to-width-down/268?cb=20250828201755" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇺🇸 Masters 1000 Cincinnati | Quarterfinals (19:00)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="masters1000cincinnatiquarterfinals" tvg-name="Tennis 🎾 | 🎾 🇺🇸 Masters 1000 Cincinnati | Quarterfinals (19:00)" tvg-logo="https://www.muchbetteradventures.com/magazine/content/images/size/w1600/2023/10/GettyImages-689808900--1-.jpg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇺🇸 Masters 1000 Cincinnati | Quarterfinals (19:00)
+#EXTINF:-1 tvg-id="masters1000cincinnatiquarterfinals" tvg-name="Tennis 🎾 | 🎾 🇺🇸 Masters 1000 Cincinnati | Quarterfinals (19:00)" tvg-logo="https://pub.mdpi-res.com/polymers/polymers-16-00248/article_deploy/html/images/polymers-16-00248-g001.png?1705400422" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇺🇸 Masters 1000 Cincinnati | Quarterfinals (19:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="renewitourstage2menblankenbergeardooie1739km" tvg-name="Cycling 🚴 | 🚴 🇧🇪 Renewi Tour | Stage 2 Men | Blankenberge – Ardooie (173.9km) (13:30)" tvg-logo="https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10163068510590246" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 🇧🇪 Renewi Tour | Stage 2 Men | Blankenberge – Ardooie (173.9km) (13:30)
+#EXTINF:-1 tvg-id="renewitourstage2menblankenbergeardooie1739km" tvg-name="Cycling 🚴 | 🚴 🇧🇪 Renewi Tour | Stage 2 Men | Blankenberge – Ardooie (173.9km) (13:30)" tvg-logo="https://i.ebayimg.com/images/g/UaUAAOSwCXlnxydv/s-l960.png" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 🇧🇪 Renewi Tour | Stage 2 Men | Blankenberge – Ardooie (173.9km) (13:30)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="beneluxtourstage2" tvg-name="Cycling 🚴 | 🚴 🇧🇪 Benelux Tour | Stage 2 (15:30)" tvg-logo="https://png.pngtree.com/background/20230618/original/pngtree-beautiful-pool-with-an-waterfall-and-landscaping-around-it-picture-image_3712348.jpg" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 🇧🇪 Benelux Tour | Stage 2 (15:30)
+#EXTINF:-1 tvg-id="beneluxtourstage2" tvg-name="Cycling 🚴 | 🚴 🇧🇪 Benelux Tour | Stage 2 (15:30)" tvg-logo="https://happytrainers.com/blog/wp-content/uploads/2022/02/medium-shot-woman-with-personal-trainer_11zon-scaled.jpg" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 🇧🇪 Benelux Tour | Stage 2 (15:30)
 https://dlhd.dad/watch.php?id=878
 
 
