@@ -1,31 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="EnglandPremierLeagueEvertonvsCrystalPalace">
-    <display-name>⚽ 🇬🇧 England - Premier League : Everton 🏴 vs Crystal Palace 🏴</display-name>
-  </channel>
-  <programme start="20260822000000 +0200" stop="20260822160000 +0200" channel="EnglandPremierLeagueEvertonvsCrystalPalace">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">⚽ 🇬🇧 England - Premier League : Everton 🏴 vs Crystal Palace 🏴.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260822160000 +0200" stop="20260822180000 +0200" channel="EnglandPremierLeagueEvertonvsCrystalPalace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🇬🇧 England - Premier League : Everton 🏴 vs Crystal Palace 🏴</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
-  <channel id="EnglandPremierLeagueIpswichTownvsSunderland">
-    <display-name>⚽ 🇬🇧 England - Premier League : Ipswich Town 🏴 vs Sunderland 🏴</display-name>
-  </channel>
-  <programme start="20260822000000 +0200" stop="20260822160000 +0200" channel="EnglandPremierLeagueIpswichTownvsSunderland">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">⚽ 🇬🇧 England - Premier League : Ipswich Town 🏴 vs Sunderland 🏴.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260822160000 +0200" stop="20260822180000 +0200" channel="EnglandPremierLeagueIpswichTownvsSunderland">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🇬🇧 England - Premier League : Ipswich Town 🏴 vs Sunderland 🏴</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
   <channel id="ItalySerieCCittadellavsPergolettese">
     <display-name>⚽ 🇮🇹 Italy - Serie C : Cittadella 🇮🇹 vs Pergolettese 🇮🇹</display-name>
   </channel>
@@ -303,58 +277,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">🎾 ATP/WTA Semifinals; WTA Doubles Final; ATP Doubles Semifinals</desc>
     <category lang="it">Tennis 🎾</category>
-  </programme>
-  <channel id="Formula1HeinekenDutchGPQualifying">
-    <display-name>🏎️ Formula 1 : Heineken Dutch GP - Qualifying</display-name>
-  </channel>
-  <programme start="20260822000000 +0200" stop="20260822160000 +0200" channel="Formula1HeinekenDutchGPQualifying">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">🏎️ Formula 1 : Heineken Dutch GP - Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260822160000 +0200" stop="20260822180000 +0200" channel="Formula1HeinekenDutchGPQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏎️ Formula 1 : Heineken Dutch GP - Qualifying</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
-  <channel id="DiamondLeagueSilesiaMensHighJumpandWomensLongJump">
-    <display-name>🏃 Diamond League : Silesia. Men's High Jump and Women's Long Jump</display-name>
-  </channel>
-  <programme start="20260822000000 +0200" stop="20260822143000 +0200" channel="DiamondLeagueSilesiaMensHighJumpandWomensLongJump">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">🏃 Diamond League : Silesia. Men's High Jump and Women's Long Jump.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260822143000 +0200" stop="20260822163000 +0200" channel="DiamondLeagueSilesiaMensHighJumpandWomensLongJump">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏃 Diamond League : Silesia. Men's High Jump and Women's Long Jump</desc>
-    <category lang="it">Athletics 🏃</category>
-  </programme>
-  <channel id="TheTourofSpain26Stage1">
-    <display-name>🚴 The Tour of Spain '26: Stage 1</display-name>
-  </channel>
-  <programme start="20260822000000 +0200" stop="20260822160500 +0200" channel="TheTourofSpain26Stage1">
-    <title lang="it">Inizia alle 16:05.</title>
-    <desc lang="it">🚴 The Tour of Spain '26: Stage 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260822160500 +0200" stop="20260822180500 +0200" channel="TheTourofSpain26Stage1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🚴 The Tour of Spain '26: Stage 1</desc>
-    <category lang="it">Cycling 🚴</category>
-  </programme>
-  <channel id="EuropeanChampionshipsWomenItalyWvsMontenegroW">
-    <display-name>🏐 European Championships Women : 🇮🇹 Italy W vs 🇲🇪 Montenegro W</display-name>
-  </channel>
-  <programme start="20260822000000 +0200" stop="20260822150000 +0200" channel="EuropeanChampionshipsWomenItalyWvsMontenegroW">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">🏐 European Championships Women : 🇮🇹 Italy W vs 🇲🇪 Montenegro W.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260822150000 +0200" stop="20260822170000 +0200" channel="EuropeanChampionshipsWomenItalyWvsMontenegroW">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏐 European Championships Women : 🇮🇹 Italy W vs 🇲🇪 Montenegro W</desc>
-    <category lang="it">Volleyball 🏐</category>
   </programme>
   <channel id="EuropeanChampionshipsWomenHungaryWvsPolandW">
     <display-name>🏐 European Championships Women : 🇭🇺 Hungary W vs 🇵🇱 Poland W</display-name>
