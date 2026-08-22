@@ -111,9 +111,32 @@
     <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Nuova Monterosi 🇮🇹 vs Gubbio 🇮🇹</desc>
     <category lang="it">All Soccer Events ⚽</category>
   </programme>
+  <channel id="ItalySerieAInternazionalevsMonza">
+    <display-name>⚽ 🇮🇹 Italy - Serie A : Internazionale 🇮🇹 vs Monza 🇮🇹</display-name>
+  </channel>
+  <programme start="20260822000000 +0200" stop="20260822183000 +0200" channel="ItalySerieAInternazionalevsMonza">
+    <title lang="it">Inizia alle 18:30.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Internazionale 🇮🇹 vs Monza 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260822183000 +0200" stop="20260822203000 +0200" channel="ItalySerieAInternazionalevsMonza">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Internazionale 🇮🇹 vs Monza 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
   <channel id="ItalySerieAUdinesevsComo">
     <display-name>⚽ 🇮🇹 Italy - Serie A : Udinese 🇮🇹 vs Como 🇮🇹</display-name>
   </channel>
+  <programme start="20260822000000 +0200" stop="20260822183000 +0200" channel="ItalySerieAUdinesevsComo">
+    <title lang="it">Inizia alle 18:30.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Udinese 🇮🇹 vs Como 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260822183000 +0200" stop="20260822203000 +0200" channel="ItalySerieAUdinesevsComo">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Udinese 🇮🇹 vs Como 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
   <programme start="20260822000000 +0200" stop="20260822183000 +0200" channel="ItalySerieAUdinesevsComo">
     <title lang="it">Inizia alle 18:30.</title>
     <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Udinese 🇮🇹 vs Como 🇮🇹.</desc>
@@ -181,6 +204,29 @@
   <programme start="20260822204500 +0200" stop="20260822224500 +0200" channel="ItalySerieAGenoavsNapoli">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Genoa 🇮🇹 vs Napoli 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20260822000000 +0200" stop="20260822204500 +0200" channel="ItalySerieAGenoavsNapoli">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Genoa 🇮🇹 vs Napoli 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260822204500 +0200" stop="20260822224500 +0200" channel="ItalySerieAGenoavsNapoli">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Genoa 🇮🇹 vs Napoli 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalySerieAParmavsCagliari">
+    <display-name>⚽ 🇮🇹 Italy - Serie A : Parma 🇮🇹 vs Cagliari 🇮🇹</display-name>
+  </channel>
+  <programme start="20260822000000 +0200" stop="20260822204500 +0200" channel="ItalySerieAParmavsCagliari">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Parma 🇮🇹 vs Cagliari 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260822204500 +0200" stop="20260822224500 +0200" channel="ItalySerieAParmavsCagliari">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Parma 🇮🇹 vs Cagliari 🇮🇹</desc>
     <category lang="it">All Soccer Events ⚽</category>
   </programme>
   <channel id="ItalySerieCGianaErminiovsAlbinoLeffe">
