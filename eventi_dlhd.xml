@@ -327,32 +327,6 @@
     <desc lang="it">🎾 ATP/WTA Semifinals; WTA Doubles Final; ATP Doubles Semifinals</desc>
     <category lang="it">Tennis 🎾</category>
   </programme>
-  <channel id="Formula1HeinekenDutchGPSprintGrid">
-    <display-name>🏎️ Formula 1 : Heineken Dutch GP - Sprint Grid</display-name>
-  </channel>
-  <programme start="20260822000000 +0200" stop="20260822110000 +0200" channel="Formula1HeinekenDutchGPSprintGrid">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">🏎️ Formula 1 : Heineken Dutch GP - Sprint Grid.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260822110000 +0200" stop="20260822130000 +0200" channel="Formula1HeinekenDutchGPSprintGrid">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏎️ Formula 1 : Heineken Dutch GP - Sprint Grid</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
-  <channel id="Formula1HeinekenDutchGPSprint">
-    <display-name>🏎️ Formula 1 : Heineken Dutch GP - Sprint</display-name>
-  </channel>
-  <programme start="20260822000000 +0200" stop="20260822120000 +0200" channel="Formula1HeinekenDutchGPSprint">
-    <title lang="it">Inizia alle 12:00.</title>
-    <desc lang="it">🏎️ Formula 1 : Heineken Dutch GP - Sprint.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260822120000 +0200" stop="20260822140000 +0200" channel="Formula1HeinekenDutchGPSprint">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏎️ Formula 1 : Heineken Dutch GP - Sprint</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
   <channel id="Formula1HeinekenDutchGPQualifying">
     <display-name>🏎️ Formula 1 : Heineken Dutch GP - Qualifying</display-name>
   </channel>
@@ -378,19 +352,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">🏃 Diamond League : Silesia. Men's High Jump and Women's Long Jump</desc>
     <category lang="it">Athletics 🏃</category>
-  </programme>
-  <channel id="UCIDownhillWorldCupWomenEliteHauteSavoie">
-    <display-name>🚴 UCI Downhill World Cup | Women Elite | Haute Savoie</display-name>
-  </channel>
-  <programme start="20260822000000 +0200" stop="20260822123000 +0200" channel="UCIDownhillWorldCupWomenEliteHauteSavoie">
-    <title lang="it">Inizia alle 12:30.</title>
-    <desc lang="it">🚴 UCI Downhill World Cup | Women Elite | Haute Savoie.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260822123000 +0200" stop="20260822143000 +0200" channel="UCIDownhillWorldCupWomenEliteHauteSavoie">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🚴 UCI Downhill World Cup | Women Elite | Haute Savoie</desc>
-    <category lang="it">Cycling 🚴</category>
   </programme>
   <channel id="TheTourofSpain26Stage1">
     <display-name>🚴 The Tour of Spain '26: Stage 1</display-name>
