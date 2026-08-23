@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="EnglandPremierLeagueManchesterCityvsAFCBournemouth">
-    <display-name>⚽ 🏴 England Premier League : Manchester City 🏴 vs AFC Bournemouth 🏴</display-name>
-  </channel>
-  <programme start="20260823000000 +0200" stop="20260823150000 +0200" channel="EnglandPremierLeagueManchesterCityvsAFCBournemouth">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">⚽ 🏴 England Premier League : Manchester City 🏴 vs AFC Bournemouth 🏴.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260823150000 +0200" stop="20260823170000 +0200" channel="EnglandPremierLeagueManchesterCityvsAFCBournemouth">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🏴 England Premier League : Manchester City 🏴 vs AFC Bournemouth 🏴</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
   <channel id="EnglandPremierLeagueNewcastleUnitedvsLiverpool">
     <display-name>⚽ 🏴 England Premier League : Newcastle United 🏴 vs Liverpool 🏴</display-name>
   </channel>
@@ -373,32 +360,6 @@
     <desc lang="it">🎾 🇺🇸 2026 Cincinnati Open : ATP/WTA Singles Finals; ATP Doubles Final</desc>
     <category lang="it">Tennis 🎾</category>
   </programme>
-  <channel id="Formula1HeinekenDutchGPGrandPrixRace">
-    <display-name>🏎️ 🇳🇱 Formula 1 : Heineken Dutch GP — Grand Prix Race</display-name>
-  </channel>
-  <programme start="20260823000000 +0200" stop="20260823150000 +0200" channel="Formula1HeinekenDutchGPGrandPrixRace">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">🏎️ 🇳🇱 Formula 1 : Heineken Dutch GP — Grand Prix Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260823150000 +0200" stop="20260823170000 +0200" channel="Formula1HeinekenDutchGPGrandPrixRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏎️ 🇳🇱 Formula 1 : Heineken Dutch GP — Grand Prix Race</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
-  <channel id="WorldChampionshipNetherlandsMX2Race2">
-    <display-name>🏍️ 🇳🇱 World Championship Netherlands : MX2 — Race 2</display-name>
-  </channel>
-  <programme start="20260823000000 +0200" stop="20260823160000 +0200" channel="WorldChampionshipNetherlandsMX2Race2">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">🏍️ 🇳🇱 World Championship Netherlands : MX2 — Race 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260823160000 +0200" stop="20260823180000 +0200" channel="WorldChampionshipNetherlandsMX2Race2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏍️ 🇳🇱 World Championship Netherlands : MX2 — Race 2</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
   <channel id="WorldChampionshipNetherlandsMXGPRace2">
     <display-name>🏍️ 🇳🇱 World Championship Netherlands : MXGP — Race 2</display-name>
   </channel>
@@ -424,31 +385,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">🏃 🇵🇱 IAAF Diamond League : Silesia</desc>
     <category lang="it">Athletics 🏃</category>
-  </programme>
-  <channel id="TheTourofSpain26Stage2">
-    <display-name>🚴 🇪🇸 The Tour of Spain '26 : Stage 2</display-name>
-  </channel>
-  <programme start="20260823000000 +0200" stop="20260823160000 +0200" channel="TheTourofSpain26Stage2">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">🚴 🇪🇸 The Tour of Spain '26 : Stage 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260823160000 +0200" stop="20260823180000 +0200" channel="TheTourofSpain26Stage2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🚴 🇪🇸 The Tour of Spain '26 : Stage 2</desc>
-    <category lang="it">Cycling 🚴</category>
-  </programme>
-  <channel id="EuropeanChampionshipsWomenFrancevsCroatia">
-    <display-name>🏀 🇪🇺 European Championships Women : France 🇫🇷 vs Croatia 🇭🇷</display-name>
-  </channel>
-  <programme start="20260823000000 +0200" stop="20260823150000 +0200" channel="EuropeanChampionshipsWomenFrancevsCroatia">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">🏀 🇪🇺 European Championships Women : France 🇫🇷 vs Croatia 🇭🇷.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260823150000 +0200" stop="20260823170000 +0200" channel="EuropeanChampionshipsWomenFrancevsCroatia">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏀 🇪🇺 European Championships Women : France 🇫🇷 vs Croatia 🇭🇷</desc>
-    <category lang="it">European Championships 🏐</category>
   </programme>
 </tv>
