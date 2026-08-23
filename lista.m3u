@@ -15,6 +15,8 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
 https://vavoo.to/vavoo-iptv/play/6087746837741766a74b3
 #EXTINF:-1 tvg-id="27.twentyseven.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/260px-Twentyseven_logo.svg.png" group-title="Mediaset",27 TWENTYSEVEN (2)
 https://vavoo.to/vavoo-iptv/play/80896559d4a6e09d36f1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",51 CUSANO ITALIA TV
+https://vavoo.to/vavoo-iptv/play/4124613557378009dcb051
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvtvtv.ru/icons/51_tv.png" group-title="Musica",51 RADIO TV
 https://vavoo.to/vavoo-iptv/play/42162455520e0fbef4fafe
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",7 YOU & ME
@@ -25,8 +27,6 @@ https://vavoo.to/vavoo-iptv/play/3701871205057c15adedda
 https://vavoo.to/vavoo-iptv/play/116175301085677e1637cf
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/3zkPKViC7G2rHWbBpYzSL6dFM9OMFBqIC6JrT-mM73EQsERHMqx4sPzWpBD8nfEqgf_uSHi124Y=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",A3
 https://vavoo.to/vavoo-iptv/play/445158856541438cd842a
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",AB
-https://vavoo.to/vavoo-iptv/play/1491139076cadf4c6a33d9
 #EXTINF:-1 tvg-id="aci.sport.tv.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/aci-sport-tv-it.png" group-title="Sport",ACI SPORT TV
 https://vavoo.to/vavoo-iptv/play/13516316035c18ca000fe1
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ADESSO TV
@@ -69,8 +69,6 @@ https://vavoo.to/vavoo-iptv/play/15850058604ed339a2ed20
 https://vavoo.to/vavoo-iptv/play/1611446752ef81feae9ae
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.opq.it/wp-content/uploads/BergamoTV.png" group-title="Altro",BERGAMO TV
 https://vavoo.to/vavoo-iptv/play/2476433040575c4662d870
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",BIANCONERA JUVENTUS TV
-https://vavoo.to/vavoo-iptv/play/829225574df55dadd5f06
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",BLAZE
 https://vavoo.to/vavoo-iptv/play/25326356590c9338734e4b
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="Altro",BLOOMBERG TV
@@ -186,6 +184,8 @@ https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319
 https://vavoo.to/vavoo-iptv/play/1955739367e1de6e90adc1
 #EXTINF:-1 tvg-id="discovery.channel.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL (2)
 https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentari",DISCOVERY DMAX
+https://vavoo.to/vavoo-iptv/play/3710269273f954671dec53
 #EXTINF:-1 tvg-id="focus.it" tvg-name="DISCOVERY FOCUS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Documentari",DISCOVERY FOCUS (MPD)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
 
@@ -215,6 +215,8 @@ https://vavoo.to/vavoo-iptv/play/590125569052ce0130373
 https://vavoo.to/vavoo-iptv/play/1371658771f5d431bd1ae6
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/81omr2rZ8+L.png" group-title="Altro",ENTELLA TV (2)
 https://vavoo.to/vavoo-iptv/play/1444531463b67ef011dc18
+#EXTINF:-1 tvg-id="equtv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/equ-tv-it.png?raw=true" group-title="Altro",EQU TV
+https://vavoo.to/vavoo-iptv/play/28185866687e407e1edc60
 #EXTINF:-1 tvg-id="" tvg-logo="https://massimoemanuelli.com/wp-content/uploads/2017/10/etv-logo-attuale.png?w=640" group-title="Altro",ESPANSIONE TV
 https://vavoo.to/vavoo-iptv/play/53948441989c19aba3352
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Logo_ESPERIAtv.png" group-title="Altro",ESPERIA TV
@@ -319,17 +321,17 @@ https://vavoo.to/vavoo-iptv/play/633342961994dc5083ad5
 #EXTINF:-1 tvg-id="italia.1.it" tvg-name="ITALIA 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="Mediaset",ITALIA 1 (MPD)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="italia.2.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png" group-title="Mediaset",ITALIA 2 (1)
+#EXTINF:-1 tvg-id="italia.2.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png" group-title="Mediaset",ITALIA 2
 https://vavoo.to/vavoo-iptv/play/1613543898fd67f91cf2e0
-#EXTINF:-1 tvg-id="italia.2.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png" group-title="Mediaset",ITALIA 2 (2)
-https://vavoo.to/vavoo-iptv/play/2062925095ee24874020f9
 #EXTINF:-1 tvg-id="italia.2.it" tvg-name="ITALIA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png" group-title="Mediaset",ITALIA 2 (MPD)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/4e/Italia_3_2013.png/revision/latest?cb=20200119124403" group-title="Altro",ITALIA 3
 https://vavoo.to/vavoo-iptv/play/1200985239ceccd12c8a54
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV (1)
 https://vavoo.to/vavoo-iptv/play/4235410936b108b39c28d1
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="Altro",ITALIAN FISHING TV (2)
+https://vavoo.to/vavoo-iptv/play/477083716dc642d622f68
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Iunior_tv.png" group-title="Altro",IUNIOR TV (1)
 https://vavoo.to/vavoo-iptv/play/803540254d5a6317673b3
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Iunior_tv.png" group-title="Altro",IUNIOR TV (2)
@@ -371,12 +373,8 @@ https://vavoo.to/vavoo-iptv/play/3894526183af41b9b1aebc
 https://vavoo.to/vavoo-iptv/play/22109966031d6de269f9b8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",LA TR3 MARSALA
 https://vavoo.to/vavoo-iptv/play/322737388601b884f9662d
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",LAC NEWS 24
-https://vavoo.to/vavoo-iptv/play/37228730056bf7e93438b
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",LAZIO TV 13
 https://vavoo.to/vavoo-iptv/play/56652751299dc0b400d5c
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",LE CRONACHE TV
-https://vavoo.to/vavoo-iptv/play/2732938894cd5afa33e92
 #EXTINF:-1 tvg-id="" tvg-logo="https://liratv.es/wp-content/uploads/2021/07/LIRA-TV-1.png" group-title="Altro",LIRA TV
 https://vavoo.to/vavoo-iptv/play/2835333400f831a30ce568
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lovefm.it/themes/default/assets/img_c/logo-love-new.png" group-title="Musica",LOVE FM TV
@@ -385,6 +383,8 @@ https://vavoo.to/vavoo-iptv/play/3344963942d5b8b48cdfe0
 https://vavoo.to/vavoo-iptv/play/215827632715f84c8de94
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/1200px-Radio_m2o_-_Logo_2019.svg.png" group-title="Musica",M2O (2)
 https://vavoo.to/vavoo-iptv/play/1189750614b197994e963d
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica",M2O TV
+https://vavoo.to/vavoo-iptv/play/12789846009c1f647db85b
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",MARIA+VISION
 https://vavoo.to/vavoo-iptv/play/448530931a02141cb37b2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",MAVTV EUROPE
@@ -600,8 +600,6 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&force
 https://vavoo.to/vavoo-iptv/play/29241350927e983d18bd31
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Rai",RAI SPORT [LIVE DURING EVENTS ONLY]
 https://vavoo.to/vavoo-iptv/play/55173022458f32c70e30a
-#EXTINF:-1 tvg-id="raisport+hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Rai",RAI SPORT+
-https://vavoo.to/vavoo-iptv/play/843891896d79f7a764c19
 #EXTINF:-1 tvg-id="raisport+hd.it" tvg-name="RAI SPORT+" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png" group-title="Rai",RAI SPORT+ (MPD)
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
@@ -618,6 +616,8 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&force
 https://vavoo.to/vavoo-iptv/play/178550192490bfbe154312
 #EXTINF:-1 tvg-id="raiyoyo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Rai",RAI YOYO (2)
 https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1
+
+# NEWS
 #EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="RAI YOYO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Rai",RAI YOYO (MPD)
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
@@ -703,8 +703,6 @@ https://vavoo.to/vavoo-iptv/play/1729811452a70dafd8f6ba
 # SPORT
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",RTM
 https://vavoo.to/vavoo-iptv/play/958797744cd4efa7493ca
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",RTM
-https://vavoo.to/vavoo-iptv/play/958797744cd4efa7493ca
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",RTP (RETE TELEVISIVA)
 https://vavoo.to/vavoo-iptv/play/4136045815a19e851236a3
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rttr-it.png?raw=true" group-title="Altro",RTTR
@@ -775,7 +773,9 @@ https://vavoo.to/vavoo-iptv/play/354961873760dbb54cfa7
 https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e
 #EXTINF:-1 tvg-id="sky.investigation.it" tvg-logo="" group-title="Altro",SKY INVESTIGATION
 https://vavoo.to/vavoo-iptv/play/19686407898d20b9ce24d1
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 1 (1)
+https://vavoo.to/vavoo-iptv/play/194468239430d8fe263231
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 1 (2)
 https://vavoo.to/vavoo-iptv/play/1492183364e2c25c729efa
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film - Serie TV",SKY PRIMAFILA 10 (1)
 https://vavoo.to/vavoo-iptv/play/4272937805ce3f4b8a4a12
@@ -890,8 +890,6 @@ https://vavoo.to/vavoo-iptv/play/32202484989ac14421915
 https://vavoo.to/vavoo-iptv/play/287379323134c651595371
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA
 https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
-https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.capitaladv.eu/wp-content/uploads/2020/07/LOGO-SPORTITALIA-PLUS-HD_2-1.png" group-title="Sport",SPORTITALIA PLUS
 https://vavoo.to/vavoo-iptv/play/33428493134b007f2ed197
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORTITALIA SOLOCALCIO
@@ -905,7 +903,7 @@ https://vavoo.to/vavoo-iptv/play/151207238423ec1d54e5b8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",STAR CRIME
 https://vavoo.to/vavoo-iptv/play/28436429458ff4e2cc4ae6
 
-# NEWS
+# RAI
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/star-life-ar.png?raw=true" group-title="Altro",STAR LIFE
 https://vavoo.to/vavoo-iptv/play/3946128844a366ea9809f0
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.stereo5.it/2022/wp-content/uploads/2023/02/LOGO-NUOVO-2023-2.png" group-title="Altro",STEREO 5 TV (1)
@@ -932,10 +930,8 @@ https://vavoo.to/vavoo-iptv/play/2900362153b8a056cb86c0
 https://vavoo.to/vavoo-iptv/play/8491244640295fc9ea282
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_ebhZMV4eYibx6UpVDOt1KOlmhOPYBh0gKw&s" group-title="Altro",SUPERSIX LOMBARDIA (2)
 https://vavoo.to/vavoo-iptv/play/3531610572045662aa1174
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.abruzzi.tv/logo-abruzzi.png" group-title="Altro",TELE ABRUZZO (1)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.abruzzi.tv/logo-abruzzi.png" group-title="Altro",TELE ABRUZZO
 https://vavoo.to/vavoo-iptv/play/16683935829997b8a7bc92
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.abruzzi.tv/logo-abruzzi.png" group-title="Altro",TELE ABRUZZO (2)
-https://vavoo.to/vavoo-iptv/play/18735208961b5fab514ef8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Telechiara-logo.png" group-title="Altro",TELE CHIARA (1)
 https://vavoo.to/vavoo-iptv/play/2487986216af30aedb116a
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Telechiara-logo.png" group-title="Altro",TELE CHIARA (2)
@@ -1064,8 +1060,6 @@ https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStj45lIWvQ0KFzv6jyIP9vOZgPnWQirEl6dw&s" group-title="News",TV7 NEWS
 https://vavoo.to/vavoo-iptv/play/28023290645ecbd632b9ce
-
-# RAI
 #EXTINF:-1 tvg-id="" tvg-logo="https://massimoemanuelli.com/wp-content/uploads/2017/10/tva-vi-2.png" group-title="Altro",TVA VICENZA (1)
 https://vavoo.to/vavoo-iptv/play/3071392662a754d82b0840
 #EXTINF:-1 tvg-id="" tvg-logo="https://massimoemanuelli.com/wp-content/uploads/2017/10/tva-vi-2.png" group-title="Altro",TVA VICENZA (2)
@@ -1104,9 +1098,6 @@ https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="englandpremierleaguemanchestercityvsafcbournemouth" tvg-name="All Soccer Events ⚽ | ⚽ 🏴 England Premier League : Manchester City 🏴 vs AFC Bournemouth 🏴 (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Manchester City 🏴_vs_AFC Bournemouth 🏴.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🏴 England Premier League : Manchester City 🏴 vs AFC Bournemouth 🏴 (15:00)
-https://dlhd.dad/watch.php?id=870
-
 #EXTINF:-1 tvg-id="englandpremierleaguenewcastleunitedvsliverpool" tvg-name="All Soccer Events ⚽ | ⚽ 🏴 England Premier League : Newcastle United 🏴 vs Liverpool 🏴 (17:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Newcastle United 🏴_vs_Liverpool 🏴.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🏴 England Premier League : Newcastle United 🏴 vs Liverpool 🏴 (17:30)
 https://dlhd.dad/watch.php?id=461
 
@@ -1130,6 +1121,9 @@ https://dlhd.dad/watch.php?id=26
 
 #EXTINF:-1 tvg-id="italycoppaitaliafemminilefiorentinavssassuolo" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia Femminile : 🇮🇹 Fiorentina vs 🇮🇹 Sassuolo (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇮🇹 Fiorentina_vs_🇮🇹 Sassuolo.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia Femminile : 🇮🇹 Fiorentina vs 🇮🇹 Sassuolo (18:00)
 https://dlhd.dad/watch.php?id=460
+
+#EXTINF:-1 tvg-id="italyserieasimulcast" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie A : 🇮🇹 Simulcast (18:30)" tvg-logo="https://cdn.kalebooster.com/ug/static/kaleArticle/717391/7ca4c4d5b763cbbb767fd1a5314346b6.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie A : 🇮🇹 Simulcast (18:30)
+https://dlhd.dad/watch.php?id=262
 
 #EXTINF:-1 tvg-id="italyserieafrosinonevsjuventus" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie A : 🇮🇹 Frosinone vs 🇮🇹 Juventus (18:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇮🇹 Frosinone_vs_🇮🇹 Juventus.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie A : 🇮🇹 Frosinone vs 🇮🇹 Juventus (18:30)
 https://dlhd.dad/watch.php?id=164
@@ -1191,29 +1185,17 @@ https://dlhd.dad/watch.php?id=171
 #EXTINF:-1 tvg-id="italyseriebpalermovsjuvestabia" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie B : Palermo 🇮🇹 vs Juve Stabia 🇮🇹 (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Palermo 🇮🇹_vs_Juve Stabia 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie B : Palermo 🇮🇹 vs Juve Stabia 🇮🇹 (21:00)
 https://dlhd.dad/watch.php?id=172
 
-#EXTINF:-1 tvg-id="2026cincinnatiopenatpwtasinglesfinalsatpdoublesfinal" tvg-name="Tennis 🎾 | 🎾 🇺🇸 2026 Cincinnati Open : ATP/WTA Singles Finals; ATP Doubles Final (20:00)" tvg-logo="https://elizabethcope.com/wp-content/uploads/2019/09/Elizabeth-Cope-Portrait.jpg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇺🇸 2026 Cincinnati Open : ATP/WTA Singles Finals; ATP Doubles Final (20:00)
+#EXTINF:-1 tvg-id="2026cincinnatiopenatpwtasinglesfinalsatpdoublesfinal" tvg-name="Tennis 🎾 | 🎾 🇺🇸 2026 Cincinnati Open : ATP/WTA Singles Finals; ATP Doubles Final (20:00)" tvg-logo="https://cdn.shopify.com/s/files/1/1038/1798/files/27._Cascading_Layers_with_Espresso_Balayage_Hairstyles_For_Long_Faces.png?v=1737932911" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇺🇸 2026 Cincinnati Open : ATP/WTA Singles Finals; ATP Doubles Final (20:00)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="2026cincinnatiopenatpwtasinglesfinalsatpdoublesfinal" tvg-name="Tennis 🎾 | 🎾 🇺🇸 2026 Cincinnati Open : ATP/WTA Singles Finals; ATP Doubles Final (20:00)" tvg-logo="https://www.solawoodflowers.com/cdn/shop/files/romance-bridesmaid-bouquet-934012-212969.jpg?v=1730789914" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇺🇸 2026 Cincinnati Open : ATP/WTA Singles Finals; ATP Doubles Final (20:00)
+#EXTINF:-1 tvg-id="2026cincinnatiopenatpwtasinglesfinalsatpdoublesfinal" tvg-name="Tennis 🎾 | 🎾 🇺🇸 2026 Cincinnati Open : ATP/WTA Singles Finals; ATP Doubles Final (20:00)" tvg-logo="https://torratorra.vteximg.com.br/arquivos/ids/2397966/52000269522.jpg?v=638779048375430000" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇺🇸 2026 Cincinnati Open : ATP/WTA Singles Finals; ATP Doubles Final (20:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="formula1heinekendutchgpgrandprixrace" tvg-name="Motorsport 🏎️🏁 | 🏎️ 🇳🇱 Formula 1 : Heineken Dutch GP — Grand Prix Race (15:00)" tvg-logo="https://c8.alamy.com/comp/3DA10F1/supporters-of-former-president-jair-bolsonaro-protest-against-his-arrest-in-so-paulo-on-december-07-2025-lawyers-for-brazils-ex-president-jair-bolsonaro-filed-a-new-appeal-on-november-28-requesting-the-annulment-of-his-coup-plotting-conviction-which-saw-him-sentenced-to-27-years-in-prison-photo-fagasipa-usa-3DA10F1.jpg" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ 🇳🇱 Formula 1 : Heineken Dutch GP — Grand Prix Race (15:00)
-https://dlhd.dad/watch.php?id=577
-
-#EXTINF:-1 tvg-id="worldchampionshipnetherlandsmx2race2" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇳🇱 World Championship Netherlands : MX2 — Race 2 (16:00)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3mrJzHFJ05MSfE-PqwTnfVboLQWUCmY-4T-zfO9ZKZPYc6dSh5pS-N-SJhf5zQ5P2xC3AKJ1w2oni8JOl1eU1udVCpybaRawKEfCzm7nntceEf6n5jGJgNpE06AavKa6YCQZMJwGDfIRosK8SMhvP0P7RhiknzbVbe8623wxtREWWK6_rvpNsGvaN/w454-h682/Cabi Fall 22 Collection.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇳🇱 World Championship Netherlands : MX2 — Race 2 (16:00)
+#EXTINF:-1 tvg-id="worldchampionshipnetherlandsmxgprace2" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇳🇱 World Championship Netherlands : MXGP — Race 2 (17:00)" tvg-logo="https://st3.depositphotos.com/7020582/33485/v/1600/depositphotos_334850674-stock-illustration-abstract-background-wave-shapes-green.jpg" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇳🇱 World Championship Netherlands : MXGP — Race 2 (17:00)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="worldchampionshipnetherlandsmxgprace2" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇳🇱 World Championship Netherlands : MXGP — Race 2 (17:00)" tvg-logo="https://images.tv9hindi.com/wp-content/uploads/2024/09/how-to-reach-salman-khan-foundation-being-human.jpg" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇳🇱 World Championship Netherlands : MXGP — Race 2 (17:00)
-https://dlhd.dad/watch.php?id=879
-
-#EXTINF:-1 tvg-id="iaafdiamondleaguesilesia" tvg-name="Athletics 🏃 | 🏃 🇵🇱 IAAF Diamond League : Silesia (17:10)" tvg-logo="https://w7.pngwing.com/pngs/1005/744/png-transparent-child-costume-running-clothing-racing-jogging-tshirt-sport-people.png" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 🇵🇱 IAAF Diamond League : Silesia (17:10)
+#EXTINF:-1 tvg-id="iaafdiamondleaguesilesia" tvg-name="Athletics 🏃 | 🏃 🇵🇱 IAAF Diamond League : Silesia (17:10)" tvg-logo="https://2.bp.blogspot.com/-PSV3qOvAfjM/Ujrsb-vkPVI/AAAAAAAACvI/33OaqWv2rKk/s1600/Ada+apa+denganmu.PNG" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 🇵🇱 IAAF Diamond League : Silesia (17:10)
 https://dlhd.dad/watch.php?id=882
-
-#EXTINF:-1 tvg-id="thetourofspain26stage2" tvg-name="Cycling 🚴 | 🚴 🇪🇸 The Tour of Spain '26 : Stage 2 (16:00)" tvg-logo="https://images.skoolgo.com/2023/01/Worksheet-How-Do-Bees-Make-Honey.png" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 🇪🇸 The Tour of Spain '26 : Stage 2 (16:00)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="europeanchampionshipswomenfrancevscroatia" tvg-name="European Championships 🏐 | 🏀 🇪🇺 European Championships Women : France 🇫🇷 vs Croatia 🇭🇷 (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/France 🇫🇷_vs_Croatia 🇭🇷.png" group-title="Eventi Live DLHD",European Championships 🏐 | 🏀 🇪🇺 European Championships Women : France 🇫🇷 vs Croatia 🇭🇷 (15:00)
-https://dlhd.dad/watch.php?id=462
 
 
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",YeÅil Yalova x Gaziantep FK 11:00
