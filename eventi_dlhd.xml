@@ -373,45 +373,6 @@
     <desc lang="it">🎾 🇺🇸 2026 Cincinnati Open : ATP/WTA Singles Finals; ATP Doubles Final</desc>
     <category lang="it">Tennis 🎾</category>
   </programme>
-  <channel id="WorldChampionshipNetherlandsMX2Race1">
-    <display-name>🏍️ 🇳🇱 World Championship Netherlands : MX2 — Race 1</display-name>
-  </channel>
-  <programme start="20260823000000 +0200" stop="20260823130000 +0200" channel="WorldChampionshipNetherlandsMX2Race1">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">🏍️ 🇳🇱 World Championship Netherlands : MX2 — Race 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260823130000 +0200" stop="20260823150000 +0200" channel="WorldChampionshipNetherlandsMX2Race1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏍️ 🇳🇱 World Championship Netherlands : MX2 — Race 1</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
-  <channel id="WorldChampionshipNetherlandsMXGPRace1">
-    <display-name>🏍️ 🇳🇱 World Championship Netherlands : MXGP — Race 1</display-name>
-  </channel>
-  <programme start="20260823000000 +0200" stop="20260823140000 +0200" channel="WorldChampionshipNetherlandsMXGPRace1">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">🏍️ 🇳🇱 World Championship Netherlands : MXGP — Race 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260823140000 +0200" stop="20260823160000 +0200" channel="WorldChampionshipNetherlandsMXGPRace1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏍️ 🇳🇱 World Championship Netherlands : MXGP — Race 1</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
-  <channel id="Formula1HeinekenDutchGPGrandPrixSunday">
-    <display-name>🏎️ 🇳🇱 Formula 1 : Heineken Dutch GP — Grand Prix Sunday</display-name>
-  </channel>
-  <programme start="20260823000000 +0200" stop="20260823140000 +0200" channel="Formula1HeinekenDutchGPGrandPrixSunday">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">🏎️ 🇳🇱 Formula 1 : Heineken Dutch GP — Grand Prix Sunday.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260823140000 +0200" stop="20260823160000 +0200" channel="Formula1HeinekenDutchGPGrandPrixSunday">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏎️ 🇳🇱 Formula 1 : Heineken Dutch GP — Grand Prix Sunday</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
   <channel id="Formula1HeinekenDutchGPGrandPrixRace">
     <display-name>🏎️ 🇳🇱 Formula 1 : Heineken Dutch GP — Grand Prix Race</display-name>
   </channel>
@@ -489,18 +450,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">🏀 🇪🇺 European Championships Women : France 🇫🇷 vs Croatia 🇭🇷</desc>
     <category lang="it">European Championships 🏐</category>
-  </programme>
-  <channel id="EuropeanAquaticsParis2026ArtisticSwimmingAcrobaticFinal">
-    <display-name>🏊 🇪🇺 European Aquatics Paris 2026 : Artistic Swimming Acrobatic Final</display-name>
-  </channel>
-  <programme start="20260823000000 +0200" stop="20260823133000 +0200" channel="EuropeanAquaticsParis2026ArtisticSwimmingAcrobaticFinal">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">🏊 🇪🇺 European Aquatics Paris 2026 : Artistic Swimming Acrobatic Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260823133000 +0200" stop="20260823153000 +0200" channel="EuropeanAquaticsParis2026ArtisticSwimmingAcrobaticFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏊 🇪🇺 European Aquatics Paris 2026 : Artistic Swimming Acrobatic Final</desc>
-    <category lang="it">Water Sports 🏊</category>
   </programme>
 </tv>
