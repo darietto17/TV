@@ -1,31 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieBPisavsCalcioPadova">
-    <display-name>⚽ 🇮🇹 Italy - Serie B : 🇮🇹 Pisa vs 🇮🇹 Calcio Padova</display-name>
-  </channel>
-  <programme start="20260823000000 +0200" stop="20260823190000 +0200" channel="ItalySerieBPisavsCalcioPadova">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">⚽ 🇮🇹 Italy - Serie B : 🇮🇹 Pisa vs 🇮🇹 Calcio Padova.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260823190000 +0200" stop="20260823210000 +0200" channel="ItalySerieBPisavsCalcioPadova">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🇮🇹 Italy - Serie B : 🇮🇹 Pisa vs 🇮🇹 Calcio Padova</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
-  <channel id="ItalySerieBVeronavsAscoli">
-    <display-name>⚽ 🇮🇹 Italy - Serie B : 🇮🇹 Verona vs 🇮🇹 Ascoli</display-name>
-  </channel>
-  <programme start="20260823000000 +0200" stop="20260823190000 +0200" channel="ItalySerieBVeronavsAscoli">
-    <title lang="it">Inizia alle 19:00.</title>
-    <desc lang="it">⚽ 🇮🇹 Italy - Serie B : 🇮🇹 Verona vs 🇮🇹 Ascoli.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260823190000 +0200" stop="20260823210000 +0200" channel="ItalySerieBVeronavsAscoli">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🇮🇹 Italy - Serie B : 🇮🇹 Verona vs 🇮🇹 Ascoli</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
   <channel id="ItalySerieAAtalantavsSassuolo">
     <display-name>⚽ 🇮🇹 Italy - Serie A : Atalanta 🇮🇹 vs Sassuolo 🇮🇹</display-name>
   </channel>
@@ -189,28 +163,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">⚽ 🇮🇹 Italy - Serie B : Palermo 🇮🇹 vs Juve Stabia 🇮🇹</desc>
     <category lang="it">All Soccer Events ⚽</category>
-  </programme>
-  <channel id="2026CincinnatiOpenATPWTASinglesFinalsATPDoublesFinal">
-    <display-name>🎾 🇺🇸 2026 Cincinnati Open : ATP/WTA Singles Finals; ATP Doubles Final</display-name>
-  </channel>
-  <programme start="20260823000000 +0200" stop="20260823200000 +0200" channel="2026CincinnatiOpenATPWTASinglesFinalsATPDoublesFinal">
-    <title lang="it">Inizia alle 20:00.</title>
-    <desc lang="it">🎾 🇺🇸 2026 Cincinnati Open : ATP/WTA Singles Finals; ATP Doubles Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260823200000 +0200" stop="20260823220000 +0200" channel="2026CincinnatiOpenATPWTASinglesFinalsATPDoublesFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎾 🇺🇸 2026 Cincinnati Open : ATP/WTA Singles Finals; ATP Doubles Final</desc>
-    <category lang="it">Tennis 🎾</category>
-  </programme>
-  <programme start="20260823000000 +0200" stop="20260823200000 +0200" channel="2026CincinnatiOpenATPWTASinglesFinalsATPDoublesFinal">
-    <title lang="it">Inizia alle 20:00.</title>
-    <desc lang="it">🎾 🇺🇸 2026 Cincinnati Open : ATP/WTA Singles Finals; ATP Doubles Final.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260823200000 +0200" stop="20260823220000 +0200" channel="2026CincinnatiOpenATPWTASinglesFinalsATPDoublesFinal">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎾 🇺🇸 2026 Cincinnati Open : ATP/WTA Singles Finals; ATP Doubles Final</desc>
-    <category lang="it">Tennis 🎾</category>
   </programme>
 </tv>
