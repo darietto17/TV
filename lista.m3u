@@ -110,8 +110,12 @@ https://vavoo.to/vavoo-iptv/play/466718273d17d85003ebc
 https://vavoo.to/vavoo-iptv/play/3914444703fd1a0c69d728
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",CANALE 2 ALTAMURA
 https://vavoo.to/vavoo-iptv/play/1251695137b2f1b46ebe5b
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",CANALE 21 CAMPANIA
+https://vavoo.to/vavoo-iptv/play/390600788675c13850cd70
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROcfjFIqjwxnG9AbEhJ6gwKb6IprmlFnF9aQ&s" group-title="Altro",CANALE 21 EXTRA
 https://vavoo.to/vavoo-iptv/play/24545581364a76ecd911e4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",CANALE 21 LAZIO
+https://vavoo.to/vavoo-iptv/play/36744884556a262b65d9c9
 #EXTINF:-1 tvg-id="canale.5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset",CANALE 5 (1)
 https://vavoo.to/vavoo-iptv/play/15341618078b08a3db572d
 #EXTINF:-1 tvg-id="canale.5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset",CANALE 5 (2)
@@ -184,8 +188,6 @@ https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319
 https://vavoo.to/vavoo-iptv/play/1955739367e1de6e90adc1
 #EXTINF:-1 tvg-id="discovery.channel.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL (2)
 https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentari",DISCOVERY DMAX
-https://vavoo.to/vavoo-iptv/play/3710269273f954671dec53
 #EXTINF:-1 tvg-id="focus.it" tvg-name="DISCOVERY FOCUS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Documentari",DISCOVERY FOCUS (MPD)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
 
@@ -280,7 +282,9 @@ https://vavoo.to/vavoo-iptv/play/1995860185ce22f3fae905
 https://vavoo.to/vavoo-iptv/play/2481284739a17519532b56
 #EXTINF:-1 tvg-id="gambero.rosso.hd.it" tvg-logo="" group-title="Altro",GAMBERO ROSSO HD
 https://vavoo.to/vavoo-iptv/play/2373121667465ba01bfdb8
-#EXTINF:-1 tvg-id="giallo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro",GIALLO
+#EXTINF:-1 tvg-id="giallo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro",GIALLO (1)
+https://vavoo.to/vavoo-iptv/play/237393618912929d56c67e
+#EXTINF:-1 tvg-id="giallo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro",GIALLO (2)
 https://vavoo.to/vavoo-iptv/play/40604994550f228d5b9b59
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",GIOVANNI PAOLO
 https://vavoo.to/vavoo-iptv/play/2470759321a8c43b171125
@@ -1114,54 +1118,6 @@ https://vavoo.to/vavoo-iptv/play/3069499316a3427a69a204
 https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb
 
 # MEDIASET
-
-#EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
-https://example.com.m3u8
-
-#EXTINF:-1 tvg-id="dflsupercupborussiadortmundvsbayernmünchen" tvg-name="All Soccer Events ⚽ | ⚽ 🇩🇪 DFL-Supercup : Borussia Dortmund 🇩🇪 vs Bayern München 🇩🇪 (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Borussia Dortmund 🇩🇪_vs_Bayern München 🇩🇪.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇩🇪 DFL-Supercup : Borussia Dortmund 🇩🇪 vs Bayern München 🇩🇪 (20:30)
-https://dlhd.dad/watch.php?id=460
-
-#EXTINF:-1 tvg-id="italyserieagenoavsnapoli" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie A : Genoa 🇮🇹 vs Napoli 🇮🇹 (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Genoa 🇮🇹_vs_Napoli 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie A : Genoa 🇮🇹 vs Napoli 🇮🇹 (20:45)
-https://dlhd.dad/watch.php?id=76
-
-#EXTINF:-1 tvg-id="italyserieagenoavsnapoli" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie A : Genoa 🇮🇹 vs Napoli 🇮🇹 (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Genoa 🇮🇹_vs_Napoli 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie A : Genoa 🇮🇹 vs Napoli 🇮🇹 (20:45)
-https://dlhd.dad/watch.php?id=870
-
-#EXTINF:-1 tvg-id="italyserieagenoavsnapoli" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie A : Genoa 🇮🇹 vs Napoli 🇮🇹 (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Genoa 🇮🇹_vs_Napoli 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie A : Genoa 🇮🇹 vs Napoli 🇮🇹 (20:45)
-https://dlhd.dad/watch.php?id=3047
-
-#EXTINF:-1 tvg-id="italyserieaparmavscagliari" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie A : Parma 🇮🇹 vs Cagliari 🇮🇹 (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Parma 🇮🇹_vs_Cagliari 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie A : Parma 🇮🇹 vs Cagliari 🇮🇹 (20:45)
-https://dlhd.dad/watch.php?id=173
-
-#EXTINF:-1 tvg-id="italyserieaparmavscagliari" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie A : Parma 🇮🇹 vs Cagliari 🇮🇹 (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Parma 🇮🇹_vs_Cagliari 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie A : Parma 🇮🇹 vs Cagliari 🇮🇹 (20:45)
-https://dlhd.dad/watch.php?id=3046
-
-#EXTINF:-1 tvg-id="italyseriebavellinovsarezzo" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie B : Avellino vs Arezzo (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Avellino_vs_Arezzo.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie B : Avellino vs Arezzo (21:00)
-https://dlhd.dad/watch.php?id=170
-
-#EXTINF:-1 tvg-id="italyseriebbeneventovsmodena" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie B : Benevento vs Modena (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Benevento_vs_Modena.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie B : Benevento vs Modena (21:00)
-https://dlhd.dad/watch.php?id=171
-
-#EXTINF:-1 tvg-id="italyseriebempolivscremonese" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie B : Empoli vs Cremonese (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Empoli_vs_Cremonese.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie B : Empoli vs Cremonese (21:00)
-https://dlhd.dad/watch.php?id=172
-
-#EXTINF:-1 tvg-id="italyseriecgianaerminiovsalbinoleffe" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Giana Erminio 🇮🇹 vs AlbinoLeffe 🇮🇹 (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Giana Erminio 🇮🇹_vs_AlbinoLeffe 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Giana Erminio 🇮🇹 vs AlbinoLeffe 🇮🇹 (21:00)
-https://dlhd.dad/watch.php?id=17
-
-#EXTINF:-1 tvg-id="italyseriecleccovsunionarzignanochiampo" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Lecco 🇮🇹 vs Union ArzignanoChiampo 🇮🇹 (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Lecco 🇮🇹_vs_Union ArzignanoChiampo 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Lecco 🇮🇹 vs Union ArzignanoChiampo 🇮🇹 (21:00)
-https://dlhd.dad/watch.php?id=2
-
-#EXTINF:-1 tvg-id="italyseriecpescaravsvispesaro" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Pescara 🇮🇹 vs Vis Pesaro 🇮🇹 (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pescara 🇮🇹_vs_Vis Pesaro 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Pescara 🇮🇹 vs Vis Pesaro 🇮🇹 (21:00)
-https://dlhd.dad/watch.php?id=4
-
-#EXTINF:-1 tvg-id="italyseriecpescaravsvispesaro" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Pescara 🇮🇹 vs Vis Pesaro 🇮🇹 (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Pescara 🇮🇹_vs_Vis Pesaro 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Pescara 🇮🇹 vs Vis Pesaro 🇮🇹 (21:00)
-https://dlhd.dad/watch.php?id=462
-
-#EXTINF:-1 tvg-id="italyserieccasertanavsbarletta" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Casertana 🇮🇹 vs Barletta 🇮🇹 (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Casertana 🇮🇹_vs_Barletta 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Casertana 🇮🇹 vs Barletta 🇮🇹 (21:00)
-https://dlhd.dad/watch.php?id=15
-
-#EXTINF:-1 tvg-id="italyseriecaudacecerignolavscosenza" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Audace Cerignola 🇮🇹 vs Cosenza 🇮🇹 (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Audace Cerignola 🇮🇹_vs_Cosenza 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Audace Cerignola 🇮🇹 vs Cosenza 🇮🇹 (21:00)
-https://dlhd.dad/watch.php?id=18
 
 
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",YeÅil Yalova x Gaziantep FK 11:00
