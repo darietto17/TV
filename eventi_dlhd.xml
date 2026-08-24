@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieCLivornovsSassariTorres">
-    <display-name>⚽ Italy - Serie C : 🇮🇹 Livorno vs Sassari Torres 🇮🇹</display-name>
-  </channel>
-  <programme start="20260824000000 +0200" stop="20260824203000 +0200" channel="ItalySerieCLivornovsSassariTorres">
-    <title lang="it">Inizia alle 20:30.</title>
-    <desc lang="it">⚽ Italy - Serie C : 🇮🇹 Livorno vs Sassari Torres 🇮🇹.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260824203000 +0200" stop="20260824223000 +0200" channel="ItalySerieCLivornovsSassariTorres">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ Italy - Serie C : 🇮🇹 Livorno vs Sassari Torres 🇮🇹</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
   <channel id="ItalySerieARomavsFiorentina">
     <display-name>⚽ Italy - Serie A : 🇮🇹 Roma vs Fiorentina 🇮🇹</display-name>
   </channel>
@@ -123,28 +110,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">⚽ England - Premier League : 🇬🇧 Fulham vs Chelsea 🇬🇧</desc>
     <category lang="it">All Soccer Events ⚽</category>
-  </programme>
-  <channel id="USOpenQualifying1stRoundWinstonSalemATPampMonterreyWTAEarlyRounds">
-    <display-name>🎾 US Open Qualifying 1st Round; Winston-Salem ATP &amp; Monterrey WTA Early Rounds</display-name>
-  </channel>
-  <programme start="20260824000000 +0200" stop="20260824200000 +0200" channel="USOpenQualifying1stRoundWinstonSalemATPampMonterreyWTAEarlyRounds">
-    <title lang="it">Inizia alle 20:00.</title>
-    <desc lang="it">🎾 US Open Qualifying 1st Round; Winston-Salem ATP &amp; Monterrey WTA Early Rounds.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260824200000 +0200" stop="20260824220000 +0200" channel="USOpenQualifying1stRoundWinstonSalemATPampMonterreyWTAEarlyRounds">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎾 US Open Qualifying 1st Round; Winston-Salem ATP &amp; Monterrey WTA Early Rounds</desc>
-    <category lang="it">Tennis 🎾</category>
-  </programme>
-  <programme start="20260824000000 +0200" stop="20260824200000 +0200" channel="USOpenQualifying1stRoundWinstonSalemATPampMonterreyWTAEarlyRounds">
-    <title lang="it">Inizia alle 20:00.</title>
-    <desc lang="it">🎾 US Open Qualifying 1st Round; Winston-Salem ATP &amp; Monterrey WTA Early Rounds.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260824200000 +0200" stop="20260824220000 +0200" channel="USOpenQualifying1stRoundWinstonSalemATPampMonterreyWTAEarlyRounds">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎾 US Open Qualifying 1st Round; Winston-Salem ATP &amp; Monterrey WTA Early Rounds</desc>
-    <category lang="it">Tennis 🎾</category>
   </programme>
 </tv>
