@@ -282,6 +282,8 @@ https://vavoo.to/vavoo-iptv/play/56316060941df205a0842
 https://vavoo.to/vavoo-iptv/play/1995860185ce22f3fae905
 #EXTINF:-1 tvg-id="gambero.rosso.hd.it" tvg-logo="" group-title="Altro",GAMBERO ROSSO
 https://vavoo.to/vavoo-iptv/play/2481284739a17519532b56
+#EXTINF:-1 tvg-id="gambero.rosso.hd.it" tvg-logo="" group-title="Altro",GAMBERO ROSSO HD
+https://vavoo.to/vavoo-iptv/play/2373121667465ba01bfdb8
 #EXTINF:-1 tvg-id="giallo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro",GIALLO (1)
 https://vavoo.to/vavoo-iptv/play/237393618912929d56c67e
 #EXTINF:-1 tvg-id="giallo.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/giallo-it.png" group-title="Altro",GIALLO (2)
@@ -399,8 +401,10 @@ https://vavoo.to/vavoo-iptv/play/448530931a02141cb37b2
 https://vavoo.to/vavoo-iptv/play/18507350448845a562cc9
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset",MEDIASET 20
 https://vavoo.to/vavoo-iptv/play/313448120145a6443975e1
-#EXTINF:-1 tvg-id="mediaset.extra.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/mediaset-extra-it.png" group-title="Mediaset",MEDIASET EXTRA
+#EXTINF:-1 tvg-id="mediaset.extra.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/mediaset-extra-it.png" group-title="Mediaset",MEDIASET EXTRA (1)
 https://vavoo.to/vavoo-iptv/play/4774665319f73c392df0e
+#EXTINF:-1 tvg-id="mediaset.extra.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/mediaset-extra-it.png" group-title="Mediaset",MEDIASET EXTRA (2)
+https://vavoo.to/vavoo-iptv/play/37521824789e4e758184cc
 #EXTINF:-1 tvg-id="mediaset.extra.it" tvg-name="MEDIASET EXTRA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/mediaset-extra-it.png" group-title="Mediaset",MEDIASET EXTRA (MPD)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 
@@ -843,6 +847,8 @@ https://vavoo.to/vavoo-iptv/play/20924747005dc677e8f02b
 https://vavoo.to/vavoo-iptv/play/9914848289a8372618ac5
 #EXTINF:-1 tvg-id="sky.serie.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film - Serie TV",SKY SERIE
 https://vavoo.to/vavoo-iptv/play/83668011205f936fa3b65
+
+# NEWS
 #EXTINF:-1 tvg-id="skysport.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-it.png" group-title="Sport",SKY SPORT
 https://vavoo.to/vavoo-iptv/play/92466165981ba6f81de20
 #EXTINF:-1 tvg-id="sky.sport.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24
@@ -912,16 +918,10 @@ https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
 https://vavoo.to/vavoo-iptv/play/33428493134b007f2ed197
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORTITALIA SOLOCALCIO
 https://vavoo.to/vavoo-iptv/play/21984103395cacdfaf1d34
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ST EUROPE CHANNEL
-https://vavoo.to/vavoo-iptv/play/2356295928676bcb269bb3
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",STAR CHANNEL
 https://vavoo.to/vavoo-iptv/play/323779351103799e6e03b2
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/star-comedy-pt.png?raw=true" group-title="Altro",STAR COMEDY
 https://vavoo.to/vavoo-iptv/play/151207238423ec1d54e5b8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Film - Serie TV",STAR CRIME
-https://vavoo.to/vavoo-iptv/play/28436429458ff4e2cc4ae6
-
-# NEWS
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/star-life-ar.png?raw=true" group-title="Altro",STAR LIFE
 https://vavoo.to/vavoo-iptv/play/3946128844a366ea9809f0
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.stereo5.it/2022/wp-content/uploads/2023/02/LOGO-NUOVO-2023-2.png" group-title="Altro",STEREO 5 TV (1)
@@ -1106,8 +1106,6 @@ https://vavoo.to/vavoo-iptv/play/20700707550e841728d807
 https://vavoo.to/vavoo-iptv/play/27917814213e17be842a1b
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.videostartv.eu/images/videostar.png" group-title="Altro",VIDEOSTAR TV
 https://vavoo.to/vavoo-iptv/play/24994885846c204e8b0b86
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kAZM1WRzE6qfQx90xPJ3v1Jz1gaJwn6BbrZcewu6eTcQ=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",VIDEOTOLENTINO
-https://vavoo.to/vavoo-iptv/play/201531251001a1e9936f4c
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",YU-GI-OH! ITALY
 https://vavoo.to/vavoo-iptv/play/28498110272b8770fe20cb
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ÈTV MARCHE
@@ -1156,25 +1154,25 @@ https://dlhd.dad/watch.php?id=17
 #EXTINF:-1 tvg-id="englandpremierleaguefulhamvschelsea" tvg-name="All Soccer Events ⚽ | ⚽ England - Premier League : 🇬🇧 Fulham vs Chelsea 🇬🇧 (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇬🇧 Fulham_vs_Chelsea 🇬🇧.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ England - Premier League : 🇬🇧 Fulham vs Chelsea 🇬🇧 (21:00)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="2026usopentennisqualifyingfirstround" tvg-name="Tennis 🎾 | 🎾 2026 US Open Tennis Qualifying, First Round (17:00)" tvg-logo="https://deepublishstore.com/wp-content/uploads/2024/01/elektromagnetik.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 2026 US Open Tennis Qualifying, First Round (17:00)
+#EXTINF:-1 tvg-id="2026usopentennisqualifyingfirstround" tvg-name="Tennis 🎾 | 🎾 2026 US Open Tennis Qualifying, First Round (17:00)" tvg-logo="https://i.pinimg.com/originals/00/28/a9/0028a96a1b7144d3c7a1fb0e517a549d.jpg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 2026 US Open Tennis Qualifying, First Round (17:00)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="2026usopentennisqualifyingfirstround" tvg-name="Tennis 🎾 | 🎾 2026 US Open Tennis Qualifying, First Round (17:00)" tvg-logo="http://earntodie.co/datacenter/imgs/rider-online.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 2026 US Open Tennis Qualifying, First Round (17:00)
+#EXTINF:-1 tvg-id="2026usopentennisqualifyingfirstround" tvg-name="Tennis 🎾 | 🎾 2026 US Open Tennis Qualifying, First Round (17:00)" tvg-logo="https://www.pngitem.com/pimgs/m/520-5209257_brawl-stars-colt-fanart-hd-png-download.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 2026 US Open Tennis Qualifying, First Round (17:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="usopenqualifying1stroundwinstonsalematpampmonterreywtaearlyrounds" tvg-name="Tennis 🎾 | 🎾 US Open Qualifying 1st Round; Winston-Salem ATP &amp; Monterrey WTA Early Rounds (20:00)" tvg-logo="https://i.pinimg.com/originals/94/83/5e/94835e1e3fa1e673be06c0c4c31196f4.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 US Open Qualifying 1st Round; Winston-Salem ATP &amp; Monterrey WTA Early Rounds (20:00)
+#EXTINF:-1 tvg-id="usopenqualifying1stroundwinstonsalematpampmonterreywtaearlyrounds" tvg-name="Tennis 🎾 | 🎾 US Open Qualifying 1st Round; Winston-Salem ATP &amp; Monterrey WTA Early Rounds (20:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 US Open Qualifying 1st Round; Winston-Salem ATP &amp; Monterrey WTA Early Rounds (20:00)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="usopenqualifying1stroundwinstonsalematpampmonterreywtaearlyrounds" tvg-name="Tennis 🎾 | 🎾 US Open Qualifying 1st Round; Winston-Salem ATP &amp; Monterrey WTA Early Rounds (20:00)" tvg-logo="https://lastorres.com/content/uploads/conservacioxxn-parque-nacional-torres-del-paine-1360x940-5.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 US Open Qualifying 1st Round; Winston-Salem ATP &amp; Monterrey WTA Early Rounds (20:00)
+#EXTINF:-1 tvg-id="usopenqualifying1stroundwinstonsalematpampmonterreywtaearlyrounds" tvg-name="Tennis 🎾 | 🎾 US Open Qualifying 1st Round; Winston-Salem ATP &amp; Monterrey WTA Early Rounds (20:00)" tvg-logo="https://greenthumbsguide.com/wp-content/uploads/2023/11/which-zucchini-flowers-are-male-2.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 US Open Qualifying 1st Round; Winston-Salem ATP &amp; Monterrey WTA Early Rounds (20:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="wuhanopenround2afternoonsession" tvg-name="Snooker 🎱 | 🎱 Wuhan Open : Round 2 Afternoon Session (08:00)" tvg-logo="https://tvovermind.com/wp-content/uploads/2023/07/India-Love-Westbrooks-1024x512.png" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 Wuhan Open : Round 2 Afternoon Session (08:00)
+#EXTINF:-1 tvg-id="wuhanopenround2afternoonsession" tvg-name="Snooker 🎱 | 🎱 Wuhan Open : Round 2 Afternoon Session (08:00)" tvg-logo="https://cdn-useast.purposegames.com/images/game/bg/403/KoFniCwXnON.png?s=1400" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 Wuhan Open : Round 2 Afternoon Session (08:00)
 https://dlhd.dad/watch.php?id=878
 
-#EXTINF:-1 tvg-id="wuhanopenround2eveningsession" tvg-name="Snooker 🎱 | 🎱 Wuhan Open : Round 2 Evening Session (13:30)" tvg-logo="https://jaxfstk.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/j/a/jax_1661.jpg" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 Wuhan Open : Round 2 Evening Session (13:30)
+#EXTINF:-1 tvg-id="wuhanopenround2eveningsession" tvg-name="Snooker 🎱 | 🎱 Wuhan Open : Round 2 Evening Session (13:30)" tvg-logo="https://static-ca-cdn.eporner.com/photos/191592.jpg" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 Wuhan Open : Round 2 Evening Session (13:30)
 https://dlhd.dad/watch.php?id=879
 
-#EXTINF:-1 tvg-id="lavueltaaespañastage3174kmgruissanfontromeu" tvg-name="Cycling 🚴 | 🚴 La Vuelta a España 'Stage 3 - 174 km Gruissan - Font-Romeu (15:30)" tvg-logo="https://i.pinimg.com/originals/54/6c/c4/546cc42ebdf604ceb8f7945ffd7d0abb.png" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 La Vuelta a España 'Stage 3 - 174 km Gruissan - Font-Romeu (15:30)
+#EXTINF:-1 tvg-id="lavueltaaespañastage3174kmgruissanfontromeu" tvg-name="Cycling 🚴 | 🚴 La Vuelta a España 'Stage 3 - 174 km Gruissan - Font-Romeu (15:30)" tvg-logo="https://images.herzindagi.info/her-zindagi-english/images/2025/07/24/template/image/Lord-Shiva-Tattoo-Design-With-Nandi-1753298601451.PNG" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 La Vuelta a España 'Stage 3 - 174 km Gruissan - Font-Romeu (15:30)
 https://dlhd.dad/watch.php?id=878
 
 #EXTINF:-1 tvg-id="europeanchampionshipswomenpolandwvslatviaw" tvg-name="Volleyball 🏐 | 🏐 European Championships Women : 🇵🇱 Poland W vs Latvia W 🇱🇻 (15:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/🇵🇱 Poland W_vs_Latvia W 🇱🇻.png" group-title="Eventi Live DLHD",Volleyball 🏐 | 🏐 European Championships Women : 🇵🇱 Poland W vs Latvia W 🇱🇻 (15:00)
