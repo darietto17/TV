@@ -1,3 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="VikingvsDinamoZagreb">
+    <display-name>⚽ 🇳🇴 Viking vs 🇭🇷 Dinamo Zagreb</display-name>
+  </channel>
+  <programme start="20260826000000 +0200" stop="20260826210000 +0200" channel="VikingvsDinamoZagreb">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">⚽ 🇳🇴 Viking vs 🇭🇷 Dinamo Zagreb.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260826210000 +0200" stop="20260826230000 +0200" channel="VikingvsDinamoZagreb">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇳🇴 Viking vs 🇭🇷 Dinamo Zagreb</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="AEKAthensvsLevskiSofia">
+    <display-name>⚽ 🇬🇷 AEK Athens vs 🇧🇬 Levski Sofia</display-name>
+  </channel>
+  <programme start="20260826000000 +0200" stop="20260826210000 +0200" channel="AEKAthensvsLevskiSofia">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">⚽ 🇬🇷 AEK Athens vs 🇧🇬 Levski Sofia.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260826210000 +0200" stop="20260826230000 +0200" channel="AEKAthensvsLevskiSofia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇬🇷 AEK Athens vs 🇧🇬 Levski Sofia</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="USOpenQualifying2ndRoundWinstonSalemATPampMonterreyWTAEarlyRounds">
+    <display-name>🎾 🇺🇸 US Open Qualifying 2nd Round; Winston-Salem-ATP &amp; Monterrey-WTA Early Rounds 🇺🇸</display-name>
+  </channel>
+  <programme start="20260826000000 +0200" stop="20260826190000 +0200" channel="USOpenQualifying2ndRoundWinstonSalemATPampMonterreyWTAEarlyRounds">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">🎾 🇺🇸 US Open Qualifying 2nd Round; Winston-Salem-ATP &amp; Monterrey-WTA Early Rounds 🇺🇸.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260826190000 +0200" stop="20260826210000 +0200" channel="USOpenQualifying2ndRoundWinstonSalemATPampMonterreyWTAEarlyRounds">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 🇺🇸 US Open Qualifying 2nd Round; Winston-Salem-ATP &amp; Monterrey-WTA Early Rounds 🇺🇸</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <programme start="20260826000000 +0200" stop="20260826190000 +0200" channel="USOpenQualifying2ndRoundWinstonSalemATPampMonterreyWTAEarlyRounds">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">🎾 🇺🇸 US Open Qualifying 2nd Round; Winston-Salem-ATP &amp; Monterrey-WTA Early Rounds 🇺🇸.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260826190000 +0200" stop="20260826210000 +0200" channel="USOpenQualifying2ndRoundWinstonSalemATPampMonterreyWTAEarlyRounds">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 🇺🇸 US Open Qualifying 2nd Round; Winston-Salem-ATP &amp; Monterrey-WTA Early Rounds 🇺🇸</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <channel id="WuhanOpenRound4AfternoonSession">
+    <display-name>🎱 🇨🇳 Wuhan Open | Round 4 Afternoon Session 🇨🇳</display-name>
+  </channel>
+  <programme start="20260826000000 +0200" stop="20260826080000 +0200" channel="WuhanOpenRound4AfternoonSession">
+    <title lang="it">Inizia alle 08:00.</title>
+    <desc lang="it">🎱 🇨🇳 Wuhan Open | Round 4 Afternoon Session 🇨🇳.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260826080000 +0200" stop="20260826100000 +0200" channel="WuhanOpenRound4AfternoonSession">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎱 🇨🇳 Wuhan Open | Round 4 Afternoon Session 🇨🇳</desc>
+    <category lang="it">Snooker 🎱</category>
+  </programme>
+  <programme start="20260826100000 +0200" stop="20260826133000 +0200" channel="WuhanOpenRound4AfternoonSession">
+    <title lang="it">Inizia alle 13:30.</title>
+    <desc lang="it">🎱 🇨🇳 Wuhan Open | Round 4 Afternoon Session 🇨🇳.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260826133000 +0200" stop="20260826153000 +0200" channel="WuhanOpenRound4AfternoonSession">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎱 🇨🇳 Wuhan Open | Round 4 Afternoon Session 🇨🇳</desc>
+    <category lang="it">Snooker 🎱</category>
+  </programme>
+  <channel id="CyclingVueltaaEspaaStage5FalsetCostaDauradatoRoquetesTerresdelEbre">
+    <display-name>🚴 🇪🇸 Cycling : Vuelta a España Stage 5 – Falset, Costa Daurada to Roquetes, Terres de l'Ebre</display-name>
+  </channel>
+  <programme start="20260826000000 +0200" stop="20260826144500 +0200" channel="CyclingVueltaaEspaaStage5FalsetCostaDauradatoRoquetesTerresdelEbre">
+    <title lang="it">Inizia alle 14:45.</title>
+    <desc lang="it">🚴 🇪🇸 Cycling : Vuelta a España Stage 5 – Falset, Costa Daurada to Roquetes, Terres de l'Ebre.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260826144500 +0200" stop="20260826164500 +0200" channel="CyclingVueltaaEspaaStage5FalsetCostaDauradatoRoquetesTerresdelEbre">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 🇪🇸 Cycling : Vuelta a España Stage 5 – Falset, Costa Daurada to Roquetes, Terres de l'Ebre</desc>
+    <category lang="it">Cycling 🚴</category>
+  </programme>
+  <channel id="EuropeanChampionshipsWomenFranceWvsItalyW">
+    <display-name>⚽ 🇫🇷 European Championships Women : France W 🇫🇷 vs Italy W 🇮🇹</display-name>
+  </channel>
+  <programme start="20260826000000 +0200" stop="20260826160000 +0200" channel="EuropeanChampionshipsWomenFranceWvsItalyW">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">⚽ 🇫🇷 European Championships Women : France W 🇫🇷 vs Italy W 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260826160000 +0200" stop="20260826180000 +0200" channel="EuropeanChampionshipsWomenFranceWvsItalyW">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇫🇷 European Championships Women : France W 🇫🇷 vs Italy W 🇮🇹</desc>
+    <category lang="it">Volleyball 🏐</category>
+  </programme>
+  <programme start="20260826000000 +0200" stop="20260826160000 +0200" channel="EuropeanChampionshipsWomenFranceWvsItalyW">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">⚽ 🇫🇷 European Championships Women : France W 🇫🇷 vs Italy W 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260826160000 +0200" stop="20260826180000 +0200" channel="EuropeanChampionshipsWomenFranceWvsItalyW">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇫🇷 European Championships Women : France W 🇫🇷 vs Italy W 🇮🇹</desc>
+    <category lang="it">Volleyball 🏐</category>
+  </programme>
+  <channel id="EuropeanChampionshipsWomenGermanyWvsTurkeyW">
+    <display-name>⚽ 🇩🇪 European Championships Women : Germany W 🇩🇪 vs Turkey W 🇹🇷</display-name>
+  </channel>
+  <programme start="20260826000000 +0200" stop="20260826180000 +0200" channel="EuropeanChampionshipsWomenGermanyWvsTurkeyW">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">⚽ 🇩🇪 European Championships Women : Germany W 🇩🇪 vs Turkey W 🇹🇷.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260826180000 +0200" stop="20260826200000 +0200" channel="EuropeanChampionshipsWomenGermanyWvsTurkeyW">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇩🇪 European Championships Women : Germany W 🇩🇪 vs Turkey W 🇹🇷</desc>
+    <category lang="it">Volleyball 🏐</category>
+  </programme>
+  <programme start="20260826000000 +0200" stop="20260826180000 +0200" channel="EuropeanChampionshipsWomenGermanyWvsTurkeyW">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">⚽ 🇩🇪 European Championships Women : Germany W 🇩🇪 vs Turkey W 🇹🇷.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260826180000 +0200" stop="20260826200000 +0200" channel="EuropeanChampionshipsWomenGermanyWvsTurkeyW">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇩🇪 European Championships Women : Germany W 🇩🇪 vs Turkey W 🇹🇷</desc>
+    <category lang="it">Volleyball 🏐</category>
+  </programme>
 </tv>
