@@ -131,6 +131,10 @@ https://vavoo.to/vavoo-iptv/play/31075009959a8de9232b11
 https://vavoo.to/vavoo-iptv/play/888430169ea2f335c3171
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",CANALE TELECHIARA
 https://vavoo.to/vavoo-iptv/play/3065008757a139b0fed8ff
+#EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK (1)
+https://vavoo.to/vavoo-iptv/play/1744435623b422a758373c
+#EXTINF:-1 tvg-id="cartoon.network.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK (2)
+https://vavoo.to/vavoo-iptv/play/1289777017c50e3cf3fd74
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (1)
 https://vavoo.to/vavoo-iptv/play/19872204364fe52737bf18
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (2)
@@ -180,8 +184,6 @@ https://vavoo.to/vavoo-iptv/play/3802167244650eb7a51319
 https://vavoo.to/vavoo-iptv/play/1955739367e1de6e90adc1
 #EXTINF:-1 tvg-id="discovery.channel.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/discovery-channel-it.png" group-title="Documentari",DISCOVERY CHANNEL (2)
 https://vavoo.to/vavoo-iptv/play/355484191439d5194fc358
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentari",DISCOVERY DMAX
-https://vavoo.to/vavoo-iptv/play/3710269273f954671dec53
 #EXTINF:-1 tvg-id="focus.it" tvg-name="DISCOVERY FOCUS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/focus-it.png" group-title="Documentari",DISCOVERY FOCUS (MPD)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
 
@@ -482,6 +484,8 @@ https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/qvc-de.png?raw=true" group-title="Altro",QVC ITALIA
 https://vavoo.to/vavoo-iptv/play/12325656817eefaf17ef24
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica",RADIO 101
+https://vavoo.to/vavoo-iptv/play/37244398612811f0050926
 #EXTINF:-1 tvg-id="radio.105.it" tvg-logo="" group-title="Musica",RADIO 105
 https://vavoo.to/vavoo-iptv/play/679401461e3249bea621c
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica",RADIO 24
@@ -658,8 +662,6 @@ https://vavoo.to/vavoo-iptv/play/157497519660249c278f94
 https://vavoo.to/vavoo-iptv/play/2251241999722578d55332
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Reggio_TV_logo.png/640px-Reggio_TV_logo.png" group-title="Altro",REGGIO TV
 https://vavoo.to/vavoo-iptv/play/216554978929adb39fe170
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rei-tv-it.png?raw=true" group-title="Altro",REI TV
-https://vavoo.to/vavoo-iptv/play/3075118500c67364486aa6
 #EXTINF:-1 tvg-id="rete.4.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rete4-it.png" group-title="Mediaset",RETE 4 (1)
 https://vavoo.to/vavoo-iptv/play/4198218214cee07ebbc292
 #EXTINF:-1 tvg-id="rete.4.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rete4-it.png" group-title="Mediaset",RETE 4 (2)
@@ -877,8 +879,6 @@ https://vavoo.to/vavoo-iptv/play/78546677680f40b76841
 https://vavoo.to/vavoo-iptv/play/210669162201ec2365574
 #EXTINF:-1 tvg-id="sky.sport.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO (2)
 https://vavoo.to/vavoo-iptv/play/3192996672d2c923be0346
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sport",SKY SPORTS 24
-https://vavoo.to/vavoo-iptv/play/34936071312c994246f2bd
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORTS F1
 https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Sport_Golf_Logo_2022.svg/2560px-Sky_Sport_Golf_Logo_2022.svg.png" group-title="Sport",SKY SPORTS GOLF
@@ -900,8 +900,6 @@ https://vavoo.to/vavoo-iptv/play/32202484989ac14421915
 https://vavoo.to/vavoo-iptv/play/287379323134c651595371
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport",SPORT ITALIA
 https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
-https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.capitaladv.eu/wp-content/uploads/2020/07/LOGO-SPORTITALIA-PLUS-HD_2-1.png" group-title="Sport",SPORTITALIA PLUS
 https://vavoo.to/vavoo-iptv/play/33428493134b007f2ed197
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="Sport",SPORTITALIA SOLOCALCIO
@@ -1102,10 +1100,10 @@ https://vavoo.to/vavoo-iptv/play/27917814213e17be842a1b
 https://vavoo.to/vavoo-iptv/play/1249978054d9101729f51f
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.videostartv.eu/images/videostar.png" group-title="Altro",VIDEOSTAR TV
 https://vavoo.to/vavoo-iptv/play/24994885846c204e8b0b86
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kAZM1WRzE6qfQx90xPJ3v1Jz1gaJwn6BbrZcewu6eTcQ=s900-c-k-c0x00ffffff-no-rj" group-title="Altro",VIDEOTOLENTINO
+https://vavoo.to/vavoo-iptv/play/201531251001a1e9936f4c
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",YU-GI-OH! ITALY
 https://vavoo.to/vavoo-iptv/play/28498110272b8770fe20cb
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ÈTV MARCHE
-https://vavoo.to/vavoo-iptv/play/3069499316a3427a69a204
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Altro",ÈTV RETE 7
 https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb
 
@@ -1126,38 +1124,14 @@ https://dlhd.dad/watch.php?id=461
 #EXTINF:-1 tvg-id="europeuefaconferenceleaguehapoeltelavivvsatalanta" tvg-name="UEFA Conference League ⚽ | ⚽ 🇮🇱 Europe - UEFA Conference League : Hapoel Tel Aviv 🇮🇱 vs Atalanta 🇮🇹 (20:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Hapoel Tel Aviv 🇮🇱_vs_Atalanta 🇮🇹.png" group-title="Eventi Live DLHD",UEFA Conference League ⚽ | ⚽ 🇮🇱 Europe - UEFA Conference League : Hapoel Tel Aviv 🇮🇱 vs Atalanta 🇮🇹 (20:00)
 https://dlhd.dad/watch.php?id=3046
 
-#EXTINF:-1 tvg-id="usopenqualifying3rdroundwinstonsalematpampmonterreywtaquarterfinals" tvg-name="Tennis 🎾 | 🎾 US Open Qualifying 3rd Round; Winston-Salem-ATP &amp; Monterrey-WTA Quarterfinals (19:00)" tvg-logo="https://i.pinimg.com/originals/a1/6d/49/a16d4934ce9825ddab03b9a4c9582055.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 US Open Qualifying 3rd Round; Winston-Salem-ATP &amp; Monterrey-WTA Quarterfinals (19:00)
+#EXTINF:-1 tvg-id="usopenqualifying3rdroundwinstonsalematpampmonterreywtaquarterfinals" tvg-name="Tennis 🎾 | 🎾 US Open Qualifying 3rd Round; Winston-Salem-ATP &amp; Monterrey-WTA Quarterfinals (19:00)" tvg-logo="https://2.bp.blogspot.com/-PSV3qOvAfjM/Ujrsb-vkPVI/AAAAAAAACvI/33OaqWv2rKk/s1600/Ada+apa+denganmu.PNG" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 US Open Qualifying 3rd Round; Winston-Salem-ATP &amp; Monterrey-WTA Quarterfinals (19:00)
 https://dlhd.dad/watch.php?id=461
 
-#EXTINF:-1 tvg-id="usopenqualifying3rdroundwinstonsalematpampmonterreywtaquarterfinals" tvg-name="Tennis 🎾 | 🎾 US Open Qualifying 3rd Round; Winston-Salem-ATP &amp; Monterrey-WTA Quarterfinals (19:00)" tvg-logo="https://thumbs.worthpoint.com/zoom/images1/1/0611/25/nib-thomas-friends-wooden-railway_1_c456f6bccd2b3f1fe225df69a63d6c81.jpg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 US Open Qualifying 3rd Round; Winston-Salem-ATP &amp; Monterrey-WTA Quarterfinals (19:00)
+#EXTINF:-1 tvg-id="usopenqualifying3rdroundwinstonsalematpampmonterreywtaquarterfinals" tvg-name="Tennis 🎾 | 🎾 US Open Qualifying 3rd Round; Winston-Salem-ATP &amp; Monterrey-WTA Quarterfinals (19:00)" tvg-logo="https://123cartes.com/images/joyeux-anniversaire/bonne-fete/bonne-fete-homme.jpg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 US Open Qualifying 3rd Round; Winston-Salem-ATP &amp; Monterrey-WTA Quarterfinals (19:00)
 https://dlhd.dad/watch.php?id=576
 
-#EXTINF:-1 tvg-id="wuhanopenquarterfinal" tvg-name="Snooker 🎱 | 🎱 Wuhan Open | Quarter-Final (08:00)" tvg-logo="https://www.nist.gov/sites/default/files/images/2024/09/11/EMSpec-final.png" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 Wuhan Open | Quarter-Final (08:00)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="wuhanopenquarterfinal" tvg-name="Snooker 🎱 | 🎱 Wuhan Open | Quarter-Final (13:30)" tvg-logo="https://present5.com/presentation/36838861_135288912/image-57.jpg" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 Wuhan Open | Quarter-Final (13:30)
-https://dlhd.dad/watch.php?id=879
-
-#EXTINF:-1 tvg-id="iaafdiamondleaguezurich" tvg-name="Athletics 🏃 | 🏃 IAAF Diamond League - Zurich (20:00)" tvg-logo="https://static1.thetravelimages.com/wordpress/wp-content/uploads/2025/01/shutterstock_2488900953.jpg" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 IAAF Diamond League - Zurich (20:00)
+#EXTINF:-1 tvg-id="iaafdiamondleaguezurich" tvg-name="Athletics 🏃 | 🏃 IAAF Diamond League - Zurich (20:00)" tvg-logo="https://c8.alamy.com/comp/MFMACX/balanced-rock-at-the-garden-of-the-gods-in-colorado-springs-colorado-usa-MFMACX.jpg" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 IAAF Diamond League - Zurich (20:00)
 https://dlhd.dad/watch.php?id=882
-
-#EXTINF:-1 tvg-id="returntospainstage6177alcossebrecastellon" tvg-name="Cycling 🚴 | 🚴 Return to Spain Stage 6 - 177 Alcossebre - Castellon (14:45)" tvg-logo="https://wallpaperaccess.com/full/1192224.jpg" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 Return to Spain Stage 6 - 177 Alcossebre - Castellon (14:45)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="ucimountainbikeworldchampionshipswchampselitexccwomen" tvg-name="Cycling 🚴 | 🚵 UCI Mountain Bike World Championships : WChamps Elite XCC Women (17:35)" tvg-logo="https://blog.prembly.com/wp-content/uploads/2024/10/Regulatory-Landscape-of-the-E-commerce-Sector-In-Kenya-and-Ghana-Prembly-1024x673.png" group-title="Eventi Live DLHD",Cycling 🚴 | 🚵 UCI Mountain Bike World Championships : WChamps Elite XCC Women (17:35)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="europeanchampionshipswomennetherlandswvsbelgiumw" tvg-name="Volleyball 🏐 | 🏐 🇳🇱 European Championships Women : Netherlands W 🇳🇱 vs Belgium W 🇧🇪 (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Netherlands W 🇳🇱_vs_Belgium W 🇧🇪.png" group-title="Eventi Live DLHD",Volleyball 🏐 | 🏐 🇳🇱 European Championships Women : Netherlands W 🇳🇱 vs Belgium W 🇧🇪 (13:30)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="europeanchampionshipswomennetherlandswvsbelgiumw" tvg-name="Volleyball 🏐 | 🏐 🇳🇱 European Championships Women : Netherlands W 🇳🇱 vs Belgium W 🇧🇪 (13:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Netherlands W 🇳🇱_vs_Belgium W 🇧🇪.png" group-title="Eventi Live DLHD",Volleyball 🏐 | 🏐 🇳🇱 European Championships Women : Netherlands W 🇳🇱 vs Belgium W 🇧🇪 (13:30)
-https://dlhd.dad/watch.php?id=462
-
-#EXTINF:-1 tvg-id="europeanchampionshipswomenukrainewvsserbiaw" tvg-name="Volleyball 🏐 | 🏐 🇺🇦 European Championships Women : Ukraine W 🇺🇦 vs Serbia W 🇷🇸 (16:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ukraine W 🇺🇦_vs_Serbia W 🇷🇸.png" group-title="Eventi Live DLHD",Volleyball 🏐 | 🏐 🇺🇦 European Championships Women : Ukraine W 🇺🇦 vs Serbia W 🇷🇸 (16:00)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="europeanchampionshipswomenukrainewvsserbiaw" tvg-name="Volleyball 🏐 | 🏐 🇺🇦 European Championships Women : Ukraine W 🇺🇦 vs Serbia W 🇷🇸 (16:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Ukraine W 🇺🇦_vs_Serbia W 🇷🇸.png" group-title="Eventi Live DLHD",Volleyball 🏐 | 🏐 🇺🇦 European Championships Women : Ukraine W 🇺🇦 vs Serbia W 🇷🇸 (16:00)
-https://dlhd.dad/watch.php?id=462
 
 
 #EXTINF:-1 group-title="Eventi Live SPORTSONLINE",YeÅil Yalova x Gaziantep FK 11:00
