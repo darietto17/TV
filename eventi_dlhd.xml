@@ -1,3 +1,313 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ItalySerieBCremonesevsModena">
+    <display-name>⚽ 🇮🇹 Italy - Serie B : Cremonese 🇮🇹 vs Modena 🇮🇹</display-name>
+  </channel>
+  <programme start="20260828000000 +0200" stop="20260828203000 +0200" channel="ItalySerieBCremonesevsModena">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie B : Cremonese 🇮🇹 vs Modena 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260828203000 +0200" stop="20260828223000 +0200" channel="ItalySerieBCremonesevsModena">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie B : Cremonese 🇮🇹 vs Modena 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalySerieAMilanvsVenezia">
+    <display-name>⚽ 🇮🇹 Italy - Serie A : Milan 🇮🇹 vs Venezia 🇮🇹</display-name>
+  </channel>
+  <programme start="20260828000000 +0200" stop="20260828204500 +0200" channel="ItalySerieAMilanvsVenezia">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Milan 🇮🇹 vs Venezia 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260828204500 +0200" stop="20260828224500 +0200" channel="ItalySerieAMilanvsVenezia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Milan 🇮🇹 vs Venezia 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20260828000000 +0200" stop="20260828204500 +0200" channel="ItalySerieAMilanvsVenezia">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Milan 🇮🇹 vs Venezia 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260828204500 +0200" stop="20260828224500 +0200" channel="ItalySerieAMilanvsVenezia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Milan 🇮🇹 vs Venezia 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalySerieCPianesevsVado">
+    <display-name>⚽ 🇮🇹 Italy - Serie C : Pianese 🇮🇹 vs Vado 🇮🇹</display-name>
+  </channel>
+  <programme start="20260828000000 +0200" stop="20260828210000 +0200" channel="ItalySerieCPianesevsVado">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Pianese 🇮🇹 vs Vado 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260828210000 +0200" stop="20260828230000 +0200" channel="ItalySerieCPianesevsVado">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Pianese 🇮🇹 vs Vado 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalySerieCBarlettavsBari1908">
+    <display-name>⚽ 🇮🇹 Italy - Serie C : Barletta 🇮🇹 vs Bari 1908 🇮🇹</display-name>
+  </channel>
+  <programme start="20260828000000 +0200" stop="20260828210000 +0200" channel="ItalySerieCBarlettavsBari1908">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Barletta 🇮🇹 vs Bari 1908 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260828210000 +0200" stop="20260828230000 +0200" channel="ItalySerieCBarlettavsBari1908">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Barletta 🇮🇹 vs Bari 1908 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20260828000000 +0200" stop="20260828210000 +0200" channel="ItalySerieCBarlettavsBari1908">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Barletta 🇮🇹 vs Bari 1908 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260828210000 +0200" stop="20260828230000 +0200" channel="ItalySerieCBarlettavsBari1908">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Barletta 🇮🇹 vs Bari 1908 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalySerieCVirtusCasaranovsGiugliano">
+    <display-name>⚽ 🇮🇹 Italy - Serie C : Virtus Casarano 🇮🇹 vs Giugliano 🇮🇹</display-name>
+  </channel>
+  <programme start="20260828000000 +0200" stop="20260828210000 +0200" channel="ItalySerieCVirtusCasaranovsGiugliano">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Virtus Casarano 🇮🇹 vs Giugliano 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260828210000 +0200" stop="20260828230000 +0200" channel="ItalySerieCVirtusCasaranovsGiugliano">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Virtus Casarano 🇮🇹 vs Giugliano 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalySerieCCavesevsAudaceCerignola">
+    <display-name>⚽ 🇮🇹 Italy - Serie C : Cavese 🇮🇹 vs Audace Cerignola 🇮🇹</display-name>
+  </channel>
+  <programme start="20260828000000 +0200" stop="20260828210000 +0200" channel="ItalySerieCCavesevsAudaceCerignola">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Cavese 🇮🇹 vs Audace Cerignola 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260828210000 +0200" stop="20260828230000 +0200" channel="ItalySerieCCavesevsAudaceCerignola">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Cavese 🇮🇹 vs Audace Cerignola 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalySerieCScafatesevsPicerno">
+    <display-name>⚽ 🇮🇹 Italy - Serie C : Scafatese 🇮🇹 vs Picerno 🇮🇹</display-name>
+  </channel>
+  <programme start="20260828000000 +0200" stop="20260828210000 +0200" channel="ItalySerieCScafatesevsPicerno">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Scafatese 🇮🇹 vs Picerno 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260828210000 +0200" stop="20260828230000 +0200" channel="ItalySerieCScafatesevsPicerno">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Scafatese 🇮🇹 vs Picerno 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="EnglandPremierLeagueCrystalPalacevsManchesterCity">
+    <display-name>⚽ 🏴 England - Premier League : Crystal Palace 🏴 vs Manchester City 🏴</display-name>
+  </channel>
+  <programme start="20260828000000 +0200" stop="20260828210000 +0200" channel="EnglandPremierLeagueCrystalPalacevsManchesterCity">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">⚽ 🏴 England - Premier League : Crystal Palace 🏴 vs Manchester City 🏴.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260828210000 +0200" stop="20260828230000 +0200" channel="EnglandPremierLeagueCrystalPalacevsManchesterCity">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🏴 England - Premier League : Crystal Palace 🏴 vs Manchester City 🏴</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="USOpenQualifying3rdRoundWinstonSalemATPampMonterreyWTAQuarterfinals">
+    <display-name>🎾 🇺🇸 US Open : Qualifying 3rd Round; Winston-Salem ATP &amp; Monterrey WTA Quarterfinals</display-name>
+  </channel>
+  <programme start="20260828000000 +0200" stop="20260828170000 +0200" channel="USOpenQualifying3rdRoundWinstonSalemATPampMonterreyWTAQuarterfinals">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">🎾 🇺🇸 US Open : Qualifying 3rd Round; Winston-Salem ATP &amp; Monterrey WTA Quarterfinals.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260828170000 +0200" stop="20260828190000 +0200" channel="USOpenQualifying3rdRoundWinstonSalemATPampMonterreyWTAQuarterfinals">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 🇺🇸 US Open : Qualifying 3rd Round; Winston-Salem ATP &amp; Monterrey WTA Quarterfinals</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <programme start="20260828000000 +0200" stop="20260828170000 +0200" channel="USOpenQualifying3rdRoundWinstonSalemATPampMonterreyWTAQuarterfinals">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">🎾 🇺🇸 US Open : Qualifying 3rd Round; Winston-Salem ATP &amp; Monterrey WTA Quarterfinals.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260828170000 +0200" stop="20260828190000 +0200" channel="USOpenQualifying3rdRoundWinstonSalemATPampMonterreyWTAQuarterfinals">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 🇺🇸 US Open : Qualifying 3rd Round; Winston-Salem ATP &amp; Monterrey WTA Quarterfinals</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <channel id="Moto2AragnFreePractice1">
+    <display-name>🏍️ 🇪🇸 Moto2 : Aragón Free Practice 1</display-name>
+  </channel>
+  <programme start="20260828000000 +0200" stop="20260828084500 +0200" channel="Moto2AragnFreePractice1">
+    <title lang="it">Inizia alle 08:45.</title>
+    <desc lang="it">🏍️ 🇪🇸 Moto2 : Aragón Free Practice 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260828084500 +0200" stop="20260828104500 +0200" channel="Moto2AragnFreePractice1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏍️ 🇪🇸 Moto2 : Aragón Free Practice 1</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="Moto3AragnFreePractice1">
+    <display-name>🏍️ 🇪🇸 Moto3 : Aragón Free Practice 1</display-name>
+  </channel>
+  <programme start="20260828000000 +0200" stop="20260828090000 +0200" channel="Moto3AragnFreePractice1">
+    <title lang="it">Inizia alle 09:00.</title>
+    <desc lang="it">🏍️ 🇪🇸 Moto3 : Aragón Free Practice 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260828090000 +0200" stop="20260828110000 +0200" channel="Moto3AragnFreePractice1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏍️ 🇪🇸 Moto3 : Aragón Free Practice 1</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="MotoGPAragnFreePractice1">
+    <display-name>🏍️ 🇪🇸 MotoGP : Aragón Free Practice 1</display-name>
+  </channel>
+  <programme start="20260828000000 +0200" stop="20260828090000 +0200" channel="MotoGPAragnFreePractice1">
+    <title lang="it">Inizia alle 09:00.</title>
+    <desc lang="it">🏍️ 🇪🇸 MotoGP : Aragón Free Practice 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260828090000 +0200" stop="20260828110000 +0200" channel="MotoGPAragnFreePractice1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏍️ 🇪🇸 MotoGP : Aragón Free Practice 1</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="Moto3AragnPractice1">
+    <display-name>🏍️ 🇪🇸 Moto3 : Aragón Practice 1</display-name>
+  </channel>
+  <programme start="20260828000000 +0200" stop="20260828131000 +0200" channel="Moto3AragnPractice1">
+    <title lang="it">Inizia alle 13:10.</title>
+    <desc lang="it">🏍️ 🇪🇸 Moto3 : Aragón Practice 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260828131000 +0200" stop="20260828151000 +0200" channel="Moto3AragnPractice1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏍️ 🇪🇸 Moto3 : Aragón Practice 1</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="MotoGPAragnPractice1">
+    <display-name>🏍️ 🇪🇸 MotoGP : Aragón Practice 1</display-name>
+  </channel>
+  <programme start="20260828000000 +0200" stop="20260828131500 +0200" channel="MotoGPAragnPractice1">
+    <title lang="it">Inizia alle 13:15.</title>
+    <desc lang="it">🏍️ 🇪🇸 MotoGP : Aragón Practice 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260828131500 +0200" stop="20260828151500 +0200" channel="MotoGPAragnPractice1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏍️ 🇪🇸 MotoGP : Aragón Practice 1</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="Moto2AragnPractice1">
+    <display-name>🏍️ 🇪🇸 Moto2 : Aragón Practice 1</display-name>
+  </channel>
+  <programme start="20260828000000 +0200" stop="20260828140000 +0200" channel="Moto2AragnPractice1">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">🏍️ 🇪🇸 Moto2 : Aragón Practice 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260828140000 +0200" stop="20260828160000 +0200" channel="Moto2AragnPractice1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏍️ 🇪🇸 Moto2 : Aragón Practice 1</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="WuhanOpenSemiFinalAfternoonSession">
+    <display-name>🎱 🇨🇳 Wuhan Open : Semi-Final - Afternoon Session</display-name>
+  </channel>
+  <programme start="20260828000000 +0200" stop="20260828080000 +0200" channel="WuhanOpenSemiFinalAfternoonSession">
+    <title lang="it">Inizia alle 08:00.</title>
+    <desc lang="it">🎱 🇨🇳 Wuhan Open : Semi-Final - Afternoon Session.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260828080000 +0200" stop="20260828100000 +0200" channel="WuhanOpenSemiFinalAfternoonSession">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎱 🇨🇳 Wuhan Open : Semi-Final - Afternoon Session</desc>
+    <category lang="it">Snooker 🎱</category>
+  </programme>
+  <channel id="WuhanOpenSemiFinalEveningSession">
+    <display-name>🎱 🇨🇳 Wuhan Open : Semi-Final - Evening Session</display-name>
+  </channel>
+  <programme start="20260828000000 +0200" stop="20260828133000 +0200" channel="WuhanOpenSemiFinalEveningSession">
+    <title lang="it">Inizia alle 13:30.</title>
+    <desc lang="it">🎱 🇨🇳 Wuhan Open : Semi-Final - Evening Session.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260828133000 +0200" stop="20260828153000 +0200" channel="WuhanOpenSemiFinalEveningSession">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎱 🇨🇳 Wuhan Open : Semi-Final - Evening Session</desc>
+    <category lang="it">Snooker 🎱</category>
+  </programme>
+  <channel id="VueltaaEspaaStage7149kmValldAlbaAramnValdelinares">
+    <display-name>🚴 🇪🇸 Vuelta a España : Stage 7 - 149 km Vall d'Alba - Aramón Valdelinares</display-name>
+  </channel>
+  <programme start="20260828000000 +0200" stop="20260828133000 +0200" channel="VueltaaEspaaStage7149kmValldAlbaAramnValdelinares">
+    <title lang="it">Inizia alle 13:30.</title>
+    <desc lang="it">🚴 🇪🇸 Vuelta a España : Stage 7 - 149 km Vall d'Alba - Aramón Valdelinares.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260828133000 +0200" stop="20260828153000 +0200" channel="VueltaaEspaaStage7149kmValldAlbaAramnValdelinares">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 🇪🇸 Vuelta a España : Stage 7 - 149 km Vall d'Alba - Aramón Valdelinares</desc>
+    <category lang="it">Cycling 🚴</category>
+  </programme>
+  <channel id="EuropeanChampionshipsWomenTurkeyWvsPolandW">
+    <display-name>🏐 🇹🇷 European Championships Women : Turkey W 🇹🇷 vs Poland W 🇵🇱</display-name>
+  </channel>
+  <programme start="20260828000000 +0200" stop="20260828180000 +0200" channel="EuropeanChampionshipsWomenTurkeyWvsPolandW">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">🏐 🇹🇷 European Championships Women : Turkey W 🇹🇷 vs Poland W 🇵🇱.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260828180000 +0200" stop="20260828200000 +0200" channel="EuropeanChampionshipsWomenTurkeyWvsPolandW">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏐 🇹🇷 European Championships Women : Turkey W 🇹🇷 vs Poland W 🇵🇱</desc>
+    <category lang="it">Volleyball 🏐</category>
+  </programme>
+  <programme start="20260828000000 +0200" stop="20260828180000 +0200" channel="EuropeanChampionshipsWomenTurkeyWvsPolandW">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">🏐 🇹🇷 European Championships Women : Turkey W 🇹🇷 vs Poland W 🇵🇱.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260828180000 +0200" stop="20260828200000 +0200" channel="EuropeanChampionshipsWomenTurkeyWvsPolandW">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏐 🇹🇷 European Championships Women : Turkey W 🇹🇷 vs Poland W 🇵🇱</desc>
+    <category lang="it">Volleyball 🏐</category>
+  </programme>
+  <channel id="MediterraneanGamesItalyvsFrance">
+    <display-name>🏐 🇮🇹 Mediterranean Games : Italy 🇮🇹 vs France 🇫🇷</display-name>
+  </channel>
+  <programme start="20260828000000 +0200" stop="20260828190000 +0200" channel="MediterraneanGamesItalyvsFrance">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">🏐 🇮🇹 Mediterranean Games : Italy 🇮🇹 vs France 🇫🇷.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260828190000 +0200" stop="20260828210000 +0200" channel="MediterraneanGamesItalyvsFrance">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏐 🇮🇹 Mediterranean Games : Italy 🇮🇹 vs France 🇫🇷</desc>
+    <category lang="it">Volleyball 🏐</category>
+  </programme>
+  <programme start="20260828000000 +0200" stop="20260828190000 +0200" channel="MediterraneanGamesItalyvsFrance">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">🏐 🇮🇹 Mediterranean Games : Italy 🇮🇹 vs France 🇫🇷.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260828190000 +0200" stop="20260828210000 +0200" channel="MediterraneanGamesItalyvsFrance">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏐 🇮🇹 Mediterranean Games : Italy 🇮🇹 vs France 🇫🇷</desc>
+    <category lang="it">Volleyball 🏐</category>
+  </programme>
 </tv>
