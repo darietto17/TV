@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriebcremonesevsmodena" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie B : Cremonese 🇮🇹 vs Modena 🇮🇹 (20:30)" tvg-logo="https://timcurry.com/cdn/shop/files/TC-8x10-x15_a526cfd3-8690-427e-afaf-68bd9c7c620a_620x.png?v=1739130357" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie B : Cremonese 🇮🇹 vs Modena 🇮🇹 (20:30)
+#EXTINF:-1 tvg-id="italyseriebcremonesevsmodena" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie B : Cremonese 🇮🇹 vs Modena 🇮🇹 (20:30)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Cremonese 🇮🇹_vs_Modena 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie B : Cremonese 🇮🇹 vs Modena 🇮🇹 (20:30)
 https://dlhd.dad/watch.php?id=76
 
 #EXTINF:-1 tvg-id="italyserieamilanvsvenezia" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie A : Milan 🇮🇹 vs Venezia 🇮🇹 (20:45)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Milan 🇮🇹_vs_Venezia 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie A : Milan 🇮🇹 vs Venezia 🇮🇹 (20:45)
@@ -32,48 +32,9 @@ https://dlhd.dad/watch.php?id=157
 #EXTINF:-1 tvg-id="englandpremierleaguecrystalpalacevsmanchestercity" tvg-name="All Soccer Events ⚽ | ⚽ 🏴 England - Premier League : Crystal Palace 🏴 vs Manchester City 🏴 (21:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Crystal Palace 🏴_vs_Manchester City 🏴.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🏴 England - Premier League : Crystal Palace 🏴 vs Manchester City 🏴 (21:00)
 https://dlhd.dad/watch.php?id=870
 
-#EXTINF:-1 tvg-id="usopenqualifying3rdroundwinstonsalematpampmonterreywtaquarterfinals" tvg-name="Tennis 🎾 | 🎾 🇺🇸 US Open : Qualifying 3rd Round; Winston-Salem ATP &amp; Monterrey WTA Quarterfinals (17:00)" tvg-logo="https://worksheets.clipart-library.com/images2/math-decimal-chart/math-decimal-chart-17.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇺🇸 US Open : Qualifying 3rd Round; Winston-Salem ATP &amp; Monterrey WTA Quarterfinals (17:00)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="usopenqualifying3rdroundwinstonsalematpampmonterreywtaquarterfinals" tvg-name="Tennis 🎾 | 🎾 🇺🇸 US Open : Qualifying 3rd Round; Winston-Salem ATP &amp; Monterrey WTA Quarterfinals (17:00)" tvg-logo="https://i.pinimg.com/originals/ae/f0/81/aef081996f7d1d593ce41cff58ba1e3a.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇺🇸 US Open : Qualifying 3rd Round; Winston-Salem ATP &amp; Monterrey WTA Quarterfinals (17:00)
-https://dlhd.dad/watch.php?id=576
-
-#EXTINF:-1 tvg-id="moto2aragónfreepractice1" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇪🇸 Moto2 : Aragón Free Practice 1 (08:45)" tvg-logo="https://iv1.lisimg.com/image/28894693/740full-samara-weaving.jpg" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇪🇸 Moto2 : Aragón Free Practice 1 (08:45)
-https://dlhd.dad/watch.php?id=575
-
-#EXTINF:-1 tvg-id="moto3aragónfreepractice1" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇪🇸 Moto3 : Aragón Free Practice 1 (09:00)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e5ce41bb-49c3-424f-8bd2-3172b2ec8b94/dggoqse-08a529d9-0b54-4c2d-b9cf-500184a07651.png/v1/fill/w_650,h_535,q_80,strp/nick_jr__s_retro_2000s_shows_by_yalleon_dggoqse-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTM1IiwicGF0aCI6IlwvZlwvZTVjZTQxYmItNDljMy00MjRmLThiZDItMzE3MmIyZWM4Yjk0XC9kZ2dvcXNlLTA4YTUyOWQ5LTBiNTQtNGMyZC1iOWNmLTUwMDE4NGEwNzY1MS5wbmciLCJ3aWR0aCI6Ijw9NjUwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.kzpmXHzaEgeZNUg1ZsNHBaHVoTWMehvRA192J841OZE" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇪🇸 Moto3 : Aragón Free Practice 1 (09:00)
-https://dlhd.dad/watch.php?id=575
-
-#EXTINF:-1 tvg-id="motogparagónfreepractice1" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇪🇸 MotoGP : Aragón Free Practice 1 (09:00)" tvg-logo="https://image.api.playstation.com/vulcan/ap/rnd/202409/3006/e1d2ff382a6515bd9982c53274714abad22ded6b24c64166.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇪🇸 MotoGP : Aragón Free Practice 1 (09:00)
-https://dlhd.dad/watch.php?id=575
-
-#EXTINF:-1 tvg-id="moto3aragónpractice1" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇪🇸 Moto3 : Aragón Practice 1 (13:10)" tvg-logo="https://2.bp.blogspot.com/-PSV3qOvAfjM/Ujrsb-vkPVI/AAAAAAAACvI/33OaqWv2rKk/s1600/Ada+apa+denganmu.PNG" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇪🇸 Moto3 : Aragón Practice 1 (13:10)
-https://dlhd.dad/watch.php?id=575
-
-#EXTINF:-1 tvg-id="motogparagónpractice1" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇪🇸 MotoGP : Aragón Practice 1 (13:15)" tvg-logo="https://media.monolithicpower.com/wysiwyg/Educational/Diagram_Recreation_-_AC_Power_Chapter_11_Fig5-_960_x_660.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇪🇸 MotoGP : Aragón Practice 1 (13:15)
-https://dlhd.dad/watch.php?id=575
-
-#EXTINF:-1 tvg-id="moto2aragónpractice1" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇪🇸 Moto2 : Aragón Practice 1 (14:00)" tvg-logo="https://www.ginx.tv/imgcdn/hzemuSnWy7TIaRfUcmCPbJnAJTotvqUrVDB9HTHdhHU/rs:fill:0:0:1/g:ce/aHR0cHM6Ly93d3cuZ2lueC50di91cGxvYWRzMi8wLl9Ub21teS9DeWJlcl9QdW5rXzIwNzcvSm95dG95cyUyMExvY2F0aW9uL0pveXRveXMlMjAzLnBuZw" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇪🇸 Moto2 : Aragón Practice 1 (14:00)
-https://dlhd.dad/watch.php?id=575
-
-#EXTINF:-1 tvg-id="wuhanopensemifinalafternoonsession" tvg-name="Snooker 🎱 | 🎱 🇨🇳 Wuhan Open : Semi-Final - Afternoon Session (08:00)" tvg-logo="https://static.wikitide.net/greatcharacterswiki/9/93/Zooble_TADC.png" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 🇨🇳 Wuhan Open : Semi-Final - Afternoon Session (08:00)
-https://dlhd.dad/watch.php?id=878
-
-#EXTINF:-1 tvg-id="wuhanopensemifinaleveningsession" tvg-name="Snooker 🎱 | 🎱 🇨🇳 Wuhan Open : Semi-Final - Evening Session (13:30)" tvg-logo="https://i.pinimg.com/originals/8d/7e/84/8d7e84a6f9b8c6927b4ca8d765564963.png" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 🇨🇳 Wuhan Open : Semi-Final - Evening Session (13:30)
-https://dlhd.dad/watch.php?id=879
-
-#EXTINF:-1 tvg-id="vueltaaespañastage7149kmvalldalbaaramónvaldelinares" tvg-name="Cycling 🚴 | 🚴 🇪🇸 Vuelta a España : Stage 7 - 149 km Vall d'Alba - Aramón Valdelinares (13:30)" tvg-logo="https://cdn.creatures.com/f5f/98f/919/ae57d.jpeg" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 🇪🇸 Vuelta a España : Stage 7 - 149 km Vall d'Alba - Aramón Valdelinares (13:30)
-https://dlhd.dad/watch.php?id=878
-
 #EXTINF:-1 tvg-id="mediterraneangamesitalyvsfrance" tvg-name="Volleyball 🏐 | 🏐 🇮🇹 Mediterranean Games : Italy 🇮🇹 vs France 🇫🇷 (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy 🇮🇹_vs_France 🇫🇷.png" group-title="Eventi Live DLHD",Volleyball 🏐 | 🏐 🇮🇹 Mediterranean Games : Italy 🇮🇹 vs France 🇫🇷 (19:00)
 https://dlhd.dad/watch.php?id=882
 
 #EXTINF:-1 tvg-id="mediterraneangamesitalyvsfrance" tvg-name="Volleyball 🏐 | 🏐 🇮🇹 Mediterranean Games : Italy 🇮🇹 vs France 🇫🇷 (19:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Italy 🇮🇹_vs_France 🇫🇷.png" group-title="Eventi Live DLHD",Volleyball 🏐 | 🏐 🇮🇹 Mediterranean Games : Italy 🇮🇹 vs France 🇫🇷 (19:00)
-https://dlhd.dad/watch.php?id=462
-
-#EXTINF:-1 tvg-id="europeanchampionshipswomenturkeywvspolandw" tvg-name="Volleyball 🏐 | 🏐 🇹🇷 European Championships Women : Turkey W 🇹🇷 vs Poland W 🇵🇱 (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Turkey W 🇹🇷_vs_Poland W 🇵🇱.png" group-title="Eventi Live DLHD",Volleyball 🏐 | 🏐 🇹🇷 European Championships Women : Turkey W 🇹🇷 vs Poland W 🇵🇱 (18:00)
-https://dlhd.dad/watch.php?id=461
-
-#EXTINF:-1 tvg-id="europeanchampionshipswomenturkeywvspolandw" tvg-name="Volleyball 🏐 | 🏐 🇹🇷 European Championships Women : Turkey W 🇹🇷 vs Poland W 🇵🇱 (18:00)" tvg-logo="https://raw.githubusercontent.com/nzo66/TV/main/logos/Turkey W 🇹🇷_vs_Poland W 🇵🇱.png" group-title="Eventi Live DLHD",Volleyball 🏐 | 🏐 🇹🇷 European Championships Women : Turkey W 🇹🇷 vs Poland W 🇵🇱 (18:00)
 https://dlhd.dad/watch.php?id=462
 
