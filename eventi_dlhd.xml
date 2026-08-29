@@ -153,6 +153,16 @@
     <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Fiorentina 🇮🇹 vs Frosinone 🇮🇹</desc>
     <category lang="it">All Soccer Events ⚽</category>
   </programme>
+  <programme start="20260829000000 +0200" stop="20260829183000 +0200" channel="ItalySerieAFiorentinavsFrosinone">
+    <title lang="it">Inizia alle 18:30.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Fiorentina 🇮🇹 vs Frosinone 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260829183000 +0200" stop="20260829203000 +0200" channel="ItalySerieAFiorentinavsFrosinone">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Fiorentina 🇮🇹 vs Frosinone 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
   <channel id="ItalySerieAMonzavsUdinese">
     <display-name>⚽ 🇮🇹 Italy - Serie A : Monza 🇮🇹 vs Udinese 🇮🇹</display-name>
   </channel>
@@ -166,9 +176,29 @@
     <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Monza 🇮🇹 vs Udinese 🇮🇹</desc>
     <category lang="it">All Soccer Events ⚽</category>
   </programme>
+  <programme start="20260829000000 +0200" stop="20260829183000 +0200" channel="ItalySerieAMonzavsUdinese">
+    <title lang="it">Inizia alle 18:30.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Monza 🇮🇹 vs Udinese 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260829183000 +0200" stop="20260829203000 +0200" channel="ItalySerieAMonzavsUdinese">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Monza 🇮🇹 vs Udinese 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
   <channel id="ItalySerieASassuolovsTorino">
     <display-name>⚽ 🇮🇹 Italy - Serie A : Sassuolo 🇮🇹 vs Torino 🇮🇹</display-name>
   </channel>
+  <programme start="20260829000000 +0200" stop="20260829183000 +0200" channel="ItalySerieASassuolovsTorino">
+    <title lang="it">Inizia alle 18:30.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Sassuolo 🇮🇹 vs Torino 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260829183000 +0200" stop="20260829203000 +0200" channel="ItalySerieASassuolovsTorino">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Sassuolo 🇮🇹 vs Torino 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
   <programme start="20260829000000 +0200" stop="20260829183000 +0200" channel="ItalySerieASassuolovsTorino">
     <title lang="it">Inizia alle 18:30.</title>
     <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Sassuolo 🇮🇹 vs Torino 🇮🇹.</desc>
@@ -208,6 +238,16 @@
   <channel id="ItalySerieAJuventusvsParma">
     <display-name>⚽ 🇮🇹 Italy - Serie A : Juventus 🇮🇹 vs Parma 🇮🇹</display-name>
   </channel>
+  <programme start="20260829000000 +0200" stop="20260829204500 +0200" channel="ItalySerieAJuventusvsParma">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Juventus 🇮🇹 vs Parma 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260829204500 +0200" stop="20260829224500 +0200" channel="ItalySerieAJuventusvsParma">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Juventus 🇮🇹 vs Parma 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
   <programme start="20260829000000 +0200" stop="20260829204500 +0200" channel="ItalySerieAJuventusvsParma">
     <title lang="it">Inizia alle 20:45.</title>
     <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Juventus 🇮🇹 vs Parma 🇮🇹.</desc>
@@ -368,45 +408,6 @@
     <desc lang="it">🎾 US Open Grand Slam Tennis : Men's &amp; Women's Singles 1st Round</desc>
     <category lang="it">Tennis 🎾</category>
   </programme>
-  <channel id="Moto3AragonFreePractice2">
-    <display-name>🏍️ 🇪🇸 Moto3 : Aragon Free Practice 2 🇪🇸</display-name>
-  </channel>
-  <programme start="20260829000000 +0200" stop="20260829083000 +0200" channel="Moto3AragonFreePractice2">
-    <title lang="it">Inizia alle 08:30.</title>
-    <desc lang="it">🏍️ 🇪🇸 Moto3 : Aragon Free Practice 2 🇪🇸.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260829083000 +0200" stop="20260829103000 +0200" channel="Moto3AragonFreePractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏍️ 🇪🇸 Moto3 : Aragon Free Practice 2 🇪🇸</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
-  <channel id="Moto2AragonFreePractice2">
-    <display-name>🏍️ 🇪🇸 Moto2 : Aragon Free Practice 2 🇪🇸</display-name>
-  </channel>
-  <programme start="20260829000000 +0200" stop="20260829092000 +0200" channel="Moto2AragonFreePractice2">
-    <title lang="it">Inizia alle 09:20.</title>
-    <desc lang="it">🏍️ 🇪🇸 Moto2 : Aragon Free Practice 2 🇪🇸.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260829092000 +0200" stop="20260829112000 +0200" channel="Moto2AragonFreePractice2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏍️ 🇪🇸 Moto2 : Aragon Free Practice 2 🇪🇸</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
-  <channel id="MotoGPAragonFreePractice2andQualifying">
-    <display-name>🏍️ 🇪🇸 MotoGP : Aragon Free Practice 2 and Qualifying 🇪🇸</display-name>
-  </channel>
-  <programme start="20260829000000 +0200" stop="20260829100000 +0200" channel="MotoGPAragonFreePractice2andQualifying">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">🏍️ 🇪🇸 MotoGP : Aragon Free Practice 2 and Qualifying 🇪🇸.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260829100000 +0200" stop="20260829120000 +0200" channel="MotoGPAragonFreePractice2andQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏍️ 🇪🇸 MotoGP : Aragon Free Practice 2 and Qualifying 🇪🇸</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
   <channel id="Moto3AragonQualifying">
     <display-name>🏍️ 🇪🇸 Moto3 : Aragon Qualifying 🇪🇸</display-name>
   </channel>
@@ -445,19 +446,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">🏍️ 🇪🇸 MotoGP : Aragon Sprint Race 🇪🇸</desc>
     <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
-  <channel id="WuhanOpenFinalAfternoonSession">
-    <display-name>🎱 🇨🇳 Wuhan Open : Final | Afternoon Session 🇨🇳</display-name>
-  </channel>
-  <programme start="20260829000000 +0200" stop="20260829080000 +0200" channel="WuhanOpenFinalAfternoonSession">
-    <title lang="it">Inizia alle 08:00.</title>
-    <desc lang="it">🎱 🇨🇳 Wuhan Open : Final | Afternoon Session 🇨🇳.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260829080000 +0200" stop="20260829100000 +0200" channel="WuhanOpenFinalAfternoonSession">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎱 🇨🇳 Wuhan Open : Final | Afternoon Session 🇨🇳</desc>
-    <category lang="it">Snooker 🎱</category>
   </programme>
   <channel id="WuhanOpenFinalEveningSession">
     <display-name>🎱 🇨🇳 Wuhan Open : Final | Evening Session 🇨🇳</display-name>
