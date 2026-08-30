@@ -127,6 +127,16 @@
     <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Napoli vs Como</desc>
     <category lang="it">All Soccer Events ⚽</category>
   </programme>
+  <programme start="20260830000000 +0200" stop="20260830183000 +0200" channel="ItalySerieANapolivsComo">
+    <title lang="it">Inizia alle 18:30.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Napoli vs Como.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260830183000 +0200" stop="20260830203000 +0200" channel="ItalySerieANapolivsComo">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Napoli vs Como</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
   <channel id="ItalySerieBArezzovsPalermo">
     <display-name>⚽ 🇮🇹 Italy - Serie B : Arezzo vs Palermo</display-name>
   </channel>
@@ -176,9 +186,29 @@
     <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Cagliari 🇮🇹 vs Internazionale 🇮🇹</desc>
     <category lang="it">All Soccer Events ⚽</category>
   </programme>
+  <programme start="20260830000000 +0200" stop="20260830204500 +0200" channel="ItalySerieACagliarivsInternazionale">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Cagliari 🇮🇹 vs Internazionale 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260830204500 +0200" stop="20260830224500 +0200" channel="ItalySerieACagliarivsInternazionale">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Cagliari 🇮🇹 vs Internazionale 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
   <channel id="ItalySerieALaziovsGenoa">
     <display-name>⚽ 🇮🇹 Italy - Serie A : Lazio 🇮🇹 vs Genoa 🇮🇹</display-name>
   </channel>
+  <programme start="20260830000000 +0200" stop="20260830204500 +0200" channel="ItalySerieALaziovsGenoa">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Lazio 🇮🇹 vs Genoa 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260830204500 +0200" stop="20260830224500 +0200" channel="ItalySerieALaziovsGenoa">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Lazio 🇮🇹 vs Genoa 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
   <programme start="20260830000000 +0200" stop="20260830204500 +0200" channel="ItalySerieALaziovsGenoa">
     <title lang="it">Inizia alle 20:45.</title>
     <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Lazio 🇮🇹 vs Genoa 🇮🇹.</desc>
@@ -309,32 +339,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">🎾 🇺🇸 US Open Grand Slam Tennis : Men's &amp; Women's Singles 1st Round - Queens, New York City</desc>
     <category lang="it">Tennis 🎾</category>
-  </programme>
-  <channel id="MotoGPAragonWarmUp">
-    <display-name>🏍️ 🇪🇸 MotoGP : Aragon Warm Up</display-name>
-  </channel>
-  <programme start="20260830000000 +0200" stop="20260830093000 +0200" channel="MotoGPAragonWarmUp">
-    <title lang="it">Inizia alle 09:30.</title>
-    <desc lang="it">🏍️ 🇪🇸 MotoGP : Aragon Warm Up.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260830093000 +0200" stop="20260830113000 +0200" channel="MotoGPAragonWarmUp">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏍️ 🇪🇸 MotoGP : Aragon Warm Up</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
-  <channel id="Moto3AragonRace">
-    <display-name>🏍️ 🇪🇸 Moto3 : Aragon Race</display-name>
-  </channel>
-  <programme start="20260830000000 +0200" stop="20260830100000 +0200" channel="Moto3AragonRace">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">🏍️ 🇪🇸 Moto3 : Aragon Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260830100000 +0200" stop="20260830120000 +0200" channel="Moto3AragonRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏍️ 🇪🇸 Moto3 : Aragon Race</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
   </programme>
   <channel id="Moto2AragonRace">
     <display-name>🏍️ 🇪🇸 Moto2 : Aragon Race</display-name>
