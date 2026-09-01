@@ -1,3 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ItalyCoppaItaliaParmavsCremonese">
+    <display-name>⚽ 🇮🇹 Italy - Coppa Italia : Parma 🇮🇹 vs Cremonese 🇮🇹</display-name>
+  </channel>
+  <programme start="20260901000000 +0200" stop="20260901180000 +0200" channel="ItalyCoppaItaliaParmavsCremonese">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Parma 🇮🇹 vs Cremonese 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260901180000 +0200" stop="20260901200000 +0200" channel="ItalyCoppaItaliaParmavsCremonese">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Parma 🇮🇹 vs Cremonese 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalyCoppaItaliaTorinovsMonza">
+    <display-name>⚽ 🇮🇹 Italy - Coppa Italia : Torino 🇮🇹 vs Monza 🇮🇹</display-name>
+  </channel>
+  <programme start="20260901000000 +0200" stop="20260901210000 +0200" channel="ItalyCoppaItaliaTorinovsMonza">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Torino 🇮🇹 vs Monza 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260901210000 +0200" stop="20260901230000 +0200" channel="ItalyCoppaItaliaTorinovsMonza">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Torino 🇮🇹 vs Monza 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="USOpenGrandSlamTennisMensampWomensSingles1stRound">
+    <display-name>🎾🏆 US Open Grand Slam Tennis : Men's &amp; Women's Singles 1st Round</display-name>
+  </channel>
+  <programme start="20260901000000 +0200" stop="20260901170000 +0200" channel="USOpenGrandSlamTennisMensampWomensSingles1stRound">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">🎾🏆 US Open Grand Slam Tennis : Men's &amp; Women's Singles 1st Round.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260901170000 +0200" stop="20260901190000 +0200" channel="USOpenGrandSlamTennisMensampWomensSingles1stRound">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾🏆 US Open Grand Slam Tennis : Men's &amp; Women's Singles 1st Round</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <programme start="20260901000000 +0200" stop="20260901170000 +0200" channel="USOpenGrandSlamTennisMensampWomensSingles1stRound">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">🎾🏆 US Open Grand Slam Tennis : Men's &amp; Women's Singles 1st Round.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260901170000 +0200" stop="20260901190000 +0200" channel="USOpenGrandSlamTennisMensampWomensSingles1stRound">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾🏆 US Open Grand Slam Tennis : Men's &amp; Women's Singles 1st Round</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <programme start="20260901000000 +0200" stop="20260901170000 +0200" channel="USOpenGrandSlamTennisMensampWomensSingles1stRound">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">🎾🏆 US Open Grand Slam Tennis : Men's &amp; Women's Singles 1st Round.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260901170000 +0200" stop="20260901190000 +0200" channel="USOpenGrandSlamTennisMensampWomensSingles1stRound">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾🏆 US Open Grand Slam Tennis : Men's &amp; Women's Singles 1st Round</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <programme start="20260901000000 +0200" stop="20260901170000 +0200" channel="USOpenGrandSlamTennisMensampWomensSingles1stRound">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">🎾🏆 US Open Grand Slam Tennis : Men's &amp; Women's Singles 1st Round.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260901170000 +0200" stop="20260901190000 +0200" channel="USOpenGrandSlamTennisMensampWomensSingles1stRound">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾🏆 US Open Grand Slam Tennis : Men's &amp; Women's Singles 1st Round</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <channel id="BritishOpenRound1">
+    <display-name>🎱 British Open | Round 1</display-name>
+  </channel>
+  <programme start="20260901000000 +0200" stop="20260901140000 +0200" channel="BritishOpenRound1">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">🎱 British Open | Round 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260901140000 +0200" stop="20260901160000 +0200" channel="BritishOpenRound1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎱 British Open | Round 1</desc>
+    <category lang="it">Snooker 🎱</category>
+  </programme>
+  <programme start="20260901160000 +0200" stop="20260901190000 +0200" channel="BritishOpenRound1">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">🎱 British Open | Round 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260901190000 +0200" stop="20260901210000 +0200" channel="BritishOpenRound1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎱 British Open | Round 1</desc>
+    <category lang="it">Snooker 🎱</category>
+  </programme>
+  <channel id="VueltaaEspaaStage10184AlcarazElchedelaSierra">
+    <display-name>🚴 🇪🇸 Vuelta a España Stage 10 : 184 Alcaraz - Elche de la Sierra 🇪🇸</display-name>
+  </channel>
+  <programme start="20260901000000 +0200" stop="20260901150000 +0200" channel="VueltaaEspaaStage10184AlcarazElchedelaSierra">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">🚴 🇪🇸 Vuelta a España Stage 10 : 184 Alcaraz - Elche de la Sierra 🇪🇸.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260901150000 +0200" stop="20260901170000 +0200" channel="VueltaaEspaaStage10184AlcarazElchedelaSierra">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 🇪🇸 Vuelta a España Stage 10 : 184 Alcaraz - Elche de la Sierra 🇪🇸</desc>
+    <category lang="it">Cycling 🚴</category>
+  </programme>
 </tv>
