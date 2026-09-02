@@ -1,3 +1,147 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ItalyCoppaItaliaSassuolovsFrosinone">
+    <display-name>⚽ 🇮🇹 Italy - Coppa Italia : Sassuolo 🇮🇹 vs Frosinone 🇮🇹</display-name>
+  </channel>
+  <programme start="20260902000000 +0200" stop="20260902150000 +0200" channel="ItalyCoppaItaliaSassuolovsFrosinone">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Sassuolo 🇮🇹 vs Frosinone 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260902150000 +0200" stop="20260902170000 +0200" channel="ItalyCoppaItaliaSassuolovsFrosinone">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Sassuolo 🇮🇹 vs Frosinone 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalyCoppaItaliaUdinesevsVenezia">
+    <display-name>⚽ 🇮🇹 Italy - Coppa Italia : Udinese 🇮🇹 vs Venezia 🇮🇹</display-name>
+  </channel>
+  <programme start="20260902000000 +0200" stop="20260902180000 +0200" channel="ItalyCoppaItaliaUdinesevsVenezia">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Udinese 🇮🇹 vs Venezia 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260902180000 +0200" stop="20260902200000 +0200" channel="ItalyCoppaItaliaUdinesevsVenezia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Coppa Italia : Udinese 🇮🇹 vs Venezia 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="CoppaItaliaSerieCSorrentovsCosenza">
+    <display-name>⚽ 🇮🇹 Coppa Italia Serie C : Sorrento 🇮🇹 vs Cosenza 🇮🇹</display-name>
+  </channel>
+  <programme start="20260902000000 +0200" stop="20260902183000 +0200" channel="CoppaItaliaSerieCSorrentovsCosenza">
+    <title lang="it">Inizia alle 18:30.</title>
+    <desc lang="it">⚽ 🇮🇹 Coppa Italia Serie C : Sorrento 🇮🇹 vs Cosenza 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260902183000 +0200" stop="20260902203000 +0200" channel="CoppaItaliaSerieCSorrentovsCosenza">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Coppa Italia Serie C : Sorrento 🇮🇹 vs Cosenza 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="USOpenGrandSlamTennisMensampWomensSingles2ndRound">
+    <display-name>🎾 🇺🇸 US Open Grand Slam Tennis : Men's &amp; Women's Singles 2nd Round</display-name>
+  </channel>
+  <programme start="20260902000000 +0200" stop="20260902170000 +0200" channel="USOpenGrandSlamTennisMensampWomensSingles2ndRound">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">🎾 🇺🇸 US Open Grand Slam Tennis : Men's &amp; Women's Singles 2nd Round.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260902170000 +0200" stop="20260902190000 +0200" channel="USOpenGrandSlamTennisMensampWomensSingles2ndRound">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 🇺🇸 US Open Grand Slam Tennis : Men's &amp; Women's Singles 2nd Round</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <programme start="20260902000000 +0200" stop="20260902170000 +0200" channel="USOpenGrandSlamTennisMensampWomensSingles2ndRound">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">🎾 🇺🇸 US Open Grand Slam Tennis : Men's &amp; Women's Singles 2nd Round.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260902170000 +0200" stop="20260902190000 +0200" channel="USOpenGrandSlamTennisMensampWomensSingles2ndRound">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 🇺🇸 US Open Grand Slam Tennis : Men's &amp; Women's Singles 2nd Round</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <programme start="20260902000000 +0200" stop="20260902170000 +0200" channel="USOpenGrandSlamTennisMensampWomensSingles2ndRound">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">🎾 🇺🇸 US Open Grand Slam Tennis : Men's &amp; Women's Singles 2nd Round.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260902170000 +0200" stop="20260902190000 +0200" channel="USOpenGrandSlamTennisMensampWomensSingles2ndRound">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 🇺🇸 US Open Grand Slam Tennis : Men's &amp; Women's Singles 2nd Round</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <programme start="20260902000000 +0200" stop="20260902170000 +0200" channel="USOpenGrandSlamTennisMensampWomensSingles2ndRound">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">🎾 🇺🇸 US Open Grand Slam Tennis : Men's &amp; Women's Singles 2nd Round.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260902170000 +0200" stop="20260902190000 +0200" channel="USOpenGrandSlamTennisMensampWomensSingles2ndRound">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 🇺🇸 US Open Grand Slam Tennis : Men's &amp; Women's Singles 2nd Round</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <channel id="BritishOpen2ndRound">
+    <display-name>🎱 British Open | 2nd Round</display-name>
+  </channel>
+  <programme start="20260902000000 +0200" stop="20260902140000 +0200" channel="BritishOpen2ndRound">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">🎱 British Open | 2nd Round.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260902140000 +0200" stop="20260902160000 +0200" channel="BritishOpen2ndRound">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎱 British Open | 2nd Round</desc>
+    <category lang="it">Snooker 🎱</category>
+  </programme>
+  <programme start="20260902160000 +0200" stop="20260902200000 +0200" channel="BritishOpen2ndRound">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">🎱 British Open | 2nd Round.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260902200000 +0200" stop="20260902220000 +0200" channel="BritishOpen2ndRound">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎱 British Open | 2nd Round</desc>
+    <category lang="it">Snooker 🎱</category>
+  </programme>
+  <channel id="VueltaaEspaaStage11151CartagenaLorca">
+    <display-name>🚴 🇪🇸 Vuelta a España Stage 11 - 151 Cartagena - Lorca</display-name>
+  </channel>
+  <programme start="20260902000000 +0200" stop="20260902150000 +0200" channel="VueltaaEspaaStage11151CartagenaLorca">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">🚴 🇪🇸 Vuelta a España Stage 11 - 151 Cartagena - Lorca.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260902150000 +0200" stop="20260902170000 +0200" channel="VueltaaEspaaStage11151CartagenaLorca">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 🇪🇸 Vuelta a España Stage 11 - 151 Cartagena - Lorca</desc>
+    <category lang="it">Cycling 🚴</category>
+  </programme>
+  <channel id="EuropeanChampionshipsWomenQuarterfinalsSerbiaWvsGreeceW">
+    <display-name>🏐 🇷🇸 European Championships Women Quarterfinals : Serbia W 🇷🇸 vs Greece W 🇬🇷</display-name>
+  </channel>
+  <programme start="20260902000000 +0200" stop="20260902160000 +0200" channel="EuropeanChampionshipsWomenQuarterfinalsSerbiaWvsGreeceW">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">🏐 🇷🇸 European Championships Women Quarterfinals : Serbia W 🇷🇸 vs Greece W 🇬🇷.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260902160000 +0200" stop="20260902180000 +0200" channel="EuropeanChampionshipsWomenQuarterfinalsSerbiaWvsGreeceW">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏐 🇷🇸 European Championships Women Quarterfinals : Serbia W 🇷🇸 vs Greece W 🇬🇷</desc>
+    <category lang="it">Volleyball 🏐</category>
+  </programme>
+  <channel id="EuropeanChampionshipsWomenQuarterfinalsItalyWvsSwedenW">
+    <display-name>🏐 🇮🇹 European Championships Women Quarterfinals : Italy W 🇮🇹 vs Sweden W 🇸🇪</display-name>
+  </channel>
+  <programme start="20260902000000 +0200" stop="20260902190000 +0200" channel="EuropeanChampionshipsWomenQuarterfinalsItalyWvsSwedenW">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">🏐 🇮🇹 European Championships Women Quarterfinals : Italy W 🇮🇹 vs Sweden W 🇸🇪.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260902190000 +0200" stop="20260902210000 +0200" channel="EuropeanChampionshipsWomenQuarterfinalsItalyWvsSwedenW">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏐 🇮🇹 European Championships Women Quarterfinals : Italy W 🇮🇹 vs Sweden W 🇸🇪</desc>
+    <category lang="it">Volleyball 🏐</category>
+  </programme>
 </tv>
