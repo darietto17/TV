@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="CoppaItaliaPalermovsMantova">
-    <display-name>⚽ 🇮🇹 Coppa Italia : Palermo 🇮🇹 vs Mantova 🇮🇹</display-name>
-  </channel>
-  <programme start="20260903000000 +0200" stop="20260903180000 +0200" channel="CoppaItaliaPalermovsMantova">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">⚽ 🇮🇹 Coppa Italia : Palermo 🇮🇹 vs Mantova 🇮🇹.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260903180000 +0200" stop="20260903200000 +0200" channel="CoppaItaliaPalermovsMantova">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🇮🇹 Coppa Italia : Palermo 🇮🇹 vs Mantova 🇮🇹</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
   <channel id="CoppaItaliaCagliarivsVerona">
     <display-name>⚽ 🇮🇹 Coppa Italia : Cagliari 🇮🇹 vs Verona 🇮🇹</display-name>
   </channel>
@@ -49,49 +36,6 @@
     <desc lang="it">⚽ 🇮🇹 Coppa Italia Serie C : Trento 🇮🇹 vs Desenzano Calvina 🇮🇹</desc>
     <category lang="it">All Soccer Events ⚽</category>
   </programme>
-  <channel id="2026USOpenTennisMensampWomensSecondRound">
-    <display-name>🎾 🇺🇸 2026 US Open Tennis Men's &amp; Women's Second Round</display-name>
-  </channel>
-  <programme start="20260903000000 +0200" stop="20260903170000 +0200" channel="2026USOpenTennisMensampWomensSecondRound">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">🎾 🇺🇸 2026 US Open Tennis Men's &amp; Women's Second Round.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260903170000 +0200" stop="20260903190000 +0200" channel="2026USOpenTennisMensampWomensSecondRound">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎾 🇺🇸 2026 US Open Tennis Men's &amp; Women's Second Round</desc>
-    <category lang="it">Tennis 🎾</category>
-  </programme>
-  <programme start="20260903000000 +0200" stop="20260903170000 +0200" channel="2026USOpenTennisMensampWomensSecondRound">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">🎾 🇺🇸 2026 US Open Tennis Men's &amp; Women's Second Round.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260903170000 +0200" stop="20260903190000 +0200" channel="2026USOpenTennisMensampWomensSecondRound">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎾 🇺🇸 2026 US Open Tennis Men's &amp; Women's Second Round</desc>
-    <category lang="it">Tennis 🎾</category>
-  </programme>
-  <programme start="20260903000000 +0200" stop="20260903170000 +0200" channel="2026USOpenTennisMensampWomensSecondRound">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">🎾 🇺🇸 2026 US Open Tennis Men's &amp; Women's Second Round.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260903170000 +0200" stop="20260903190000 +0200" channel="2026USOpenTennisMensampWomensSecondRound">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎾 🇺🇸 2026 US Open Tennis Men's &amp; Women's Second Round</desc>
-    <category lang="it">Tennis 🎾</category>
-  </programme>
-  <programme start="20260903000000 +0200" stop="20260903170000 +0200" channel="2026USOpenTennisMensampWomensSecondRound">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">🎾 🇺🇸 2026 US Open Tennis Men's &amp; Women's Second Round.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260903170000 +0200" stop="20260903190000 +0200" channel="2026USOpenTennisMensampWomensSecondRound">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎾 🇺🇸 2026 US Open Tennis Men's &amp; Women's Second Round</desc>
-    <category lang="it">Tennis 🎾</category>
-  </programme>
   <channel id="BritishOpen3rdRound">
     <display-name>🎱 🇬🇧 British Open | 3rd Round</display-name>
   </channel>
@@ -104,64 +48,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">🎱 🇬🇧 British Open | 3rd Round</desc>
     <category lang="it">Snooker 🎱</category>
-  </programme>
-  <channel id="VueltaaEspanaStage2Mountain166km4400m">
-    <display-name>🚴 🇪🇸 Vuelta a Espana Stage 2 - Mountain | 166 km | 4400 m</display-name>
-  </channel>
-  <programme start="20260903000000 +0200" stop="20260903150000 +0200" channel="VueltaaEspanaStage2Mountain166km4400m">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">🚴 🇪🇸 Vuelta a Espana Stage 2 - Mountain | 166 km | 4400 m.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260903150000 +0200" stop="20260903170000 +0200" channel="VueltaaEspanaStage2Mountain166km4400m">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🚴 🇪🇸 Vuelta a Espana Stage 2 - Mountain | 166 km | 4400 m</desc>
-    <category lang="it">Cycling 🚴</category>
-  </programme>
-  <channel id="EuropeanChampionshipsWomenQuarterfinalsPolandWvsNetherlandsW">
-    <display-name>🏐 🇵🇱 European Championships Women Quarterfinals : Poland W 🇵🇱 vs Netherlands W 🇳🇱</display-name>
-  </channel>
-  <programme start="20260903000000 +0200" stop="20260903150000 +0200" channel="EuropeanChampionshipsWomenQuarterfinalsPolandWvsNetherlandsW">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">🏐 🇵🇱 European Championships Women Quarterfinals : Poland W 🇵🇱 vs Netherlands W 🇳🇱.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260903150000 +0200" stop="20260903170000 +0200" channel="EuropeanChampionshipsWomenQuarterfinalsPolandWvsNetherlandsW">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏐 🇵🇱 European Championships Women Quarterfinals : Poland W 🇵🇱 vs Netherlands W 🇳🇱</desc>
-    <category lang="it">Volleyball 🏐</category>
-  </programme>
-  <programme start="20260903000000 +0200" stop="20260903150000 +0200" channel="EuropeanChampionshipsWomenQuarterfinalsPolandWvsNetherlandsW">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">🏐 🇵🇱 European Championships Women Quarterfinals : Poland W 🇵🇱 vs Netherlands W 🇳🇱.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260903150000 +0200" stop="20260903170000 +0200" channel="EuropeanChampionshipsWomenQuarterfinalsPolandWvsNetherlandsW">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏐 🇵🇱 European Championships Women Quarterfinals : Poland W 🇵🇱 vs Netherlands W 🇳🇱</desc>
-    <category lang="it">Volleyball 🏐</category>
-  </programme>
-  <channel id="EuropeanChampionshipsWomenQuarterfinalsGermanyWvsTrkiyeWAzerbaijanW">
-    <display-name>🏐 🇩🇪 European Championships Women Quarterfinals : Germany W 🇩🇪 vs Türkiye W 🇹🇷 / Azerbaijan W 🇦🇿</display-name>
-  </channel>
-  <programme start="20260903000000 +0200" stop="20260903180000 +0200" channel="EuropeanChampionshipsWomenQuarterfinalsGermanyWvsTrkiyeWAzerbaijanW">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">🏐 🇩🇪 European Championships Women Quarterfinals : Germany W 🇩🇪 vs Türkiye W 🇹🇷 / Azerbaijan W 🇦🇿.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260903180000 +0200" stop="20260903200000 +0200" channel="EuropeanChampionshipsWomenQuarterfinalsGermanyWvsTrkiyeWAzerbaijanW">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏐 🇩🇪 European Championships Women Quarterfinals : Germany W 🇩🇪 vs Türkiye W 🇹🇷 / Azerbaijan W 🇦🇿</desc>
-    <category lang="it">Volleyball 🏐</category>
-  </programme>
-  <programme start="20260903000000 +0200" stop="20260903180000 +0200" channel="EuropeanChampionshipsWomenQuarterfinalsGermanyWvsTrkiyeWAzerbaijanW">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">🏐 🇩🇪 European Championships Women Quarterfinals : Germany W 🇩🇪 vs Türkiye W 🇹🇷 / Azerbaijan W 🇦🇿.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260903180000 +0200" stop="20260903200000 +0200" channel="EuropeanChampionshipsWomenQuarterfinalsGermanyWvsTrkiyeWAzerbaijanW">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏐 🇩🇪 European Championships Women Quarterfinals : Germany W 🇩🇪 vs Türkiye W 🇹🇷 / Azerbaijan W 🇦🇿</desc>
-    <category lang="it">Volleyball 🏐</category>
   </programme>
 </tv>
