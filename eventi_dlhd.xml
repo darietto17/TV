@@ -1,67 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="EnglandPremierLeagueNewcastleUnitedvsAFCBournemouth">
-    <display-name>⚽ England - Premier League : 🇬🇧 Newcastle United 🇬🇧 vs 🇬🇧 AFC Bournemouth 🇬🇧</display-name>
-  </channel>
-  <programme start="20260905000000 +0200" stop="20260905133000 +0200" channel="EnglandPremierLeagueNewcastleUnitedvsAFCBournemouth">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">⚽ England - Premier League : 🇬🇧 Newcastle United 🇬🇧 vs 🇬🇧 AFC Bournemouth 🇬🇧.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260905133000 +0200" stop="20260905153000 +0200" channel="EnglandPremierLeagueNewcastleUnitedvsAFCBournemouth">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ England - Premier League : 🇬🇧 Newcastle United 🇬🇧 vs 🇬🇧 AFC Bournemouth 🇬🇧</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
-  <channel id="ItalySerieBSdtirolvsCatanzaro">
-    <display-name>⚽ Italy - Serie B : 🇮🇹 Südtirol 🇮🇹 vs 🇮🇹 Catanzaro 🇮🇹</display-name>
-  </channel>
-  <programme start="20260905000000 +0200" stop="20260905150000 +0200" channel="ItalySerieBSdtirolvsCatanzaro">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">⚽ Italy - Serie B : 🇮🇹 Südtirol 🇮🇹 vs 🇮🇹 Catanzaro 🇮🇹.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260905150000 +0200" stop="20260905170000 +0200" channel="ItalySerieBSdtirolvsCatanzaro">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ Italy - Serie B : 🇮🇹 Südtirol 🇮🇹 vs 🇮🇹 Catanzaro 🇮🇹</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
-  <channel id="ItalySerieAFiorentinavsTorino">
-    <display-name>⚽ Italy - Serie A : 🇮🇹 Fiorentina 🇮🇹 vs 🇮🇹 Torino 🇮🇹</display-name>
-  </channel>
-  <programme start="20260905000000 +0200" stop="20260905150000 +0200" channel="ItalySerieAFiorentinavsTorino">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">⚽ Italy - Serie A : 🇮🇹 Fiorentina 🇮🇹 vs 🇮🇹 Torino 🇮🇹.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260905150000 +0200" stop="20260905170000 +0200" channel="ItalySerieAFiorentinavsTorino">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ Italy - Serie A : 🇮🇹 Fiorentina 🇮🇹 vs 🇮🇹 Torino 🇮🇹</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
-  <programme start="20260905000000 +0200" stop="20260905150000 +0200" channel="ItalySerieAFiorentinavsTorino">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">⚽ Italy - Serie A : 🇮🇹 Fiorentina 🇮🇹 vs 🇮🇹 Torino 🇮🇹.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260905150000 +0200" stop="20260905170000 +0200" channel="ItalySerieAFiorentinavsTorino">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ Italy - Serie A : 🇮🇹 Fiorentina 🇮🇹 vs 🇮🇹 Torino 🇮🇹</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
-  <channel id="EnglandPremierLeagueManchesterCityvsCoventryCity">
-    <display-name>⚽ England - Premier League : 🇬🇧 Manchester City 🇬🇧 vs 🇬🇧 Coventry City 🇬🇧</display-name>
-  </channel>
-  <programme start="20260905000000 +0200" stop="20260905160000 +0200" channel="EnglandPremierLeagueManchesterCityvsCoventryCity">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">⚽ England - Premier League : 🇬🇧 Manchester City 🇬🇧 vs 🇬🇧 Coventry City 🇬🇧.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260905160000 +0200" stop="20260905180000 +0200" channel="EnglandPremierLeagueManchesterCityvsCoventryCity">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ England - Premier League : 🇬🇧 Manchester City 🇬🇧 vs 🇬🇧 Coventry City 🇬🇧</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
   <channel id="ItalySerieBAscolivsBenevento">
     <display-name>⚽ Italy - Serie B : 🇮🇹 Ascoli 🇮🇹 vs 🇮🇹 Benevento 🇮🇹</display-name>
   </channel>
@@ -304,56 +242,10 @@
     <desc lang="it">🎾 2026 US Open Tennis Men's &amp; Women's Third Round</desc>
     <category lang="it">Tennis 🎾</category>
   </programme>
-  <channel id="Formula2MonzaNationalRacetrackSprintRace">
-    <display-name>🏎️ Formula 2 Monza National Racetrack Sprint Race</display-name>
-  </channel>
-  <programme start="20260905000000 +0200" stop="20260905141500 +0200" channel="Formula2MonzaNationalRacetrackSprintRace">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">🏎️ Formula 2 Monza National Racetrack Sprint Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260905141500 +0200" stop="20260905161500 +0200" channel="Formula2MonzaNationalRacetrackSprintRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏎️ Formula 2 Monza National Racetrack Sprint Race</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
-  <channel id="Formula1PirelliItalianGPQualifying">
-    <display-name>🏎️ Formula 1 : Pirelli Italian GP - Qualifying</display-name>
-  </channel>
-  <programme start="20260905000000 +0200" stop="20260905160000 +0200" channel="Formula1PirelliItalianGPQualifying">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">🏎️ Formula 1 : Pirelli Italian GP - Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260905160000 +0200" stop="20260905180000 +0200" channel="Formula1PirelliItalianGPQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏎️ Formula 1 : Pirelli Italian GP - Qualifying</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
-  <programme start="20260905000000 +0200" stop="20260905160000 +0200" channel="Formula1PirelliItalianGPQualifying">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">🏎️ Formula 1 : Pirelli Italian GP - Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260905160000 +0200" stop="20260905180000 +0200" channel="Formula1PirelliItalianGPQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏎️ Formula 1 : Pirelli Italian GP - Qualifying</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
   <channel id="BritishOpenSemifinals">
     <display-name>🎱 British Open Semifinals</display-name>
   </channel>
-  <programme start="20260905000000 +0200" stop="20260905140000 +0200" channel="BritishOpenSemifinals">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">🎱 British Open Semifinals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260905140000 +0200" stop="20260905160000 +0200" channel="BritishOpenSemifinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎱 British Open Semifinals</desc>
-    <category lang="it">Snooker 🎱</category>
-  </programme>
-  <programme start="20260905160000 +0200" stop="20260905200000 +0200" channel="BritishOpenSemifinals">
+  <programme start="20260905000000 +0200" stop="20260905200000 +0200" channel="BritishOpenSemifinals">
     <title lang="it">Inizia alle 20:00.</title>
     <desc lang="it">🎱 British Open Semifinals.</desc>
     <category lang="it">Annuncio</category>
@@ -375,55 +267,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">🏃 IAAF Diamond League in Brussels Day 2</desc>
     <category lang="it">Athletics 🏃</category>
-  </programme>
-  <channel id="ReturntoSpainStage14154JaenSierradelaPandera">
-    <display-name>🚴 Return to Spain Stage 14 - 154 Jaen - Sierra de la Pandera</display-name>
-  </channel>
-  <programme start="20260905000000 +0200" stop="20260905150000 +0200" channel="ReturntoSpainStage14154JaenSierradelaPandera">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">🚴 Return to Spain Stage 14 - 154 Jaen - Sierra de la Pandera.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260905150000 +0200" stop="20260905170000 +0200" channel="ReturntoSpainStage14154JaenSierradelaPandera">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🚴 Return to Spain Stage 14 - 154 Jaen - Sierra de la Pandera</desc>
-    <category lang="it">Cycling 🚴</category>
-  </programme>
-  <channel id="GlobalChampionsTourJumpingValkenswaard">
-    <display-name>🐎 Global Champions Tour Jumping | Valkenswaard</display-name>
-  </channel>
-  <programme start="20260905000000 +0200" stop="20260905133700 +0200" channel="GlobalChampionsTourJumpingValkenswaard">
-    <title lang="it">Inizia alle 13:37.</title>
-    <desc lang="it">🐎 Global Champions Tour Jumping | Valkenswaard.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260905133700 +0200" stop="20260905153700 +0200" channel="GlobalChampionsTourJumpingValkenswaard">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🐎 Global Champions Tour Jumping | Valkenswaard</desc>
-    <category lang="it">Equestrian 🐎</category>
-  </programme>
-  <channel id="WomensVolleyballEuropeanChampionship2026semifinalTurkeyWvsSerbiaW">
-    <display-name>🏐 🇹🇷 Women's Volleyball: European Championship 2026 semi-final : Turkey W 🇹🇷 vs Serbia W 🇷🇸</display-name>
-  </channel>
-  <programme start="20260905000000 +0200" stop="20260905150000 +0200" channel="WomensVolleyballEuropeanChampionship2026semifinalTurkeyWvsSerbiaW">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">🏐 🇹🇷 Women's Volleyball: European Championship 2026 semi-final : Turkey W 🇹🇷 vs Serbia W 🇷🇸.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260905150000 +0200" stop="20260905170000 +0200" channel="WomensVolleyballEuropeanChampionship2026semifinalTurkeyWvsSerbiaW">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏐 🇹🇷 Women's Volleyball: European Championship 2026 semi-final : Turkey W 🇹🇷 vs Serbia W 🇷🇸</desc>
-    <category lang="it">Volleyball 🏐</category>
-  </programme>
-  <programme start="20260905000000 +0200" stop="20260905150000 +0200" channel="WomensVolleyballEuropeanChampionship2026semifinalTurkeyWvsSerbiaW">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">🏐 🇹🇷 Women's Volleyball: European Championship 2026 semi-final : Turkey W 🇹🇷 vs Serbia W 🇷🇸.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260905150000 +0200" stop="20260905170000 +0200" channel="WomensVolleyballEuropeanChampionship2026semifinalTurkeyWvsSerbiaW">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏐 🇹🇷 Women's Volleyball: European Championship 2026 semi-final : Turkey W 🇹🇷 vs Serbia W 🇷🇸</desc>
-    <category lang="it">Volleyball 🏐</category>
   </programme>
   <channel id="WomensVolleyballEuropeanChampionship2026semifinalPolandWvsItalyW">
     <display-name>🏐 🇵🇱 Women's Volleyball: European Championship 2026 semi-final : Poland W 🇵🇱 vs Italy W 🇮🇹</display-name>
