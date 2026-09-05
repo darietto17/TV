@@ -39,6 +39,16 @@
     <desc lang="it">⚽ Italy - Serie A : 🇮🇹 Fiorentina 🇮🇹 vs 🇮🇹 Torino 🇮🇹</desc>
     <category lang="it">All Soccer Events ⚽</category>
   </programme>
+  <programme start="20260905000000 +0200" stop="20260905150000 +0200" channel="ItalySerieAFiorentinavsTorino">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">⚽ Italy - Serie A : 🇮🇹 Fiorentina 🇮🇹 vs 🇮🇹 Torino 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260905150000 +0200" stop="20260905170000 +0200" channel="ItalySerieAFiorentinavsTorino">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ Italy - Serie A : 🇮🇹 Fiorentina 🇮🇹 vs 🇮🇹 Torino 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
   <channel id="EnglandPremierLeagueManchesterCityvsCoventryCity">
     <display-name>⚽ England - Premier League : 🇬🇧 Manchester City 🇬🇧 vs 🇬🇧 Coventry City 🇬🇧</display-name>
   </channel>
@@ -130,6 +140,16 @@
     <desc lang="it">⚽ Italy - Serie A : 🇮🇹 Internazionale 🇮🇹 vs 🇮🇹 Napoli 🇮🇹</desc>
     <category lang="it">All Soccer Events ⚽</category>
   </programme>
+  <programme start="20260905000000 +0200" stop="20260905180000 +0200" channel="ItalySerieAInternazionalevsNapoli">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">⚽ Italy - Serie A : 🇮🇹 Internazionale 🇮🇹 vs 🇮🇹 Napoli 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260905180000 +0200" stop="20260905200000 +0200" channel="ItalySerieAInternazionalevsNapoli">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ Italy - Serie A : 🇮🇹 Internazionale 🇮🇹 vs 🇮🇹 Napoli 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
   <channel id="GermanyBundesligaSchalke04vsBayernMnchen">
     <display-name>⚽ Germany - Bundesliga : 🇩🇪 Schalke 04 🇩🇪 vs 🇩🇪 Bayern München 🇩🇪</display-name>
   </channel>
@@ -159,6 +179,16 @@
   <channel id="ItalySerieARomavsAtalanta">
     <display-name>⚽ Italy - Serie A : 🇮🇹 Roma 🇮🇹 vs 🇮🇹 Atalanta 🇮🇹</display-name>
   </channel>
+  <programme start="20260905000000 +0200" stop="20260905204500 +0200" channel="ItalySerieARomavsAtalanta">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ Italy - Serie A : 🇮🇹 Roma 🇮🇹 vs 🇮🇹 Atalanta 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260905204500 +0200" stop="20260905224500 +0200" channel="ItalySerieARomavsAtalanta">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ Italy - Serie A : 🇮🇹 Roma 🇮🇹 vs 🇮🇹 Atalanta 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
   <programme start="20260905000000 +0200" stop="20260905204500 +0200" channel="ItalySerieARomavsAtalanta">
     <title lang="it">Inizia alle 20:45.</title>
     <desc lang="it">⚽ Italy - Serie A : 🇮🇹 Roma 🇮🇹 vs 🇮🇹 Atalanta 🇮🇹.</desc>
@@ -300,6 +330,16 @@
     <desc lang="it">🏎️ Formula 1 : Pirelli Italian GP - Practice 3</desc>
     <category lang="it">Motorsport 🏎️🏁</category>
   </programme>
+  <programme start="20260905000000 +0200" stop="20260905123000 +0200" channel="Formula1PirelliItalianGPPractice3">
+    <title lang="it">Inizia alle 12:30.</title>
+    <desc lang="it">🏎️ Formula 1 : Pirelli Italian GP - Practice 3.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260905123000 +0200" stop="20260905143000 +0200" channel="Formula1PirelliItalianGPPractice3">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ Formula 1 : Pirelli Italian GP - Practice 3</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
   <channel id="Formula2MonzaNationalRacetrackSprintRace">
     <display-name>🏎️ Formula 2 Monza National Racetrack Sprint Race</display-name>
   </channel>
@@ -316,6 +356,16 @@
   <channel id="Formula1PirelliItalianGPQualifying">
     <display-name>🏎️ Formula 1 : Pirelli Italian GP - Qualifying</display-name>
   </channel>
+  <programme start="20260905000000 +0200" stop="20260905160000 +0200" channel="Formula1PirelliItalianGPQualifying">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">🏎️ Formula 1 : Pirelli Italian GP - Qualifying.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260905160000 +0200" stop="20260905180000 +0200" channel="Formula1PirelliItalianGPQualifying">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ Formula 1 : Pirelli Italian GP - Qualifying</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
   <programme start="20260905000000 +0200" stop="20260905160000 +0200" channel="Formula1PirelliItalianGPQualifying">
     <title lang="it">Inizia alle 16:00.</title>
     <desc lang="it">🏎️ Formula 1 : Pirelli Italian GP - Qualifying.</desc>
