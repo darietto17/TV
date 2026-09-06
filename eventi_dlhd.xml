@@ -182,9 +182,29 @@
     <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Frosinone 🇮🇹 vs Venezia 🇮🇹</desc>
     <category lang="it">All Soccer Events ⚽</category>
   </programme>
+  <programme start="20260906000000 +0200" stop="20260906150000 +0200" channel="ItalySerieAFrosinonevsVenezia">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Frosinone 🇮🇹 vs Venezia 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260906150000 +0200" stop="20260906170000 +0200" channel="ItalySerieAFrosinonevsVenezia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Frosinone 🇮🇹 vs Venezia 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
   <channel id="ItalySerieAParmavsMonza">
     <display-name>⚽ 🇮🇹 Italy - Serie A : Parma 🇮🇹 vs Monza 🇮🇹</display-name>
   </channel>
+  <programme start="20260906000000 +0200" stop="20260906150000 +0200" channel="ItalySerieAParmavsMonza">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Parma 🇮🇹 vs Monza 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260906150000 +0200" stop="20260906170000 +0200" channel="ItalySerieAParmavsMonza">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Parma 🇮🇹 vs Monza 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
   <programme start="20260906000000 +0200" stop="20260906150000 +0200" channel="ItalySerieAParmavsMonza">
     <title lang="it">Inizia alle 15:00.</title>
     <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Parma 🇮🇹 vs Monza 🇮🇹.</desc>
@@ -299,6 +319,16 @@
     <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Bologna 🇮🇹 vs Sassuolo 🇮🇹</desc>
     <category lang="it">All Soccer Events ⚽</category>
   </programme>
+  <programme start="20260906000000 +0200" stop="20260906180000 +0200" channel="ItalySerieABolognavsSassuolo">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Bologna 🇮🇹 vs Sassuolo 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260906180000 +0200" stop="20260906200000 +0200" channel="ItalySerieABolognavsSassuolo">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Bologna 🇮🇹 vs Sassuolo 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
   <channel id="ItalySerieBCremonesevsCalcioPadova">
     <display-name>⚽ 🇮🇹 Italy - Serie B : Cremonese 🇮🇹 vs Calcio Padova 🇮🇹</display-name>
   </channel>
@@ -315,6 +345,16 @@
   <channel id="ItalySerieAJuventusvsMilan">
     <display-name>⚽ 🇮🇹 Italy - Serie A : Juventus 🇮🇹 vs Milan 🇮🇹</display-name>
   </channel>
+  <programme start="20260906000000 +0200" stop="20260906204500 +0200" channel="ItalySerieAJuventusvsMilan">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Juventus 🇮🇹 vs Milan 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260906204500 +0200" stop="20260906224500 +0200" channel="ItalySerieAJuventusvsMilan">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Juventus 🇮🇹 vs Milan 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
   <programme start="20260906000000 +0200" stop="20260906204500 +0200" channel="ItalySerieAJuventusvsMilan">
     <title lang="it">Inizia alle 20:45.</title>
     <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Juventus 🇮🇹 vs Milan 🇮🇹.</desc>
@@ -452,19 +492,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">🎾 🇺🇸 US Open Mens &amp; Womens Singles Round of 16, Mens Doubles 2nd Round, Womens Doubles 3rd Round 🇺🇸</desc>
     <category lang="it">Tennis 🎾</category>
-  </programme>
-  <channel id="Formula3MonzaNationalRacetrackRace">
-    <display-name>🏎️ 🇮🇹 Formula 3 Monza National Racetrack Race 🇮🇹</display-name>
-  </channel>
-  <programme start="20260906000000 +0200" stop="20260906081500 +0200" channel="Formula3MonzaNationalRacetrackRace">
-    <title lang="it">Inizia alle 08:15.</title>
-    <desc lang="it">🏎️ 🇮🇹 Formula 3 Monza National Racetrack Race 🇮🇹.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260906081500 +0200" stop="20260906101500 +0200" channel="Formula3MonzaNationalRacetrackRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏎️ 🇮🇹 Formula 3 Monza National Racetrack Race 🇮🇹</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
   </programme>
   <channel id="Formula2MonzaNationalRacetrackRace">
     <display-name>🏎️ 🇮🇹 Formula 2 Monza National Racetrack Race 🇮🇹</display-name>
