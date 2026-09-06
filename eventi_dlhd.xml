@@ -493,48 +493,19 @@
     <desc lang="it">🎾 🇺🇸 US Open Mens &amp; Womens Singles Round of 16, Mens Doubles 2nd Round, Womens Doubles 3rd Round 🇺🇸</desc>
     <category lang="it">Tennis 🎾</category>
   </programme>
-  <channel id="Formula2MonzaNationalRacetrackRace">
-    <display-name>🏎️ 🇮🇹 Formula 2 Monza National Racetrack Race 🇮🇹</display-name>
-  </channel>
-  <programme start="20260906000000 +0200" stop="20260906094000 +0200" channel="Formula2MonzaNationalRacetrackRace">
-    <title lang="it">Inizia alle 09:40.</title>
-    <desc lang="it">🏎️ 🇮🇹 Formula 2 Monza National Racetrack Race 🇮🇹.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260906094000 +0200" stop="20260906114000 +0200" channel="Formula2MonzaNationalRacetrackRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏎️ 🇮🇹 Formula 2 Monza National Racetrack Race 🇮🇹</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
-  <channel id="TurkeyWorldChampionshipMX2Race1">
-    <display-name>🏍️ 🇹🇷 Turkey World Championship | MX2 | Race 1 🇹🇷</display-name>
-  </channel>
-  <programme start="20260906000000 +0200" stop="20260906120000 +0200" channel="TurkeyWorldChampionshipMX2Race1">
-    <title lang="it">Inizia alle 12:00.</title>
-    <desc lang="it">🏍️ 🇹🇷 Turkey World Championship | MX2 | Race 1 🇹🇷.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260906120000 +0200" stop="20260906140000 +0200" channel="TurkeyWorldChampionshipMX2Race1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏍️ 🇹🇷 Turkey World Championship | MX2 | Race 1 🇹🇷</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
-  <channel id="TurkeyWorldChampionshipMXGPRace1">
-    <display-name>🏍️ 🇹🇷 Turkey World Championship | MXGP | Race 1 🇹🇷</display-name>
-  </channel>
-  <programme start="20260906000000 +0200" stop="20260906130000 +0200" channel="TurkeyWorldChampionshipMXGPRace1">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">🏍️ 🇹🇷 Turkey World Championship | MXGP | Race 1 🇹🇷.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260906130000 +0200" stop="20260906150000 +0200" channel="TurkeyWorldChampionshipMXGPRace1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏍️ 🇹🇷 Turkey World Championship | MXGP | Race 1 🇹🇷</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
   <channel id="Formula1PirelliItalianGPGrandPrixSunday">
     <display-name>🏎️ 🇮🇹 Formula 1 : Pirelli Italian GP - Grand Prix Sunday 🇮🇹</display-name>
   </channel>
+  <programme start="20260906000000 +0200" stop="20260906140000 +0200" channel="Formula1PirelliItalianGPGrandPrixSunday">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">🏎️ 🇮🇹 Formula 1 : Pirelli Italian GP - Grand Prix Sunday 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260906140000 +0200" stop="20260906160000 +0200" channel="Formula1PirelliItalianGPGrandPrixSunday">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ 🇮🇹 Formula 1 : Pirelli Italian GP - Grand Prix Sunday 🇮🇹</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
   <programme start="20260906000000 +0200" stop="20260906140000 +0200" channel="Formula1PirelliItalianGPGrandPrixSunday">
     <title lang="it">Inizia alle 14:00.</title>
     <desc lang="it">🏎️ 🇮🇹 Formula 1 : Pirelli Italian GP - Grand Prix Sunday 🇮🇹.</desc>
@@ -561,6 +532,16 @@
   <channel id="Formula1PirelliItalianGPRace">
     <display-name>🏎️ 🇮🇹 Formula 1 : Pirelli Italian GP - Race 🇮🇹</display-name>
   </channel>
+  <programme start="20260906000000 +0200" stop="20260906150000 +0200" channel="Formula1PirelliItalianGPRace">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">🏎️ 🇮🇹 Formula 1 : Pirelli Italian GP - Race 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260906150000 +0200" stop="20260906170000 +0200" channel="Formula1PirelliItalianGPRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ 🇮🇹 Formula 1 : Pirelli Italian GP - Race 🇮🇹</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
   <programme start="20260906000000 +0200" stop="20260906150000 +0200" channel="Formula1PirelliItalianGPRace">
     <title lang="it">Inizia alle 15:00.</title>
     <desc lang="it">🏎️ 🇮🇹 Formula 1 : Pirelli Italian GP - Race 🇮🇹.</desc>
