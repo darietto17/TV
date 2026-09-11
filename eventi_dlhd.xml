@@ -1,3 +1,381 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ItalySerieBEmpolivsArezzo">
+    <display-name>Italy - Serie B : Empoli vs Arezzo</display-name>
+  </channel>
+  <programme start="20260911000000 +0200" stop="20260911190000 +0200" channel="ItalySerieBEmpolivsArezzo">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">Italy - Serie B : Empoli vs Arezzo.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260911190000 +0200" stop="20260911210000 +0200" channel="ItalySerieBEmpolivsArezzo">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie B : Empoli vs Arezzo</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalySerieAVeneziavsFiorentina">
+    <display-name>Italy - Serie A : Venezia vs Fiorentina</display-name>
+  </channel>
+  <programme start="20260911000000 +0200" stop="20260911204500 +0200" channel="ItalySerieAVeneziavsFiorentina">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">Italy - Serie A : Venezia vs Fiorentina.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260911204500 +0200" stop="20260911224500 +0200" channel="ItalySerieAVeneziavsFiorentina">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie A : Venezia vs Fiorentina</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalySerieBBeneventovsVerona">
+    <display-name>Italy - Serie B : Benevento vs Verona</display-name>
+  </channel>
+  <programme start="20260911000000 +0200" stop="20260911210000 +0200" channel="ItalySerieBBeneventovsVerona">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Italy - Serie B : Benevento vs Verona.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260911210000 +0200" stop="20260911230000 +0200" channel="ItalySerieBBeneventovsVerona">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie B : Benevento vs Verona</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalySerieBPisavsVirtusEntella">
+    <display-name>Italy - Serie B : Pisa vs Virtus Entella</display-name>
+  </channel>
+  <programme start="20260911000000 +0200" stop="20260911210000 +0200" channel="ItalySerieBPisavsVirtusEntella">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Italy - Serie B : Pisa vs Virtus Entella.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260911210000 +0200" stop="20260911230000 +0200" channel="ItalySerieBPisavsVirtusEntella">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie B : Pisa vs Virtus Entella</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalySerieCTeamAltamuravsBari1908">
+    <display-name>Italy - Serie C : Team Altamura vs Bari 1908</display-name>
+  </channel>
+  <programme start="20260911000000 +0200" stop="20260911210000 +0200" channel="ItalySerieCTeamAltamuravsBari1908">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Italy - Serie C : Team Altamura vs Bari 1908.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260911210000 +0200" stop="20260911230000 +0200" channel="ItalySerieCTeamAltamuravsBari1908">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Team Altamura vs Bari 1908</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalySerieCAudaceCerignolavsGiugliano">
+    <display-name>Italy - Serie C : Audace Cerignola vs Giugliano</display-name>
+  </channel>
+  <programme start="20260911000000 +0200" stop="20260911210000 +0200" channel="ItalySerieCAudaceCerignolavsGiugliano">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Italy - Serie C : Audace Cerignola vs Giugliano.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260911210000 +0200" stop="20260911230000 +0200" channel="ItalySerieCAudaceCerignolavsGiugliano">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Audace Cerignola vs Giugliano</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalySerieCVirtusCasaranovsBarletta">
+    <display-name>Italy - Serie C : Virtus Casarano vs Barletta</display-name>
+  </channel>
+  <programme start="20260911000000 +0200" stop="20260911210000 +0200" channel="ItalySerieCVirtusCasaranovsBarletta">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Italy - Serie C : Virtus Casarano vs Barletta.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260911210000 +0200" stop="20260911230000 +0200" channel="ItalySerieCVirtusCasaranovsBarletta">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Virtus Casarano vs Barletta</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalySerieCSalernitanavsPotenzaCalcio">
+    <display-name>Italy - Serie C : Salernitana vs Potenza Calcio</display-name>
+  </channel>
+  <programme start="20260911000000 +0200" stop="20260911210000 +0200" channel="ItalySerieCSalernitanavsPotenzaCalcio">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">Italy - Serie C : Salernitana vs Potenza Calcio.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260911210000 +0200" stop="20260911230000 +0200" channel="ItalySerieCSalernitanavsPotenzaCalcio">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Italy - Serie C : Salernitana vs Potenza Calcio</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="USOpenGrandSlamTennisWomensDoublesFinal">
+    <display-name>US Open Grand Slam Tennis Womens Doubles Final</display-name>
+  </channel>
+  <programme start="20260911000000 +0200" stop="20260911170000 +0200" channel="USOpenGrandSlamTennisWomensDoublesFinal">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">US Open Grand Slam Tennis Womens Doubles Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260911170000 +0200" stop="20260911190000 +0200" channel="USOpenGrandSlamTennisWomensDoublesFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">US Open Grand Slam Tennis Womens Doubles Final</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <programme start="20260911000000 +0200" stop="20260911170000 +0200" channel="USOpenGrandSlamTennisWomensDoublesFinal">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">US Open Grand Slam Tennis Womens Doubles Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260911170000 +0200" stop="20260911190000 +0200" channel="USOpenGrandSlamTennisWomensDoublesFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">US Open Grand Slam Tennis Womens Doubles Final</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <programme start="20260911000000 +0200" stop="20260911170000 +0200" channel="USOpenGrandSlamTennisWomensDoublesFinal">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">US Open Grand Slam Tennis Womens Doubles Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260911170000 +0200" stop="20260911190000 +0200" channel="USOpenGrandSlamTennisWomensDoublesFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">US Open Grand Slam Tennis Womens Doubles Final</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <programme start="20260911000000 +0200" stop="20260911170000 +0200" channel="USOpenGrandSlamTennisWomensDoublesFinal">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">US Open Grand Slam Tennis Womens Doubles Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260911170000 +0200" stop="20260911190000 +0200" channel="USOpenGrandSlamTennisWomensDoublesFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">US Open Grand Slam Tennis Womens Doubles Final</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <channel id="Moto3Round14SanMarinoFreePractice1">
+    <display-name>Moto3 | Round 14 | San Marino Free Practice 1</display-name>
+  </channel>
+  <programme start="20260911000000 +0200" stop="20260911085500 +0200" channel="Moto3Round14SanMarinoFreePractice1">
+    <title lang="it">Inizia alle 08:55.</title>
+    <desc lang="it">Moto3 | Round 14 | San Marino Free Practice 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260911085500 +0200" stop="20260911105500 +0200" channel="Moto3Round14SanMarinoFreePractice1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Moto3 | Round 14 | San Marino Free Practice 1</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="MotoGPRound14SanMarinoFreePractice1">
+    <display-name>MotoGP | Round 14 | San Marino Free Practice 1</display-name>
+  </channel>
+  <programme start="20260911000000 +0200" stop="20260911090000 +0200" channel="MotoGPRound14SanMarinoFreePractice1">
+    <title lang="it">Inizia alle 09:00.</title>
+    <desc lang="it">MotoGP | Round 14 | San Marino Free Practice 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260911090000 +0200" stop="20260911110000 +0200" channel="MotoGPRound14SanMarinoFreePractice1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MotoGP | Round 14 | San Marino Free Practice 1</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="Moto2Round14SanMarinoFreePractice1">
+    <display-name>Moto2 | Round 14 | San Marino Free Practice 1</display-name>
+  </channel>
+  <programme start="20260911000000 +0200" stop="20260911094500 +0200" channel="Moto2Round14SanMarinoFreePractice1">
+    <title lang="it">Inizia alle 09:45.</title>
+    <desc lang="it">Moto2 | Round 14 | San Marino Free Practice 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260911094500 +0200" stop="20260911114500 +0200" channel="Moto2Round14SanMarinoFreePractice1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Moto2 | Round 14 | San Marino Free Practice 1</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="Formula3TagHeuerSpanishGPPractice">
+    <display-name>Formula 3 : Tag Heuer Spanish GP - Practice</display-name>
+  </channel>
+  <programme start="20260911000000 +0200" stop="20260911110500 +0200" channel="Formula3TagHeuerSpanishGPPractice">
+    <title lang="it">Inizia alle 11:05.</title>
+    <desc lang="it">Formula 3 : Tag Heuer Spanish GP - Practice.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260911110500 +0200" stop="20260911130500 +0200" channel="Formula3TagHeuerSpanishGPPractice">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 3 : Tag Heuer Spanish GP - Practice</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="Formula2TagHeuerSpanishGPPractice">
+    <display-name>Formula 2 : Tag Heuer Spanish GP - Practice</display-name>
+  </channel>
+  <programme start="20260911000000 +0200" stop="20260911110500 +0200" channel="Formula2TagHeuerSpanishGPPractice">
+    <title lang="it">Inizia alle 11:05.</title>
+    <desc lang="it">Formula 2 : Tag Heuer Spanish GP - Practice.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260911110500 +0200" stop="20260911130500 +0200" channel="Formula2TagHeuerSpanishGPPractice">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 2 : Tag Heuer Spanish GP - Practice</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="Moto3Round14SanMarinoPractice">
+    <display-name>Moto3 | Round 14 | San Marino Practice</display-name>
+  </channel>
+  <programme start="20260911000000 +0200" stop="20260911111500 +0200" channel="Moto3Round14SanMarinoPractice">
+    <title lang="it">Inizia alle 11:15.</title>
+    <desc lang="it">Moto3 | Round 14 | San Marino Practice.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260911111500 +0200" stop="20260911131500 +0200" channel="Moto3Round14SanMarinoPractice">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Moto3 | Round 14 | San Marino Practice</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="MotoGPRound14SanMarinoPractice">
+    <display-name>MotoGP | Round 14 | San Marino Practice</display-name>
+  </channel>
+  <programme start="20260911000000 +0200" stop="20260911131500 +0200" channel="MotoGPRound14SanMarinoPractice">
+    <title lang="it">Inizia alle 13:15.</title>
+    <desc lang="it">MotoGP | Round 14 | San Marino Practice.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260911131500 +0200" stop="20260911151500 +0200" channel="MotoGPRound14SanMarinoPractice">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">MotoGP | Round 14 | San Marino Practice</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="Formula1TagHeuerSpanishGPPractice1">
+    <display-name>Formula 1 : Tag Heuer Spanish GP - Practice 1</display-name>
+  </channel>
+  <programme start="20260911000000 +0200" stop="20260911133000 +0200" channel="Formula1TagHeuerSpanishGPPractice1">
+    <title lang="it">Inizia alle 13:30.</title>
+    <desc lang="it">Formula 1 : Tag Heuer Spanish GP - Practice 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260911133000 +0200" stop="20260911153000 +0200" channel="Formula1TagHeuerSpanishGPPractice1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 1 : Tag Heuer Spanish GP - Practice 1</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="Moto2Round14SanMarinoPractice">
+    <display-name>Moto2 | Round 14 | San Marino Practice</display-name>
+  </channel>
+  <programme start="20260911000000 +0200" stop="20260911140000 +0200" channel="Moto2Round14SanMarinoPractice">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">Moto2 | Round 14 | San Marino Practice.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260911140000 +0200" stop="20260911160000 +0200" channel="Moto2Round14SanMarinoPractice">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Moto2 | Round 14 | San Marino Practice</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="Formula2TagHeuerSpanishGPQualifying">
+    <display-name>Formula 2 : Tag Heuer Spanish GP - Qualifying</display-name>
+  </channel>
+  <programme start="20260911000000 +0200" stop="20260911150000 +0200" channel="Formula2TagHeuerSpanishGPQualifying">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">Formula 2 : Tag Heuer Spanish GP - Qualifying.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260911150000 +0200" stop="20260911170000 +0200" channel="Formula2TagHeuerSpanishGPQualifying">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 2 : Tag Heuer Spanish GP - Qualifying</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="Formula1TagHeuerSpanishGPPractice2">
+    <display-name>Formula 1 : Tag Heuer Spanish GP - Practice 2</display-name>
+  </channel>
+  <programme start="20260911000000 +0200" stop="20260911170000 +0200" channel="Formula1TagHeuerSpanishGPPractice2">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">Formula 1 : Tag Heuer Spanish GP - Practice 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260911170000 +0200" stop="20260911190000 +0200" channel="Formula1TagHeuerSpanishGPPractice2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 1 : Tag Heuer Spanish GP - Practice 2</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="Formula3TagHeuerSpanishGPQualifying">
+    <display-name>Formula 3 : Tag Heuer Spanish GP - Qualifying</display-name>
+  </channel>
+  <programme start="20260911000000 +0200" stop="20260911183000 +0200" channel="Formula3TagHeuerSpanishGPQualifying">
+    <title lang="it">Inizia alle 18:30.</title>
+    <desc lang="it">Formula 3 : Tag Heuer Spanish GP - Qualifying.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260911183000 +0200" stop="20260911203000 +0200" channel="Formula3TagHeuerSpanishGPQualifying">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 3 : Tag Heuer Spanish GP - Qualifying</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="EnglishOpen">
+    <display-name>English Open</display-name>
+  </channel>
+  <programme start="20260911000000 +0200" stop="20260911110000 +0200" channel="EnglishOpen">
+    <title lang="it">Inizia alle 11:00.</title>
+    <desc lang="it">English Open.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260911110000 +0200" stop="20260911130000 +0200" channel="EnglishOpen">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">English Open</desc>
+    <category lang="it">Snooker 🎱</category>
+  </programme>
+  <programme start="20260911130000 +0200" stop="20260911140000 +0200" channel="EnglishOpen">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">English Open.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260911140000 +0200" stop="20260911160000 +0200" channel="EnglishOpen">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">English Open</desc>
+    <category lang="it">Snooker 🎱</category>
+  </programme>
+  <channel id="VueltaaEspanaStage19210VelezMalagaPenasBlancasEstepona">
+    <display-name>Vuelta a Espana Stage 19 - 210 Velez - Malaga - Penas Blancas. Estepona</display-name>
+  </channel>
+  <programme start="20260911000000 +0200" stop="20260911133000 +0200" channel="VueltaaEspanaStage19210VelezMalagaPenasBlancasEstepona">
+    <title lang="it">Inizia alle 13:30.</title>
+    <desc lang="it">Vuelta a Espana Stage 19 - 210 Velez - Malaga - Penas Blancas. Estepona.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260911133000 +0200" stop="20260911153000 +0200" channel="VueltaaEspanaStage19210VelezMalagaPenasBlancasEstepona">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Vuelta a Espana Stage 19 - 210 Velez - Malaga - Penas Blancas. Estepona</desc>
+    <category lang="it">Cycling 🚴</category>
+  </programme>
+  <channel id="EuropeanChampionshipsNetherlandsvsBelgium">
+    <display-name>European Championships : Netherlands vs Belgium</display-name>
+  </channel>
+  <programme start="20260911000000 +0200" stop="20260911160000 +0200" channel="EuropeanChampionshipsNetherlandsvsBelgium">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">European Championships : Netherlands vs Belgium.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260911160000 +0200" stop="20260911180000 +0200" channel="EuropeanChampionshipsNetherlandsvsBelgium">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">European Championships : Netherlands vs Belgium</desc>
+    <category lang="it">Volleyball 🏐</category>
+  </programme>
+  <channel id="EuropeanChampionshipsSwitzerlandvsRomania">
+    <display-name>European Championships : Switzerland vs Romania</display-name>
+  </channel>
+  <programme start="20260911000000 +0200" stop="20260911190000 +0200" channel="EuropeanChampionshipsSwitzerlandvsRomania">
+    <title lang="it">Inizia alle 19:00.</title>
+    <desc lang="it">European Championships : Switzerland vs Romania.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260911190000 +0200" stop="20260911210000 +0200" channel="EuropeanChampionshipsSwitzerlandvsRomania">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">European Championships : Switzerland vs Romania</desc>
+    <category lang="it">Volleyball 🏐</category>
+  </programme>
+  <channel id="EuropeanChampionshipsSlovakiavsSlovenia">
+    <display-name>European Championships : Slovakia vs Slovenia</display-name>
+  </channel>
+  <programme start="20260911000000 +0200" stop="20260911210000 +0200" channel="EuropeanChampionshipsSlovakiavsSlovenia">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">European Championships : Slovakia vs Slovenia.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260911210000 +0200" stop="20260911230000 +0200" channel="EuropeanChampionshipsSlovakiavsSlovenia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">European Championships : Slovakia vs Slovenia</desc>
+    <category lang="it">Volleyball 🏐</category>
+  </programme>
 </tv>
