@@ -1,106 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieBAvellinovsPalermo">
-    <display-name>⚽ 🇮🇹 Italy - Serie B : Avellino 🇮🇹 vs Palermo 🇮🇹</display-name>
-  </channel>
-  <programme start="20260913000000 +0200" stop="20260913171500 +0200" channel="ItalySerieBAvellinovsPalermo">
-    <title lang="it">Inizia alle 17:15.</title>
-    <desc lang="it">⚽ 🇮🇹 Italy - Serie B : Avellino 🇮🇹 vs Palermo 🇮🇹.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260913171500 +0200" stop="20260913191500 +0200" channel="ItalySerieBAvellinovsPalermo">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🇮🇹 Italy - Serie B : Avellino 🇮🇹 vs Palermo 🇮🇹</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
-  <channel id="ItalySerieBMantovavsSampdoria">
-    <display-name>⚽ 🇮🇹 Italy - Serie B : Mantova 🇮🇹 vs Sampdoria 🇮🇹</display-name>
-  </channel>
-  <programme start="20260913000000 +0200" stop="20260913171500 +0200" channel="ItalySerieBMantovavsSampdoria">
-    <title lang="it">Inizia alle 17:15.</title>
-    <desc lang="it">⚽ 🇮🇹 Italy - Serie B : Mantova 🇮🇹 vs Sampdoria 🇮🇹.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260913171500 +0200" stop="20260913191500 +0200" channel="ItalySerieBMantovavsSampdoria">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🇮🇹 Italy - Serie B : Mantova 🇮🇹 vs Sampdoria 🇮🇹</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
-  <channel id="EnglandPremierLeagueManchesterUnitedvsManchesterCity">
-    <display-name>⚽ 🇬🇧 England - Premier League : Manchester United 🇬🇧 vs Manchester City 🇬🇧</display-name>
-  </channel>
-  <programme start="20260913000000 +0200" stop="20260913173000 +0200" channel="EnglandPremierLeagueManchesterUnitedvsManchesterCity">
-    <title lang="it">Inizia alle 17:30.</title>
-    <desc lang="it">⚽ 🇬🇧 England - Premier League : Manchester United 🇬🇧 vs Manchester City 🇬🇧.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260913173000 +0200" stop="20260913193000 +0200" channel="EnglandPremierLeagueManchesterUnitedvsManchesterCity">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🇬🇧 England - Premier League : Manchester United 🇬🇧 vs Manchester City 🇬🇧</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
-  <channel id="ItalySerieCFolgoreCaratesevsAlcione">
-    <display-name>⚽ 🇮🇹 Italy - Serie C : Folgore Caratese 🇮🇹 vs Alcione 🇮🇹</display-name>
-  </channel>
-  <programme start="20260913000000 +0200" stop="20260913180000 +0200" channel="ItalySerieCFolgoreCaratesevsAlcione">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Folgore Caratese 🇮🇹 vs Alcione 🇮🇹.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260913180000 +0200" stop="20260913200000 +0200" channel="ItalySerieCFolgoreCaratesevsAlcione">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Folgore Caratese 🇮🇹 vs Alcione 🇮🇹</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
-  <channel id="ItalySerieCLumezzanevsRenate">
-    <display-name>⚽ 🇮🇹 Italy - Serie C : Lumezzane 🇮🇹 vs Renate 🇮🇹</display-name>
-  </channel>
-  <programme start="20260913000000 +0200" stop="20260913180000 +0200" channel="ItalySerieCLumezzanevsRenate">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Lumezzane 🇮🇹 vs Renate 🇮🇹.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260913180000 +0200" stop="20260913200000 +0200" channel="ItalySerieCLumezzanevsRenate">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Lumezzane 🇮🇹 vs Renate 🇮🇹</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
-  <channel id="ItalySerieCOspitalettovsJuventusII">
-    <display-name>⚽ 🇮🇹 Italy - Serie C : Ospitaletto 🇮🇹 vs Juventus II 🇮🇹</display-name>
-  </channel>
-  <programme start="20260913000000 +0200" stop="20260913180000 +0200" channel="ItalySerieCOspitalettovsJuventusII">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Ospitaletto 🇮🇹 vs Juventus II 🇮🇹.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260913180000 +0200" stop="20260913200000 +0200" channel="ItalySerieCOspitalettovsJuventusII">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Ospitaletto 🇮🇹 vs Juventus II 🇮🇹</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
-  <channel id="ItalySerieANapolivsBologna">
-    <display-name>⚽ 🇮🇹 Italy - Serie A : Napoli 🇮🇹 vs Bologna 🇮🇹</display-name>
-  </channel>
-  <programme start="20260913000000 +0200" stop="20260913180000 +0200" channel="ItalySerieANapolivsBologna">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Napoli 🇮🇹 vs Bologna 🇮🇹.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260913180000 +0200" stop="20260913200000 +0200" channel="ItalySerieANapolivsBologna">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Napoli 🇮🇹 vs Bologna 🇮🇹</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
-  <programme start="20260913000000 +0200" stop="20260913180000 +0200" channel="ItalySerieANapolivsBologna">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Napoli 🇮🇹 vs Bologna 🇮🇹.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260913180000 +0200" stop="20260913200000 +0200" channel="ItalySerieANapolivsBologna">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Napoli 🇮🇹 vs Bologna 🇮🇹</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
   <channel id="ItalySerieASassuolovsJuventus">
     <display-name>⚽ 🇮🇹 Italy - Serie A : Sassuolo 🇮🇹 vs Juventus 🇮🇹</display-name>
   </channel>
@@ -265,19 +164,6 @@
     <desc lang="it">🏀 FIBA Women's Basketball World Cup Final Teams : USA W 🇺🇸 vs France W 🇫🇷</desc>
     <category lang="it">Baseball Basketball 🏀</category>
   </programme>
-  <channel id="VueltaaEspanaStage2199GranadaGranada">
-    <display-name>🚴 Vuelta a Espana Stage 21 - 99 Granada - Granada</display-name>
-  </channel>
-  <programme start="20260913000000 +0200" stop="20260913160000 +0200" channel="VueltaaEspanaStage2199GranadaGranada">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">🚴 Vuelta a Espana Stage 21 - 99 Granada - Granada.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260913160000 +0200" stop="20260913180000 +0200" channel="VueltaaEspanaStage2199GranadaGranada">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🚴 Vuelta a Espana Stage 21 - 99 Granada - Granada</desc>
-    <category lang="it">Cycling 🚴</category>
-  </programme>
   <channel id="GrandPrixCyclistedeMontrealMenMontreal2144km">
     <display-name>🚴 Grand Prix Cycliste de Montreal Men | Montreal (214.4km)</display-name>
   </channel>
@@ -290,32 +176,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">🚴 Grand Prix Cycliste de Montreal Men | Montreal (214.4km)</desc>
     <category lang="it">Cycling 🚴</category>
-  </programme>
-  <channel id="EuropeanChampionshipsSwitzerlandvsTurkey">
-    <display-name>🏐 🇨🇭 European Championships : Switzerland 🇨🇭 vs Turkey 🇹🇷</display-name>
-  </channel>
-  <programme start="20260913000000 +0200" stop="20260913160000 +0200" channel="EuropeanChampionshipsSwitzerlandvsTurkey">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">🏐 🇨🇭 European Championships : Switzerland 🇨🇭 vs Turkey 🇹🇷.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260913160000 +0200" stop="20260913180000 +0200" channel="EuropeanChampionshipsSwitzerlandvsTurkey">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏐 🇨🇭 European Championships : Switzerland 🇨🇭 vs Turkey 🇹🇷</desc>
-    <category lang="it">Volleyball 🏐</category>
-  </programme>
-  <channel id="EuropeanChampionshipsFinlandvsSerbia">
-    <display-name>🏐 🇫🇮 European Championships : Finland 🇫🇮 vs Serbia 🇷🇸</display-name>
-  </channel>
-  <programme start="20260913000000 +0200" stop="20260913170000 +0200" channel="EuropeanChampionshipsFinlandvsSerbia">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">🏐 🇫🇮 European Championships : Finland 🇫🇮 vs Serbia 🇷🇸.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260913170000 +0200" stop="20260913190000 +0200" channel="EuropeanChampionshipsFinlandvsSerbia">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏐 🇫🇮 European Championships : Finland 🇫🇮 vs Serbia 🇷🇸</desc>
-    <category lang="it">Volleyball 🏐</category>
   </programme>
   <channel id="EuropeanChampionshipsItalyvsSlovakia">
     <display-name>🏐 🇮🇹 European Championships : Italy 🇮🇹 vs Slovakia 🇸🇰</display-name>
