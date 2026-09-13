@@ -137,6 +137,16 @@
     <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Lecce 🇮🇹 vs Monza 🇮🇹</desc>
     <category lang="it">All Soccer Events ⚽</category>
   </programme>
+  <programme start="20260913000000 +0200" stop="20260913150000 +0200" channel="ItalySerieALeccevsMonza">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Lecce 🇮🇹 vs Monza 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260913150000 +0200" stop="20260913170000 +0200" channel="ItalySerieALeccevsMonza">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Lecce 🇮🇹 vs Monza 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
   <channel id="ItalySerieBAvellinovsPalermo">
     <display-name>⚽ 🇮🇹 Italy - Serie B : Avellino 🇮🇹 vs Palermo 🇮🇹</display-name>
   </channel>
@@ -241,6 +251,16 @@
   <channel id="ItalySerieASassuolovsJuventus">
     <display-name>⚽ 🇮🇹 Italy - Serie A : Sassuolo 🇮🇹 vs Juventus 🇮🇹</display-name>
   </channel>
+  <programme start="20260913000000 +0200" stop="20260913204500 +0200" channel="ItalySerieASassuolovsJuventus">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Sassuolo 🇮🇹 vs Juventus 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260913204500 +0200" stop="20260913224500 +0200" channel="ItalySerieASassuolovsJuventus">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Sassuolo 🇮🇹 vs Juventus 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
   <programme start="20260913000000 +0200" stop="20260913204500 +0200" channel="ItalySerieASassuolovsJuventus">
     <title lang="it">Inizia alle 20:45.</title>
     <desc lang="it">⚽ 🇮🇹 Italy - Serie A : Sassuolo 🇮🇹 vs Juventus 🇮🇹.</desc>
@@ -366,110 +386,6 @@
     <desc lang="it">🎾 US Opem Grand Slam Tennis Mens Singles Final</desc>
     <category lang="it">Tennis 🎾</category>
   </programme>
-  <channel id="WorldChampionshipChinaMX2Race1">
-    <display-name>🏍️ World Championship China | MX2 | Race 1</display-name>
-  </channel>
-  <programme start="20260913000000 +0200" stop="20260913060000 +0200" channel="WorldChampionshipChinaMX2Race1">
-    <title lang="it">Inizia alle 06:00.</title>
-    <desc lang="it">🏍️ World Championship China | MX2 | Race 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260913060000 +0200" stop="20260913080000 +0200" channel="WorldChampionshipChinaMX2Race1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏍️ World Championship China | MX2 | Race 1</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
-  <channel id="WorldChampionshipChinaMXGPRace1">
-    <display-name>🏍️ World Championship China | MXGP | Race 1</display-name>
-  </channel>
-  <programme start="20260913000000 +0200" stop="20260913070000 +0200" channel="WorldChampionshipChinaMXGPRace1">
-    <title lang="it">Inizia alle 07:00.</title>
-    <desc lang="it">🏍️ World Championship China | MXGP | Race 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260913070000 +0200" stop="20260913090000 +0200" channel="WorldChampionshipChinaMXGPRace1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏍️ World Championship China | MXGP | Race 1</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
-  <channel id="WorldChampionshipChinaMX2Race2">
-    <display-name>🏍️ World Championship China | MX2 | Race 2</display-name>
-  </channel>
-  <programme start="20260913000000 +0200" stop="20260913090000 +0200" channel="WorldChampionshipChinaMX2Race2">
-    <title lang="it">Inizia alle 09:00.</title>
-    <desc lang="it">🏍️ World Championship China | MX2 | Race 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260913090000 +0200" stop="20260913110000 +0200" channel="WorldChampionshipChinaMX2Race2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏍️ World Championship China | MX2 | Race 2</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
-  <channel id="MotoGPRound14SanMarinoWarmUp">
-    <display-name>🏍️ MotoGP | Round 14 | San Marino Warm Up</display-name>
-  </channel>
-  <programme start="20260913000000 +0200" stop="20260913093000 +0200" channel="MotoGPRound14SanMarinoWarmUp">
-    <title lang="it">Inizia alle 09:30.</title>
-    <desc lang="it">🏍️ MotoGP | Round 14 | San Marino Warm Up.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260913093000 +0200" stop="20260913113000 +0200" channel="MotoGPRound14SanMarinoWarmUp">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏍️ MotoGP | Round 14 | San Marino Warm Up</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
-  <channel id="Moto3Round14SanMarinoRace">
-    <display-name>🏍️ Moto3 | Round 14 | San Marino Race</display-name>
-  </channel>
-  <programme start="20260913000000 +0200" stop="20260913100000 +0200" channel="Moto3Round14SanMarinoRace">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">🏍️ Moto3 | Round 14 | San Marino Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260913100000 +0200" stop="20260913120000 +0200" channel="Moto3Round14SanMarinoRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏍️ Moto3 | Round 14 | San Marino Race</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
-  <channel id="WorldChampionshipChinaMXGPRace2">
-    <display-name>🏍️ World Championship China | MXGP | Race 2</display-name>
-  </channel>
-  <programme start="20260913000000 +0200" stop="20260913100000 +0200" channel="WorldChampionshipChinaMXGPRace2">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">🏍️ World Championship China | MXGP | Race 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260913100000 +0200" stop="20260913120000 +0200" channel="WorldChampionshipChinaMXGPRace2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏍️ World Championship China | MXGP | Race 2</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
-  <channel id="Formula3TagHeuerSpanishGPRace">
-    <display-name>🏎️ Formula 3 : Tag Heuer Spanish GP - Race</display-name>
-  </channel>
-  <programme start="20260913000000 +0200" stop="20260913100000 +0200" channel="Formula3TagHeuerSpanishGPRace">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">🏎️ Formula 3 : Tag Heuer Spanish GP - Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260913100000 +0200" stop="20260913120000 +0200" channel="Formula3TagHeuerSpanishGPRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏎️ Formula 3 : Tag Heuer Spanish GP - Race</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
-  <channel id="Formula2TagHeuerSpanishGPRace">
-    <display-name>🏎️ Formula 2 : Tag Heuer Spanish GP - Race</display-name>
-  </channel>
-  <programme start="20260913000000 +0200" stop="20260913112000 +0200" channel="Formula2TagHeuerSpanishGPRace">
-    <title lang="it">Inizia alle 11:20.</title>
-    <desc lang="it">🏎️ Formula 2 : Tag Heuer Spanish GP - Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260913112000 +0200" stop="20260913132000 +0200" channel="Formula2TagHeuerSpanishGPRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏎️ Formula 2 : Tag Heuer Spanish GP - Race</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
   <channel id="Moto2Round14SanMarinoRace">
     <display-name>🏍️ Moto2 | Round 14 | San Marino Race</display-name>
   </channel>
@@ -525,17 +441,7 @@
   <channel id="EnglishOpen">
     <display-name>🎱 English Open</display-name>
   </channel>
-  <programme start="20260913000000 +0200" stop="20260913110000 +0200" channel="EnglishOpen">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">🎱 English Open.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260913110000 +0200" stop="20260913130000 +0200" channel="EnglishOpen">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎱 English Open</desc>
-    <category lang="it">Snooker 🎱</category>
-  </programme>
-  <programme start="20260913130000 +0200" stop="20260913140000 +0200" channel="EnglishOpen">
+  <programme start="20260913000000 +0200" stop="20260913140000 +0200" channel="EnglishOpen">
     <title lang="it">Inizia alle 14:00.</title>
     <desc lang="it">🎱 English Open.</desc>
     <category lang="it">Annuncio</category>
@@ -556,7 +462,7 @@
   <programme start="20260913193000 +0200" stop="20260913213000 +0200" channel="Fiba3x3europecupSemifinal2">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">🏀 Fiba 3x3 europe cup : Semi-final 2</desc>
-    <category lang="it">Basketball 🏀</category>
+    <category lang="it">Baseball Basketball 🏀</category>
   </programme>
   <channel id="FIBAWomensBasketballWorldCupFinalTeamsUSAWvsFranceW">
     <display-name>🏀 FIBA Women's Basketball World Cup Final Teams : USA W 🇺🇸 vs France W 🇫🇷</display-name>
@@ -569,7 +475,7 @@
   <programme start="20260913200000 +0200" stop="20260913220000 +0200" channel="FIBAWomensBasketballWorldCupFinalTeamsUSAWvsFranceW">
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">🏀 FIBA Women's Basketball World Cup Final Teams : USA W 🇺🇸 vs France W 🇫🇷</desc>
-    <category lang="it">Basketball 🏀</category>
+    <category lang="it">Baseball Basketball 🏀</category>
   </programme>
   <channel id="VueltaaEspanaStage2199GranadaGranada">
     <display-name>🚴 Vuelta a Espana Stage 21 - 99 Granada - Granada</display-name>
