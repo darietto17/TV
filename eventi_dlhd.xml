@@ -1,31 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="GermanyBundesligaBayernMnchenvsUnionBerlin">
-    <display-name>⚽ 🇩🇪 Germany - Bundesliga : Bayern München 🇩🇪 vs Union Berlin 🇩🇪</display-name>
-  </channel>
-  <programme start="20260918000000 +0200" stop="20260918203000 +0200" channel="GermanyBundesligaBayernMnchenvsUnionBerlin">
-    <title lang="it">Inizia alle 20:30.</title>
-    <desc lang="it">⚽ 🇩🇪 Germany - Bundesliga : Bayern München 🇩🇪 vs Union Berlin 🇩🇪.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260918203000 +0200" stop="20260918223000 +0200" channel="GermanyBundesligaBayernMnchenvsUnionBerlin">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🇩🇪 Germany - Bundesliga : Bayern München 🇩🇪 vs Union Berlin 🇩🇪</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
-  <channel id="ItalySerieBJuveStabiavsCesena">
-    <display-name>⚽ 🇮🇹 Italy - Serie B : Juve Stabia 🇮🇹 vs Cesena 🇮🇹</display-name>
-  </channel>
-  <programme start="20260918000000 +0200" stop="20260918203000 +0200" channel="ItalySerieBJuveStabiavsCesena">
-    <title lang="it">Inizia alle 20:30.</title>
-    <desc lang="it">⚽ 🇮🇹 Italy - Serie B : Juve Stabia 🇮🇹 vs Cesena 🇮🇹.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260918203000 +0200" stop="20260918223000 +0200" channel="ItalySerieBJuveStabiavsCesena">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🇮🇹 Italy - Serie B : Juve Stabia 🇮🇹 vs Cesena 🇮🇹</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
   <channel id="ItalySerieAMonzavsSassuolo">
     <display-name>⚽ 🇮🇹 Italy - Serie A : Monza 🇮🇹 vs Sassuolo 🇮🇹</display-name>
   </channel>
@@ -71,31 +45,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">⚽ 🇬🇧 England - Premier League : Brentford 🇬🇧 vs Chelsea 🇬🇧</desc>
     <category lang="it">All Soccer Events ⚽</category>
-  </programme>
-  <channel id="WTA500GuadalajaraWTA250SoPaulo">
-    <display-name>🎾 WTA 500 Guadalajara / WTA 250 São Paulo</display-name>
-  </channel>
-  <programme start="20260918000000 +0200" stop="20260918180000 +0200" channel="WTA500GuadalajaraWTA250SoPaulo">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">🎾 WTA 500 Guadalajara / WTA 250 São Paulo.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260918180000 +0200" stop="20260918200000 +0200" channel="WTA500GuadalajaraWTA250SoPaulo">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎾 WTA 500 Guadalajara / WTA 250 São Paulo</desc>
-    <category lang="it">Tennis 🎾</category>
-  </programme>
-  <channel id="TourofLuxembourgStage3MenDifferdangeNiederkornJunglinster1668km">
-    <display-name>🚴 Tour of Luxembourg | Stage 3 Men | Differdange/Niederkorn - Junglinster (166.8 km)</display-name>
-  </channel>
-  <programme start="20260918000000 +0200" stop="20260918161500 +0200" channel="TourofLuxembourgStage3MenDifferdangeNiederkornJunglinster1668km">
-    <title lang="it">Inizia alle 16:15.</title>
-    <desc lang="it">🚴 Tour of Luxembourg | Stage 3 Men | Differdange/Niederkorn - Junglinster (166.8 km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260918161500 +0200" stop="20260918181500 +0200" channel="TourofLuxembourgStage3MenDifferdangeNiederkornJunglinster1668km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🚴 Tour of Luxembourg | Stage 3 Men | Differdange/Niederkorn - Junglinster (166.8 km)</desc>
-    <category lang="it">Cycling 🚴</category>
   </programme>
 </tv>
