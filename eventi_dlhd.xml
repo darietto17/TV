@@ -1,3 +1,166 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ItalySerieCDolomitiBellunesivsLumezzane">
+    <display-name>⚽ 🇮🇹 Italy - Serie C : Dolomiti Bellunesi 🇮🇹 vs Lumezzane 🇮🇹</display-name>
+  </channel>
+  <programme start="20260921000000 +0200" stop="20260921203000 +0200" channel="ItalySerieCDolomitiBellunesivsLumezzane">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Dolomiti Bellunesi 🇮🇹 vs Lumezzane 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260921203000 +0200" stop="20260921223000 +0200" channel="ItalySerieCDolomitiBellunesivsLumezzane">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Dolomiti Bellunesi 🇮🇹 vs Lumezzane 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalySerieCTrentovsProVercelli">
+    <display-name>⚽ 🇮🇹 Italy - Serie C : Trento 🇮🇹 vs Pro Vercelli 🇮🇹</display-name>
+  </channel>
+  <programme start="20260921000000 +0200" stop="20260921203000 +0200" channel="ItalySerieCTrentovsProVercelli">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Trento 🇮🇹 vs Pro Vercelli 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260921203000 +0200" stop="20260921223000 +0200" channel="ItalySerieCTrentovsProVercelli">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Trento 🇮🇹 vs Pro Vercelli 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalySerieCTrevisovsDesenzanoCalvina">
+    <display-name>⚽ 🇮🇹 Italy - Serie C : Treviso 🇮🇹 vs Desenzano Calvina 🇮🇹</display-name>
+  </channel>
+  <programme start="20260921000000 +0200" stop="20260921203000 +0200" channel="ItalySerieCTrevisovsDesenzanoCalvina">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Treviso 🇮🇹 vs Desenzano Calvina 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260921203000 +0200" stop="20260921223000 +0200" channel="ItalySerieCTrevisovsDesenzanoCalvina">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Treviso 🇮🇹 vs Desenzano Calvina 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalySerieCNuovaMonterosivsLivorno">
+    <display-name>⚽ 🇮🇹 Italy - Serie C : Nuova Monterosi 🇮🇹 vs Livorno 🇮🇹</display-name>
+  </channel>
+  <programme start="20260921000000 +0200" stop="20260921203000 +0200" channel="ItalySerieCNuovaMonterosivsLivorno">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Nuova Monterosi 🇮🇹 vs Livorno 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260921203000 +0200" stop="20260921223000 +0200" channel="ItalySerieCNuovaMonterosivsLivorno">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Nuova Monterosi 🇮🇹 vs Livorno 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20260921000000 +0200" stop="20260921203000 +0200" channel="ItalySerieCNuovaMonterosivsLivorno">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Nuova Monterosi 🇮🇹 vs Livorno 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260921203000 +0200" stop="20260921223000 +0200" channel="ItalySerieCNuovaMonterosivsLivorno">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Nuova Monterosi 🇮🇹 vs Livorno 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalySerieCPianesevsSambenedettese">
+    <display-name>⚽ 🇮🇹 Italy - Serie C : Pianese 🇮🇹 vs Sambenedettese 🇮🇹</display-name>
+  </channel>
+  <programme start="20260921000000 +0200" stop="20260921203000 +0200" channel="ItalySerieCPianesevsSambenedettese">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Pianese 🇮🇹 vs Sambenedettese 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260921203000 +0200" stop="20260921223000 +0200" channel="ItalySerieCPianesevsSambenedettese">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Pianese 🇮🇹 vs Sambenedettese 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalySerieCSpeziavsVisPesaro">
+    <display-name>⚽ 🇮🇹 Italy - Serie C : Spezia 🇮🇹 vs Vis Pesaro 🇮🇹</display-name>
+  </channel>
+  <programme start="20260921000000 +0200" stop="20260921203000 +0200" channel="ItalySerieCSpeziavsVisPesaro">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Spezia 🇮🇹 vs Vis Pesaro 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260921203000 +0200" stop="20260921223000 +0200" channel="ItalySerieCSpeziavsVisPesaro">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Spezia 🇮🇹 vs Vis Pesaro 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20260921000000 +0200" stop="20260921203000 +0200" channel="ItalySerieCSpeziavsVisPesaro">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Spezia 🇮🇹 vs Vis Pesaro 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260921203000 +0200" stop="20260921223000 +0200" channel="ItalySerieCSpeziavsVisPesaro">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Spezia 🇮🇹 vs Vis Pesaro 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="SeoulWTAampSingaporeWTAEarlyRounds">
+    <display-name>🎾 Seoul-WTA &amp; Singapore-WTA Early Rounds</display-name>
+  </channel>
+  <programme start="20260921000000 +0200" stop="20260921050000 +0200" channel="SeoulWTAampSingaporeWTAEarlyRounds">
+    <title lang="it">Inizia alle 05:00.</title>
+    <desc lang="it">🎾 Seoul-WTA &amp; Singapore-WTA Early Rounds.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260921050000 +0200" stop="20260921070000 +0200" channel="SeoulWTAampSingaporeWTAEarlyRounds">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 Seoul-WTA &amp; Singapore-WTA Early Rounds</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <channel id="EuropeanChampionshipSofiaDay5Session1">
+    <display-name>🥊 European Championship | Sofia Day 5 | Session 1</display-name>
+  </channel>
+  <programme start="20260921000000 +0200" stop="20260921123000 +0200" channel="EuropeanChampionshipSofiaDay5Session1">
+    <title lang="it">Inizia alle 12:30.</title>
+    <desc lang="it">🥊 European Championship | Sofia Day 5 | Session 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260921123000 +0200" stop="20260921143000 +0200" channel="EuropeanChampionshipSofiaDay5Session1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🥊 European Championship | Sofia Day 5 | Session 1</desc>
+    <category lang="it">Boxing 🥊</category>
+  </programme>
+  <channel id="EuropeanChampionshipSofiaDay5Session2">
+    <display-name>🥊 European Championship | Sofia Day 5 | Session 2</display-name>
+  </channel>
+  <programme start="20260921000000 +0200" stop="20260921170000 +0200" channel="EuropeanChampionshipSofiaDay5Session2">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">🥊 European Championship | Sofia Day 5 | Session 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260921170000 +0200" stop="20260921190000 +0200" channel="EuropeanChampionshipSofiaDay5Session2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🥊 European Championship | Sofia Day 5 | Session 2</desc>
+    <category lang="it">Boxing 🥊</category>
+  </programme>
+  <channel id="UCIRoadWorldChampionshipsWomenU23ITTMontreal392km">
+    <display-name>🚴 UCI Road World Championships Women U23 ITT | Montreal (39.2km)</display-name>
+  </channel>
+  <programme start="20260921000000 +0200" stop="20260921144500 +0200" channel="UCIRoadWorldChampionshipsWomenU23ITTMontreal392km">
+    <title lang="it">Inizia alle 14:45.</title>
+    <desc lang="it">🚴 UCI Road World Championships Women U23 ITT | Montreal (39.2km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260921144500 +0200" stop="20260921164500 +0200" channel="UCIRoadWorldChampionshipsWomenU23ITTMontreal392km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 UCI Road World Championships Women U23 ITT | Montreal (39.2km)</desc>
+    <category lang="it">Cycling 🚴</category>
+  </programme>
+  <channel id="UCIRoadWorldChampionshipsMenU23ITTMontreal392km">
+    <display-name>🚴 UCI Road World Championships Men U23 ITT | Montreal (39.2km)</display-name>
+  </channel>
+  <programme start="20260921000000 +0200" stop="20260921174500 +0200" channel="UCIRoadWorldChampionshipsMenU23ITTMontreal392km">
+    <title lang="it">Inizia alle 17:45.</title>
+    <desc lang="it">🚴 UCI Road World Championships Men U23 ITT | Montreal (39.2km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260921174500 +0200" stop="20260921194500 +0200" channel="UCIRoadWorldChampionshipsMenU23ITTMontreal392km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 UCI Road World Championships Men U23 ITT | Montreal (39.2km)</desc>
+    <category lang="it">Cycling 🚴</category>
+  </programme>
 </tv>
