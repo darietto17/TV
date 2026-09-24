@@ -1,3 +1,195 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="UEFANationsLeagueAndorravsMalta">
+    <display-name>⚽ UEFA Nations League : Andorra 🇦🇩 vs Malta 🇲🇹</display-name>
+  </channel>
+  <programme start="20260924000000 +0200" stop="20260924180000 +0200" channel="UEFANationsLeagueAndorravsMalta">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">⚽ UEFA Nations League : Andorra 🇦🇩 vs Malta 🇲🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260924180000 +0200" stop="20260924200000 +0200" channel="UEFANationsLeagueAndorravsMalta">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Nations League : Andorra 🇦🇩 vs Malta 🇲🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="UEFANationsLeagueSimulcast">
+    <display-name>⚽ UEFA Nations League : Simulcast</display-name>
+  </channel>
+  <programme start="20260924000000 +0200" stop="20260924204500 +0200" channel="UEFANationsLeagueSimulcast">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ UEFA Nations League : Simulcast.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260924204500 +0200" stop="20260924224500 +0200" channel="UEFANationsLeagueSimulcast">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Nations League : Simulcast</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="UEFANationsLeagueNetherlandsvsGermany">
+    <display-name>⚽ UEFA Nations League : Netherlands 🇳🇱 vs Germany 🇩🇪</display-name>
+  </channel>
+  <programme start="20260924000000 +0200" stop="20260924204500 +0200" channel="UEFANationsLeagueNetherlandsvsGermany">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ UEFA Nations League : Netherlands 🇳🇱 vs Germany 🇩🇪.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260924204500 +0200" stop="20260924224500 +0200" channel="UEFANationsLeagueNetherlandsvsGermany">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Nations League : Netherlands 🇳🇱 vs Germany 🇩🇪</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20260924000000 +0200" stop="20260924204500 +0200" channel="UEFANationsLeagueNetherlandsvsGermany">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ UEFA Nations League : Netherlands 🇳🇱 vs Germany 🇩🇪.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260924204500 +0200" stop="20260924224500 +0200" channel="UEFANationsLeagueNetherlandsvsGermany">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Nations League : Netherlands 🇳🇱 vs Germany 🇩🇪</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="UEFANationsLeagueNorwayvsDenmark">
+    <display-name>⚽ UEFA Nations League : Norway 🇳🇴 vs Denmark 🇩🇰</display-name>
+  </channel>
+  <programme start="20260924000000 +0200" stop="20260924204500 +0200" channel="UEFANationsLeagueNorwayvsDenmark">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ UEFA Nations League : Norway 🇳🇴 vs Denmark 🇩🇰.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260924204500 +0200" stop="20260924224500 +0200" channel="UEFANationsLeagueNorwayvsDenmark">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Nations League : Norway 🇳🇴 vs Denmark 🇩🇰</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="WTA500SingaporeWTA250SeoulATP250ChengduATP250Hangzhou">
+    <display-name>🎾 WTA 500 Singapore / WTA 250 Seoul / ATP 250 Chengdu / ATP 250 Hangzhou</display-name>
+  </channel>
+  <programme start="20260924000000 +0200" stop="20260924050000 +0200" channel="WTA500SingaporeWTA250SeoulATP250ChengduATP250Hangzhou">
+    <title lang="it">Inizia alle 05:00.</title>
+    <desc lang="it">🎾 WTA 500 Singapore / WTA 250 Seoul / ATP 250 Chengdu / ATP 250 Hangzhou.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260924050000 +0200" stop="20260924070000 +0200" channel="WTA500SingaporeWTA250SeoulATP250ChengduATP250Hangzhou">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 WTA 500 Singapore / WTA 250 Seoul / ATP 250 Chengdu / ATP 250 Hangzhou</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <channel id="Formula2QatarAirwaysAzerbaijanGPPractice">
+    <display-name>🏎️ Formula 2 : Qatar Airways Azerbaijan GP - Practice</display-name>
+  </channel>
+  <programme start="20260924000000 +0200" stop="20260924080000 +0200" channel="Formula2QatarAirwaysAzerbaijanGPPractice">
+    <title lang="it">Inizia alle 08:00.</title>
+    <desc lang="it">🏎️ Formula 2 : Qatar Airways Azerbaijan GP - Practice.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260924080000 +0200" stop="20260924100000 +0200" channel="Formula2QatarAirwaysAzerbaijanGPPractice">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ Formula 2 : Qatar Airways Azerbaijan GP - Practice</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="Formula1QatarAirwaysAzerbaijanGPPractice1">
+    <display-name>🏎️ Formula 1 : Qatar Airways Azerbaijan GP - Practice 1</display-name>
+  </channel>
+  <programme start="20260924000000 +0200" stop="20260924103000 +0200" channel="Formula1QatarAirwaysAzerbaijanGPPractice1">
+    <title lang="it">Inizia alle 10:30.</title>
+    <desc lang="it">🏎️ Formula 1 : Qatar Airways Azerbaijan GP - Practice 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260924103000 +0200" stop="20260924123000 +0200" channel="Formula1QatarAirwaysAzerbaijanGPPractice1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ Formula 1 : Qatar Airways Azerbaijan GP - Practice 1</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="Formula2QatarAirwaysAzerbaijanGPQualifying">
+    <display-name>🏎️ Formula 2 : Qatar Airways Azerbaijan GP - Qualifying</display-name>
+  </channel>
+  <programme start="20260924000000 +0200" stop="20260924120000 +0200" channel="Formula2QatarAirwaysAzerbaijanGPQualifying">
+    <title lang="it">Inizia alle 12:00.</title>
+    <desc lang="it">🏎️ Formula 2 : Qatar Airways Azerbaijan GP - Qualifying.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260924120000 +0200" stop="20260924140000 +0200" channel="Formula2QatarAirwaysAzerbaijanGPQualifying">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ Formula 2 : Qatar Airways Azerbaijan GP - Qualifying</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="Formula1QatarAirwaysAzerbaijanGPPractice2">
+    <display-name>🏎️ Formula 1 : Qatar Airways Azerbaijan GP - Practice 2</display-name>
+  </channel>
+  <programme start="20260924000000 +0200" stop="20260924140000 +0200" channel="Formula1QatarAirwaysAzerbaijanGPPractice2">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">🏎️ Formula 1 : Qatar Airways Azerbaijan GP - Practice 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260924140000 +0200" stop="20260924160000 +0200" channel="Formula1QatarAirwaysAzerbaijanGPPractice2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ Formula 1 : Qatar Airways Azerbaijan GP - Practice 2</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="EuropeanChampionshipSofiaDay8Session1">
+    <display-name>🥊 🇧🇬 European Championship | Sofia Day 8 | Session 1</display-name>
+  </channel>
+  <programme start="20260924000000 +0200" stop="20260924123000 +0200" channel="EuropeanChampionshipSofiaDay8Session1">
+    <title lang="it">Inizia alle 12:30.</title>
+    <desc lang="it">🥊 🇧🇬 European Championship | Sofia Day 8 | Session 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260924123000 +0200" stop="20260924143000 +0200" channel="EuropeanChampionshipSofiaDay8Session1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🥊 🇧🇬 European Championship | Sofia Day 8 | Session 1</desc>
+    <category lang="it">Boxing 🥊</category>
+  </programme>
+  <channel id="EuropeanChampionshipSofiaDay8Session2">
+    <display-name>🥊 🇧🇬 European Championship | Sofia Day 8 | Session 2</display-name>
+  </channel>
+  <programme start="20260924000000 +0200" stop="20260924170000 +0200" channel="EuropeanChampionshipSofiaDay8Session2">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">🥊 🇧🇬 European Championship | Sofia Day 8 | Session 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260924170000 +0200" stop="20260924190000 +0200" channel="EuropeanChampionshipSofiaDay8Session2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🥊 🇧🇬 European Championship | Sofia Day 8 | Session 2</desc>
+    <category lang="it">Boxing 🥊</category>
+  </programme>
+  <channel id="UCIRoadWorldChampionshipsU23WomensRoadRaceMontral134km">
+    <display-name>🚴 🇨🇦 UCI Road World Championships U23 Women's Road Race | Montréal (134km)</display-name>
+  </channel>
+  <programme start="20260924000000 +0200" stop="20260924144500 +0200" channel="UCIRoadWorldChampionshipsU23WomensRoadRaceMontral134km">
+    <title lang="it">Inizia alle 14:45.</title>
+    <desc lang="it">🚴 🇨🇦 UCI Road World Championships U23 Women's Road Race | Montréal (134km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260924144500 +0200" stop="20260924164500 +0200" channel="UCIRoadWorldChampionshipsU23WomensRoadRaceMontral134km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 🇨🇦 UCI Road World Championships U23 Women's Road Race | Montréal (134km)</desc>
+    <category lang="it">Cycling 🚴</category>
+  </programme>
+  <channel id="WorldRoadChampionshipsWorldRoadChampionshipsWomensU23race134km">
+    <display-name>🚴 🇨🇦 World Road Championships World Road Championships. Women's U23 race (134 km).</display-name>
+  </channel>
+  <programme start="20260924000000 +0200" stop="20260924170000 +0200" channel="WorldRoadChampionshipsWorldRoadChampionshipsWomensU23race134km">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">🚴 🇨🇦 World Road Championships World Road Championships. Women's U23 race (134 km)..</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260924170000 +0200" stop="20260924190000 +0200" channel="WorldRoadChampionshipsWorldRoadChampionshipsWomensU23race134km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 🇨🇦 World Road Championships World Road Championships. Women's U23 race (134 km).</desc>
+    <category lang="it">Cycling 🚴</category>
+  </programme>
+  <channel id="UCIRoadWorldChampionshipsMontralMensJuniorRoadRace">
+    <display-name>🚴 🇨🇦 UCI Road World Championships : Montréal: Men's Junior Road Race</display-name>
+  </channel>
+  <programme start="20260924000000 +0200" stop="20260924193000 +0200" channel="UCIRoadWorldChampionshipsMontralMensJuniorRoadRace">
+    <title lang="it">Inizia alle 19:30.</title>
+    <desc lang="it">🚴 🇨🇦 UCI Road World Championships : Montréal: Men's Junior Road Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260924193000 +0200" stop="20260924213000 +0200" channel="UCIRoadWorldChampionshipsMontralMensJuniorRoadRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 🇨🇦 UCI Road World Championships : Montréal: Men's Junior Road Race</desc>
+    <category lang="it">Cycling 🚴</category>
+  </programme>
 </tv>
