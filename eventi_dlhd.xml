@@ -1,3 +1,169 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="UEFANationsLeagueSimulcast">
+    <display-name>⚽ 🇪🇺 UEFA Nations League : Simulcast</display-name>
+  </channel>
+  <programme start="20260925000000 +0200" stop="20260925204500 +0200" channel="UEFANationsLeagueSimulcast">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ 🇪🇺 UEFA Nations League : Simulcast.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260925204500 +0200" stop="20260925224500 +0200" channel="UEFANationsLeagueSimulcast">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇪🇺 UEFA Nations League : Simulcast</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="UEFANationsLeagueItalyvsBelgium">
+    <display-name>⚽ 🇪🇺 UEFA Nations League : Italy 🇮🇹 vs Belgium 🇧🇪</display-name>
+  </channel>
+  <programme start="20260925000000 +0200" stop="20260925204500 +0200" channel="UEFANationsLeagueItalyvsBelgium">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ 🇪🇺 UEFA Nations League : Italy 🇮🇹 vs Belgium 🇧🇪.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260925204500 +0200" stop="20260925224500 +0200" channel="UEFANationsLeagueItalyvsBelgium">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇪🇺 UEFA Nations League : Italy 🇮🇹 vs Belgium 🇧🇪</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="UEFANationsLeagueTurkeyvsFrance">
+    <display-name>⚽ 🇪🇺 UEFA Nations League : Turkey 🇹🇷 vs France 🇫🇷</display-name>
+  </channel>
+  <programme start="20260925000000 +0200" stop="20260925204500 +0200" channel="UEFANationsLeagueTurkeyvsFrance">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ 🇪🇺 UEFA Nations League : Turkey 🇹🇷 vs France 🇫🇷.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260925204500 +0200" stop="20260925224500 +0200" channel="UEFANationsLeagueTurkeyvsFrance">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇪🇺 UEFA Nations League : Turkey 🇹🇷 vs France 🇫🇷</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="LaverCupMatch2Day1">
+    <display-name>🎾 🌍 Laver Cup | Match 2 | Day 1 🌍</display-name>
+  </channel>
+  <programme start="20260925000000 +0200" stop="20260925160000 +0200" channel="LaverCupMatch2Day1">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">🎾 🌍 Laver Cup | Match 2 | Day 1 🌍.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260925160000 +0200" stop="20260925180000 +0200" channel="LaverCupMatch2Day1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 🌍 Laver Cup | Match 2 | Day 1 🌍</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <channel id="LaverCupMatch3Day1">
+    <display-name>🎾 🌍 Laver Cup | Match 3 | Day 1 🌍</display-name>
+  </channel>
+  <programme start="20260925000000 +0200" stop="20260925200000 +0200" channel="LaverCupMatch3Day1">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">🎾 🌍 Laver Cup | Match 3 | Day 1 🌍.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260925200000 +0200" stop="20260925220000 +0200" channel="LaverCupMatch3Day1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 🌍 Laver Cup | Match 3 | Day 1 🌍</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <channel id="Formula1QatarAirwaysAzerbaijanGPPractice3">
+    <display-name>🏎️ 🇦🇿 Formula 1 : Qatar Airways Azerbaijan GP - Practice 3 🇦🇿</display-name>
+  </channel>
+  <programme start="20260925000000 +0200" stop="20260925103000 +0200" channel="Formula1QatarAirwaysAzerbaijanGPPractice3">
+    <title lang="it">Inizia alle 10:30.</title>
+    <desc lang="it">🏎️ 🇦🇿 Formula 1 : Qatar Airways Azerbaijan GP - Practice 3 🇦🇿.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260925103000 +0200" stop="20260925123000 +0200" channel="Formula1QatarAirwaysAzerbaijanGPPractice3">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ 🇦🇿 Formula 1 : Qatar Airways Azerbaijan GP - Practice 3 🇦🇿</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="Formula2QatarAirwaysAzerbaijanGPRace">
+    <display-name>🏎️ 🇦🇿 Formula 2 : Qatar Airways Azerbaijan GP - Race 🇦🇿</display-name>
+  </channel>
+  <programme start="20260925000000 +0200" stop="20260925121500 +0200" channel="Formula2QatarAirwaysAzerbaijanGPRace">
+    <title lang="it">Inizia alle 12:15.</title>
+    <desc lang="it">🏎️ 🇦🇿 Formula 2 : Qatar Airways Azerbaijan GP - Race 🇦🇿.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260925121500 +0200" stop="20260925141500 +0200" channel="Formula2QatarAirwaysAzerbaijanGPRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ 🇦🇿 Formula 2 : Qatar Airways Azerbaijan GP - Race 🇦🇿</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="Formula1QatarAirwaysAzerbaijanGPQualifying">
+    <display-name>🏎️ 🇦🇿 Formula 1 : Qatar Airways Azerbaijan GP - Qualifying 🇦🇿</display-name>
+  </channel>
+  <programme start="20260925000000 +0200" stop="20260925140000 +0200" channel="Formula1QatarAirwaysAzerbaijanGPQualifying">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">🏎️ 🇦🇿 Formula 1 : Qatar Airways Azerbaijan GP - Qualifying 🇦🇿.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260925140000 +0200" stop="20260925160000 +0200" channel="Formula1QatarAirwaysAzerbaijanGPQualifying">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ 🇦🇿 Formula 1 : Qatar Airways Azerbaijan GP - Qualifying 🇦🇿</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="EuropeanChampionshipSofiaDay9Finals">
+    <display-name>🥊 🇧🇬 European Championship | Sofia Day 9 | Finals 🇧🇬</display-name>
+  </channel>
+  <programme start="20260925000000 +0200" stop="20260925160000 +0200" channel="EuropeanChampionshipSofiaDay9Finals">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">🥊 🇧🇬 European Championship | Sofia Day 9 | Finals 🇧🇬.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260925160000 +0200" stop="20260925180000 +0200" channel="EuropeanChampionshipSofiaDay9Finals">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🥊 🇧🇬 European Championship | Sofia Day 9 | Finals 🇧🇬</desc>
+    <category lang="it">Boxing 🥊</category>
+  </programme>
+  <programme start="20260925000000 +0200" stop="20260925180000 +0200" channel="EuropeanChampionshipSofiaDay9Finals">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">🥊 🇧🇬 European Championship | Sofia Day 9 | Finals 🇧🇬.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260925180000 +0200" stop="20260925200000 +0200" channel="EuropeanChampionshipSofiaDay9Finals">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🥊 🇧🇬 European Championship | Sofia Day 9 | Finals 🇧🇬</desc>
+    <category lang="it">Boxing 🥊</category>
+  </programme>
+  <channel id="AmericasCupPreliminaryRegatta">
+    <display-name>⛵ 🇫🇷 America's Cup, Preliminary Regatta 🇫🇷</display-name>
+  </channel>
+  <programme start="20260925000000 +0200" stop="20260925140000 +0200" channel="AmericasCupPreliminaryRegatta">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">⛵ 🇫🇷 America's Cup, Preliminary Regatta 🇫🇷.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260925140000 +0200" stop="20260925160000 +0200" channel="AmericasCupPreliminaryRegatta">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⛵ 🇫🇷 America's Cup, Preliminary Regatta 🇫🇷</desc>
+    <category lang="it">Sailing ⛵/ Boating 🚤</category>
+  </programme>
+  <channel id="RoadCyclingWorldChampionshipsMensU23RoadRace">
+    <display-name>🚴 🇨🇦 Road Cycling World Championships Men's U23 Road Race 🇨🇦</display-name>
+  </channel>
+  <programme start="20260925000000 +0200" stop="20260925171500 +0200" channel="RoadCyclingWorldChampionshipsMensU23RoadRace">
+    <title lang="it">Inizia alle 17:15.</title>
+    <desc lang="it">🚴 🇨🇦 Road Cycling World Championships Men's U23 Road Race 🇨🇦.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260925171500 +0200" stop="20260925191500 +0200" channel="RoadCyclingWorldChampionshipsMensU23RoadRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 🇨🇦 Road Cycling World Championships Men's U23 Road Race 🇨🇦</desc>
+    <category lang="it">Cycling 🚴</category>
+  </programme>
+  <channel id="MensVolleyballEuropeanChampionship2026semifinalFinlandvsFrance">
+    <display-name>🏐 Men's Volleyball European Championship 2026 semi-final : 🇫🇮 Finland vs 🇫🇷 France</display-name>
+  </channel>
+  <programme start="20260925000000 +0200" stop="20260925204500 +0200" channel="MensVolleyballEuropeanChampionship2026semifinalFinlandvsFrance">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">🏐 Men's Volleyball European Championship 2026 semi-final : 🇫🇮 Finland vs 🇫🇷 France.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260925204500 +0200" stop="20260925224500 +0200" channel="MensVolleyballEuropeanChampionship2026semifinalFinlandvsFrance">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏐 Men's Volleyball European Championship 2026 semi-final : 🇫🇮 Finland vs 🇫🇷 France</desc>
+    <category lang="it">European Championship Volleyball 🏐</category>
+  </programme>
 </tv>
