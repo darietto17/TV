@@ -1,44 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieCBarlettavsPotenzaCalcio">
-    <display-name>⚽ 🇮🇹 Italy - Serie C : Barletta 🇮🇹 vs Potenza Calcio 🇮🇹</display-name>
-  </channel>
-  <programme start="20260927000000 +0200" stop="20260927123000 +0200" channel="ItalySerieCBarlettavsPotenzaCalcio">
-    <title lang="it">Inizia alle 12:30.</title>
-    <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Barletta 🇮🇹 vs Potenza Calcio 🇮🇹.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260927123000 +0200" stop="20260927143000 +0200" channel="ItalySerieCBarlettavsPotenzaCalcio">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Barletta 🇮🇹 vs Potenza Calcio 🇮🇹</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
-  <channel id="ItalySerieCCasertanavsCatania">
-    <display-name>⚽ 🇮🇹 Italy - Serie C : Casertana 🇮🇹 vs Catania 🇮🇹</display-name>
-  </channel>
-  <programme start="20260927000000 +0200" stop="20260927123000 +0200" channel="ItalySerieCCasertanavsCatania">
-    <title lang="it">Inizia alle 12:30.</title>
-    <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Casertana 🇮🇹 vs Catania 🇮🇹.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260927123000 +0200" stop="20260927143000 +0200" channel="ItalySerieCCasertanavsCatania">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🇮🇹 Italy - Serie C : Casertana 🇮🇹 vs Catania 🇮🇹</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
-  <channel id="ItalySerieAwomenInterMilanovsFiorentina">
-    <display-name>⚽ 🇮🇹 Italy - Serie A (women) : Inter Milano 🇮🇹 vs Fiorentina 🇮🇹</display-name>
-  </channel>
-  <programme start="20260927000000 +0200" stop="20260927130000 +0200" channel="ItalySerieAwomenInterMilanovsFiorentina">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">⚽ 🇮🇹 Italy - Serie A (women) : Inter Milano 🇮🇹 vs Fiorentina 🇮🇹.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260927130000 +0200" stop="20260927150000 +0200" channel="ItalySerieAwomenInterMilanovsFiorentina">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🇮🇹 Italy - Serie A (women) : Inter Milano 🇮🇹 vs Fiorentina 🇮🇹</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
   <channel id="ItalySerieCUnionBresciavsDolomitiBellunesi">
     <display-name>⚽ 🇮🇹 Italy - Serie C : Union Brescia 🇮🇹 vs Dolomiti Bellunesi 🇮🇹</display-name>
   </channel>
@@ -286,19 +247,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">⚽ UEFA Nations League : Norway 🇳🇴 vs Portugal 🇵🇹</desc>
     <category lang="it">All Soccer Events ⚽</category>
-  </programme>
-  <channel id="LaverCupMatch1Day3">
-    <display-name>🎾 Laver Cup | Match 1 | Day 3</display-name>
-  </channel>
-  <programme start="20260927000000 +0200" stop="20260927124500 +0200" channel="LaverCupMatch1Day3">
-    <title lang="it">Inizia alle 12:45.</title>
-    <desc lang="it">🎾 Laver Cup | Match 1 | Day 3.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260927124500 +0200" stop="20260927144500 +0200" channel="LaverCupMatch1Day3">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎾 Laver Cup | Match 1 | Day 3</desc>
-    <category lang="it">Tennis 🎾</category>
   </programme>
   <channel id="LaverCupMatch2Day3">
     <display-name>🎾 Laver Cup | Match 2 | Day 3</display-name>
