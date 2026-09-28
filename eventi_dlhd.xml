@@ -36,32 +36,6 @@
     <desc lang="it">⚽ 🇹🇷 UEFA Nations League : Turkey 🇹🇷 vs Italy 🇮🇹</desc>
     <category lang="it">All Soccer Events ⚽</category>
   </programme>
-  <channel id="ChengduATPSemifinals">
-    <display-name>🎾 🇨🇳 Chengdu-ATP Semifinals</display-name>
-  </channel>
-  <programme start="20260928000000 +0200" stop="20260928110000 +0200" channel="ChengduATPSemifinals">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">🎾 🇨🇳 Chengdu-ATP Semifinals.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260928110000 +0200" stop="20260928130000 +0200" channel="ChengduATPSemifinals">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎾 🇨🇳 Chengdu-ATP Semifinals</desc>
-    <category lang="it">Tennis 🎾</category>
-  </programme>
-  <channel id="ShenzhenOpenRound1">
-    <display-name>🎱 🇨🇳 Shenzhen Open | Round 1</display-name>
-  </channel>
-  <programme start="20260928000000 +0200" stop="20260928080000 +0200" channel="ShenzhenOpenRound1">
-    <title lang="it">Inizia alle 08:00.</title>
-    <desc lang="it">🎱 🇨🇳 Shenzhen Open | Round 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260928080000 +0200" stop="20260928100000 +0200" channel="ShenzhenOpenRound1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎱 🇨🇳 Shenzhen Open | Round 1</desc>
-    <category lang="it">Snooker 🎱</category>
-  </programme>
   <channel id="ShenzhenOpenRound2">
     <display-name>🎱 🇨🇳 Shenzhen Open | Round 2</display-name>
   </channel>
@@ -74,18 +48,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">🎱 🇨🇳 Shenzhen Open | Round 2</desc>
     <category lang="it">Snooker 🎱</category>
-  </programme>
-  <channel id="LeTourdeLangkawi2026Stage2">
-    <display-name>🚴 🇲🇾 Le Tour de Langkawi 2026, Stage 2</display-name>
-  </channel>
-  <programme start="20260928000000 +0200" stop="20260928072000 +0200" channel="LeTourdeLangkawi2026Stage2">
-    <title lang="it">Inizia alle 07:20.</title>
-    <desc lang="it">🚴 🇲🇾 Le Tour de Langkawi 2026, Stage 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260928072000 +0200" stop="20260928092000 +0200" channel="LeTourdeLangkawi2026Stage2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🚴 🇲🇾 Le Tour de Langkawi 2026, Stage 2</desc>
-    <category lang="it">Cycling 🚴</category>
   </programme>
 </tv>
