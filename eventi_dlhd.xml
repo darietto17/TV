@@ -1,29 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
   <channel id="UEFANationsLeagueSimulcast">
-    <display-name>⚽ 🇪🇺 UEFA Nations League : Simulcast</display-name>
+    <display-name>⚽ 🇪🇺 UEFA Nations League : Simulcast 🇪🇺</display-name>
   </channel>
-  <programme start="20260928000000 +0200" stop="20260928204500 +0200" channel="UEFANationsLeagueSimulcast">
-    <title lang="it">Inizia alle 20:45.</title>
-    <desc lang="it">⚽ 🇪🇺 UEFA Nations League : Simulcast.</desc>
+  <programme start="20260929000000 +0200" stop="20260929180000 +0200" channel="UEFANationsLeagueSimulcast">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">⚽ 🇪🇺 UEFA Nations League : Simulcast 🇪🇺.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260928204500 +0200" stop="20260928224500 +0200" channel="UEFANationsLeagueSimulcast">
+  <programme start="20260929180000 +0200" stop="20260929200000 +0200" channel="UEFANationsLeagueSimulcast">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🇪🇺 UEFA Nations League : Simulcast</desc>
+    <desc lang="it">⚽ 🇪🇺 UEFA Nations League : Simulcast 🇪🇺</desc>
     <category lang="it">All Soccer Events ⚽</category>
   </programme>
-  <channel id="UEFANationsLeagueTurkeyvsItaly">
-    <display-name>⚽ 🇹🇷 UEFA Nations League : Turkey 🇹🇷 vs Italy 🇮🇹</display-name>
-  </channel>
-  <programme start="20260928000000 +0200" stop="20260928204500 +0200" channel="UEFANationsLeagueTurkeyvsItaly">
+  <programme start="20260929200000 +0200" stop="20260929204500 +0200" channel="UEFANationsLeagueSimulcast">
     <title lang="it">Inizia alle 20:45.</title>
-    <desc lang="it">⚽ 🇹🇷 UEFA Nations League : Turkey 🇹🇷 vs Italy 🇮🇹.</desc>
+    <desc lang="it">⚽ 🇪🇺 UEFA Nations League : Simulcast 🇪🇺.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260928204500 +0200" stop="20260928224500 +0200" channel="UEFANationsLeagueTurkeyvsItaly">
+  <programme start="20260929204500 +0200" stop="20260929224500 +0200" channel="UEFANationsLeagueSimulcast">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🇹🇷 UEFA Nations League : Turkey 🇹🇷 vs Italy 🇮🇹</desc>
+    <desc lang="it">⚽ 🇪🇺 UEFA Nations League : Simulcast 🇪🇺</desc>
     <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="UEFANationsLeagueCzechRepublicvsEngland">
+    <display-name>⚽ 🇨🇿 UEFA Nations League : Czech Republic 🇨🇿 vs England 🏴󠁧󠁢󠁥󠁮󠁧󠁿</display-name>
+  </channel>
+  <programme start="20260929000000 +0200" stop="20260929204500 +0200" channel="UEFANationsLeagueCzechRepublicvsEngland">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ 🇨🇿 UEFA Nations League : Czech Republic 🇨🇿 vs England 🏴󠁧󠁢󠁥󠁮󠁧󠁿.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260929204500 +0200" stop="20260929224500 +0200" channel="UEFANationsLeagueCzechRepublicvsEngland">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇨🇿 UEFA Nations League : Czech Republic 🇨🇿 vs England 🏴󠁧󠁢󠁥󠁮󠁧󠁿</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="TheATPChengduOpenFinalandATPHangzhouOpenFinal">
+    <display-name>🎾 🇨🇳 The ATP Chengdu Open Final and ATP Hangzhou Open Final 🇨🇳</display-name>
+  </channel>
+  <programme start="20260929000000 +0200" stop="20260929130000 +0200" channel="TheATPChengduOpenFinalandATPHangzhouOpenFinal">
+    <title lang="it">Inizia alle 13:00.</title>
+    <desc lang="it">🎾 🇨🇳 The ATP Chengdu Open Final and ATP Hangzhou Open Final 🇨🇳.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260929130000 +0200" stop="20260929150000 +0200" channel="TheATPChengduOpenFinalandATPHangzhouOpenFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 🇨🇳 The ATP Chengdu Open Final and ATP Hangzhou Open Final 🇨🇳</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <channel id="ShenzhenOpenRound2">
+    <display-name>🎱 🇨🇳 Shenzhen Open | Round 2 🇨🇳</display-name>
+  </channel>
+  <programme start="20260929000000 +0200" stop="20260929080000 +0200" channel="ShenzhenOpenRound2">
+    <title lang="it">Inizia alle 08:00.</title>
+    <desc lang="it">🎱 🇨🇳 Shenzhen Open | Round 2 🇨🇳.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260929080000 +0200" stop="20260929100000 +0200" channel="ShenzhenOpenRound2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎱 🇨🇳 Shenzhen Open | Round 2 🇨🇳</desc>
+    <category lang="it">Snooker 🎱</category>
+  </programme>
+  <programme start="20260929100000 +0200" stop="20260929140000 +0200" channel="ShenzhenOpenRound2">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">🎱 🇨🇳 Shenzhen Open | Round 2 🇨🇳.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260929140000 +0200" stop="20260929160000 +0200" channel="ShenzhenOpenRound2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎱 🇨🇳 Shenzhen Open | Round 2 🇨🇳</desc>
+    <category lang="it">Snooker 🎱</category>
+  </programme>
+  <channel id="LeTourdeLangkawi2026Stage3">
+    <display-name>🚴 🇲🇾 Le Tour de Langkawi 2026, Stage 3 🇲🇾</display-name>
+  </channel>
+  <programme start="20260929000000 +0200" stop="20260929072000 +0200" channel="LeTourdeLangkawi2026Stage3">
+    <title lang="it">Inizia alle 07:20.</title>
+    <desc lang="it">🚴 🇲🇾 Le Tour de Langkawi 2026, Stage 3 🇲🇾.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260929072000 +0200" stop="20260929092000 +0200" channel="LeTourdeLangkawi2026Stage3">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 🇲🇾 Le Tour de Langkawi 2026, Stage 3 🇲🇾</desc>
+    <category lang="it">Cycling 🚴</category>
   </programme>
 </tv>
