@@ -52,17 +52,7 @@
   <channel id="ShenzhenOpenRound2">
     <display-name>🎱 🇨🇳 Shenzhen Open | Round 2 🇨🇳</display-name>
   </channel>
-  <programme start="20260929000000 +0200" stop="20260929080000 +0200" channel="ShenzhenOpenRound2">
-    <title lang="it">Inizia alle 08:00.</title>
-    <desc lang="it">🎱 🇨🇳 Shenzhen Open | Round 2 🇨🇳.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260929080000 +0200" stop="20260929100000 +0200" channel="ShenzhenOpenRound2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎱 🇨🇳 Shenzhen Open | Round 2 🇨🇳</desc>
-    <category lang="it">Snooker 🎱</category>
-  </programme>
-  <programme start="20260929100000 +0200" stop="20260929140000 +0200" channel="ShenzhenOpenRound2">
+  <programme start="20260929000000 +0200" stop="20260929140000 +0200" channel="ShenzhenOpenRound2">
     <title lang="it">Inizia alle 14:00.</title>
     <desc lang="it">🎱 🇨🇳 Shenzhen Open | Round 2 🇨🇳.</desc>
     <category lang="it">Annuncio</category>
@@ -71,18 +61,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">🎱 🇨🇳 Shenzhen Open | Round 2 🇨🇳</desc>
     <category lang="it">Snooker 🎱</category>
-  </programme>
-  <channel id="LeTourdeLangkawi2026Stage3">
-    <display-name>🚴 🇲🇾 Le Tour de Langkawi 2026, Stage 3 🇲🇾</display-name>
-  </channel>
-  <programme start="20260929000000 +0200" stop="20260929072000 +0200" channel="LeTourdeLangkawi2026Stage3">
-    <title lang="it">Inizia alle 07:20.</title>
-    <desc lang="it">🚴 🇲🇾 Le Tour de Langkawi 2026, Stage 3 🇲🇾.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260929072000 +0200" stop="20260929092000 +0200" channel="LeTourdeLangkawi2026Stage3">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🚴 🇲🇾 Le Tour de Langkawi 2026, Stage 3 🇲🇾</desc>
-    <category lang="it">Cycling 🚴</category>
   </programme>
 </tv>
