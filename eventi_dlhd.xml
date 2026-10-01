@@ -1,3 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="UEFANationsLeagueAzerbaijanvsLiechtenstein">
+    <display-name>⚽ UEFA Nations League : Azerbaijan 🇦🇿 vs Liechtenstein 🇱🇮</display-name>
+  </channel>
+  <programme start="20261001000000 +0200" stop="20261001180000 +0200" channel="UEFANationsLeagueAzerbaijanvsLiechtenstein">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">⚽ UEFA Nations League : Azerbaijan 🇦🇿 vs Liechtenstein 🇱🇮.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261001180000 +0200" stop="20261001200000 +0200" channel="UEFANationsLeagueAzerbaijanvsLiechtenstein">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Nations League : Azerbaijan 🇦🇿 vs Liechtenstein 🇱🇮</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20261001000000 +0200" stop="20261001180000 +0200" channel="UEFANationsLeagueAzerbaijanvsLiechtenstein">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">⚽ UEFA Nations League : Azerbaijan 🇦🇿 vs Liechtenstein 🇱🇮.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261001180000 +0200" stop="20261001200000 +0200" channel="UEFANationsLeagueAzerbaijanvsLiechtenstein">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Nations League : Azerbaijan 🇦🇿 vs Liechtenstein 🇱🇮</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="EuroU21QualifyingArmeniaU21vsItalyU21">
+    <display-name>⚽ Euro U-21 Qualifying : Armenia U21 🇦🇲 vs Italy U21 🇮🇹</display-name>
+  </channel>
+  <programme start="20261001000000 +0200" stop="20261001183000 +0200" channel="EuroU21QualifyingArmeniaU21vsItalyU21">
+    <title lang="it">Inizia alle 18:30.</title>
+    <desc lang="it">⚽ Euro U-21 Qualifying : Armenia U21 🇦🇲 vs Italy U21 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261001183000 +0200" stop="20261001203000 +0200" channel="EuroU21QualifyingArmeniaU21vsItalyU21">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ Euro U-21 Qualifying : Armenia U21 🇦🇲 vs Italy U21 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="UEFANationsLeagueSimulcast">
+    <display-name>⚽ UEFA Nations League : Simulcast</display-name>
+  </channel>
+  <programme start="20261001000000 +0200" stop="20261001204500 +0200" channel="UEFANationsLeagueSimulcast">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ UEFA Nations League : Simulcast.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261001204500 +0200" stop="20261001224500 +0200" channel="UEFANationsLeagueSimulcast">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Nations League : Simulcast</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="UEFANationsLeagueGermanyvsSerbia">
+    <display-name>⚽ UEFA Nations League : Germany 🇩🇪 vs Serbia 🇷🇸</display-name>
+  </channel>
+  <programme start="20261001000000 +0200" stop="20261001204500 +0200" channel="UEFANationsLeagueGermanyvsSerbia">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ UEFA Nations League : Germany 🇩🇪 vs Serbia 🇷🇸.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261001204500 +0200" stop="20261001224500 +0200" channel="UEFANationsLeagueGermanyvsSerbia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Nations League : Germany 🇩🇪 vs Serbia 🇷🇸</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="UEFANationsLeagueDenmarkvsPortugal">
+    <display-name>⚽ UEFA Nations League : Denmark 🇩🇰 vs Portugal 🇵🇹</display-name>
+  </channel>
+  <programme start="20261001000000 +0200" stop="20261001204500 +0200" channel="UEFANationsLeagueDenmarkvsPortugal">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ UEFA Nations League : Denmark 🇩🇰 vs Portugal 🇵🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261001204500 +0200" stop="20261001224500 +0200" channel="UEFANationsLeagueDenmarkvsPortugal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Nations League : Denmark 🇩🇰 vs Portugal 🇵🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20261001000000 +0200" stop="20261001204500 +0200" channel="UEFANationsLeagueDenmarkvsPortugal">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ UEFA Nations League : Denmark 🇩🇰 vs Portugal 🇵🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261001204500 +0200" stop="20261001224500 +0200" channel="UEFANationsLeagueDenmarkvsPortugal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Nations League : Denmark 🇩🇰 vs Portugal 🇵🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ShenzhenOpenRound4">
+    <display-name>🎱 Shenzhen Open | Round 4 🇨🇳</display-name>
+  </channel>
+  <programme start="20261001000000 +0200" stop="20261001080000 +0200" channel="ShenzhenOpenRound4">
+    <title lang="it">Inizia alle 08:00.</title>
+    <desc lang="it">🎱 Shenzhen Open | Round 4 🇨🇳.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261001080000 +0200" stop="20261001100000 +0200" channel="ShenzhenOpenRound4">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎱 Shenzhen Open | Round 4 🇨🇳</desc>
+    <category lang="it">Snooker 🎱</category>
+  </programme>
+  <programme start="20261001100000 +0200" stop="20261001140000 +0200" channel="ShenzhenOpenRound4">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">🎱 Shenzhen Open | Round 4 🇨🇳.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261001140000 +0200" stop="20261001160000 +0200" channel="ShenzhenOpenRound4">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎱 Shenzhen Open | Round 4 🇨🇳</desc>
+    <category lang="it">Snooker 🎱</category>
+  </programme>
 </tv>
