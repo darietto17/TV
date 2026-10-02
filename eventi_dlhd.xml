@@ -1,3 +1,290 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="UEFANationsLeagueKazakhstanvsMoldova">
+    <display-name>⚽ UEFA Nations League : Kazakhstan 🇰🇿 vs Moldova 🇲🇩</display-name>
+  </channel>
+  <programme start="20261002000000 +0200" stop="20261002160000 +0200" channel="UEFANationsLeagueKazakhstanvsMoldova">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">⚽ UEFA Nations League : Kazakhstan 🇰🇿 vs Moldova 🇲🇩.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261002160000 +0200" stop="20261002180000 +0200" channel="UEFANationsLeagueKazakhstanvsMoldova">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Nations League : Kazakhstan 🇰🇿 vs Moldova 🇲🇩</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="UEFANationsLeagueSimulcast">
+    <display-name>⚽ UEFA Nations League : Simulcast</display-name>
+  </channel>
+  <programme start="20261002000000 +0200" stop="20261002204500 +0200" channel="UEFANationsLeagueSimulcast">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ UEFA Nations League : Simulcast.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261002204500 +0200" stop="20261002224500 +0200" channel="UEFANationsLeagueSimulcast">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Nations League : Simulcast</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="UEFANationsLeagueBelgiumvsTurkey">
+    <display-name>⚽ UEFA Nations League : Belgium 🇧🇪 vs Turkey 🇹🇷</display-name>
+  </channel>
+  <programme start="20261002000000 +0200" stop="20261002204500 +0200" channel="UEFANationsLeagueBelgiumvsTurkey">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ UEFA Nations League : Belgium 🇧🇪 vs Turkey 🇹🇷.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261002204500 +0200" stop="20261002224500 +0200" channel="UEFANationsLeagueBelgiumvsTurkey">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Nations League : Belgium 🇧🇪 vs Turkey 🇹🇷</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="UEFANationsLeagueFrancevsItaly">
+    <display-name>⚽ UEFA Nations League : France 🇫🇷 vs Italy 🇮🇹</display-name>
+  </channel>
+  <programme start="20261002000000 +0200" stop="20261002204500 +0200" channel="UEFANationsLeagueFrancevsItaly">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ UEFA Nations League : France 🇫🇷 vs Italy 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261002204500 +0200" stop="20261002224500 +0200" channel="UEFANationsLeagueFrancevsItaly">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Nations League : France 🇫🇷 vs Italy 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20261002000000 +0200" stop="20261002204500 +0200" channel="UEFANationsLeagueFrancevsItaly">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ UEFA Nations League : France 🇫🇷 vs Italy 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261002204500 +0200" stop="20261002224500 +0200" channel="UEFANationsLeagueFrancevsItaly">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Nations League : France 🇫🇷 vs Italy 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ATPJapanOpenATPChinaOpenandWTAChinaOpen">
+    <display-name>🎾 ATP Japan Open, ATP China Open and WTA China Open</display-name>
+  </channel>
+  <programme start="20261002000000 +0200" stop="20261002050000 +0200" channel="ATPJapanOpenATPChinaOpenandWTAChinaOpen">
+    <title lang="it">Inizia alle 05:00.</title>
+    <desc lang="it">🎾 ATP Japan Open, ATP China Open and WTA China Open.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261002050000 +0200" stop="20261002070000 +0200" channel="ATPJapanOpenATPChinaOpenandWTAChinaOpen">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 ATP Japan Open, ATP China Open and WTA China Open</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <channel id="Moto3Round16JapanPractice1">
+    <display-name>🏎️ Moto3 : Round 16 | Japan Practice 1 🇯🇵</display-name>
+  </channel>
+  <programme start="20261002000000 +0200" stop="20261002061500 +0200" channel="Moto3Round16JapanPractice1">
+    <title lang="it">Inizia alle 06:15.</title>
+    <desc lang="it">🏎️ Moto3 : Round 16 | Japan Practice 1 🇯🇵.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261002061500 +0200" stop="20261002081500 +0200" channel="Moto3Round16JapanPractice1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ Moto3 : Round 16 | Japan Practice 1 🇯🇵</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="Formula1GulfAirBahrainGPPractice1">
+    <display-name>🏎️ Formula 1 : Gulf Air Bahrain GP - Practice 1 🇧🇭</display-name>
+  </channel>
+  <programme start="20261002000000 +0200" stop="20261002063000 +0200" channel="Formula1GulfAirBahrainGPPractice1">
+    <title lang="it">Inizia alle 06:30.</title>
+    <desc lang="it">🏎️ Formula 1 : Gulf Air Bahrain GP - Practice 1 🇧🇭.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261002063000 +0200" stop="20261002083000 +0200" channel="Formula1GulfAirBahrainGPPractice1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ Formula 1 : Gulf Air Bahrain GP - Practice 1 🇧🇭</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <programme start="20261002000000 +0200" stop="20261002063000 +0200" channel="Formula1GulfAirBahrainGPPractice1">
+    <title lang="it">Inizia alle 06:30.</title>
+    <desc lang="it">🏎️ Formula 1 : Gulf Air Bahrain GP - Practice 1 🇧🇭.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261002063000 +0200" stop="20261002083000 +0200" channel="Formula1GulfAirBahrainGPPractice1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ Formula 1 : Gulf Air Bahrain GP - Practice 1 🇧🇭</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="Moto2Round16JapanPractice1">
+    <display-name>🏎️ Moto2 : Round 16 | Japan Practice 1 🇯🇵</display-name>
+  </channel>
+  <programme start="20261002000000 +0200" stop="20261002070000 +0200" channel="Moto2Round16JapanPractice1">
+    <title lang="it">Inizia alle 07:00.</title>
+    <desc lang="it">🏎️ Moto2 : Round 16 | Japan Practice 1 🇯🇵.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261002070000 +0200" stop="20261002090000 +0200" channel="Moto2Round16JapanPractice1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ Moto2 : Round 16 | Japan Practice 1 🇯🇵</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="MotoGPRound16JapanPractice1">
+    <display-name>🏎️ MotoGP : Round 16 | Japan Practice 1 🇯🇵</display-name>
+  </channel>
+  <programme start="20261002000000 +0200" stop="20261002080000 +0200" channel="MotoGPRound16JapanPractice1">
+    <title lang="it">Inizia alle 08:00.</title>
+    <desc lang="it">🏎️ MotoGP : Round 16 | Japan Practice 1 🇯🇵.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261002080000 +0200" stop="20261002100000 +0200" channel="MotoGPRound16JapanPractice1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ MotoGP : Round 16 | Japan Practice 1 🇯🇵</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="Formula1GulfAirBahrainGPPractice2">
+    <display-name>🏎️ Formula 1 : Gulf Air Bahrain GP - Practice 2 🇧🇭</display-name>
+  </channel>
+  <programme start="20261002000000 +0200" stop="20261002100000 +0200" channel="Formula1GulfAirBahrainGPPractice2">
+    <title lang="it">Inizia alle 10:00.</title>
+    <desc lang="it">🏎️ Formula 1 : Gulf Air Bahrain GP - Practice 2 🇧🇭.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261002100000 +0200" stop="20261002120000 +0200" channel="Formula1GulfAirBahrainGPPractice2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ Formula 1 : Gulf Air Bahrain GP - Practice 2 🇧🇭</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <programme start="20261002000000 +0200" stop="20261002100000 +0200" channel="Formula1GulfAirBahrainGPPractice2">
+    <title lang="it">Inizia alle 10:00.</title>
+    <desc lang="it">🏎️ Formula 1 : Gulf Air Bahrain GP - Practice 2 🇧🇭.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261002100000 +0200" stop="20261002120000 +0200" channel="Formula1GulfAirBahrainGPPractice2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ Formula 1 : Gulf Air Bahrain GP - Practice 2 🇧🇭</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="Moto3Round16JapanFreePractice2">
+    <display-name>🏎️ Moto3 | Round 16 | Japan Free Practice 2 🇯🇵</display-name>
+  </channel>
+  <programme start="20261003000000 +0200" stop="20261003013000 +0200" channel="Moto3Round16JapanFreePractice2">
+    <title lang="it">Inizia alle 01:30.</title>
+    <desc lang="it">🏎️ Moto3 | Round 16 | Japan Free Practice 2 🇯🇵.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261003013000 +0200" stop="20261003033000 +0200" channel="Moto3Round16JapanFreePractice2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ Moto3 | Round 16 | Japan Free Practice 2 🇯🇵</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="ShenzhenOpenQuarterFinal">
+    <display-name>🎱 Shenzhen Open | Quarter-Final 🇨🇳</display-name>
+  </channel>
+  <programme start="20261002000000 +0200" stop="20261002080000 +0200" channel="ShenzhenOpenQuarterFinal">
+    <title lang="it">Inizia alle 08:00.</title>
+    <desc lang="it">🎱 Shenzhen Open | Quarter-Final 🇨🇳.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261002080000 +0200" stop="20261002100000 +0200" channel="ShenzhenOpenQuarterFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎱 Shenzhen Open | Quarter-Final 🇨🇳</desc>
+    <category lang="it">Snooker 🎱</category>
+  </programme>
+  <programme start="20261002100000 +0200" stop="20261002133000 +0200" channel="ShenzhenOpenQuarterFinal">
+    <title lang="it">Inizia alle 13:30.</title>
+    <desc lang="it">🎱 Shenzhen Open | Quarter-Final 🇨🇳.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261002133000 +0200" stop="20261002153000 +0200" channel="ShenzhenOpenQuarterFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎱 Shenzhen Open | Quarter-Final 🇨🇳</desc>
+    <category lang="it">Snooker 🎱</category>
+  </programme>
+  <channel id="EuropeanCyclingChampionshipsLjubljanaUnder23Women">
+    <display-name>🚴 European Cycling Championships Ljubljana Under 23 Women 🇸🇮</display-name>
+  </channel>
+  <programme start="20261002000000 +0200" stop="20261002094500 +0200" channel="EuropeanCyclingChampionshipsLjubljanaUnder23Women">
+    <title lang="it">Inizia alle 09:45.</title>
+    <desc lang="it">🚴 European Cycling Championships Ljubljana Under 23 Women 🇸🇮.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261002094500 +0200" stop="20261002114500 +0200" channel="EuropeanCyclingChampionshipsLjubljanaUnder23Women">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 European Cycling Championships Ljubljana Under 23 Women 🇸🇮</desc>
+    <category lang="it">Cycling 🚴</category>
+  </programme>
+  <channel id="EuropeanCyclingChampionshipsLjubljanaUnder23Men">
+    <display-name>🚴 European Cycling Championships Ljubljana Under 23 Men 🇸🇮</display-name>
+  </channel>
+  <programme start="20261002000000 +0200" stop="20261002153500 +0200" channel="EuropeanCyclingChampionshipsLjubljanaUnder23Men">
+    <title lang="it">Inizia alle 15:35.</title>
+    <desc lang="it">🚴 European Cycling Championships Ljubljana Under 23 Men 🇸🇮.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261002153500 +0200" stop="20261002173500 +0200" channel="EuropeanCyclingChampionshipsLjubljanaUnder23Men">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 European Cycling Championships Ljubljana Under 23 Men 🇸🇮</desc>
+    <category lang="it">Cycling 🚴</category>
+  </programme>
+  <channel id="UCICrosscountryShortTrackWorldCupWomenEliteLakePlacidWHOOPUCIMountainBikeWorldSeries">
+    <display-name>🚴 UCI Cross-country Short Track World Cup | Women Elite | Lake Placid WHOOP UCI Mountain Bike World Series 🇺🇸</display-name>
+  </channel>
+  <programme start="20261002000000 +0200" stop="20261002170000 +0200" channel="UCICrosscountryShortTrackWorldCupWomenEliteLakePlacidWHOOPUCIMountainBikeWorldSeries">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">🚴 UCI Cross-country Short Track World Cup | Women Elite | Lake Placid WHOOP UCI Mountain Bike World Series 🇺🇸.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261002170000 +0200" stop="20261002190000 +0200" channel="UCICrosscountryShortTrackWorldCupWomenEliteLakePlacidWHOOPUCIMountainBikeWorldSeries">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 UCI Cross-country Short Track World Cup | Women Elite | Lake Placid WHOOP UCI Mountain Bike World Series 🇺🇸</desc>
+    <category lang="it">Cycling 🚴</category>
+  </programme>
+  <channel id="UCIXCCWorldCupLakePlacidMannenEliteWHOOPUCIMountainBikeWorldSeries">
+    <display-name>🚴 UCI XCC World Cup | Lake Placid | Mannen Elite WHOOP UCI Mountain Bike World Series 🇺🇸</display-name>
+  </channel>
+  <programme start="20261002000000 +0200" stop="20261002183000 +0200" channel="UCIXCCWorldCupLakePlacidMannenEliteWHOOPUCIMountainBikeWorldSeries">
+    <title lang="it">Inizia alle 18:30.</title>
+    <desc lang="it">🚴 UCI XCC World Cup | Lake Placid | Mannen Elite WHOOP UCI Mountain Bike World Series 🇺🇸.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261002183000 +0200" stop="20261002203000 +0200" channel="UCIXCCWorldCupLakePlacidMannenEliteWHOOPUCIMountainBikeWorldSeries">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 UCI XCC World Cup | Lake Placid | Mannen Elite WHOOP UCI Mountain Bike World Series 🇺🇸</desc>
+    <category lang="it">Cycling 🚴</category>
+  </programme>
+  <channel id="UnitedRugbyChampionshipCardiffRugbyvsZebre">
+    <display-name>🏉 United Rugby Championship : Cardiff Rugby 🏴󠁧󠁢󠁷󠁬󠁳󠁿 vs Zebre 🇮🇹</display-name>
+  </channel>
+  <programme start="20261002000000 +0200" stop="20261002204500 +0200" channel="UnitedRugbyChampionshipCardiffRugbyvsZebre">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">🏉 United Rugby Championship : Cardiff Rugby 🏴󠁧󠁢󠁷󠁬󠁳󠁿 vs Zebre 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261002204500 +0200" stop="20261002224500 +0200" channel="UnitedRugbyChampionshipCardiffRugbyvsZebre">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏉 United Rugby Championship : Cardiff Rugby 🏴󠁧󠁢󠁷󠁬󠁳󠁿 vs Zebre 🇮🇹</desc>
+    <category lang="it">Rugby Union 🏉</category>
+  </programme>
+  <channel id="UnitedRugbyChampionshipTrevisovsConnacht">
+    <display-name>🏉 United Rugby Championship : Treviso 🇮🇹 vs Connacht 🇮🇪</display-name>
+  </channel>
+  <programme start="20261002000000 +0200" stop="20261002204500 +0200" channel="UnitedRugbyChampionshipTrevisovsConnacht">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">🏉 United Rugby Championship : Treviso 🇮🇹 vs Connacht 🇮🇪.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261002204500 +0200" stop="20261002224500 +0200" channel="UnitedRugbyChampionshipTrevisovsConnacht">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏉 United Rugby Championship : Treviso 🇮🇹 vs Connacht 🇮🇪</desc>
+    <category lang="it">Rugby Union 🏉</category>
+  </programme>
+  <channel id="EuropeanChampionshipsShotgunMalakasaSkeetDuetMedalMatches">
+    <display-name>🎯 European Championships Shotgun | Malakasa Skeet Duet | Medal Matches</display-name>
+  </channel>
+  <programme start="20261002000000 +0200" stop="20261002163000 +0200" channel="EuropeanChampionshipsShotgunMalakasaSkeetDuetMedalMatches">
+    <title lang="it">Inizia alle 16:30.</title>
+    <desc lang="it">🎯 European Championships Shotgun | Malakasa Skeet Duet | Medal Matches.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261002163000 +0200" stop="20261002183000 +0200" channel="EuropeanChampionshipsShotgunMalakasaSkeetDuetMedalMatches">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎯 European Championships Shotgun | Malakasa Skeet Duet | Medal Matches</desc>
+    <category lang="it">Shooting 🏹🔫</category>
+  </programme>
 </tv>
