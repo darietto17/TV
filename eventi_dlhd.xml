@@ -1,106 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieCUnionArzignanoChiampovsPergolettese">
-    <display-name>⚽ Italy - Serie C : Union ArzignanoChiampo 🇮🇹 vs Pergolettese 🇮🇹</display-name>
-  </channel>
-  <programme start="20261003000000 +0200" stop="20261003173000 +0200" channel="ItalySerieCUnionArzignanoChiampovsPergolettese">
-    <title lang="it">Inizia alle 17:30.</title>
-    <desc lang="it">⚽ Italy - Serie C : Union ArzignanoChiampo 🇮🇹 vs Pergolettese 🇮🇹.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20261003173000 +0200" stop="20261003193000 +0200" channel="ItalySerieCUnionArzignanoChiampovsPergolettese">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ Italy - Serie C : Union ArzignanoChiampo 🇮🇹 vs Pergolettese 🇮🇹</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
-  <channel id="ItalySerieCGrossetovsSambenedettese">
-    <display-name>⚽ Italy - Serie C : Grosseto 🇮🇹 vs Sambenedettese 🇮🇹</display-name>
-  </channel>
-  <programme start="20261003000000 +0200" stop="20261003173000 +0200" channel="ItalySerieCGrossetovsSambenedettese">
-    <title lang="it">Inizia alle 17:30.</title>
-    <desc lang="it">⚽ Italy - Serie C : Grosseto 🇮🇹 vs Sambenedettese 🇮🇹.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20261003173000 +0200" stop="20261003193000 +0200" channel="ItalySerieCGrossetovsSambenedettese">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ Italy - Serie C : Grosseto 🇮🇹 vs Sambenedettese 🇮🇹</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
-  <channel id="ItalySerieCLivornovsPescara">
-    <display-name>⚽ Italy - Serie C : Livorno 🇮🇹 vs Pescara 🇮🇹</display-name>
-  </channel>
-  <programme start="20261003000000 +0200" stop="20261003173000 +0200" channel="ItalySerieCLivornovsPescara">
-    <title lang="it">Inizia alle 17:30.</title>
-    <desc lang="it">⚽ Italy - Serie C : Livorno 🇮🇹 vs Pescara 🇮🇹.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20261003173000 +0200" stop="20261003193000 +0200" channel="ItalySerieCLivornovsPescara">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ Italy - Serie C : Livorno 🇮🇹 vs Pescara 🇮🇹</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
-  <programme start="20261003000000 +0200" stop="20261003173000 +0200" channel="ItalySerieCLivornovsPescara">
-    <title lang="it">Inizia alle 17:30.</title>
-    <desc lang="it">⚽ Italy - Serie C : Livorno 🇮🇹 vs Pescara 🇮🇹.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20261003173000 +0200" stop="20261003193000 +0200" channel="ItalySerieCLivornovsPescara">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ Italy - Serie C : Livorno 🇮🇹 vs Pescara 🇮🇹</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
-  <channel id="ItalySerieCGiuglianovsBarletta">
-    <display-name>⚽ Italy - Serie C : Giugliano 🇮🇹 vs Barletta 🇮🇹</display-name>
-  </channel>
-  <programme start="20261003000000 +0200" stop="20261003173000 +0200" channel="ItalySerieCGiuglianovsBarletta">
-    <title lang="it">Inizia alle 17:30.</title>
-    <desc lang="it">⚽ Italy - Serie C : Giugliano 🇮🇹 vs Barletta 🇮🇹.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20261003173000 +0200" stop="20261003193000 +0200" channel="ItalySerieCGiuglianovsBarletta">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ Italy - Serie C : Giugliano 🇮🇹 vs Barletta 🇮🇹</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
-  <channel id="UEFANationsLeagueSimulcast">
-    <display-name>⚽ UEFA Nations League : Simulcast</display-name>
-  </channel>
-  <programme start="20261003000000 +0200" stop="20261003180000 +0200" channel="UEFANationsLeagueSimulcast">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">⚽ UEFA Nations League : Simulcast.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20261003180000 +0200" stop="20261003200000 +0200" channel="UEFANationsLeagueSimulcast">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ UEFA Nations League : Simulcast</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
-  <channel id="UEFANationsLeagueCroatiavsEngland">
-    <display-name>⚽ UEFA Nations League : Croatia 🇭🇷 vs England 🏴󠁧󠁢󠁥󠁮󠁧󠁿</display-name>
-  </channel>
-  <programme start="20261003000000 +0200" stop="20261003180000 +0200" channel="UEFANationsLeagueCroatiavsEngland">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">⚽ UEFA Nations League : Croatia 🇭🇷 vs England 🏴󠁧󠁢󠁥󠁮󠁧󠁿.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20261003180000 +0200" stop="20261003200000 +0200" channel="UEFANationsLeagueCroatiavsEngland">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ UEFA Nations League : Croatia 🇭🇷 vs England 🏴󠁧󠁢󠁥󠁮󠁧󠁿</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
-  <channel id="ItalySerieAwomenRomavsLazio">
-    <display-name>⚽ Italy - Serie A (women) : Roma 🇮🇹 vs Lazio 🇮🇹</display-name>
-  </channel>
-  <programme start="20261003000000 +0200" stop="20261003180000 +0200" channel="ItalySerieAwomenRomavsLazio">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">⚽ Italy - Serie A (women) : Roma 🇮🇹 vs Lazio 🇮🇹.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20261003180000 +0200" stop="20261003200000 +0200" channel="ItalySerieAwomenRomavsLazio">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ Italy - Serie A (women) : Roma 🇮🇹 vs Lazio 🇮🇹</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
   <channel id="ItalySerieCFolgoreCaratesevsDesenzanoCalvina">
     <display-name>⚽ Italy - Serie C : Folgore Caratese 🇮🇹 vs Desenzano Calvina 🇮🇹</display-name>
   </channel>
@@ -163,7 +62,10 @@
     <desc lang="it">⚽ Italy - Serie C : Catania 🇮🇹 vs Crotone 🇮🇹</desc>
     <category lang="it">All Soccer Events ⚽</category>
   </programme>
-  <programme start="20261003200000 +0200" stop="20261003204500 +0200" channel="UEFANationsLeagueSimulcast">
+  <channel id="UEFANationsLeagueSimulcast">
+    <display-name>⚽ UEFA Nations League : Simulcast</display-name>
+  </channel>
+  <programme start="20261003000000 +0200" stop="20261003204500 +0200" channel="UEFANationsLeagueSimulcast">
     <title lang="it">Inizia alle 20:45.</title>
     <desc lang="it">⚽ UEFA Nations League : Simulcast.</desc>
     <category lang="it">Annuncio</category>
@@ -195,19 +97,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">⚽ UEFA Nations League : Spain 🇪🇸 vs Czech Republic 🇨🇿</desc>
     <category lang="it">All Soccer Events ⚽</category>
-  </programme>
-  <channel id="TourdeMunsterlandVivetodalaaccinenDAZNUCIProSeries">
-    <display-name>🚴 Tour de Munsterland Vive toda la acción en DAZN. - UCI Pro Series 🇩🇪</display-name>
-  </channel>
-  <programme start="20261003000000 +0200" stop="20261003171500 +0200" channel="TourdeMunsterlandVivetodalaaccinenDAZNUCIProSeries">
-    <title lang="it">Inizia alle 17:15.</title>
-    <desc lang="it">🚴 Tour de Munsterland Vive toda la acción en DAZN. - UCI Pro Series 🇩🇪.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20261003171500 +0200" stop="20261003191500 +0200" channel="TourdeMunsterlandVivetodalaaccinenDAZNUCIProSeries">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🚴 Tour de Munsterland Vive toda la acción en DAZN. - UCI Pro Series 🇩🇪</desc>
-    <category lang="it">Cycling 🚴</category>
   </programme>
   <channel id="UCIWorldCupMountainBikingLakePlacidWomensCrossCountryOlympic">
     <display-name>🚴 UCI World Cup Mountain Biking : Lake Placid: Women's Cross-Country Olympic 🇺🇸</display-name>
