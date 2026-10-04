@@ -1,3 +1,500 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ItalySerieCLeccovsUnionBrescia">
+    <display-name>⚽ Italy - Serie C : Lecco 🇮🇹 vs Union Brescia 🇮🇹</display-name>
+  </channel>
+  <programme start="20261004000000 +0200" stop="20261004123000 +0200" channel="ItalySerieCLeccovsUnionBrescia">
+    <title lang="it">Inizia alle 12:30.</title>
+    <desc lang="it">⚽ Italy - Serie C : Lecco 🇮🇹 vs Union Brescia 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004123000 +0200" stop="20261004143000 +0200" channel="ItalySerieCLeccovsUnionBrescia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ Italy - Serie C : Lecco 🇮🇹 vs Union Brescia 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20261004000000 +0200" stop="20261004123000 +0200" channel="ItalySerieCLeccovsUnionBrescia">
+    <title lang="it">Inizia alle 12:30.</title>
+    <desc lang="it">⚽ Italy - Serie C : Lecco 🇮🇹 vs Union Brescia 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004123000 +0200" stop="20261004143000 +0200" channel="ItalySerieCLeccovsUnionBrescia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ Italy - Serie C : Lecco 🇮🇹 vs Union Brescia 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalySerieCTrevisovsGianaErminio">
+    <display-name>⚽ Italy - Serie C : Treviso 🇮🇹 vs Giana Erminio 🇮🇹</display-name>
+  </channel>
+  <programme start="20261004000000 +0200" stop="20261004123000 +0200" channel="ItalySerieCTrevisovsGianaErminio">
+    <title lang="it">Inizia alle 12:30.</title>
+    <desc lang="it">⚽ Italy - Serie C : Treviso 🇮🇹 vs Giana Erminio 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004123000 +0200" stop="20261004143000 +0200" channel="ItalySerieCTrevisovsGianaErminio">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ Italy - Serie C : Treviso 🇮🇹 vs Giana Erminio 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalySerieCCampobassovsSassariTorres">
+    <display-name>⚽ Italy - Serie C : Campobasso 🇮🇹 vs Sassari Torres 🇮🇹</display-name>
+  </channel>
+  <programme start="20261004000000 +0200" stop="20261004143000 +0200" channel="ItalySerieCCampobassovsSassariTorres">
+    <title lang="it">Inizia alle 14:30.</title>
+    <desc lang="it">⚽ Italy - Serie C : Campobasso 🇮🇹 vs Sassari Torres 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004143000 +0200" stop="20261004163000 +0200" channel="ItalySerieCCampobassovsSassariTorres">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ Italy - Serie C : Campobasso 🇮🇹 vs Sassari Torres 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalySerieCNuovaMonterosivsPineto">
+    <display-name>⚽ Italy - Serie C : Nuova Monterosi 🇮🇹 vs Pineto 🇮🇹</display-name>
+  </channel>
+  <programme start="20261004000000 +0200" stop="20261004143000 +0200" channel="ItalySerieCNuovaMonterosivsPineto">
+    <title lang="it">Inizia alle 14:30.</title>
+    <desc lang="it">⚽ Italy - Serie C : Nuova Monterosi 🇮🇹 vs Pineto 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004143000 +0200" stop="20261004163000 +0200" channel="ItalySerieCNuovaMonterosivsPineto">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ Italy - Serie C : Nuova Monterosi 🇮🇹 vs Pineto 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalySerieCPianesevsRavenna">
+    <display-name>⚽ Italy - Serie C : Pianese 🇮🇹 vs Ravenna 🇮🇹</display-name>
+  </channel>
+  <programme start="20261004000000 +0200" stop="20261004143000 +0200" channel="ItalySerieCPianesevsRavenna">
+    <title lang="it">Inizia alle 14:30.</title>
+    <desc lang="it">⚽ Italy - Serie C : Pianese 🇮🇹 vs Ravenna 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004143000 +0200" stop="20261004163000 +0200" channel="ItalySerieCPianesevsRavenna">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ Italy - Serie C : Pianese 🇮🇹 vs Ravenna 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalySerieCCosenzavsFoggia">
+    <display-name>⚽ Italy - Serie C : Cosenza 🇮🇹 vs Foggia 🇮🇹</display-name>
+  </channel>
+  <programme start="20261004000000 +0200" stop="20261004143000 +0200" channel="ItalySerieCCosenzavsFoggia">
+    <title lang="it">Inizia alle 14:30.</title>
+    <desc lang="it">⚽ Italy - Serie C : Cosenza 🇮🇹 vs Foggia 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004143000 +0200" stop="20261004163000 +0200" channel="ItalySerieCCosenzavsFoggia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ Italy - Serie C : Cosenza 🇮🇹 vs Foggia 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20261004000000 +0200" stop="20261004143000 +0200" channel="ItalySerieCCosenzavsFoggia">
+    <title lang="it">Inizia alle 14:30.</title>
+    <desc lang="it">⚽ Italy - Serie C : Cosenza 🇮🇹 vs Foggia 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004143000 +0200" stop="20261004163000 +0200" channel="ItalySerieCCosenzavsFoggia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ Italy - Serie C : Cosenza 🇮🇹 vs Foggia 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalySerieAFemminileMilanvsJuventus">
+    <display-name>⚽ Italy Serie A Femminile : Milan 🇮🇹 vs Juventus 🇮🇹</display-name>
+  </channel>
+  <programme start="20261004000000 +0200" stop="20261004150000 +0200" channel="ItalySerieAFemminileMilanvsJuventus">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">⚽ Italy Serie A Femminile : Milan 🇮🇹 vs Juventus 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004150000 +0200" stop="20261004170000 +0200" channel="ItalySerieAFemminileMilanvsJuventus">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ Italy Serie A Femminile : Milan 🇮🇹 vs Juventus 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="UEFANationsLeagueAzerbaijanvsLithuania">
+    <display-name>⚽ UEFA Nations League : Azerbaijan 🇦🇿 vs Lithuania 🇱🇹</display-name>
+  </channel>
+  <programme start="20261004000000 +0200" stop="20261004150000 +0200" channel="UEFANationsLeagueAzerbaijanvsLithuania">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">⚽ UEFA Nations League : Azerbaijan 🇦🇿 vs Lithuania 🇱🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004150000 +0200" stop="20261004170000 +0200" channel="UEFANationsLeagueAzerbaijanvsLithuania">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Nations League : Azerbaijan 🇦🇿 vs Lithuania 🇱🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalySerieCDolomitiBellunesivsNovara">
+    <display-name>⚽ Italy - Serie C : Dolomiti Bellunesi 🇮🇹 vs Novara 🇮🇹</display-name>
+  </channel>
+  <programme start="20261004000000 +0200" stop="20261004173000 +0200" channel="ItalySerieCDolomitiBellunesivsNovara">
+    <title lang="it">Inizia alle 17:30.</title>
+    <desc lang="it">⚽ Italy - Serie C : Dolomiti Bellunesi 🇮🇹 vs Novara 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004173000 +0200" stop="20261004193000 +0200" channel="ItalySerieCDolomitiBellunesivsNovara">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ Italy - Serie C : Dolomiti Bellunesi 🇮🇹 vs Novara 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20261004000000 +0200" stop="20261004173000 +0200" channel="ItalySerieCDolomitiBellunesivsNovara">
+    <title lang="it">Inizia alle 17:30.</title>
+    <desc lang="it">⚽ Italy - Serie C : Dolomiti Bellunesi 🇮🇹 vs Novara 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004173000 +0200" stop="20261004193000 +0200" channel="ItalySerieCDolomitiBellunesivsNovara">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ Italy - Serie C : Dolomiti Bellunesi 🇮🇹 vs Novara 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalySerieCReggianavsSpezia">
+    <display-name>⚽ Italy - Serie C : Reggiana 🇮🇹 vs Spezia 🇮🇹</display-name>
+  </channel>
+  <programme start="20261004000000 +0200" stop="20261004173000 +0200" channel="ItalySerieCReggianavsSpezia">
+    <title lang="it">Inizia alle 17:30.</title>
+    <desc lang="it">⚽ Italy - Serie C : Reggiana 🇮🇹 vs Spezia 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004173000 +0200" stop="20261004193000 +0200" channel="ItalySerieCReggianavsSpezia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ Italy - Serie C : Reggiana 🇮🇹 vs Spezia 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20261004000000 +0200" stop="20261004173000 +0200" channel="ItalySerieCReggianavsSpezia">
+    <title lang="it">Inizia alle 17:30.</title>
+    <desc lang="it">⚽ Italy - Serie C : Reggiana 🇮🇹 vs Spezia 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004173000 +0200" stop="20261004193000 +0200" channel="ItalySerieCReggianavsSpezia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ Italy - Serie C : Reggiana 🇮🇹 vs Spezia 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="UEFANationsLeagueSimulcast">
+    <display-name>⚽ UEFA Nations League : Simulcast 🌍</display-name>
+  </channel>
+  <programme start="20261004000000 +0200" stop="20261004180000 +0200" channel="UEFANationsLeagueSimulcast">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">⚽ UEFA Nations League : Simulcast 🌍.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004180000 +0200" stop="20261004200000 +0200" channel="UEFANationsLeagueSimulcast">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Nations League : Simulcast 🌍</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="UEFANationsLeagueKosovovsAustria">
+    <display-name>⚽ UEFA Nations League : Kosovo 🇽🇰 vs Austria 🇦🇹</display-name>
+  </channel>
+  <programme start="20261004000000 +0200" stop="20261004180000 +0200" channel="UEFANationsLeagueKosovovsAustria">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">⚽ UEFA Nations League : Kosovo 🇽🇰 vs Austria 🇦🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004180000 +0200" stop="20261004200000 +0200" channel="UEFANationsLeagueKosovovsAustria">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Nations League : Kosovo 🇽🇰 vs Austria 🇦🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="UEFANationsLeagueMaltavsAndorra">
+    <display-name>⚽ UEFA Nations League : Malta 🇲🇹 vs Andorra 🇦🇩</display-name>
+  </channel>
+  <programme start="20261004000000 +0200" stop="20261004180000 +0200" channel="UEFANationsLeagueMaltavsAndorra">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">⚽ UEFA Nations League : Malta 🇲🇹 vs Andorra 🇦🇩.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004180000 +0200" stop="20261004200000 +0200" channel="UEFANationsLeagueMaltavsAndorra">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Nations League : Malta 🇲🇹 vs Andorra 🇦🇩</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalySerieCAlcionevsTrento">
+    <display-name>⚽ Italy - Serie C : Alcione 🇮🇹 vs Trento 🇮🇹</display-name>
+  </channel>
+  <programme start="20261004000000 +0200" stop="20261004203000 +0200" channel="ItalySerieCAlcionevsTrento">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">⚽ Italy - Serie C : Alcione 🇮🇹 vs Trento 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004203000 +0200" stop="20261004223000 +0200" channel="ItalySerieCAlcionevsTrento">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ Italy - Serie C : Alcione 🇮🇹 vs Trento 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalySerieCLatinavsOstiaMareLidocalcio">
+    <display-name>⚽ Italy - Serie C : Latina 🇮🇹 vs Ostia Mare Lidocalcio 🇮🇹</display-name>
+  </channel>
+  <programme start="20261004000000 +0200" stop="20261004203000 +0200" channel="ItalySerieCLatinavsOstiaMareLidocalcio">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">⚽ Italy - Serie C : Latina 🇮🇹 vs Ostia Mare Lidocalcio 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004203000 +0200" stop="20261004223000 +0200" channel="ItalySerieCLatinavsOstiaMareLidocalcio">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ Italy - Serie C : Latina 🇮🇹 vs Ostia Mare Lidocalcio 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalySerieCAudaceCerignolavsTeamAltamura">
+    <display-name>⚽ Italy - Serie C : Audace Cerignola 🇮🇹 vs Team Altamura 🇮🇹</display-name>
+  </channel>
+  <programme start="20261004000000 +0200" stop="20261004203000 +0200" channel="ItalySerieCAudaceCerignolavsTeamAltamura">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">⚽ Italy - Serie C : Audace Cerignola 🇮🇹 vs Team Altamura 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004203000 +0200" stop="20261004223000 +0200" channel="ItalySerieCAudaceCerignolavsTeamAltamura">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ Italy - Serie C : Audace Cerignola 🇮🇹 vs Team Altamura 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalySerieCPotenzaCalciovsPicerno">
+    <display-name>⚽ Italy - Serie C : Potenza Calcio 🇮🇹 vs Picerno 🇮🇹</display-name>
+  </channel>
+  <programme start="20261004000000 +0200" stop="20261004203000 +0200" channel="ItalySerieCPotenzaCalciovsPicerno">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">⚽ Italy - Serie C : Potenza Calcio 🇮🇹 vs Picerno 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004203000 +0200" stop="20261004223000 +0200" channel="ItalySerieCPotenzaCalciovsPicerno">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ Italy - Serie C : Potenza Calcio 🇮🇹 vs Picerno 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalySerieCSalernitanavsBari1908">
+    <display-name>⚽ Italy - Serie C : Salernitana 🇮🇹 vs Bari 1908 🇮🇹</display-name>
+  </channel>
+  <programme start="20261004000000 +0200" stop="20261004203000 +0200" channel="ItalySerieCSalernitanavsBari1908">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">⚽ Italy - Serie C : Salernitana 🇮🇹 vs Bari 1908 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004203000 +0200" stop="20261004223000 +0200" channel="ItalySerieCSalernitanavsBari1908">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ Italy - Serie C : Salernitana 🇮🇹 vs Bari 1908 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20261004000000 +0200" stop="20261004203000 +0200" channel="ItalySerieCSalernitanavsBari1908">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">⚽ Italy - Serie C : Salernitana 🇮🇹 vs Bari 1908 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004203000 +0200" stop="20261004223000 +0200" channel="ItalySerieCSalernitanavsBari1908">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ Italy - Serie C : Salernitana 🇮🇹 vs Bari 1908 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20261004000000 +0200" stop="20261004203000 +0200" channel="ItalySerieCSalernitanavsBari1908">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">⚽ Italy - Serie C : Salernitana 🇮🇹 vs Bari 1908 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004203000 +0200" stop="20261004223000 +0200" channel="ItalySerieCSalernitanavsBari1908">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ Italy - Serie C : Salernitana 🇮🇹 vs Bari 1908 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20261004200000 +0200" stop="20261004204500 +0200" channel="UEFANationsLeagueSimulcast">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ UEFA Nations League : Simulcast 🌍.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004204500 +0200" stop="20261004224500 +0200" channel="UEFANationsLeagueSimulcast">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Nations League : Simulcast 🌍</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="UEFANationsLeaguePortugalvsNorway">
+    <display-name>⚽ UEFA Nations League : Portugal 🇵🇹 vs Norway 🇳🇴</display-name>
+  </channel>
+  <programme start="20261004000000 +0200" stop="20261004204500 +0200" channel="UEFANationsLeaguePortugalvsNorway">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ UEFA Nations League : Portugal 🇵🇹 vs Norway 🇳🇴.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004204500 +0200" stop="20261004224500 +0200" channel="UEFANationsLeaguePortugalvsNorway">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Nations League : Portugal 🇵🇹 vs Norway 🇳🇴</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20261004000000 +0200" stop="20261004204500 +0200" channel="UEFANationsLeaguePortugalvsNorway">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ UEFA Nations League : Portugal 🇵🇹 vs Norway 🇳🇴.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004204500 +0200" stop="20261004224500 +0200" channel="UEFANationsLeaguePortugalvsNorway">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Nations League : Portugal 🇵🇹 vs Norway 🇳🇴</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="UEFANationsLeagueGreecevsGermany">
+    <display-name>⚽ UEFA Nations League : Greece 🇬🇷 vs Germany 🇩🇪</display-name>
+  </channel>
+  <programme start="20261004000000 +0200" stop="20261004204500 +0200" channel="UEFANationsLeagueGreecevsGermany">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ UEFA Nations League : Greece 🇬🇷 vs Germany 🇩🇪.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004204500 +0200" stop="20261004224500 +0200" channel="UEFANationsLeagueGreecevsGermany">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Nations League : Greece 🇬🇷 vs Germany 🇩🇪</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="BeijingATPQuarterfinalsBeijingWTA3rdRoundTokyoATPQuarterfinals">
+    <display-name>🎾 Beijing-ATP Quarterfinals; Beijing-WTA 3rd Round; Tokyo-ATP Quarterfinals 🇨🇳🇯🇵</display-name>
+  </channel>
+  <programme start="20261004000000 +0200" stop="20261004120000 +0200" channel="BeijingATPQuarterfinalsBeijingWTA3rdRoundTokyoATPQuarterfinals">
+    <title lang="it">Inizia alle 12:00.</title>
+    <desc lang="it">🎾 Beijing-ATP Quarterfinals; Beijing-WTA 3rd Round; Tokyo-ATP Quarterfinals 🇨🇳🇯🇵.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004120000 +0200" stop="20261004140000 +0200" channel="BeijingATPQuarterfinalsBeijingWTA3rdRoundTokyoATPQuarterfinals">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 Beijing-ATP Quarterfinals; Beijing-WTA 3rd Round; Tokyo-ATP Quarterfinals 🇨🇳🇯🇵</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <channel id="MotoGPRound16JapanRace">
+    <display-name>🏎️ MotoGP : Round 16 | Japan Race 🇯🇵</display-name>
+  </channel>
+  <programme start="20261004000000 +0200" stop="20261004063000 +0200" channel="MotoGPRound16JapanRace">
+    <title lang="it">Inizia alle 06:30.</title>
+    <desc lang="it">🏎️ MotoGP : Round 16 | Japan Race 🇯🇵.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004063000 +0200" stop="20261004083000 +0200" channel="MotoGPRound16JapanRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ MotoGP : Round 16 | Japan Race 🇯🇵</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <programme start="20261004000000 +0200" stop="20261004063000 +0200" channel="MotoGPRound16JapanRace">
+    <title lang="it">Inizia alle 06:30.</title>
+    <desc lang="it">🏎️ MotoGP : Round 16 | Japan Race 🇯🇵.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004063000 +0200" stop="20261004083000 +0200" channel="MotoGPRound16JapanRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ MotoGP : Round 16 | Japan Race 🇯🇵</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="Formula1GulfAirBahrainGPGrandPrixSunday">
+    <display-name>🏎️ Formula 1 : Gulf Air Bahrain GP - Grand Prix Sunday 🇧🇭</display-name>
+  </channel>
+  <programme start="20261004000000 +0200" stop="20261004080000 +0200" channel="Formula1GulfAirBahrainGPGrandPrixSunday">
+    <title lang="it">Inizia alle 08:00.</title>
+    <desc lang="it">🏎️ Formula 1 : Gulf Air Bahrain GP - Grand Prix Sunday 🇧🇭.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004080000 +0200" stop="20261004100000 +0200" channel="Formula1GulfAirBahrainGPGrandPrixSunday">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ Formula 1 : Gulf Air Bahrain GP - Grand Prix Sunday 🇧🇭</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <programme start="20261004000000 +0200" stop="20261004080000 +0200" channel="Formula1GulfAirBahrainGPGrandPrixSunday">
+    <title lang="it">Inizia alle 08:00.</title>
+    <desc lang="it">🏎️ Formula 1 : Gulf Air Bahrain GP - Grand Prix Sunday 🇧🇭.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004080000 +0200" stop="20261004100000 +0200" channel="Formula1GulfAirBahrainGPGrandPrixSunday">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ Formula 1 : Gulf Air Bahrain GP - Grand Prix Sunday 🇧🇭</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="Formula1GulfAirBahrainGPRace">
+    <display-name>🏎️ Formula 1 : Gulf Air Bahrain GP - Race 🇧🇭</display-name>
+  </channel>
+  <programme start="20261004000000 +0200" stop="20261004090000 +0200" channel="Formula1GulfAirBahrainGPRace">
+    <title lang="it">Inizia alle 09:00.</title>
+    <desc lang="it">🏎️ Formula 1 : Gulf Air Bahrain GP - Race 🇧🇭.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004090000 +0200" stop="20261004110000 +0200" channel="Formula1GulfAirBahrainGPRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ Formula 1 : Gulf Air Bahrain GP - Race 🇧🇭</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <programme start="20261004000000 +0200" stop="20261004090000 +0200" channel="Formula1GulfAirBahrainGPRace">
+    <title lang="it">Inizia alle 09:00.</title>
+    <desc lang="it">🏎️ Formula 1 : Gulf Air Bahrain GP - Race 🇧🇭.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004090000 +0200" stop="20261004110000 +0200" channel="Formula1GulfAirBahrainGPRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ Formula 1 : Gulf Air Bahrain GP - Race 🇧🇭</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="ShenzhenOpenFinal">
+    <display-name>🎱 Shenzhen Open | Final 🇨🇳</display-name>
+  </channel>
+  <programme start="20261004000000 +0200" stop="20261004080000 +0200" channel="ShenzhenOpenFinal">
+    <title lang="it">Inizia alle 08:00.</title>
+    <desc lang="it">🎱 Shenzhen Open | Final 🇨🇳.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004080000 +0200" stop="20261004100000 +0200" channel="ShenzhenOpenFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎱 Shenzhen Open | Final 🇨🇳</desc>
+    <category lang="it">Snooker 🎱</category>
+  </programme>
+  <programme start="20261004100000 +0200" stop="20261004133000 +0200" channel="ShenzhenOpenFinal">
+    <title lang="it">Inizia alle 13:30.</title>
+    <desc lang="it">🎱 Shenzhen Open | Final 🇨🇳.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004133000 +0200" stop="20261004153000 +0200" channel="ShenzhenOpenFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎱 Shenzhen Open | Final 🇨🇳</desc>
+    <category lang="it">Snooker 🎱</category>
+  </programme>
+  <channel id="CyclingEuropeanChampionshipsLjubljanaEliteMen">
+    <display-name>🚴 Cycling. European Championships Ljubljana: Elite Men 🇸🇮</display-name>
+  </channel>
+  <programme start="20261004000000 +0200" stop="20261004133000 +0200" channel="CyclingEuropeanChampionshipsLjubljanaEliteMen">
+    <title lang="it">Inizia alle 13:30.</title>
+    <desc lang="it">🚴 Cycling. European Championships Ljubljana: Elite Men 🇸🇮.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004133000 +0200" stop="20261004153000 +0200" channel="CyclingEuropeanChampionshipsLjubljanaEliteMen">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 Cycling. European Championships Ljubljana: Elite Men 🇸🇮</desc>
+    <category lang="it">Cycling 🚴</category>
+  </programme>
+  <channel id="UCIWorldCupMountainBikingLakePlacidWomensDownhillFinal">
+    <display-name>🚴 UCI World Cup Mountain Biking : Lake Placid: Women's Downhill Final 🇺🇸</display-name>
+  </channel>
+  <programme start="20261004000000 +0200" stop="20261004183000 +0200" channel="UCIWorldCupMountainBikingLakePlacidWomensDownhillFinal">
+    <title lang="it">Inizia alle 18:30.</title>
+    <desc lang="it">🚴 UCI World Cup Mountain Biking : Lake Placid: Women's Downhill Final 🇺🇸.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004183000 +0200" stop="20261004203000 +0200" channel="UCIWorldCupMountainBikingLakePlacidWomensDownhillFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 UCI World Cup Mountain Biking : Lake Placid: Women's Downhill Final 🇺🇸</desc>
+    <category lang="it">Cycling 🚴</category>
+  </programme>
+  <channel id="UCIWorldCupMountainBikingLakePlacidMensDownhillFinal">
+    <display-name>🚴 UCI World Cup Mountain Biking : Lake Placid: Men's Downhill Final 🇺🇸</display-name>
+  </channel>
+  <programme start="20261004000000 +0200" stop="20261004200000 +0200" channel="UCIWorldCupMountainBikingLakePlacidMensDownhillFinal">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">🚴 UCI World Cup Mountain Biking : Lake Placid: Men's Downhill Final 🇺🇸.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004200000 +0200" stop="20261004220000 +0200" channel="UCIWorldCupMountainBikingLakePlacidMensDownhillFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 UCI World Cup Mountain Biking : Lake Placid: Men's Downhill Final 🇺🇸</desc>
+    <category lang="it">Cycling 🚴</category>
+  </programme>
+  <channel id="ArcdeTriomphePrize">
+    <display-name>🐎 Arc de Triomphe Prize 🇫🇷</display-name>
+  </channel>
+  <programme start="20261004000000 +0200" stop="20261004223000 +0200" channel="ArcdeTriomphePrize">
+    <title lang="it">Inizia alle 22:30.</title>
+    <desc lang="it">🐎 Arc de Triomphe Prize 🇫🇷.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261004223000 +0200" stop="20261005003000 +0200" channel="ArcdeTriomphePrize">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🐎 Arc de Triomphe Prize 🇫🇷</desc>
+    <category lang="it">Horse Racing 🏇</category>
+  </programme>
 </tv>
