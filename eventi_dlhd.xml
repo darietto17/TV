@@ -1,3 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="UEFANationsLeagueCyprusvsLatvia">
+    <display-name>⚽ UEFA Nations League : Cyprus 🇨🇾 vs Latvia 🇱🇻</display-name>
+  </channel>
+  <programme start="20261005000000 +0200" stop="20261005180000 +0200" channel="UEFANationsLeagueCyprusvsLatvia">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">⚽ UEFA Nations League : Cyprus 🇨🇾 vs Latvia 🇱🇻.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261005180000 +0200" stop="20261005200000 +0200" channel="UEFANationsLeagueCyprusvsLatvia">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Nations League : Cyprus 🇨🇾 vs Latvia 🇱🇻</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="EuroU21QualifyingItalyU21vsPolandU21">
+    <display-name>⚽ Euro U-21 Qualifying : Italy U21 🇮🇹 vs Poland U21 🇵🇱</display-name>
+  </channel>
+  <programme start="20261005000000 +0200" stop="20261005181500 +0200" channel="EuroU21QualifyingItalyU21vsPolandU21">
+    <title lang="it">Inizia alle 18:15.</title>
+    <desc lang="it">⚽ Euro U-21 Qualifying : Italy U21 🇮🇹 vs Poland U21 🇵🇱.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261005181500 +0200" stop="20261005201500 +0200" channel="EuroU21QualifyingItalyU21vsPolandU21">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ Euro U-21 Qualifying : Italy U21 🇮🇹 vs Poland U21 🇵🇱</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="UEFANationsLeagueSimulcast">
+    <display-name>⚽ UEFA Nations League : Simulcast</display-name>
+  </channel>
+  <programme start="20261005000000 +0200" stop="20261005204500 +0200" channel="UEFANationsLeagueSimulcast">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ UEFA Nations League : Simulcast.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261005204500 +0200" stop="20261005224500 +0200" channel="UEFANationsLeagueSimulcast">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Nations League : Simulcast</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="UEFANationsLeagueItalyvsTurkey">
+    <display-name>⚽ UEFA Nations League : Italy 🇮🇹 vs Turkey 🇹🇷</display-name>
+  </channel>
+  <programme start="20261005000000 +0200" stop="20261005204500 +0200" channel="UEFANationsLeagueItalyvsTurkey">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ UEFA Nations League : Italy 🇮🇹 vs Turkey 🇹🇷.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261005204500 +0200" stop="20261005224500 +0200" channel="UEFANationsLeagueItalyvsTurkey">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Nations League : Italy 🇮🇹 vs Turkey 🇹🇷</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="UEFANationsLeagueFrancevsBelgium">
+    <display-name>⚽ UEFA Nations League : France 🇫🇷 vs Belgium 🇧🇪</display-name>
+  </channel>
+  <programme start="20261005000000 +0200" stop="20261005204500 +0200" channel="UEFANationsLeagueFrancevsBelgium">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ UEFA Nations League : France 🇫🇷 vs Belgium 🇧🇪.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261005204500 +0200" stop="20261005224500 +0200" channel="UEFANationsLeagueFrancevsBelgium">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Nations League : France 🇫🇷 vs Belgium 🇧🇪</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="BeijingATPSemifinalsBeijingWTA3rdRoundTokyoATPSemifinals">
+    <display-name>🎾 Beijing-ATP Semifinals; Beijing-WTA 3rd Round; Tokyo-ATP Semifinals</display-name>
+  </channel>
+  <programme start="20261005000000 +0200" stop="20261005050000 +0200" channel="BeijingATPSemifinalsBeijingWTA3rdRoundTokyoATPSemifinals">
+    <title lang="it">Inizia alle 05:00.</title>
+    <desc lang="it">🎾 Beijing-ATP Semifinals; Beijing-WTA 3rd Round; Tokyo-ATP Semifinals.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261005050000 +0200" stop="20261005070000 +0200" channel="BeijingATPSemifinalsBeijingWTA3rdRoundTokyoATPSemifinals">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 Beijing-ATP Semifinals; Beijing-WTA 3rd Round; Tokyo-ATP Semifinals</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <channel id="UCIProSeriesCyclingCoppaBernocchi190km">
+    <display-name>🚴 UCI ProSeries Cycling : Coppa Bernocchi | 190 km</display-name>
+  </channel>
+  <programme start="20261005000000 +0200" stop="20261005150000 +0200" channel="UCIProSeriesCyclingCoppaBernocchi190km">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">🚴 UCI ProSeries Cycling : Coppa Bernocchi | 190 km.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261005150000 +0200" stop="20261005170000 +0200" channel="UCIProSeriesCyclingCoppaBernocchi190km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 UCI ProSeries Cycling : Coppa Bernocchi | 190 km</desc>
+    <category lang="it">Cycling 🚴</category>
+  </programme>
 </tv>
