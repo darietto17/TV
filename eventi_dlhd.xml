@@ -1,3 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="GranPiemonteMenAstiBra185km">
+    <display-name>🚴 Gran Piemonte Men | Asti - Bra (185km)</display-name>
+  </channel>
+  <programme start="20261008000000 +0200" stop="20261008144500 +0200" channel="GranPiemonteMenAstiBra185km">
+    <title lang="it">Inizia alle 14:45.</title>
+    <desc lang="it">🚴 Gran Piemonte Men | Asti - Bra (185km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261008144500 +0200" stop="20261008164500 +0200" channel="GranPiemonteMenAstiBra185km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 Gran Piemonte Men | Asti - Bra (185km)</desc>
+    <category lang="it">Cycling 🚴</category>
+  </programme>
+  <channel id="WorldAquaticsSwimming25mWorldCupBakuStage1">
+    <display-name>🏊 World Aquatics. Swimming (25m) World Cup Baku - Stage 1</display-name>
+  </channel>
+  <programme start="20261008000000 +0200" stop="20261008150000 +0200" channel="WorldAquaticsSwimming25mWorldCupBakuStage1">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">🏊 World Aquatics. Swimming (25m) World Cup Baku - Stage 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261008150000 +0200" stop="20261008170000 +0200" channel="WorldAquaticsSwimming25mWorldCupBakuStage1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏊 World Aquatics. Swimming (25m) World Cup Baku - Stage 1</desc>
+    <category lang="it">Water Sports 🏊</category>
+  </programme>
 </tv>
