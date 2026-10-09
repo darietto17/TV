@@ -75,74 +75,19 @@
     <desc lang="it">⚽ FIFA Women's World Cup Qualifying : Belarus 🇧🇾 vs Italy 🇮🇹</desc>
     <category lang="it">FIFA Women's World Cup ⚽</category>
   </programme>
-  <channel id="BeijingWTAQuarterfinalsShanghaiATP2ndRound">
-    <display-name>🎾 Beijing-WTA Quarterfinals; Shanghai-ATP 2nd Round</display-name>
-  </channel>
-  <programme start="20261009000000 +0200" stop="20261009060000 +0200" channel="BeijingWTAQuarterfinalsShanghaiATP2ndRound">
-    <title lang="it">Inizia alle 06:00.</title>
-    <desc lang="it">🎾 Beijing-WTA Quarterfinals; Shanghai-ATP 2nd Round.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20261009060000 +0200" stop="20261009080000 +0200" channel="BeijingWTAQuarterfinalsShanghaiATP2ndRound">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎾 Beijing-WTA Quarterfinals; Shanghai-ATP 2nd Round</desc>
-    <category lang="it">Tennis 🎾</category>
-  </programme>
-  <channel id="Moto3Round17IndonesiaPractice1">
-    <display-name>🏎️ Moto 3 | Round 17 | Indonesia Practice 1</display-name>
-  </channel>
-  <programme start="20261009000000 +0200" stop="20261009071500 +0200" channel="Moto3Round17IndonesiaPractice1">
-    <title lang="it">Inizia alle 07:15.</title>
-    <desc lang="it">🏎️ Moto 3 | Round 17 | Indonesia Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20261009071500 +0200" stop="20261009091500 +0200" channel="Moto3Round17IndonesiaPractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏎️ Moto 3 | Round 17 | Indonesia Practice 1</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
-  <channel id="Moto2Round17IndonesiaPractice1">
-    <display-name>🏎️ Moto 2 | Round 17 | Indonesia Practice 1</display-name>
-  </channel>
-  <programme start="20261009000000 +0200" stop="20261009080000 +0200" channel="Moto2Round17IndonesiaPractice1">
-    <title lang="it">Inizia alle 08:00.</title>
-    <desc lang="it">🏎️ Moto 2 | Round 17 | Indonesia Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20261009080000 +0200" stop="20261009100000 +0200" channel="Moto2Round17IndonesiaPractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏎️ Moto 2 | Round 17 | Indonesia Practice 1</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
-  <channel id="MotoGPRound17IndonesiaPractice1">
-    <display-name>🏎️ MotoGP | Round 17 | Indonesia Practice 1</display-name>
-  </channel>
-  <programme start="20261009000000 +0200" stop="20261009085500 +0200" channel="MotoGPRound17IndonesiaPractice1">
-    <title lang="it">Inizia alle 08:55.</title>
-    <desc lang="it">🏎️ MotoGP | Round 17 | Indonesia Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20261009085500 +0200" stop="20261009105500 +0200" channel="MotoGPRound17IndonesiaPractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏎️ MotoGP | Round 17 | Indonesia Practice 1</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
-  <channel id="Formula1SingaporeGPPractice1">
-    <display-name>🏎️ Formula 1 : Singapore GP - Practice 1</display-name>
-  </channel>
-  <programme start="20261009000000 +0200" stop="20261009103000 +0200" channel="Formula1SingaporeGPPractice1">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">🏎️ Formula 1 : Singapore GP - Practice 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20261009103000 +0200" stop="20261009123000 +0200" channel="Formula1SingaporeGPPractice1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏎️ Formula 1 : Singapore GP - Practice 1</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
   <channel id="Formula1SingaporeGPQualifying">
     <display-name>🏎️ Formula 1 : Singapore GP - Qualifying</display-name>
   </channel>
+  <programme start="20261009000000 +0200" stop="20261009143000 +0200" channel="Formula1SingaporeGPQualifying">
+    <title lang="it">Inizia alle 14:30.</title>
+    <desc lang="it">🏎️ Formula 1 : Singapore GP - Qualifying.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261009143000 +0200" stop="20261009163000 +0200" channel="Formula1SingaporeGPQualifying">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ Formula 1 : Singapore GP - Qualifying</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
   <programme start="20261009000000 +0200" stop="20261009143000 +0200" channel="Formula1SingaporeGPQualifying">
     <title lang="it">Inizia alle 14:30.</title>
     <desc lang="it">🏎️ Formula 1 : Singapore GP - Qualifying.</desc>
