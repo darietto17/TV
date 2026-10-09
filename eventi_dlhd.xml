@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="GermanyBundesliga2HeidenheimvsKaiserslautern">
-    <display-name>⚽ Germany - Bundesliga 2 : Heidenheim 🇩🇪 vs Kaiserslautern 🇩🇪</display-name>
-  </channel>
-  <programme start="20261009000000 +0200" stop="20261009183000 +0200" channel="GermanyBundesliga2HeidenheimvsKaiserslautern">
-    <title lang="it">Inizia alle 18:30.</title>
-    <desc lang="it">⚽ Germany - Bundesliga 2 : Heidenheim 🇩🇪 vs Kaiserslautern 🇩🇪.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20261009183000 +0200" stop="20261009203000 +0200" channel="GermanyBundesliga2HeidenheimvsKaiserslautern">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ Germany - Bundesliga 2 : Heidenheim 🇩🇪 vs Kaiserslautern 🇩🇪</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
   <channel id="GermanyBundesligaBorussiaDortmundvsWerderBremen">
     <display-name>⚽ Germany - Bundesliga : Borussia Dortmund 🇩🇪 vs Werder Bremen 🇩🇪</display-name>
   </channel>
@@ -61,55 +48,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">⚽ Italy - Serie B : Avellino 🇮🇹 vs Sampdoria 🇮🇹</desc>
     <category lang="it">All Soccer Events ⚽</category>
-  </programme>
-  <channel id="FIFAWomensWorldCupQualifyingBelarusvsItaly">
-    <display-name>⚽ FIFA Women's World Cup Qualifying : Belarus 🇧🇾 vs Italy 🇮🇹</display-name>
-  </channel>
-  <programme start="20261009000000 +0200" stop="20261009181500 +0200" channel="FIFAWomensWorldCupQualifyingBelarusvsItaly">
-    <title lang="it">Inizia alle 18:15.</title>
-    <desc lang="it">⚽ FIFA Women's World Cup Qualifying : Belarus 🇧🇾 vs Italy 🇮🇹.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20261009181500 +0200" stop="20261009201500 +0200" channel="FIFAWomensWorldCupQualifyingBelarusvsItaly">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ FIFA Women's World Cup Qualifying : Belarus 🇧🇾 vs Italy 🇮🇹</desc>
-    <category lang="it">FIFA Women's World Cup ⚽</category>
-  </programme>
-  <channel id="Formula1SingaporeGPQualifying">
-    <display-name>🏎️ Formula 1 : Singapore GP - Qualifying</display-name>
-  </channel>
-  <programme start="20261009000000 +0200" stop="20261009143000 +0200" channel="Formula1SingaporeGPQualifying">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">🏎️ Formula 1 : Singapore GP - Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20261009143000 +0200" stop="20261009163000 +0200" channel="Formula1SingaporeGPQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏎️ Formula 1 : Singapore GP - Qualifying</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
-  <programme start="20261009000000 +0200" stop="20261009143000 +0200" channel="Formula1SingaporeGPQualifying">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">🏎️ Formula 1 : Singapore GP - Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20261009143000 +0200" stop="20261009163000 +0200" channel="Formula1SingaporeGPQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏎️ Formula 1 : Singapore GP - Qualifying</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
-  <channel id="JudoWomens78kgandMens100kgFinalsJudoWorldChampionshipBaku">
-    <display-name>🥋 Judo: Women's 78kg and Men's -100kg Finals - Judo World Championship, Baku</display-name>
-  </channel>
-  <programme start="20261009000000 +0200" stop="20261009160000 +0200" channel="JudoWomens78kgandMens100kgFinalsJudoWorldChampionshipBaku">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">🥋 Judo: Women's 78kg and Men's -100kg Finals - Judo World Championship, Baku.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20261009160000 +0200" stop="20261009180000 +0200" channel="JudoWomens78kgandMens100kgFinalsJudoWorldChampionshipBaku">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🥋 Judo: Women's 78kg and Men's -100kg Finals - Judo World Championship, Baku</desc>
-    <category lang="it">Combat sports 🥋</category>
   </programme>
   <channel id="SerieANapolivsL84">
     <display-name>⚽ Serie A : Napoli 🇮🇹 vs L84 🇮🇹</display-name>
