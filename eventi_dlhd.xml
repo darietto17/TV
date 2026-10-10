@@ -464,87 +464,19 @@
     <desc lang="it">⚽ Spain - La Liga : Real Madrid 🇪🇸 vs Villarreal 🇪🇸</desc>
     <category lang="it">All Soccer Events ⚽</category>
   </programme>
-  <channel id="ATP1000ShanghaiQizhongForestSportsCityArena">
-    <display-name>🎾 ATP 1000 Shanghai - Qizhong Forest Sports City Arena</display-name>
-  </channel>
-  <programme start="20261010000000 +0200" stop="20261010060000 +0200" channel="ATP1000ShanghaiQizhongForestSportsCityArena">
-    <title lang="it">Inizia alle 06:00.</title>
-    <desc lang="it">🎾 ATP 1000 Shanghai - Qizhong Forest Sports City Arena.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20261010060000 +0200" stop="20261010080000 +0200" channel="ATP1000ShanghaiQizhongForestSportsCityArena">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎾 ATP 1000 Shanghai - Qizhong Forest Sports City Arena</desc>
-    <category lang="it">Tennis 🎾</category>
-  </programme>
-  <channel id="Moto3Round17IndonesiaQualifying">
-    <display-name>🏎️ Moto3 | Round 17 | Indonesia Qualifying</display-name>
-  </channel>
-  <programme start="20261010000000 +0200" stop="20261010064500 +0200" channel="Moto3Round17IndonesiaQualifying">
-    <title lang="it">Inizia alle 06:45.</title>
-    <desc lang="it">🏎️ Moto3 | Round 17 | Indonesia Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20261010064500 +0200" stop="20261010084500 +0200" channel="Moto3Round17IndonesiaQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏎️ Moto3 | Round 17 | Indonesia Qualifying</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
-  <channel id="Moto2Round17IndonesiaQualifying">
-    <display-name>🏎️ Moto2 | Round 17 | Indonesia Qualifying</display-name>
-  </channel>
-  <programme start="20261010000000 +0200" stop="20261010073500 +0200" channel="Moto2Round17IndonesiaQualifying">
-    <title lang="it">Inizia alle 07:35.</title>
-    <desc lang="it">🏎️ Moto2 | Round 17 | Indonesia Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20261010073500 +0200" stop="20261010093500 +0200" channel="Moto2Round17IndonesiaQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏎️ Moto2 | Round 17 | Indonesia Qualifying</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
-  <channel id="MotoGPRound17IndonesiaSprintRace">
-    <display-name>🏎️ MotoGP | Round 17 | Indonesia Sprint Race</display-name>
-  </channel>
-  <programme start="20261010000000 +0200" stop="20261010084500 +0200" channel="MotoGPRound17IndonesiaSprintRace">
-    <title lang="it">Inizia alle 08:45.</title>
-    <desc lang="it">🏎️ MotoGP | Round 17 | Indonesia Sprint Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20261010084500 +0200" stop="20261010104500 +0200" channel="MotoGPRound17IndonesiaSprintRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏎️ MotoGP | Round 17 | Indonesia Sprint Race</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
-  <channel id="Formula1SingaporeGPSprintGrid">
-    <display-name>🏎️ Formula 1 : Singapore GP - Sprint Grid</display-name>
-  </channel>
-  <programme start="20261010000000 +0200" stop="20261010110000 +0200" channel="Formula1SingaporeGPSprintGrid">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">🏎️ Formula 1 : Singapore GP - Sprint Grid.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20261010110000 +0200" stop="20261010130000 +0200" channel="Formula1SingaporeGPSprintGrid">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏎️ Formula 1 : Singapore GP - Sprint Grid</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
-  <channel id="Formula1SingaporeGPSprint">
-    <display-name>🏎️ Formula 1 : Singapore GP - Sprint</display-name>
-  </channel>
-  <programme start="20261010000000 +0200" stop="20261010110000 +0200" channel="Formula1SingaporeGPSprint">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">🏎️ Formula 1 : Singapore GP - Sprint.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20261010110000 +0200" stop="20261010130000 +0200" channel="Formula1SingaporeGPSprint">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏎️ Formula 1 : Singapore GP - Sprint</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
   <channel id="Formula1SingaporeGPQualifying">
     <display-name>🏎️ Formula 1 : Singapore GP - Qualifying</display-name>
   </channel>
+  <programme start="20261010000000 +0200" stop="20261010150000 +0200" channel="Formula1SingaporeGPQualifying">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">🏎️ Formula 1 : Singapore GP - Qualifying.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261010150000 +0200" stop="20261010170000 +0200" channel="Formula1SingaporeGPQualifying">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ Formula 1 : Singapore GP - Qualifying</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
   <programme start="20261010000000 +0200" stop="20261010150000 +0200" channel="Formula1SingaporeGPQualifying">
     <title lang="it">Inizia alle 15:00.</title>
     <desc lang="it">🏎️ Formula 1 : Singapore GP - Qualifying.</desc>
@@ -567,32 +499,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">🥋 Judo: Women's 78kg and Men's -100kg Finals - Judo World Championship, Baku</desc>
     <category lang="it">Combat sports 🥋</category>
-  </programme>
-  <channel id="TourofLombardy239km4000m">
-    <display-name>🚴 Tour of Lombardy | 239 km | 4000 m</display-name>
-  </channel>
-  <programme start="20261010000000 +0200" stop="20261010103500 +0200" channel="TourofLombardy239km4000m">
-    <title lang="it">Inizia alle 10:35.</title>
-    <desc lang="it">🚴 Tour of Lombardy | 239 km | 4000 m.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20261010103500 +0200" stop="20261010123500 +0200" channel="TourofLombardy239km4000m">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🚴 Tour of Lombardy | 239 km | 4000 m</desc>
-    <category lang="it">Cycling 🚴</category>
-  </programme>
-  <channel id="IppicaPrixdelArcdeTriomphe2026">
-    <display-name>🏇 Ippica: Prix de l'Arc de Triomphe 2026</display-name>
-  </channel>
-  <programme start="20261010000000 +0200" stop="20261010100000 +0200" channel="IppicaPrixdelArcdeTriomphe2026">
-    <title lang="it">Inizia alle 10:00.</title>
-    <desc lang="it">🏇 Ippica: Prix de l'Arc de Triomphe 2026.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20261010100000 +0200" stop="20261010120000 +0200" channel="IppicaPrixdelArcdeTriomphe2026">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏇 Ippica: Prix de l'Arc de Triomphe 2026</desc>
-    <category lang="it">Horse Racing 🏇</category>
   </programme>
   <channel id="UnitedRugbyChampionshipZebrevsEdinburgh">
     <display-name>🏉 United Rugby Championship : 🇮🇹 Zebre vs 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Edinburgh</display-name>
