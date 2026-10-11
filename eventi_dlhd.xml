@@ -23,6 +23,16 @@
     <desc lang="it">⚽ Italy - Serie A : Como 🇮🇹 vs Roma 🇮🇹</desc>
     <category lang="it">All Soccer Events ⚽</category>
   </programme>
+  <programme start="20261011000000 +0200" stop="20261011123000 +0200" channel="ItalySerieAComovsRoma">
+    <title lang="it">Inizia alle 12:30.</title>
+    <desc lang="it">⚽ Italy - Serie A : Como 🇮🇹 vs Roma 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261011123000 +0200" stop="20261011143000 +0200" channel="ItalySerieAComovsRoma">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ Italy - Serie A : Como 🇮🇹 vs Roma 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
   <channel id="ItalySerieCSassariTorresvsAtalantaII">
     <display-name>⚽ Italy - Serie C : Sassari Torres 🇮🇹 vs Atalanta II 🇮🇹</display-name>
   </channel>
@@ -163,9 +173,29 @@
     <desc lang="it">⚽ Italy - Serie A : Lecce 🇮🇹 vs Bologna 🇮🇹</desc>
     <category lang="it">All Soccer Events ⚽</category>
   </programme>
+  <programme start="20261011000000 +0200" stop="20261011150000 +0200" channel="ItalySerieALeccevsBologna">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">⚽ Italy - Serie A : Lecce 🇮🇹 vs Bologna 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261011150000 +0200" stop="20261011170000 +0200" channel="ItalySerieALeccevsBologna">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ Italy - Serie A : Lecce 🇮🇹 vs Bologna 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
   <channel id="ItalySerieALaziovsMonza">
     <display-name>⚽ Italy - Serie A : Lazio 🇮🇹 vs Monza 🇮🇹</display-name>
   </channel>
+  <programme start="20261011000000 +0200" stop="20261011150000 +0200" channel="ItalySerieALaziovsMonza">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">⚽ Italy - Serie A : Lazio 🇮🇹 vs Monza 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261011150000 +0200" stop="20261011170000 +0200" channel="ItalySerieALaziovsMonza">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ Italy - Serie A : Lazio 🇮🇹 vs Monza 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
   <programme start="20261011000000 +0200" stop="20261011150000 +0200" channel="ItalySerieALaziovsMonza">
     <title lang="it">Inizia alle 15:00.</title>
     <desc lang="it">⚽ Italy - Serie A : Lazio 🇮🇹 vs Monza 🇮🇹.</desc>
@@ -359,6 +389,16 @@
     <desc lang="it">⚽ Italy - Serie A : Sassuolo 🇮🇹 vs Milan 🇮🇹</desc>
     <category lang="it">All Soccer Events ⚽</category>
   </programme>
+  <programme start="20261011000000 +0200" stop="20261011180000 +0200" channel="ItalySerieASassuolovsMilan">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">⚽ Italy - Serie A : Sassuolo 🇮🇹 vs Milan 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261011180000 +0200" stop="20261011200000 +0200" channel="ItalySerieASassuolovsMilan">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ Italy - Serie A : Sassuolo 🇮🇹 vs Milan 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
   <channel id="ItalySerieBModenavsVerona">
     <display-name>⚽ Italy - Serie B : Modena 🇮🇹 vs Verona 🇮🇹</display-name>
   </channel>
@@ -395,44 +435,15 @@
     <desc lang="it">⚽ Italy - Serie A : Cagliari 🇮🇹 vs Juventus 🇮🇹</desc>
     <category lang="it">All Soccer Events ⚽</category>
   </programme>
-  <channel id="BeijingWTAFinalShanghaiATP3rdRound">
-    <display-name>🎾 Beijing-WTA Final; Shanghai-ATP 3rd Round</display-name>
-  </channel>
-  <programme start="20261011000000 +0200" stop="20261011060000 +0200" channel="BeijingWTAFinalShanghaiATP3rdRound">
-    <title lang="it">Inizia alle 06:00.</title>
-    <desc lang="it">🎾 Beijing-WTA Final; Shanghai-ATP 3rd Round.</desc>
+  <programme start="20261011000000 +0200" stop="20261011204500 +0200" channel="ItalySerieACagliarivsJuventus">
+    <title lang="it">Inizia alle 20:45.</title>
+    <desc lang="it">⚽ Italy - Serie A : Cagliari 🇮🇹 vs Juventus 🇮🇹.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20261011060000 +0200" stop="20261011080000 +0200" channel="BeijingWTAFinalShanghaiATP3rdRound">
+  <programme start="20261011204500 +0200" stop="20261011224500 +0200" channel="ItalySerieACagliarivsJuventus">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎾 Beijing-WTA Final; Shanghai-ATP 3rd Round</desc>
-    <category lang="it">Tennis 🎾</category>
-  </programme>
-  <channel id="Moto2Round17IndonesiaRace">
-    <display-name>🏎️ Moto2 | Round 17 | Indonesia Race</display-name>
-  </channel>
-  <programme start="20261011000000 +0200" stop="20261011070000 +0200" channel="Moto2Round17IndonesiaRace">
-    <title lang="it">Inizia alle 07:00.</title>
-    <desc lang="it">🏎️ Moto2 | Round 17 | Indonesia Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20261011070000 +0200" stop="20261011090000 +0200" channel="Moto2Round17IndonesiaRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏎️ Moto2 | Round 17 | Indonesia Race</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
-  </programme>
-  <channel id="MotoGPRound17IndonesiaRace">
-    <display-name>🏎️ MotoGP | Round 17 | Indonesia Race</display-name>
-  </channel>
-  <programme start="20261011000000 +0200" stop="20261011081500 +0200" channel="MotoGPRound17IndonesiaRace">
-    <title lang="it">Inizia alle 08:15.</title>
-    <desc lang="it">🏎️ MotoGP | Round 17 | Indonesia Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20261011081500 +0200" stop="20261011101500 +0200" channel="MotoGPRound17IndonesiaRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏎️ MotoGP | Round 17 | Indonesia Race</desc>
-    <category lang="it">Motorsport 🏎️🏁</category>
+    <desc lang="it">⚽ Italy - Serie A : Cagliari 🇮🇹 vs Juventus 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
   </programme>
   <channel id="Formula1SingaporeGPGrandPrixSunday">
     <display-name>🏎️ Formula 1 : Singapore GP - Grand Prix Sunday</display-name>
@@ -447,9 +458,29 @@
     <desc lang="it">🏎️ Formula 1 : Singapore GP - Grand Prix Sunday</desc>
     <category lang="it">Motorsport 🏎️🏁</category>
   </programme>
+  <programme start="20261011000000 +0200" stop="20261011130000 +0200" channel="Formula1SingaporeGPGrandPrixSunday">
+    <title lang="it">Inizia alle 13:00.</title>
+    <desc lang="it">🏎️ Formula 1 : Singapore GP - Grand Prix Sunday.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261011130000 +0200" stop="20261011150000 +0200" channel="Formula1SingaporeGPGrandPrixSunday">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ Formula 1 : Singapore GP - Grand Prix Sunday</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
   <channel id="Formula1SingaporeGPRace">
     <display-name>🏎️ Formula 1 : Singapore GP - Race</display-name>
   </channel>
+  <programme start="20261011000000 +0200" stop="20261011140000 +0200" channel="Formula1SingaporeGPRace">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">🏎️ Formula 1 : Singapore GP - Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261011140000 +0200" stop="20261011160000 +0200" channel="Formula1SingaporeGPRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ Formula 1 : Singapore GP - Race</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
   <programme start="20261011000000 +0200" stop="20261011140000 +0200" channel="Formula1SingaporeGPRace">
     <title lang="it">Inizia alle 14:00.</title>
     <desc lang="it">🏎️ Formula 1 : Singapore GP - Race.</desc>
