@@ -1,3 +1,305 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ItalySerieCGiuglianovsInterII">
+    <display-name>⚽ Italy - Serie C : Giugliano 🇮🇹 vs Inter II 🇮🇹</display-name>
+  </channel>
+  <programme start="20261013000000 +0200" stop="20261013150000 +0200" channel="ItalySerieCGiuglianovsInterII">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">⚽ Italy - Serie C : Giugliano 🇮🇹 vs Inter II 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261013150000 +0200" stop="20261013170000 +0200" channel="ItalySerieCGiuglianovsInterII">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ Italy - Serie C : Giugliano 🇮🇹 vs Inter II 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20261013000000 +0200" stop="20261013150000 +0200" channel="ItalySerieCGiuglianovsInterII">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">⚽ Italy - Serie C : Giugliano 🇮🇹 vs Inter II 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261013150000 +0200" stop="20261013170000 +0200" channel="ItalySerieCGiuglianovsInterII">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ Italy - Serie C : Giugliano 🇮🇹 vs Inter II 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ItalySerieCJuventusIIvsLumezzane">
+    <display-name>⚽ Italy - Serie C : Juventus II 🇮🇹 vs Lumezzane 🇮🇹</display-name>
+  </channel>
+  <programme start="20261013000000 +0200" stop="20261013160000 +0200" channel="ItalySerieCJuventusIIvsLumezzane">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">⚽ Italy - Serie C : Juventus II 🇮🇹 vs Lumezzane 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261013160000 +0200" stop="20261013180000 +0200" channel="ItalySerieCJuventusIIvsLumezzane">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ Italy - Serie C : Juventus II 🇮🇹 vs Lumezzane 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20261013000000 +0200" stop="20261013160000 +0200" channel="ItalySerieCJuventusIIvsLumezzane">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">⚽ Italy - Serie C : Juventus II 🇮🇹 vs Lumezzane 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261013160000 +0200" stop="20261013180000 +0200" channel="ItalySerieCJuventusIIvsLumezzane">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ Italy - Serie C : Juventus II 🇮🇹 vs Lumezzane 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="UEFAChampionsLeagueSabahvsSlaviaPraha">
+    <display-name>⚽ UEFA Champions League : Sabah 🇦🇿 vs Slavia Praha 🇨🇿</display-name>
+  </channel>
+  <programme start="20261013000000 +0200" stop="20261013184500 +0200" channel="UEFAChampionsLeagueSabahvsSlaviaPraha">
+    <title lang="it">Inizia alle 18:45.</title>
+    <desc lang="it">⚽ UEFA Champions League : Sabah 🇦🇿 vs Slavia Praha 🇨🇿.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261013184500 +0200" stop="20261013204500 +0200" channel="UEFAChampionsLeagueSabahvsSlaviaPraha">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Champions League : Sabah 🇦🇿 vs Slavia Praha 🇨🇿</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20261013000000 +0200" stop="20261013184500 +0200" channel="UEFAChampionsLeagueSabahvsSlaviaPraha">
+    <title lang="it">Inizia alle 18:45.</title>
+    <desc lang="it">⚽ UEFA Champions League : Sabah 🇦🇿 vs Slavia Praha 🇨🇿.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261013184500 +0200" stop="20261013204500 +0200" channel="UEFAChampionsLeagueSabahvsSlaviaPraha">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Champions League : Sabah 🇦🇿 vs Slavia Praha 🇨🇿</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="UEFAChampionsLeagueLensvsSportingCP">
+    <display-name>⚽ UEFA Champions League : Lens 🇫🇷 vs Sporting CP 🇵🇹</display-name>
+  </channel>
+  <programme start="20261013000000 +0200" stop="20261013184500 +0200" channel="UEFAChampionsLeagueLensvsSportingCP">
+    <title lang="it">Inizia alle 18:45.</title>
+    <desc lang="it">⚽ UEFA Champions League : Lens 🇫🇷 vs Sporting CP 🇵🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261013184500 +0200" stop="20261013204500 +0200" channel="UEFAChampionsLeagueLensvsSportingCP">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Champions League : Lens 🇫🇷 vs Sporting CP 🇵🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20261013000000 +0200" stop="20261013184500 +0200" channel="UEFAChampionsLeagueLensvsSportingCP">
+    <title lang="it">Inizia alle 18:45.</title>
+    <desc lang="it">⚽ UEFA Champions League : Lens 🇫🇷 vs Sporting CP 🇵🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261013184500 +0200" stop="20261013204500 +0200" channel="UEFAChampionsLeagueLensvsSportingCP">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Champions League : Lens 🇫🇷 vs Sporting CP 🇵🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20261013000000 +0200" stop="20261013184500 +0200" channel="UEFAChampionsLeagueLensvsSportingCP">
+    <title lang="it">Inizia alle 18:45.</title>
+    <desc lang="it">⚽ UEFA Champions League : Lens 🇫🇷 vs Sporting CP 🇵🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261013184500 +0200" stop="20261013204500 +0200" channel="UEFAChampionsLeagueLensvsSportingCP">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Champions League : Lens 🇫🇷 vs Sporting CP 🇵🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="UEFAChampionsLeagueSimulcast">
+    <display-name>⚽ UEFA Champions League : Simulcast</display-name>
+  </channel>
+  <programme start="20261013000000 +0200" stop="20261013210000 +0200" channel="UEFAChampionsLeagueSimulcast">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">⚽ UEFA Champions League : Simulcast.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261013210000 +0200" stop="20261013230000 +0200" channel="UEFAChampionsLeagueSimulcast">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Champions League : Simulcast</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="UEFAChampionsLeagueVillarrealvsNapoli">
+    <display-name>⚽ UEFA Champions League : Villarreal 🇪🇸 vs Napoli 🇮🇹</display-name>
+  </channel>
+  <programme start="20261013000000 +0200" stop="20261013210000 +0200" channel="UEFAChampionsLeagueVillarrealvsNapoli">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">⚽ UEFA Champions League : Villarreal 🇪🇸 vs Napoli 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261013210000 +0200" stop="20261013230000 +0200" channel="UEFAChampionsLeagueVillarrealvsNapoli">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Champions League : Villarreal 🇪🇸 vs Napoli 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20261013000000 +0200" stop="20261013210000 +0200" channel="UEFAChampionsLeagueVillarrealvsNapoli">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">⚽ UEFA Champions League : Villarreal 🇪🇸 vs Napoli 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261013210000 +0200" stop="20261013230000 +0200" channel="UEFAChampionsLeagueVillarrealvsNapoli">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Champions League : Villarreal 🇪🇸 vs Napoli 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20261013000000 +0200" stop="20261013210000 +0200" channel="UEFAChampionsLeagueVillarrealvsNapoli">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">⚽ UEFA Champions League : Villarreal 🇪🇸 vs Napoli 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261013210000 +0200" stop="20261013230000 +0200" channel="UEFAChampionsLeagueVillarrealvsNapoli">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Champions League : Villarreal 🇪🇸 vs Napoli 🇮🇹</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="UEFAChampionsLeagueVikingvsBayernMnchen">
+    <display-name>⚽ UEFA Champions League : Viking 🇳🇴 vs Bayern München 🇩🇪</display-name>
+  </channel>
+  <programme start="20261013000000 +0200" stop="20261013210000 +0200" channel="UEFAChampionsLeagueVikingvsBayernMnchen">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">⚽ UEFA Champions League : Viking 🇳🇴 vs Bayern München 🇩🇪.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261013210000 +0200" stop="20261013230000 +0200" channel="UEFAChampionsLeagueVikingvsBayernMnchen">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Champions League : Viking 🇳🇴 vs Bayern München 🇩🇪</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="UEFAChampionsLeagueRBLeipzigvsPSV">
+    <display-name>⚽ UEFA Champions League : RB Leipzig 🇩🇪 vs PSV 🇳🇱</display-name>
+  </channel>
+  <programme start="20261013000000 +0200" stop="20261013210000 +0200" channel="UEFAChampionsLeagueRBLeipzigvsPSV">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">⚽ UEFA Champions League : RB Leipzig 🇩🇪 vs PSV 🇳🇱.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261013210000 +0200" stop="20261013230000 +0200" channel="UEFAChampionsLeagueRBLeipzigvsPSV">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Champions League : RB Leipzig 🇩🇪 vs PSV 🇳🇱</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="UEFAChampionsLeagueInternazionalevsClubBrugge">
+    <display-name>⚽ UEFA Champions League : Internazionale 🇮🇹 vs Club Brugge 🇧🇪</display-name>
+  </channel>
+  <programme start="20261013000000 +0200" stop="20261013210000 +0200" channel="UEFAChampionsLeagueInternazionalevsClubBrugge">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">⚽ UEFA Champions League : Internazionale 🇮🇹 vs Club Brugge 🇧🇪.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261013210000 +0200" stop="20261013230000 +0200" channel="UEFAChampionsLeagueInternazionalevsClubBrugge">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Champions League : Internazionale 🇮🇹 vs Club Brugge 🇧🇪</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20261013000000 +0200" stop="20261013210000 +0200" channel="UEFAChampionsLeagueInternazionalevsClubBrugge">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">⚽ UEFA Champions League : Internazionale 🇮🇹 vs Club Brugge 🇧🇪.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261013210000 +0200" stop="20261013230000 +0200" channel="UEFAChampionsLeagueInternazionalevsClubBrugge">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Champions League : Internazionale 🇮🇹 vs Club Brugge 🇧🇪</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20261013000000 +0200" stop="20261013210000 +0200" channel="UEFAChampionsLeagueInternazionalevsClubBrugge">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">⚽ UEFA Champions League : Internazionale 🇮🇹 vs Club Brugge 🇧🇪.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261013210000 +0200" stop="20261013230000 +0200" channel="UEFAChampionsLeagueInternazionalevsClubBrugge">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Champions League : Internazionale 🇮🇹 vs Club Brugge 🇧🇪</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="UEFAChampionsLeagueGalatasarayvsBarcelona">
+    <display-name>⚽ UEFA Champions League : Galatasaray 🇹🇷 vs Barcelona 🇪🇸</display-name>
+  </channel>
+  <programme start="20261013000000 +0200" stop="20261013210000 +0200" channel="UEFAChampionsLeagueGalatasarayvsBarcelona">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">⚽ UEFA Champions League : Galatasaray 🇹🇷 vs Barcelona 🇪🇸.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261013210000 +0200" stop="20261013230000 +0200" channel="UEFAChampionsLeagueGalatasarayvsBarcelona">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Champions League : Galatasaray 🇹🇷 vs Barcelona 🇪🇸</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20261013000000 +0200" stop="20261013210000 +0200" channel="UEFAChampionsLeagueGalatasarayvsBarcelona">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">⚽ UEFA Champions League : Galatasaray 🇹🇷 vs Barcelona 🇪🇸.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261013210000 +0200" stop="20261013230000 +0200" channel="UEFAChampionsLeagueGalatasarayvsBarcelona">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Champions League : Galatasaray 🇹🇷 vs Barcelona 🇪🇸</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20261013000000 +0200" stop="20261013210000 +0200" channel="UEFAChampionsLeagueGalatasarayvsBarcelona">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">⚽ UEFA Champions League : Galatasaray 🇹🇷 vs Barcelona 🇪🇸.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261013210000 +0200" stop="20261013230000 +0200" channel="UEFAChampionsLeagueGalatasarayvsBarcelona">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Champions League : Galatasaray 🇹🇷 vs Barcelona 🇪🇸</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <programme start="20261013000000 +0200" stop="20261013210000 +0200" channel="UEFAChampionsLeagueGalatasarayvsBarcelona">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">⚽ UEFA Champions League : Galatasaray 🇹🇷 vs Barcelona 🇪🇸.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261013210000 +0200" stop="20261013230000 +0200" channel="UEFAChampionsLeagueGalatasarayvsBarcelona">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Champions League : Galatasaray 🇹🇷 vs Barcelona 🇪🇸</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="UEFAChampionsLeagueAtlticoMadridvsManchesterUnited">
+    <display-name>⚽ UEFA Champions League : Atlético Madrid 🇪🇸 vs Manchester United 🏴󠁧󠁢󠁥󠁮󠁧󠁿</display-name>
+  </channel>
+  <programme start="20261013000000 +0200" stop="20261013210000 +0200" channel="UEFAChampionsLeagueAtlticoMadridvsManchesterUnited">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">⚽ UEFA Champions League : Atlético Madrid 🇪🇸 vs Manchester United 🏴󠁧󠁢󠁥󠁮󠁧󠁿.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261013210000 +0200" stop="20261013230000 +0200" channel="UEFAChampionsLeagueAtlticoMadridvsManchesterUnited">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Champions League : Atlético Madrid 🇪🇸 vs Manchester United 🏴󠁧󠁢󠁥󠁮󠁧󠁿</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="UEFAChampionsLeagueArsenalvsLille">
+    <display-name>⚽ UEFA Champions League : Arsenal 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs Lille 🇫🇷</display-name>
+  </channel>
+  <programme start="20261013000000 +0200" stop="20261013210000 +0200" channel="UEFAChampionsLeagueArsenalvsLille">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">⚽ UEFA Champions League : Arsenal 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs Lille 🇫🇷.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261013210000 +0200" stop="20261013230000 +0200" channel="UEFAChampionsLeagueArsenalvsLille">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Champions League : Arsenal 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs Lille 🇫🇷</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="FIFAWomensWorldCupQualifyingItalyvsBelarus">
+    <display-name>⚽ FIFA Women's World Cup Qualifying : Italy 🇮🇹 vs Belarus 🇧🇾</display-name>
+  </channel>
+  <programme start="20261013000000 +0200" stop="20261013181500 +0200" channel="FIFAWomensWorldCupQualifyingItalyvsBelarus">
+    <title lang="it">Inizia alle 18:15.</title>
+    <desc lang="it">⚽ FIFA Women's World Cup Qualifying : Italy 🇮🇹 vs Belarus 🇧🇾.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261013181500 +0200" stop="20261013201500 +0200" channel="FIFAWomensWorldCupQualifyingItalyvsBelarus">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ FIFA Women's World Cup Qualifying : Italy 🇮🇹 vs Belarus 🇧🇾</desc>
+    <category lang="it">FIFA Women's World Cup QF ⚽</category>
+  </programme>
+  <channel id="EnecoTourPrologueMixedTheHague31kmITT">
+    <display-name>🚴 Eneco Tour | Prologue Mixed | The Hague (3.1km, ITT)</display-name>
+  </channel>
+  <programme start="20261013000000 +0200" stop="20261013180000 +0200" channel="EnecoTourPrologueMixedTheHague31kmITT">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">🚴 Eneco Tour | Prologue Mixed | The Hague (3.1km, ITT).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261013180000 +0200" stop="20261013200000 +0200" channel="EnecoTourPrologueMixedTheHague31kmITT">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 Eneco Tour | Prologue Mixed | The Hague (3.1km, ITT)</desc>
+    <category lang="it">Cycling 🚴</category>
+  </programme>
 </tv>
