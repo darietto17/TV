@@ -1,38 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ItalySerieCLatinavsAtalantaII">
-    <display-name>⚽ Italy - Serie C : Latina 🇮🇹 vs Atalanta II 🇮🇹</display-name>
-  </channel>
-  <programme start="20261014000000 +0200" stop="20261014150000 +0200" channel="ItalySerieCLatinavsAtalantaII">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">⚽ Italy - Serie C : Latina 🇮🇹 vs Atalanta II 🇮🇹.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20261014150000 +0200" stop="20261014170000 +0200" channel="ItalySerieCLatinavsAtalantaII">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ Italy - Serie C : Latina 🇮🇹 vs Atalanta II 🇮🇹</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
-  <programme start="20261014000000 +0200" stop="20261014150000 +0200" channel="ItalySerieCLatinavsAtalantaII">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">⚽ Italy - Serie C : Latina 🇮🇹 vs Atalanta II 🇮🇹.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20261014150000 +0200" stop="20261014170000 +0200" channel="ItalySerieCLatinavsAtalantaII">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ Italy - Serie C : Latina 🇮🇹 vs Atalanta II 🇮🇹</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
-  <programme start="20261014000000 +0200" stop="20261014150000 +0200" channel="ItalySerieCLatinavsAtalantaII">
-    <title lang="it">Inizia alle 15:00.</title>
-    <desc lang="it">⚽ Italy - Serie C : Latina 🇮🇹 vs Atalanta II 🇮🇹.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20261014150000 +0200" stop="20261014170000 +0200" channel="ItalySerieCLatinavsAtalantaII">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ Italy - Serie C : Latina 🇮🇹 vs Atalanta II 🇮🇹</desc>
-    <category lang="it">All Soccer Events ⚽</category>
-  </programme>
   <channel id="UEFAChampionsLeagueSimulcast">
     <display-name>⚽ UEFA Champions League : Simulcast</display-name>
   </channel>
@@ -292,32 +259,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">⚽ UEFA Champions League : Roma 🇮🇹 vs Real Madrid 🇪🇸</desc>
     <category lang="it">All Soccer Events ⚽</category>
-  </programme>
-  <channel id="UEFAYouthLeagueASRomaU19vsRealMadridU19">
-    <display-name>⚽ UEFA Youth League : AS Roma U19 🇮🇹 vs Real Madrid U19 🇪🇸</display-name>
-  </channel>
-  <programme start="20261014000000 +0200" stop="20261014140000 +0200" channel="UEFAYouthLeagueASRomaU19vsRealMadridU19">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">⚽ UEFA Youth League : AS Roma U19 🇮🇹 vs Real Madrid U19 🇪🇸.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20261014140000 +0200" stop="20261014160000 +0200" channel="UEFAYouthLeagueASRomaU19vsRealMadridU19">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ UEFA Youth League : AS Roma U19 🇮🇹 vs Real Madrid U19 🇪🇸</desc>
-    <category lang="it">UEFA Youth League ⚽</category>
-  </programme>
-  <channel id="EnecoTourStage1MenEde120km">
-    <display-name>🚴 Eneco Tour | Stage 1 Men | Ede (120km)</display-name>
-  </channel>
-  <programme start="20261014000000 +0200" stop="20261014141500 +0200" channel="EnecoTourStage1MenEde120km">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">🚴 Eneco Tour | Stage 1 Men | Ede (120km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20261014141500 +0200" stop="20261014161500 +0200" channel="EnecoTourStage1MenEde120km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🚴 Eneco Tour | Stage 1 Men | Ede (120km)</desc>
-    <category lang="it">Cycling 🚴</category>
   </programme>
   <channel id="SerieA1WomenChieri76WvsConeglianoW">
     <display-name>🏐 Serie A1 Women : Chieri '76 W 🇮🇹 vs Conegliano W 🇮🇹</display-name>
