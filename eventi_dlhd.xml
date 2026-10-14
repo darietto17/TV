@@ -283,6 +283,16 @@
     <desc lang="it">⚽ UEFA Champions League : Roma 🇮🇹 vs Real Madrid 🇪🇸</desc>
     <category lang="it">All Soccer Events ⚽</category>
   </programme>
+  <programme start="20261014000000 +0200" stop="20261014210000 +0200" channel="UEFAChampionsLeagueRomavsRealMadrid">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">⚽ UEFA Champions League : Roma 🇮🇹 vs Real Madrid 🇪🇸.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20261014210000 +0200" stop="20261014230000 +0200" channel="UEFAChampionsLeagueRomavsRealMadrid">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ UEFA Champions League : Roma 🇮🇹 vs Real Madrid 🇪🇸</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
   <channel id="UEFAYouthLeagueASRomaU19vsRealMadridU19">
     <display-name>⚽ UEFA Youth League : AS Roma U19 🇮🇹 vs Real Madrid U19 🇪🇸</display-name>
   </channel>
@@ -295,32 +305,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">⚽ UEFA Youth League : AS Roma U19 🇮🇹 vs Real Madrid U19 🇪🇸</desc>
     <category lang="it">UEFA Youth League ⚽</category>
-  </programme>
-  <channel id="EnecoTourStage1WomenEde795km">
-    <display-name>🚴 Eneco Tour | Stage 1 Women | Ede (79.5km)</display-name>
-  </channel>
-  <programme start="20261014000000 +0200" stop="20261014103000 +0200" channel="EnecoTourStage1WomenEde795km">
-    <title lang="it">Inizia alle 10:30.</title>
-    <desc lang="it">🚴 Eneco Tour | Stage 1 Women | Ede (79.5km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20261014103000 +0200" stop="20261014123000 +0200" channel="EnecoTourStage1WomenEde795km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🚴 Eneco Tour | Stage 1 Women | Ede (79.5km)</desc>
-    <category lang="it">Cycling 🚴</category>
-  </programme>
-  <channel id="UCITrackWorldChampionshipsShanghaiDay1">
-    <display-name>🚴 UCI Track World Championships | Shanghai Day 1</display-name>
-  </channel>
-  <programme start="20261014000000 +0200" stop="20261014123000 +0200" channel="UCITrackWorldChampionshipsShanghaiDay1">
-    <title lang="it">Inizia alle 12:30.</title>
-    <desc lang="it">🚴 UCI Track World Championships | Shanghai Day 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20261014123000 +0200" stop="20261014143000 +0200" channel="UCITrackWorldChampionshipsShanghaiDay1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🚴 UCI Track World Championships | Shanghai Day 1</desc>
-    <category lang="it">Cycling 🚴</category>
   </programme>
   <channel id="EnecoTourStage1MenEde120km">
     <display-name>🚴 Eneco Tour | Stage 1 Men | Ede (120km)</display-name>
